@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "page_count": 1,
+  "total_page_seconds": 132.9476,
+  "average_page_seconds": 132.9476,
+  "phase_totals_seconds": {
+    "preparation": 120.719,
+    "monetization": 10.7132,
+    "youtube": 0.7885,
+    "media_svg": 0.3518,
+    "content_assembly": 0.341,
+    "quality_write": 0.0341
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_flash_rhyt_5b3b86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.9476,
+      "phases": {
+        "preparation": 120.719,
+        "media_svg": 0.3518,
+        "youtube": 0.7885,
+        "content_assembly": 0.341,
+        "monetization": 10.7132,
+        "quality_write": 0.0341
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_flash_rhyt_5b3b86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.9476,
+      "phases": {
+        "preparation": 120.719,
+        "media_svg": 0.3518,
+        "youtube": 0.7885,
+        "content_assembly": 0.341,
+        "monetization": 10.7132,
+        "quality_write": 0.0341
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 1,
+    "reused_pages": 210,
+    "rebuilt_pages": 1,
+    "error_pages": 0,
+    "page_work_wall_seconds": 151.7958,
+    "rebuilt_pages_per_minute": 0.3953,
+    "queued_rebuild_pages_per_minute": 0.3953,
+    "apparent_page_work_speedup": 0.8758,
+    "process_worker_diagnostics": {
+      "completed_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "worker_summary": {
+        "72388": {
+          "pages": 1,
+          "successes": 1,
+          "failures": 0,
+          "total_worker_seconds": 132.9969,
+          "max_worker_seconds": 132.9969,
+          "last_base_name": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_flash_rhyt_5b3b86"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Rendlesham_Forest_UF_395b35_orfordness_lighthous_6bace2_halt_tape_flash_rhyt_5b3b86",
+          "level": 3,
+          "success": true,
+          "worker_pid": 72388,
+          "worker_duration_seconds": 132.9969,
+          "total_seconds": 132.9476,
+          "worker_started_at_utc": "2026-06-21T21:09:12.502785Z",
+          "worker_finished_at_utc": "2026-06-21T21:11:25.450386Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

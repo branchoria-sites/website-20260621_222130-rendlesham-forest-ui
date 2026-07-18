@@ -278,18 +278,18 @@ The strongest challenge to the star-based explanation of the later [Rendlesham F
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-1-dark.svg" | relative_url }}" alt="Beam dispute illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This question marks the point where the sceptical reconstruction is under its greatest strain. Most advocates of the star explanation accept that atmospheric distortion can make a bright star appear to flash, change colour, pulse, drift or even seem to move. Explaining an apparent beam, however, requires an additional step. The debate therefore centres less on whether the light itself could have been a star and more on what witnesses actually saw when they believed a beam was reaching the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+This question marks the point where the sceptical reconstruction is under its greatest strain. Most advocates of the star explanation accept that atmospheric distortion can make a bright star appear to flash, change colour, pulse, drift or even seem to move. Explaining an apparent beam, however, requires an additional step. The debate therefore centres less on whether the light itself could have been a star and more on what witnesses actually saw when they believed a beam was reaching the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MnYBNT1KwrY" title="UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer">UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MnYBNT1KwrY">Open on YouTube</a></p></div></div></div>
 
 ## What the beam-to-ground claim adds
 
-The beam claim comes from the later phase of Halt's recorded investigation. On the famous audio tape, Halt reports a bright object low in the southern sky and then states: “Now we're observing what appears to be a beam coming down to the ground.” The wording is important. He does not describe walking up to a visible column of light or physically inspecting an illuminated impact point. Instead, he reports an appearance from a distance while observing a bright light source in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+The beam claim comes from the later phase of Halt's recorded investigation. On the famous audio tape, Halt reports a bright object low in the southern sky and then states: “Now we're observing what appears to be a beam coming down to the ground.” The wording is important. He does not describe walking up to a visible column of light or physically inspecting an illuminated impact point. Instead, he reports an appearance from a distance while observing a bright light source in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
-In his later memorandum, Halt also wrote that the brightest southern object appeared to send down a stream of light at intervals. This became one of the most frequently cited details in UFO literature because it seems to transform a distant point of light into an active object interacting with the landscape below. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+In his later memorandum, Halt also wrote that the brightest southern object appeared to send down a stream of light at intervals. This became one of the most frequently cited details in UFO literature because it seems to transform a distant point of light into an active object interacting with the landscape below.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-For proponents of an extraordinary explanation, the beam is significant because it suggests a structured phenomenon rather than a simple visual misidentification. A star can twinkle and change colour, but it cannot literally project a visible shaft of light to a specific location on the ground. The beam therefore becomes a key test of whether the entire observation can be reduced to atmospheric and perceptual effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+For proponents of an extraordinary explanation, the beam is significant because it suggests a structured phenomenon rather than a simple visual misidentification. A star can twinkle and change colour, but it cannot literally project a visible shaft of light to a specific location on the ground. The beam therefore becomes a key test of whether the entire observation can be reduced to atmospheric and perceptual effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.9K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
@@ -298,15 +298,15 @@ For proponents of an extraordinary explanation, the beam is significant because 
 
 Sceptical investigators generally do not argue that a star physically created a beam. Instead, they propose that the beam itself was another perceptual interpretation layered onto an already unusual viewing situation.
 
-Ian [Ridpath]({{ 'ridpath/' | relative_url }})'s reconstruction identifies the southern "star-like" object with Sirius, the brightest star in the night sky. He notes that the only object described as emitting beams was the southern light associated with this celestial target. In this view, observers were looking at a bright, low-altitude star through unstable atmosphere while already expecting unusual activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the other lightsIn fact, on the tape and in the memo the only object Halt describes as sending down be...</span></span></span>
+Ian [Ridpath]({{ 'ridpath/' | relative_url }})'s reconstruction identifies the southern "star-like" object with Sirius, the brightest star in the night sky. He notes that the only object described as emitting beams was the southern light associated with this celestial target. In this view, observers were looking at a bright, low-altitude star through unstable atmosphere while already expecting unusual activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the other lightsIn fact, on the tape and in the memo the only object Halt describes as sending down be...</span></span></span>
 
 Several mechanisms have been suggested:
 
-* **Atmospheric distortion and cloud structure.** Thin cloud layers, haze, or variable transparency can create the impression that light extends downward from a bright source. Observers may perceive streaks or shafts that are not physically connected to the object being watched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
-* **Perspective effects in darkness.** At night, with few visual reference points, it can be difficult to judge where a distant light ends and where [background]({{ 'background/' | relative_url }}) landscape begins. A transient streak may be interpreted as a beam reaching the ground even when no illuminated landing point is visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
-* **Expectation and group observation.** Once one observer identifies a feature, others may begin searching for the same feature. This does not imply dishonesty; it reflects how ambiguous visual information is often interpreted collectively. Researchers studying eyewitness [perception]({{ 'perception/' | relative_url }}) have long noted that ambiguous stimuli can acquire structure through suggestion and context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sitp.online">[Skeptics in the Pub Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sitp.online</span><span class="citation-popover-snippet">Skeptics in the Pub OnlineThe Rendlesham Forest UFO: Deconstructing a myth - Ian RidpathThis talk looks at the main points of the case an...</span></span></span>
+* **Atmospheric distortion and cloud structure.** Thin cloud layers, haze, or variable transparency can create the impression that light extends downward from a bright source. Observers may perceive streaks or shafts that are not physically connected to the object being watched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+* **Perspective effects in darkness.** At night, with few visual reference points, it can be difficult to judge where a distant light ends and where [background]({{ 'background/' | relative_url }}) landscape begins. A transient streak may be interpreted as a beam reaching the ground even when no illuminated landing point is visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+* **Expectation and group observation.** Once one observer identifies a feature, others may begin searching for the same feature. This does not imply dishonesty; it reflects how ambiguous visual information is often interpreted collectively. Researchers studying eyewitness [perception]({{ 'perception/' | relative_url }}) have long noted that ambiguous stimuli can acquire structure through suggestion and context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sitp.online">[Skeptics in the Pub Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sitp.online</span><span class="citation-popover-snippet">Skeptics in the Pub OnlineThe Rendlesham Forest UFO: Deconstructing a myth - Ian RidpathThis talk looks at the main points of the case an...</span></span></span>
 
-Another possibility raised by sceptics is that multiple [light sources]({{ 'light-sources/' | relative_url }}) became mentally combined. The Rendlesham case already involves arguments over lighthouse flashes, stars and other distant lights. If observers were shifting attention between several stimuli, descriptions recorded in real time may have merged separate visual impressions into a single narrative of an object and its apparent beam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+Another possibility raised by sceptics is that multiple [light sources]({{ 'light-sources/' | relative_url }}) became mentally combined. The Rendlesham case already involves arguments over lighthouse flashes, stars and other distant lights. If observers were shifting attention between several stimuli, descriptions recorded in real time may have merged separate visual impressions into a single narrative of an object and its apparent beam.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-2-dark.svg" | relative_url }}" alt="Beam dispute illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,11 +314,11 @@ Another possibility raised by sceptics is that multiple [light sources]({{ 'ligh
 
 Even many sceptically minded commentators acknowledge that the beam description is the most challenging detail in the later sky-light phase.
 
-The main difficulty is straightforward: atmospheric distortion explains changes in a point source, but it does not automatically explain why [trained observers]({{ 'night-vision-d8d2d0/' | relative_url }}) thought they were seeing light directed downward. The sceptical account therefore depends on the beam being an illusion, misinterpretation or exaggeration of an ambiguous visual effect rather than a literal physical beam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+The main difficulty is straightforward: atmospheric distortion explains changes in a point source, but it does not automatically explain why [trained observers]({{ 'night-vision-d8d2d0/' | relative_url }}) thought they were seeing light directed downward. The sceptical account therefore depends on the beam being an illusion, misinterpretation or exaggeration of an ambiguous visual effect rather than a literal physical beam.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
-Critics of the star explanation argue that this requires stacking explanations together. First, the light must be identified as a star. Then the apparent motion must be attributed to atmospheric and perceptual effects. Finally, the beam must also be explained away as a separate visual misjudgement. To them, each additional interpretive step weakens the overall sceptical case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopSK4xL9_bEUt0xJallPgzldfQizZt11ovWJtTPGHGDCoPy5l8G" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Rendlesham Forest Incident: Britain&#x27;s Roswell</span><span class="citation-popover-snippet">Rendlesham Forest Incident: Britain&#x27;s Roswell - Hangar 1 PublishingThe most prominent skeptical explanation suggests tha...</span></span></span>
+Critics of the star explanation argue that this requires stacking explanations together. First, the light must be identified as a star. Then the apparent motion must be attributed to atmospheric and perceptual effects. Finally, the beam must also be explained away as a separate visual misjudgement. To them, each additional interpretive step weakens the overall sceptical case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopSK4xL9_bEUt0xJallPgzldfQizZt11ovWJtTPGHGDCoPy5l8G" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Rendlesham Forest Incident: Britain&#x27;s Roswell</span><span class="citation-popover-snippet">Rendlesham Forest Incident: Britain&#x27;s Roswell - Hangar 1 PublishingThe most prominent skeptical explanation suggests tha...</span></span></span>
 
-Supporters of the sceptical view respond that eyewitness accounts often contain a mixture of accurate observations and mistaken interpretations. From that perspective, the beam is not a separate anomaly demanding a new cause; it is another example of how observers can misread distant lights under difficult viewing conditions. The key question is not whether the witnesses reported a beam—they clearly did—but whether what they reported corresponds to a physical beam in the environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+Supporters of the sceptical view respond that eyewitness accounts often contain a mixture of accurate observations and mistaken interpretations. From that perspective, the beam is not a separate anomaly demanding a new cause; it is another example of how observers can misread distant lights under difficult viewing conditions. The key question is not whether the witnesses reported a beam—they clearly did—but whether what they reported corresponds to a physical beam in the environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c9nuH6QxNGc" title="Rendlesham Forest UFO Crash: &quot;They Shot a Beam at His Feet&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c9nuH6QxNGc" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO Crash: &quot;They Shot a Beam at His Feet&quot;</a></p><p class="youtube-embed-meta">Channel: Shawn Ryan Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c9nuH6QxNGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c9nuH6QxNGc">Open on YouTube</a></p></div></div></div>
@@ -327,202 +327,202 @@ Supporters of the sceptical view respond that eyewitness accounts often contain 
 
 The beam-to-ground claim occupies a unique place in Rendlesham discussions because it sits exactly at the boundary between the strongest sceptical arguments and the strongest pro-UFO arguments.
 
-If the beam was merely an appearance produced by atmospheric conditions, darkness and expectation, then the later phase of the incident can still fit within a largely conventional explanation centred on bright stars and other distant lights. If, however, the witnesses accurately observed a structured beam reaching the ground from a moving aerial object, the star hypothesis becomes insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+If the beam was merely an appearance produced by atmospheric conditions, darkness and expectation, then the later phase of the incident can still fit within a largely conventional explanation centred on bright stars and other distant lights. If, however, the witnesses accurately observed a structured beam reaching the ground from a moving aerial object, the star hypothesis becomes insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
-That is why debates about Rendlesham often return to this single moment on Halt's tape. The star explanation handles much of the reported behaviour of the southern light. The apparent beam is the detail that demands the greatest interpretive leap, and it remains one of the clearest examples of how the case depends not only on what was seen, but on how those observations are interpreted decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+That is why debates about Rendlesham often return to this single moment on Halt's tape. The star explanation handles much of the reported behaviour of the southern light. The apparent beam is the detail that demands the greatest interpretive leap, and it remains one of the clearest examples of how the case depends not only on what was seen, but on how those observations are interpreted decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-3-dark.svg" | relative_url }}" alt="Beam dispute illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_stars_distortion_65da83_beam_claim_star_limi_e57c5c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a star explain the beam?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a star explain the beam?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps explain atmospheric and horizon effects around bright stars.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain atmospheric and horizon effects around bright stars.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Examines how unusual visual impressions can be interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unusual visual impressions can be interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds understanding of how celestial objects appear in the field.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds understanding of how celestial objects appear in the field.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing witness reports with conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing witness reports with conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter on road Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ba86143256ea7ece09d9.jpg' | relative_url }}" alt="Listing image for Alien Encounter on road Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter on road Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter on road Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ba86143256ea7ece09d9.jpg' | relative_url }}" alt="Listing image for Alien Encounter on road Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter on road Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/469135d6045c55feb5b3.jpg' | relative_url }}" alt="Listing image for Alien Encounter Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/469135d6045c55feb5b3.jpg' | relative_url }}" alt="Listing image for Alien Encounter Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter Science Fiction Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ba7aaa9b3bc44a91bbf1.jpg' | relative_url }}" alt="Listing image for Alien Encounter Science Fiction Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter Science Fiction Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter Science Fiction Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ba7aaa9b3bc44a91bbf1.jpg' | relative_url }}" alt="Listing image for Alien Encounter Science Fiction Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter Science Fiction Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien encounter wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien encounter wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+encounter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien encounter wall art" data-ebay-reference="beam-dispute-can-a-star-explain-the-beam-rendlesham-forest-alien-encounter-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ That is why debates about Rendlesham often return to this single moment on Halt'
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ That is why debates about Rendlesham often return to this single moment on Halt'
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ That is why debates about Rendlesham often return to this single moment on Halt'
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ That is why debates about Rendlesham often return to this single moment on Halt'
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ That is why debates about Rendlesham often return to this single moment on Halt'
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,108 +728,108 @@ That is why debates about Rendlesham often return to this single moment on Halt'
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hangar1publishing.com  
    Title: Rendlesham Forest Incident: Britain's Roswell  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopSK4xL9_bEUt0xJallPgzldfQizZt11ovWJtTPGHGDCoPy5l8G" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopSK4xL9_bEUt0xJallPgzldfQizZt11ovWJtTPGHGDCoPy5l8G</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s Roswell - Hangar 1 PublishingThe most prominent skeptical explanation suggests tha...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopSK4xL9_bEUt0xJallPgzldfQizZt11ovWJtTPGHGDCoPy5l8G" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopSK4xL9_bEUt0xJallPgzldfQizZt11ovWJtTPGHGDCoPy5l8G</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s Roswell - Hangar 1 PublishingThe most prominent skeptical explanation suggests tha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the other lightsIn fact, on the tape and in the memo the only object Halt describes as sending down be...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the other lightsIn fact, on the tape and in the memo the only object Halt describes as sending down be...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim [Penniston](&amp;#123;&amp;#123; &#x27;penniston/&#x27; | relative_url &amp;#125;&amp;#125;), John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim [Penniston](&amp;#123;&amp;#123; &#x27;penniston/&#x27; | relative_url &amp;#125;&amp;#125;), John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sitp.online  
-   Link: <a href="https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/" target="_blank" rel="noopener noreferrer nofollow">https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptics in the Pub OnlineThe Rendlesham Forest UFO: Deconstructing a myth - Ian RidpathThis talk looks at the main points of the case an...</p></details>
+   Link:<a href="https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/" target="_blank" rel="noopener noreferrer nofollow">https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptics in the Pub OnlineThe Rendlesham Forest UFO: Deconstructing a myth - Ian RidpathThis talk looks at the main points of the case an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gold.ac.uk  
    Title: Ian Ridpath: UFOs: Fact or fantasy?  
-   Link: <a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonJanuary 12, 2016 — This hard-hitting talk by Ian Ridpath, astronomy writer and UFO sceptic, traces the gr...</p></details>
+   Link:<a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonJanuary 12, 2016 — This hard-hitting talk by Ian Ridpath, astronomy writer and UFO sceptic, traces the gr...</p></details>
    Published: January 12, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO explained – the original article  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The time of...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The time of...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: My favorite UFO story of all time, Rendlesham Forest, As told by  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 9, 2021 — My favorite UFO story of all time, Rendlesham Forest, As told by Unsolved Mysteries the first time I heard it in 1991, Se...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 9, 2021 — My favorite UFO story of all time, Rendlesham Forest, As told by Unsolved Mysteries the first time I heard it in 1991, Se...</p></details>
    Published: March 9, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: was the black glassy object an actual case of time travel?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
    Published: december 1980  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: conwayhall.org.uk  
    Title: Conway Hall Rendlesham — Deconstructing a Myth  
-   Link: <a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a Myth - Conway HallHere, skeptical investigator Ian Ridpath looks at the main points of the case and provide...</p></details>
+   Link:<a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a Myth - Conway HallHere, skeptical investigator Ian Ridpath looks at the main points of the case and provide...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Halt Tape beam Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt 7 News Spotlight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Halt Tape beam Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt 7 News Spotlight...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>peared to shine down toward the ground, one seemingly aimed at a...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>peared to shine down toward the ground, one seemingly aimed at a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metabunk.org  
    Title: rendlesham forest ufo incident.13457  
-   Link: <a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident2 May 2024 — How does the lighthouse &#x27;explain&#x27; Halt, in the exact same tape, stating that there was...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident2 May 2024 — How does the lighthouse &#x27;explain&#x27; Halt, in the exact same tape, stating that there was...</p></details>
    Published: May 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kids.kiddle.co  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident Facts for Kids17 Oct 2025 — Halt said the brightest one stayed in place for two to three hours. It seemed to shine a beam...</p></details>
+   Link:<a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident Facts for Kids17 Oct 2025 — Halt said the brightest one stayed in place for two to three hours. It seemed to shine a beam...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1YqhhMVH3Vs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1YqhhMVH3Vs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1YqhhMVH3Vs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1YqhhMVH3Vs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Legendary British Alien Sighting | History's Greatest Mysteries (S6)  
-   Link: <a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO Crash: "They Shot a Beam at His Feet"  
-   Link: <a href="https://www.youtube.com/watch?v=c9nuH6QxNGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c9nuH6QxNGc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNCONVENTION 2010: Ian Ridpath - The Rendlesham Forest UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c9nuH6QxNGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c9nuH6QxNGc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNCONVENTION 2010: Ian Ridpath - The Rendlesham Forest UFO Incident...</p></details>

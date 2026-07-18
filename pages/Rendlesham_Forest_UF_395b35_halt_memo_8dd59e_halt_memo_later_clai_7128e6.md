@@ -280,19 +280,19 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_lat
 
 ## Introduction
 
-The Charles Halt Memo is the closest thing the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident has to a contemporary official record. Written on 13 January 1981 by Lieutenant Colonel Charles Halt, deputy base commander at RAF Bentwaters, it documented unusual lights, witness reports, [ground impressions]({{ 'ground-impressions/' | relative_url }}) and observations made by military personnel. Yet many of the claims that later made Rendlesham famous either appear only in limited form in the memo or do not appear there at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+The Charles Halt Memo is the closest thing the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident has to a contemporary official record. Written on 13 January 1981 by Lieutenant Colonel Charles Halt, deputy base commander at RAF Bentwaters, it documented unusual lights, witness reports, [ground impressions]({{ 'ground-impressions/' | relative_url }}) and observations made by military personnel. Yet many of the claims that later made Rendlesham famous either appear only in limited form in the memo or do not appear there at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-1-dark.svg" | relative_url }}" alt="Later Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That difference is central to understanding the case. The memo provides a fixed historical baseline. Later books, interviews, documentaries and witness recollections added new details, interpretations and sometimes entirely new elements to the story. Comparing the memo with those later claims does not automatically prove that the later accounts are wrong, but it does show which parts of the Rendlesham narrative were recorded near the time of the events and which emerged years or decades afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+That difference is central to understanding the case. The memo provides a fixed historical baseline. Later books, interviews, documentaries and witness recollections added new details, interpretations and sometimes entirely new elements to the story. Comparing the memo with those later claims does not automatically prove that the later accounts are wrong, but it does show which parts of the Rendlesham narrative were recorded near the time of the events and which emerged years or decades afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
 ## What the Early Memo Actually Records
 
-The Halt Memo is a short military report titled “[Unexplained]({{ 'unexplained/' | relative_url }}) Lights”. It summarises reports from security personnel who investigated lights near RAF Woodbridge and describes a later excursion led by Halt himself. The document records observations of unusual lights, ground marks, elevated radiation readings at specific locations and moving lights seen in the sky. It also notes that one light appeared to send down beams near the weapons storage area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+The Halt Memo is a short military report titled “[Unexplained]({{ 'unexplained/' | relative_url }}) Lights”. It summarises reports from security personnel who investigated lights near RAF Woodbridge and describes a later excursion led by Halt himself. The document records observations of unusual lights, ground marks, elevated radiation readings at specific locations and moving lights seen in the sky. It also notes that one light appeared to send down beams near the weapons storage area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
-What is striking is not only what the memo contains but what it does not contain. It does not identify an extraterrestrial craft. It does not claim official confirmation of a landing. It does not present a completed investigation. Instead, it functions as a report of observations and witness statements sent through official channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+What is striking is not only what the memo contains but what it does not contain. It does not identify an extraterrestrial craft. It does not claim official confirmation of a landing. It does not present a completed investigation. Instead, it functions as a report of observations and witness statements sent through official channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
-The Ministry of Defence later treated the memo in exactly that way. Parliamentary answers repeatedly stated that the report was reviewed for air-defence implications and judged to contain nothing of defence significance, resulting in no further action. The MoD's surviving records indicate that the Halt document remained the principal USAF report in its possession. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/written_answers/1996/jul/24/rendlesham-forest-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[API Parliament+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">rendlesham forest incident</span><span class="citation-popover-snippet">Rendlesham Forest (Incident) (Hansard, 24 July 1996)The report was assessed by the staff in my Department responsible for a...</span><span class="citation-popover-meta">Published: July 1996</span></span></span>
+The Ministry of Defence later treated the memo in exactly that way. Parliamentary answers repeatedly stated that the report was reviewed for air-defence implications and judged to contain nothing of defence significance, resulting in no further action. The MoD's surviving records indicate that the Halt document remained the principal USAF report in its possession.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/written_answers/1996/jul/24/rendlesham-forest-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[API Parliament+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">rendlesham forest incident</span><span class="citation-popover-snippet">Rendlesham Forest (Incident) (Hansard, 24 July 1996)The report was assessed by the staff in my Department responsible for a...</span><span class="citation-popover-meta">Published: July 1996</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/khOo9uvr5_s" title="Rendlesham Forest Incident: A Military Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer">Rendlesham Forest Incident: A Military Mystery</a></p><p class="youtube-embed-meta">Channel: The Tape Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=khOo9uvr5_s">Open on YouTube</a></p></div></div></div>
@@ -301,7 +301,7 @@ The Ministry of Defence later treated the memo in exactly that way. Parliamentar
 
 As the years passed, the Rendlesham story acquired details that were either absent from the memo or only briefly suggested within it.
 
-One of the most significant expansions involved Sergeant Jim [Penniston]({{ 'penniston/' | relative_url }})'s account. Early descriptions focused on unusual lights and a close encounter in the forest. Decades later, Penniston publicly described touching a structured craft, receiving information telepathically and eventually recovering a lengthy binary-code message that he said had been implanted in his mind during the encounter. These claims became among the most discussed aspects of modern Rendlesham narratives, yet they are not described in the Halt Memo. International Business Times UK+2International Business Times UK <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</span></span></span>
+One of the most significant expansions involved Sergeant Jim [Penniston]({{ 'penniston/' | relative_url }})'s account. Early descriptions focused on unusual lights and a close encounter in the forest. Decades later, Penniston publicly described touching a structured craft, receiving information telepathically and eventually recovering a lengthy binary-code message that he said had been implanted in his mind during the encounter. These claims became among the most discussed aspects of modern Rendlesham narratives, yet they are not described in the Halt Memo. International Business Times UK+2International Business Times UK<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</span></span></span>
 
 Other later accounts introduced additional elements:
 
@@ -309,9 +309,9 @@ Other later accounts introduced additional elements:
 * Claims of direct physical contact with the object.
 * Accounts involving secret investigations beyond those documented in [released files]({{ 'released-file/' | relative_url }}).
 * Assertions that senior officials knew more than was publicly acknowledged.
-* Interpretations of binary-code messages allegedly pointing to future dates or geographic coordinates. International Business Times UK+2The Rendlesham Forest Incident <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</span></span></span>
+* Interpretations of binary-code messages allegedly pointing to future dates or geographic coordinates. International Business Times UK+2The Rendlesham Forest Incident<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</span></span></span>
 
-Some witnesses also provided fuller narratives in interviews many years after the event. While these recollections may reflect genuine memories, historians generally recognise that recollections can change as people revisit experiences, discuss them publicly and encounter competing interpretations over long periods. The existence of later details therefore does not automatically validate or invalidate them; it simply means they must be compared against the earliest available records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+Some witnesses also provided fuller narratives in interviews many years after the event. While these recollections may reflect genuine memories, historians generally recognise that recollections can change as people revisit experiences, discuss them publicly and encounter competing interpretations over long periods. The existence of later details therefore does not automatically validate or invalidate them; it simply means they must be compared against the earliest available records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cuSbd6JdweQ" title="Myths of Hy Brasil - Rendlesham forest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cuSbd6JdweQ" target="_blank" rel="noopener noreferrer">Myths of Hy Brasil - Rendlesham forest</a></p><p class="youtube-embed-meta">Channel: Opera North</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cuSbd6JdweQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cuSbd6JdweQ">Open on YouTube</a></p></div></div></div>
@@ -320,11 +320,11 @@ Some witnesses also provided fuller narratives in interviews many years after th
 
 The contrast between the memo and later claims is often overstated. There are important points of continuity.
 
-Both the memo and later witness testimony agree that military personnel reported unusual lights in and around Rendlesham Forest. Both agree that the events were considered serious enough to be reported up the chain of command. Both acknowledge that Halt personally participated in observations during a later night of activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+Both the memo and later witness testimony agree that military personnel reported unusual lights in and around Rendlesham Forest. Both agree that the events were considered serious enough to be reported up the chain of command. Both acknowledge that Halt personally participated in observations during a later night of activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
-Likewise, the memo confirms that personnel believed something unusual had occurred. It was not written as a joke, a training exercise or an obvious misidentification report. The document exists because officers considered the observations noteworthy enough to document formally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+Likewise, the memo confirms that personnel believed something unusual had occurred. It was not written as a joke, a training exercise or an obvious misidentification report. The document exists because officers considered the observations noteworthy enough to document formally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
-For supporters of extraordinary explanations, this continuity is important because it demonstrates that the core event was not invented years later. For sceptics, the same continuity shows that the strongest evidence remains the original observations rather than the more elaborate claims that appeared afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+For supporters of extraordinary explanations, this continuity is important because it demonstrates that the core event was not invented years later. For sceptics, the same continuity shows that the strongest evidence remains the original observations rather than the more elaborate claims that appeared afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-2-dark.svg" | relative_url }}" alt="Later Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,7 +332,7 @@ For supporters of extraordinary explanations, this continuity is important becau
 
 The most significant differences emerge when comparing specific details.
 
-The Halt Memo presents a restrained military narrative. Its language is cautious, descriptive and administrative. It reports lights, measurements and observations without offering a grand explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+The Halt Memo presents a restrained military narrative. Its language is cautious, descriptive and administrative. It reports lights, measurements and observations without offering a grand explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
 Later Rendlesham literature often presents a much broader story involving:
 
@@ -343,11 +343,11 @@ Later Rendlesham literature often presents a much broader story involving:
 * Communication or information transfer.
 * Hidden investigations and alleged suppression.
 * Long-term personal effects on witnesses.
-* Complex interpretations of recovered binary data. International Business Times UK+2International Business Times UK <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</span></span></span>
+* Complex interpretations of recovered binary data. International Business Times UK+2International Business Times UK<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</span></span></span>
 
 </div>
 
-The binary-code claim provides perhaps the clearest example. The code became publicly prominent decades after the incident and has generated extensive debate among believers and sceptics. Analysts have questioned both the timing of its emergence and the methods used to interpret it, while supporters regard it as evidence of a deeper encounter. Regardless of interpretation, it belongs to a much later layer of the Rendlesham story rather than to the original memorandum itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinboone.me">[Kevin Boone+2International Business Times UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinboone.me</span><span class="citation-popover-title">rendelsham binary</span><span class="citation-popover-snippet">I&#x27;m not saying that Penniston is the hoaxer...Read more...</span></span></span>
+The binary-code claim provides perhaps the clearest example. The code became publicly prominent decades after the incident and has generated extensive debate among believers and sceptics. Analysts have questioned both the timing of its emergence and the methods used to interpret it, while supporters regard it as evidence of a deeper encounter. Regardless of interpretation, it belongs to a much later layer of the Rendlesham story rather than to the original memorandum itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinboone.me">[Kevin Boone+2International Business Times UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinboone.me</span><span class="citation-popover-title">rendelsham binary</span><span class="citation-popover-snippet">I&#x27;m not saying that Penniston is the hoaxer...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-3-dark.svg" | relative_url }}" alt="Later Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_memo_8dd59e_halt_memo_later_clai_7128e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -355,9 +355,9 @@ The binary-code claim provides perhaps the clearest example. The code became pub
 
 The Halt Memo remains valuable precisely because it cannot evolve. Once written, its contents were fixed.
 
-Historians investigating controversial events often begin with records created closest to the events themselves because those documents are less vulnerable to later influences. Witnesses may sincerely remember new details over time, but memories can also be reshaped by media coverage, discussions with other witnesses, books, documentaries and repeated retelling. The existence of a contemporary document provides a benchmark against which those later memories can be compared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+Historians investigating controversial events often begin with records created closest to the events themselves because those documents are less vulnerable to later influences. Witnesses may sincerely remember new details over time, but memories can also be reshaped by media coverage, discussions with other witnesses, books, documentaries and repeated retelling. The existence of a contemporary document provides a benchmark against which those later memories can be compared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
-The MoD's later statements reinforce the importance of that benchmark. Officials repeatedly referred back to the Halt report as the principal document they possessed and maintained that no evidence emerged showing a threat to national security or UK airspace. The official position neither explained every reported observation nor endorsed the more expansive narratives that developed later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — The only USAF material held by the Ministry of Defence is that w...</span></span></span>
+The MoD's later statements reinforce the importance of that benchmark. Officials repeatedly referred back to the Halt report as the principal document they possessed and maintained that no evidence emerged showing a threat to national security or UK airspace. The official position neither explained every reported observation nor endorsed the more expansive narratives that developed later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — The only USAF material held by the Ministry of Defence is that w...</span></span></span>
 
 For that reason, debates about Rendlesham often revolve less around whether unusual events occurred and more around how much weight should be given to details that appeared after the original report. The Halt Memo does not settle that question, but it provides the reference point from which the debate begins.
 
@@ -368,199 +368,199 @@ For that reason, debates about Rendlesham often revolve less around whether unus
 
 The simplest answer is that the story became larger than the document.
 
-The 1981 memo records unexplained observations by military personnel and preserves them in an official form. Later Rendlesham claims transformed those observations into a far broader narrative involving landed craft, recovered information, alleged cover-ups and long-term mysteries. Some researchers view those additions as further witness testimony; others see them as examples of how extraordinary stories accumulate layers over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+The 1981 memo records unexplained observations by military personnel and preserves them in an official form. Later Rendlesham claims transformed those observations into a far broader narrative involving landed craft, recovered information, alleged cover-ups and long-term mysteries. Some researchers view those additions as further witness testimony; others see them as examples of how extraordinary stories accumulate layers over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
-Because the memo predates the decades of public debate that followed, it remains the most useful tool for distinguishing between what was formally reported near the event and what entered the Rendlesham story later. That is why it continues to occupy a unique position in discussions of the Rendlesham Forest UFO incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+Because the memo predates the decades of public debate that followed, it remains the most useful tool for distinguishing between what was formally reported near the event and what entered the Rendlesham story later. That is why it continues to occupy a unique position in discussions of the Rendlesham Forest UFO incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Changed After the Halt Memo?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Changed After the Halt Memo?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers evaluate UFO reports, witness testimony, and how narratives develop over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate UFO reports, witness testimony, and how narratives develop over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documentary evidence and official testimony, aligning with discussion of the Halt Memo as a primary source.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documentary evidence and official testimony, aligning with discussion of the Halt Memo as a primary source.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a framework for comparing contemporary documents, memories, and extraordinary claims with critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for comparing contemporary documents, memories, and extraordinary claims with critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines how physical evidence and documentation should be weighed against anecdotal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how physical evidence and documentation should be weighed against anecdotal claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="later-claims-what-changed-after-the-halt-memo-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ Because the memo predates the decades of public debate that followed, it remains
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ Because the memo predates the decades of public debate that followed, it remains
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ Because the memo predates the decades of public debate that followed, it remains
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ Because the memo predates the decades of public debate that followed, it remains
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ Because the memo predates the decades of public debate that followed, it remains
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,180 +766,180 @@ Because the memo predates the decades of public debate that followed, it remains
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — The only USAF material held by the Ministry of Defence is that w...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — The only USAF material held by the Ministry of Defence is that w...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: api.parliament.uk  
    Title: rendlesham forest incident  
-   Link: <a href="https://api.parliament.uk/historic-hansard/written_answers/1996/jul/24/rendlesham-forest-incident" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/written_answers/1996/jul/24/rendlesham-forest-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest (Incident) (Hansard, 24 July 1996)The report was assessed by the staff in my Department responsible for a...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/written_answers/1996/jul/24/rendlesham-forest-incident" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/written_answers/1996/jul/24/rendlesham-forest-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest (Incident) (Hansard, 24 July 1996)The report was assessed by the staff in my Department responsible for a...</p></details>
    Published: July 1996  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest (Incident)  
-   Link: <a href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>defence matters. Since the judgment was that it contained nothing of defence significance no further action was taken. © UK Parliament 20...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>defence matters. Since the judgment was that it contained nothing of defence significance no further action was taken. © UK Parliament 20...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ibtimes.co.uk  
-   Link: <a href="https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He said that long after that winter night, a stream of binary code...Read more...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He said that long after that winter night, a stream of binary code...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest/Raf [Bentwaters](&#123;&#123; 'bentwaters/' | relative_url &#125;&#125;) Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — From surviving departmental records, we remain satisfied that not...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — From surviving departmental records, we remain satisfied that not...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Lords/2001-01-30/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords/2001-01-30/WrittenAnswers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK ParliamentThe Ministry of Defence&#x27;s knowledge of an investigation by the US authorities into the alleged incident...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/Lords/2001-01-30/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords/2001-01-30/WrittenAnswers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK ParliamentThe Ministry of Defence&#x27;s knowledge of an investigation by the US authorities into the alleged incident...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm199596/cmhansrd/vo960724/text/60724w28.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm199596/cmhansrd/vo960724/text/60724w28.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncorrelated Radar Tracks (Investigations). Mr. Redmond:...Read more...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm199596/cmhansrd/vo960724/text/60724w28.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm199596/cmhansrd/vo960724/text/60724w28.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uncorrelated Radar Tracks (Investigations). Mr. Redmond:...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: api.parliament.uk  
    Title: mr peter hill norton  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident Written Answers October 16, 2001. Radar Data: Retention...Read more...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident Written Answers October 16, 2001. Radar Data: Retention...Read more...</p></details>
    Published: October 16, 2001  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hansard.parliament.uk  
    Title: uk Raf Bentwaters: Sale Procedure  
-   Link: <a href="https://hansard.parliament.uk/Lords/1996-06-14/debates/46548297-6f64-47ae-85df-457f5c6fc85f/RafBentwatersSaleProcedure" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1996-06-14/debates/46548297-6f64-47ae-85df-457f5c6fc85f/RafBentwatersSaleProcedure</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters: Sale Procedure - Hansard14 Jun 1996 — Hansard record of the item: &#x27;Raf Bentwaters: Sale Procedure&#x27; on Friday 14 June 1996...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1996-06-14/debates/46548297-6f64-47ae-85df-457f5c6fc85f/RafBentwatersSaleProcedure" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1996-06-14/debates/46548297-6f64-47ae-85df-457f5c6fc85f/RafBentwatersSaleProcedure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters: Sale Procedure - Hansard14 Jun 1996 — Hansard record of the item: &#x27;Raf Bentwaters: Sale Procedure&#x27; on Friday 14 June 1996...</p></details>
    Published: June 1996  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hansard.parliament.uk  
    Title: uk Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament25 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Thursday 25 January 2001...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament25 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Thursday 25 January 2001...</p></details>
    Published: January 2001  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: [National Archives](&#123;&#123; 'archive-map/' | relative_url &#125;&#125;) UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt...</p></details>
    Published: August 2009  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ibtimes.co.uk  
-   Link: <a href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/ufo-code-released-sergeant-claims-message-year-8100-was-downloaded-his-mind-1768895</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UKUFO Code Released: Sergeant Claims Message From...7 Jan 2026 — The claim, which has never been independen...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: therendleshamforestincident.com  
-   Link: <a href="https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html" target="_blank" rel="noopener noreferrer nofollow">https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Rendlesham Forest Incident binary code message...The Rendlesham Forest incident binary decode by professional binary code expert...</p></details>
+   Link:<a href="https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html" target="_blank" rel="noopener noreferrer nofollow">https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Rendlesham Forest Incident binary code message...The Rendlesham Forest incident binary decode by professional binary code expert...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kevinboone.me  
    Title: rendelsham binary  
-   Link: <a href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinboone.me/rendelsham-binary.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m not saying that Penniston is the hoaxer...Read more...</p></details>
+   Link:<a href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinboone.me/rendelsham-binary.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m not saying that Penniston is the hoaxer...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe United States Air Commanding Officer at RAF Woodbridge, Lieutenant Colonel Charles Halt, reported seeing lights near the r...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe United States Air Commanding Officer at RAF Woodbridge, Lieutenant Colonel Charles Halt, reported seeing lights near the r...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: basildonheritage.org.uk  
-   Link: <a href="https://www.basildonheritage.org.uk/media/other/4247/BOOKLET-SS-RENDLESHAMFORESTINCIDENT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.basildonheritage.org.uk/media/other/4247/BOOKLET-SS-RENDLESHAMFORESTINCIDENT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident - Britain&#x27;s Roswell11 Aug 2025 — A couple of weeks later, Halt wrote his now-famous memo to the Ministry of...</p></details>
+   Link:<a href="https://www.basildonheritage.org.uk/media/other/4247/BOOKLET-SS-RENDLESHAMFORESTINCIDENT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.basildonheritage.org.uk/media/other/4247/BOOKLET-SS-RENDLESHAMFORESTINCIDENT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident - Britain&#x27;s Roswell11 Aug 2025 — A couple of weeks later, Halt wrote his now-famous memo to the Ministry of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentLater, according to Halt&#x27;s memo, three star-like lights were seen in the sky, two to the north and one to th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentLater, according to Halt&#x27;s memo, three star-like lights were seen in the sky, two to the north and one to th...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before the month was out a real-life UFO encounter was to play itself out in Rendlesham Forest...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before the month was out a real-life UFO encounter was to play itself out in Rendlesham Forest...Read more...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...Commenting on the MoD&#x27;s “no defense significance” line on the Rendlesham Forest i...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...Commenting on the MoD&#x27;s “no defense significance” line on the Rendlesham Forest i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham forest incident binary code: r/HighStrangenessThe message intriguingly includes &quot;Exploration of Humanity&quot; and an &quot;Origin Year...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham forest incident binary code: r/HighStrangenessThe message intriguingly includes &quot;Exploration of Humanity&quot; and an &quot;Origin Year...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/v5hcog/the_rendlesham_forest_binary_code_messages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/v5hcog/the_rendlesham_forest_binary_code_messages/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Binary Code Messages: r/ufoThis program visits the Rendlesham Forest Incident, comparing Jim Penniston&#x27;s experienc...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/v5hcog/the_rendlesham_forest_binary_code_messages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/v5hcog/the_rendlesham_forest_binary_code_messages/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Binary Code Messages: r/ufoThis program visits the Rendlesham Forest Incident, comparing Jim Penniston&#x27;s experienc...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unknownkentandsussex.co.uk  
-   Link: <a href="https://unknownkentandsussex.co.uk/3200-2/" target="_blank" rel="noopener noreferrer nofollow">https://unknownkentandsussex.co.uk/3200-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Kent &amp; Sussex MagazineLyn&#x27;s Favourite Article of the Year; Rendlesham Forest...Podcaster Andrew Gentile sent Jim Penniston&#x27;s not...</p></details>
+   Link:<a href="https://unknownkentandsussex.co.uk/3200-2/" target="_blank" rel="noopener noreferrer nofollow">https://unknownkentandsussex.co.uk/3200-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Kent &amp; Sussex MagazineLyn&#x27;s Favourite Article of the Year; Rendlesham Forest...Podcaster Andrew Gentile sent Jim Penniston&#x27;s not...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gaia.com  
-   Link: <a href="https://www.gaia.com/video/rendlesham-forest-binary-messages-decoded" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/rendlesham-forest-binary-messages-decoded</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Rendlesham Forest: Binary Code Messages DecodedPerhaps more startling than the strange zeros and ones produced by Penniston, are th...</p></details>
+   Link:<a href="https://www.gaia.com/video/rendlesham-forest-binary-messages-decoded" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/rendlesham-forest-binary-messages-decoded</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Rendlesham Forest: Binary Code Messages DecodedPerhaps more startling than the strange zeros and ones produced by Penniston, are th...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: ministry of defence ordered officers to find ufo technology secret files revealt  
-   Link: <a href="https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew Manning&#x27;s postFurthermore the MOD ceased investigating UFO reports after 2009 because they served no Defence benefit. Any UFO fil...</p></details>
+   Link:<a href="https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew Manning&#x27;s postFurthermore the MOD ceased investigating UFO reports after 2009 because they served no Defence benefit. Any UFO fil...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: medium.com  
    Title: translation the ufo message that waited 30 years to be read f98ee1cdfdb9  
-   Link: <a href="https://medium.com/%40adrieneadams09/translation-the-ufo-message-that-waited-30-years-to-be-read-f98ee1cdfdb9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adrieneadams09/translation-the-ufo-message-that-waited-30-years-to-be-read-f98ee1cdfdb9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Translation: The UFO Message That Waited 30 Years To...Until Penniston reviewed his notes in 2010 and noticed something unsettling: the...</p></details>
+   Link:<a href="https://medium.com/%40adrieneadams09/translation-the-ufo-message-that-waited-30-years-to-be-read-f98ee1cdfdb9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adrieneadams09/translation-the-ufo-message-that-waited-30-years-to-be-read-f98ee1cdfdb9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Translation: The UFO Message That Waited 30 Years To...Until Penniston reviewed his notes in 2010 and noticed something unsettling: the...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thejournal.ie  
    Title: rendlesham forest incident charles halt interview 2015 2422702 Dec2015  
-   Link: <a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — Three decades on, TheJournal.ie talks to the man at the ce...</p></details>
+   Link:<a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — Three decades on, TheJournal.ie talks to the man at the ce...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: metadataconsulting.blogspot.com  
    Title: Rendlesham Forest Incident binary code message revisited with AI  
-   Link: <a href="https://metadataconsulting.blogspot.com/2025/04/Rendlesham-Forest-Incident-binary-code-message-revisited-with-AI.html" target="_blank" rel="noopener noreferrer nofollow">https://metadataconsulting.blogspot.com/2025/04/Rendlesham-Forest-Incident-binary-code-message-revisited-with-AI.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident binary code message...22 Apr 2025 — Here&#x27;s Jim Penniston binary code from his notebook while witnessing the R...</p></details>
+   Link:<a href="https://metadataconsulting.blogspot.com/2025/04/Rendlesham-Forest-Incident-binary-code-message-revisited-with-AI.html" target="_blank" rel="noopener noreferrer nofollow">https://metadataconsulting.blogspot.com/2025/04/Rendlesham-Forest-Incident-binary-code-message-revisited-with-AI.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident binary code message...22 Apr 2025 — Here&#x27;s Jim Penniston binary code from his notebook while witnessing the R...</p></details>

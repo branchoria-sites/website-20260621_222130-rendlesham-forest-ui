@@ -274,17 +274,17 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_ba
 
 ## Introduction
 
-The first decision that set the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident in motion was not a response to a reported UFO. According to the earliest surviving official account, USAF security police near RAF Woodbridge's back gate believed they might be witnessing an aircraft accident. Unusual lights were seen outside the perimeter in the early hours of the morning, and the immediate concern was practical and military: had an aircraft crashed, been forced down, or come down in the forest near the base? That perceived emergency triggered a request to leave the gate area and investigate. Only later did the event become associated with unidentified flying object claims. The original trigger was a potential security and aviation incident handled through the normal base chain of command. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
+The first decision that set the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident in motion was not a response to a reported UFO. According to the earliest surviving official account, USAF security police near RAF Woodbridge's back gate believed they might be witnessing an aircraft accident. Unusual lights were seen outside the perimeter in the early hours of the morning, and the immediate concern was practical and military: had an aircraft crashed, been forced down, or come down in the forest near the base? That perceived emergency triggered a request to leave the gate area and investigate. Only later did the event become associated with unidentified flying object claims. The original trigger was a potential security and aviation incident handled through the normal base chain of command.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-1-dark.svg" | relative_url }}" alt="Back Gate illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Patrolmen Reported Seeing
 
-The most important contemporary description comes from Lieutenant Colonel Charles Halt's memorandum of 13 January 1981, often called the "Halt Memo". In its opening paragraph, Halt recorded that two USAF security police patrolmen saw unusual lights outside RAF Woodbridge's back gate at approximately 0300 hours. The wording is notable because it does not begin with talk of extraterrestrial craft or extraordinary phenomena. It begins with lights observed beyond the base perimeter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
+The most important contemporary description comes from Lieutenant Colonel Charles Halt's memorandum of 13 January 1981, often called the "Halt Memo". In its opening paragraph, Halt recorded that two USAF security police patrolmen saw unusual lights outside RAF Woodbridge's back gate at approximately 0300 hours. The wording is notable because it does not begin with talk of extraterrestrial craft or extraordinary phenomena. It begins with lights observed beyond the base perimeter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
 
-From the patrolmen's perspective, the lights appeared significant enough to suggest that something had descended or come down beyond the fence line. Later accounts connected the sighting to lights seen in or beyond Rendlesham Forest, but the crucial operational fact is that the observation originated as a perimeter-security report. Security police stationed at a military installation were observing something unusual in an area where they would normally monitor for intrusions, emergencies, or aviation incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
+From the patrolmen's perspective, the lights appeared significant enough to suggest that something had descended or come down beyond the fence line. Later accounts connected the sighting to lights seen in or beyond Rendlesham Forest, but the crucial operational fact is that the observation originated as a perimeter-security report. Security police stationed at a military installation were observing something unusual in an area where they would normally monitor for intrusions, emergencies, or aviation incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
 
-The patrolmen were not initially [reporting]({{ 'reporting/' | relative_url }}) a mysterious craft. They were reporting lights that appeared consistent with a possible emergency situation outside the base. That distinction helps explain why the report immediately entered the security chain rather than any specialised investigative channel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
+The patrolmen were not initially [reporting]({{ 'reporting/' | relative_url }}) a mysterious craft. They were reporting lights that appeared consistent with a possible emergency situation outside the base. That distinction helps explain why the report immediately entered the security chain rather than any specialised investigative channel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-3-dark.svg" | relative_url }}" alt="Back Gate illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -296,9 +296,9 @@ The patrolmen were not initially [reporting]({{ 'reporting/' | relative_url }}) 
 
 ## Why a Crash Concern Changed the Response
 
-The key phrase in Halt's memorandum is that the patrolmen thought "an aircraft might have crashed or been forced down". That assessment transformed the situation from an unusual observation into a potential emergency requiring action. A military security force could not simply ignore a possible aircraft accident occurring near an operational air base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
+The key phrase in Halt's memorandum is that the patrolmen thought "an aircraft might have crashed or been forced down". That assessment transformed the situation from an unusual observation into a potential emergency requiring action. A military security force could not simply ignore a possible aircraft accident occurring near an operational air base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
 
-Under normal circumstances, security personnel assigned to a gate would remain at their post. The perceived possibility of a crash created a reason to seek authorisation to leave the immediate gate area and investigate. Halt's memo records that they requested permission to go outside the gate and that the on-duty flight chief approved the request. A third patrolman was then allowed to accompany the investigation on foot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Appendix – Col Halt&#x27;s memo to the Mo DThinking an aircraft might have crashed or been forced down, they called for permission</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThinking an aircraft might have crashed or been forced down, they called for permission t...</span></span></span>
+Under normal circumstances, security personnel assigned to a gate would remain at their post. The perceived possibility of a crash created a reason to seek authorisation to leave the immediate gate area and investigate. Halt's memo records that they requested permission to go outside the gate and that the on-duty flight chief approved the request. A third patrolman was then allowed to accompany the investigation on foot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Appendix – Col Halt&#x27;s memo to the Mo DThinking an aircraft might have crashed or been forced down, they called for permission</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThinking an aircraft might have crashed or been forced down, they called for permission t...</span></span></span>
 
 This sequence is important because it shows a clear operational mechanism:
 
@@ -307,7 +307,7 @@ This sequence is important because it shows a clear operational mechanism:
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-2-dark.svg" | relative_url }}" alt="Back Gate illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_back_gate_patrol_dec_c902e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. Security personnel observed unusual lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[commons.wikimedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
+1. Security personnel observed unusual lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[commons.wikimedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Thinking an aircraft might have crashed or been forced down.Read more</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</span></span></span>
 2. The lights were interpreted as a possible downed aircraft.
 3. The patrol requested authorisation.
 4. A supervisor approved the investigation.
@@ -336,194 +336,194 @@ The back-gate decision is a small but revealing part of the Rendlesham story bec
 Understanding that sequence helps separate the original trigger from later interpretations. Regardless of what witnesses later believed they encountered, the initial response was driven by a straightforward operational question: had something come down outside RAF Woodbridge that required immediate investigation? That crash-scare assessment was the mechanism that moved the incident from a gate observation into a documented military event. [Wikimedia Commons+2documents.theblackvault.com](https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the First Patrol Left the Gate. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the First Patrol Left the Gate. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Directly covers the events that began with the security patrol leaving the gate to investigate unusual lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the events that began with the security patrol leaving the gate to investigate unusual lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Left at East Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fyP0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Left at East Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
-        </h4>
-        <p class="fr-book-author">By Larry Warren, Peter Robbins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Left at East Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fyP0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Left at East Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
+</h4>
+<p class="fr-book-author">By Larry Warren, Peter Robbins</p>
         
-        <p class="fr-book-desc">Examines witness testimony and the sequence of events surrounding the base response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony and the sequence of events surrounding the base response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places military and official UFO reports like Rendlesham into a broader evidential context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places military and official UFO reports like Rendlesham into a broader evidential context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unusual aerial reports are assessed, helping readers understand cases that begin as possible aircraft incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual aerial reports are assessed, helping readers understand cases that begin as possible aircraft incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+at+East+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left at East Gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+at+East+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left at East Gate</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Real UFO Sightings USB 575 Official Pilot Reports UAP Incident Archive FOIA 2024"><img src="{{ '/assets/images/marketplace-covers/6291098b2ea381b4e456.jpg' | relative_url }}" alt="Listing image for Real UFO Sightings USB 575 Official Pilot Reports UAP Incident Archive FOIA 2024" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">Real UFO Sightings USB 575 Official Pilot Reports UAP Incident Archive FOIA 2024</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Real UFO Sightings USB 575 Official Pilot Reports UAP Incident Archive FOIA 2024"><img src="{{ '/assets/images/marketplace-covers/6291098b2ea381b4e456.jpg' | relative_url }}" alt="Listing image for Real UFO Sightings USB 575 Official Pilot Reports UAP Incident Archive FOIA 2024" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">Real UFO Sightings USB 575 Official Pilot Reports UAP Incident Archive FOIA 2024</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1947 Roswell UFO Incident Soil / Earth Sample 5 Pack"><img src="{{ '/assets/images/marketplace-covers/a5769921404b63665b16.jpg' | relative_url }}" alt="Listing image for 1947 Roswell UFO Incident Soil / Earth Sample 5 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">1947 Roswell UFO Incident Soil / Earth Sample 5 Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1947 Roswell UFO Incident Soil / Earth Sample 5 Pack"><img src="{{ '/assets/images/marketplace-covers/a5769921404b63665b16.jpg' | relative_url }}" alt="Listing image for 1947 Roswell UFO Incident Soil / Earth Sample 5 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">1947 Roswell UFO Incident Soil / Earth Sample 5 Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue"><img src="{{ '/assets/images/marketplace-covers/f27dd7c083ebee5ea511.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue"><img src="{{ '/assets/images/marketplace-covers/f27dd7c083ebee5ea511.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="{{ '/assets/images/marketplace-covers/626531ba742c8333d95a.jpg' | relative_url }}" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="{{ '/assets/images/marketplace-covers/626531ba742c8333d95a.jpg' | relative_url }}" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="back-gate-why-the-first-patrol-left-the-gate-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ Understanding that sequence helps separate the original trigger from later inter
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ Understanding that sequence helps separate the original trigger from later inter
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ Understanding that sequence helps separate the original trigger from later inter
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ Understanding that sequence helps separate the original trigger from later inter
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ Understanding that sequence helps separate the original trigger from later inter
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,125 +729,125 @@ Understanding that sequence helps separate the original trigger from later inter
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: Thinking an aircraft might have crashed or been forced down.Read more  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsTwo USAF security police patrolmen saw unusual lights outside the back gate...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>police patrolmen saw unusual lights outside the back gate at. RAF Woodbridge. Thinking an aircraft might have crashed or been forced down...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>police patrolmen saw unusual lights outside the back gate at. RAF Woodbridge. Thinking an aircraft might have crashed or been forced down...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: forestryengland.uk  
    Title: Rendlesham UFO Leaflet (Jan 23)  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — December 1980, two USAF security police patrolmen saw unusual lights thr...</p></details>
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — December 1980, two USAF security police patrolmen saw unusual lights thr...</p></details>
    Published: December 1980  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: forestryengland.uk  
    Title: WEB VERSION OF [UFO TRAIL](&#123;&#123; 'ufo-trail/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandWEB VERSION OF UFO TRAIL.pdfDecember 1980, two USAF security police patrolmen saw unusual lights through the trees...</p></details>
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandWEB VERSION OF UFO TRAIL.pdfDecember 1980, two USAF security police patrolmen saw unusual lights through the trees...</p></details>
    Published: December 1980  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The time of...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The time of...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentFence at the site of the former East Gate of RAF Woodbridge, where the incident began in December 1980. The...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentFence at the site of the former East Gate of RAF Woodbridge, where the incident began in December 1980. The...</p></details>
    Published: December 1980  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
    Title: uk Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — The MoD has no evidence of any other official investigation or documentation.There...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — The MoD has no evidence of any other official investigation or documentation.There...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham2d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2d.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The route into the forest‍In search of a light that had seemed to descend into the trees, the airmen drove eastwards from the East Gate o...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham2d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2d.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The route into the forest‍In search of a light that had seemed to descend into the trees, the airmen drove eastwards from the East Gate o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Suffolk police constables were called to the scene on the [first night](&amp;#123;&amp;#123; &#x27;first-night/&#x27; | relative_url &amp;#125;&amp;#125;) and recorded that...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Suffolk police constables were called to the scene on the [first night](&amp;#123;&amp;#123; &#x27;first-night/&#x27; | relative_url &amp;#125;&amp;#125;) and recorded that...</p></details>
    Published: December 1980  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kids.kiddle.co  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is where security guards first saw the mysterious lights...Read more...</p></details>
+   Link:<a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is where security guards first saw the mysterious lights...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Woodbridge UFO IncidentThinking an aircraft might have crashed or been forced down, they called for permission to g...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Woodbridge UFO IncidentThinking an aircraft might have crashed or been forced down, they called for permission to g...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounter in Rendlesham Forest: The Inside Story of the...McCabe also suspected that an aircraft crash might have occurred and called th...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounter in Rendlesham Forest: The Inside Story of the...McCabe also suspected that an aircraft crash might have occurred and called th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: secretprojects.co.uk  
-   Link: <a href="https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-[bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-[bentwaters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident RAF Bentwaters...25 Dec 2020 — 26th rendlesham forest incident between Twin bases of RAF Woodbridge (home...</p></details>
+   Link:<a href="https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-[bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-[bentwaters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident RAF Bentwaters...25 Dec 2020 — 26th rendlesham forest incident between Twin bases of RAF Woodbridge (home...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: a surreal event outside a us air force base near the rendlesham forest in englan  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...On the night of 26 December 1980, at approximately 3am, USAF security personnel s...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...On the night of 26 December 1980, at approximately 3am, USAF security personnel s...</p></details>
    Published: December 1980  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: rendlesham forest ufo incidentthe rendlesham forest incident was a series of rep  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident The...In late December 1980, U.S. Air Force personnel stationed at RAF Bentwaters and RAF Woodbridge in S...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident The...In late December 1980, U.S. Air Force personnel stationed at RAF Bentwaters and RAF Woodbridge in S...</p></details>
    Published: December 1980  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: in december 1980 us air force personnel saw strange lights in rendlesham forest  
-   Link: <a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...The Rendlesham Forest Incident In December 1980... security police patrolmen s...</p></details>
+   Link:<a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...The Rendlesham Forest Incident In December 1980... security police patrolmen s...</p></details>
    Published: december 1980  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tUnjP7cemik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tUnjP7cemik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: The Rendlesham Forest Incident. | Witness...UFO Sightings: The Rendlesham Forest Incident. Rendlesham Forest UFO sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tUnjP7cemik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tUnjP7cemik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: The Rendlesham Forest Incident. | Witness...UFO Sightings: The Rendlesham Forest Incident. Rendlesham Forest UFO sighting...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The events of that night began when Burroughs, who was patro...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The events of that night began when Burroughs, who was patro...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cambridge-news.co.uk  
    Title: rendlesham forest incident ufo sighting 20904103  
-   Link: <a href="https://www.cambridge-news.co.uk/news/local-news/rendlesham-forest-incident-ufo-sighting-20904103" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge-news.co.uk/news/local-news/rendlesham-forest-incident-ufo-sighting-20904103</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;UFO sighting&#x27; that is one of East Anglia&#x27;s great mysteries26 Jun 2021 — The East Gate at RAF Woodbridge in Suffolk, where the Rendle...</p></details>
+   Link:<a href="https://www.cambridge-news.co.uk/news/local-news/rendlesham-forest-incident-ufo-sighting-20904103" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge-news.co.uk/news/local-news/rendlesham-forest-incident-ufo-sighting-20904103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;UFO sighting&#x27; that is one of East Anglia&#x27;s great mysteries26 Jun 2021 — The East Gate at RAF Woodbridge in Suffolk, where the Rendle...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kiss108.iheart.com  
    Title: 2022 08 17 relive the first night of [britains roswell](&#123;&#123; 'britain-s-roswell/' | relative_url &#125;&#125;)  
-   Link: <a href="https://kiss108.iheart.com/content/2022-08-17-relive-the-first-night-of-britains-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://kiss108.iheart.com/content/2022-08-17-relive-the-first-night-of-britains-roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>airmen stationed at the base permission to deploy on English soil to investigate the possible downed aircraft. Penniston, Burroughs...</p></details>
+   Link:<a href="https://kiss108.iheart.com/content/2022-08-17-relive-the-first-night-of-britains-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://kiss108.iheart.com/content/2022-08-17-relive-the-first-night-of-britains-roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>airmen stationed at the base permission to deploy on English soil to investigate the possible downed aircraft. Penniston, Burroughs...</p></details>

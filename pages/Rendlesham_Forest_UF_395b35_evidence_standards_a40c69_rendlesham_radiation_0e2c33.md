@@ -284,17 +284,17 @@ The radiation readings recorded at [Rendlesham Forest]({{ 'rendlesham-forest/' |
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_evidence_standards_a40c69_rendlesham_radiation_0e2c33-Illustration-1-dark.svg" | relative_url }}" alt="Radiation illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_evidence_standards_a40c69_rendlesham_radiation_0e2c33-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_evidence_standards_a40c69_rendlesham_radiation_0e2c33-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-From an evidence-assessment perspective, the key weakness is the absence of a documented baseline. Without clear information about normal [background]({{ 'background/' | relative_url }}) radiation at the site, instrument calibration, measurement conditions, and comparison readings from control locations, it is difficult to determine whether the reported values indicate anything extraordinary. The radiation issue therefore illustrates a broader lesson in UFO investigations: measurements are only as meaningful as the context surrounding them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+From an evidence-assessment perspective, the key weakness is the absence of a documented baseline. Without clear information about normal [background]({{ 'background/' | relative_url }}) radiation at the site, instrument calibration, measurement conditions, and comparison readings from control locations, it is difficult to determine whether the reported values indicate anything extraordinary. The radiation issue therefore illustrates a broader lesson in UFO investigations: measurements are only as meaningful as the context surrounding them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 ## Were the radiation readings actually unusual?
 
-The most frequently cited source is Halt’s January 1981 memorandum. According to that document, investigators found three shallow depressions at the location where personnel believed an object had been seen. The following night, radiation checks reportedly produced beta/gamma readings of 0.1 milliroentgens, with peak values in the depressions and near the centre of the triangular pattern. A nearby tree reportedly showed readings of 0.05–0.07 on the side facing the depressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</span></span></span>
+The most frequently cited source is Halt’s January 1981 memorandum. According to that document, investigators found three shallow depressions at the location where personnel believed an object had been seen. The following night, radiation checks reportedly produced beta/gamma readings of 0.1 milliroentgens, with peak values in the depressions and near the centre of the triangular pattern. A nearby tree reportedly showed readings of 0.05–0.07 on the side facing the depressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</span></span></span>
 
-Taken in isolation, those figures sound significant. The memorandum itself, however, does not provide a detailed survey log, instrument settings, calibration records, measurement durations, uncertainty ranges, or a map of comparison locations. It simply reports the readings as observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</span></span></span>
+Taken in isolation, those figures sound significant. The memorandum itself, however, does not provide a detailed survey log, instrument settings, calibration records, measurement durations, uncertainty ranges, or a map of comparison locations. It simply reports the readings as observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</span></span></span>
 
-A further complication comes from accounts based on the contemporaneous field investigation. Sources discussing the radiation survey note that readings around 0.03–0.04 milliroentgens per hour were also recorded in surrounding areas and interpreted as background levels, while approximately 0.07 milliroentgens per hour was measured at the depressions. Similar elevated readings were reportedly found elsewhere away from the alleged landing site. These figures suggest a much smaller difference than later retellings sometimes imply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+A further complication comes from accounts based on the contemporaneous field investigation. Sources discussing the radiation survey note that readings around 0.03–0.04 milliroentgens per hour were also recorded in surrounding areas and interpreted as background levels, while approximately 0.07 milliroentgens per hour was measured at the depressions. Similar elevated readings were reportedly found elsewhere away from the alleged landing site. These figures suggest a much smaller difference than later retellings sometimes imply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-As a result, the historical record contains two overlapping narratives: one emphasising the memorandum’s reference to 0.1 milliroentgen peaks, and another stressing that the measurements were only modestly above nearby readings and may have fallen within normal environmental variation. The surviving documentation does not conclusively resolve that discrepancy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+As a result, the historical record contains two overlapping narratives: one emphasising the memorandum’s reference to 0.1 milliroentgen peaks, and another stressing that the measurements were only modestly above nearby readings and may have fallen within normal environmental variation. The surviving documentation does not conclusively resolve that discrepancy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UfKwQgmHfII" title="Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer">Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 388.3K &middot; Uploaded: October 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UfKwQgmHfII">Open on YouTube</a></p></div></div></div>
@@ -319,9 +319,9 @@ For a radiation claim to carry strong evidential weight, investigators would nor
 
 Without those details, even a reading above the local average can be difficult to interpret.
 
-Consider the difference between a reading of 0.07 and a background level of 0.03–0.04 milliroentgens per hour. That may represent a measurable increase, but whether it reflects contamination, natural variation, instrument behaviour, or something genuinely unusual depends on information that was not preserved in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Consider the difference between a reading of 0.07 and a background level of 0.03–0.04 milliroentgens per hour. That may represent a measurable increase, but whether it reflects contamination, natural variation, instrument behaviour, or something genuinely unusual depends on information that was not preserved in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-The tree readings illustrate the same problem. The memorandum reported moderate radiation levels on the side of a tree facing the depressions. On its face, that sounds suggestive. Yet there is no accompanying survey showing measurements from neighbouring trees, different heights on the trunk, opposite sides of the same tree, or other parts of the forest. Without comparative data, the observation cannot easily be distinguished from ordinary environmental variation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDCol Halt&#x27;s official memo to the UK Ministry of Defence reporting the events of the Rendle...</span></span></span>
+The tree readings illustrate the same problem. The memorandum reported moderate radiation levels on the side of a tree facing the depressions. On its face, that sounds suggestive. Yet there is no accompanying survey showing measurements from neighbouring trees, different heights on the trunk, opposite sides of the same tree, or other parts of the forest. Without comparative data, the observation cannot easily be distinguished from ordinary environmental variation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDCol Halt&#x27;s official memo to the UK Ministry of Defence reporting the events of the Rendle...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_evidence_standards_a40c69_rendlesham_radiation_0e2c33-Illustration-2-dark.svg" | relative_url }}" alt="Radiation illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_evidence_standards_a40c69_rendlesham_radiation_0e2c33-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_evidence_standards_a40c69_rendlesham_radiation_0e2c33-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,9 +329,9 @@ The tree readings illustrate the same problem. The memorandum reported moderate 
 
 Another often-overlooked issue concerns the instrument itself.
 
-Accounts of the investigation identify the survey meter as an AN/PDR-27, a standard military radiation detector. Such instruments were designed primarily for radiation surveying rather than forensic reconstruction of a past event. Like any measurement device, their readings are meaningful only when calibration status, operating mode, and measurement procedures are documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Accounts of the investigation identify the survey meter as an AN/PDR-27, a standard military radiation detector. Such instruments were designed primarily for radiation surveying rather than forensic reconstruction of a past event. Like any measurement device, their readings are meaningful only when calibration status, operating mode, and measurement procedures are documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-The public record does not appear to contain a calibration certificate, maintenance record, or detailed operational log for the instrument used during the Rendlesham investigation. Nor is there a surviving technical report explaining exactly how the measurements were taken or interpreted. That absence does not prove the readings were wrong. It simply means later analysts cannot independently verify their significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+The public record does not appear to contain a calibration certificate, maintenance record, or detailed operational log for the instrument used during the Rendlesham investigation. Nor is there a surviving technical report explaining exactly how the measurements were taken or interpreted. That absence does not prove the readings were wrong. It simply means later analysts cannot independently verify their significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 This distinction is crucial. A properly calibrated instrument can still produce readings that are misunderstood if background levels are unknown. Conversely, even a large reported anomaly becomes difficult to evaluate when calibration evidence is missing.
 
@@ -339,11 +339,11 @@ This distinction is crucial. A properly calibrated instrument can still produce 
 
 One of the most revealing facts about the radiation claim emerged years later in a parliamentary exchange.
 
-In 1997, the UK government stated that the Halt memorandum had been reviewed by Ministry of Defence staff responsible for air-defence matters and judged to contain nothing of defence significance. More importantly for the radiation question, the government stated that there was no record of any official assessment of the radiation readings reported in the memorandum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+In 1997, the UK government stated that the Halt memorandum had been reviewed by Ministry of Defence staff responsible for air-defence matters and judged to contain nothing of defence significance. More importantly for the radiation question, the government stated that there was no record of any official assessment of the radiation readings reported in the memorandum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 That statement has important implications.
 
-Supporters sometimes cite the radiation figures as officially documented evidence. The memorandum itself is certainly an official document. However, the government’s later response indicates that the readings were not elevated into a formally analysed scientific finding within the surviving official record. No known government study appears to have determined whether the values were normal, abnormal, contaminated, or otherwise significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+Supporters sometimes cite the radiation figures as officially documented evidence. The memorandum itself is certainly an official document. However, the government’s later response indicates that the readings were not elevated into a formally analysed scientific finding within the surviving official record. No known government study appears to have determined whether the values were normal, abnormal, contaminated, or otherwise significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 The result is an evidential gap. The measurements exist, but the interpretive work that would normally transform raw measurements into a scientific conclusion is largely absent.
 
@@ -376,203 +376,203 @@ Only with that framework could investigators determine whether the recorded valu
 
 The radiation readings at Rendlesham are neither as decisive as believers sometimes suggest nor as easily dismissed as simple irrelevancies. They occupy an awkward middle ground.
 
-The historical record confirms that radiation measurements were taken and that higher values were reportedly found in the depressions and on a nearby tree. What the record does not provide is the contextual information necessary to establish whether those values were genuinely unusual. The absence of documented baselines, calibration records, systematic controls, and official scientific assessment leaves the readings suspended between observation and conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</span></span></span>
+The historical record confirms that radiation measurements were taken and that higher values were reportedly found in the depressions and on a nearby tree. What the record does not provide is the contextual information necessary to establish whether those values were genuinely unusual. The absence of documented baselines, calibration records, systematic controls, and official scientific assessment leaves the readings suspended between observation and conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</span></span></span>
 
-For students of UFO evidence, the lesson is broader than Rendlesham itself. A measurement can sound impressive, but without background levels, controls, and verification, it remains a clue rather than a confirmed anomaly. The missing baseline is not a minor technical detail; it is the central reason the radiation evidence has remained contested for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+For students of UFO evidence, the lesson is broader than Rendlesham itself. A measurement can sound impressive, but without background levels, controls, and verification, it remains a clue rather than a confirmed anomaly. The missing baseline is not a minor technical detail; it is the central reason the radiation evidence has remained contested for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MnYBNT1KwrY" title="UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer">UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MnYBNT1KwrY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the radiation readings actually unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the radiation readings actually unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Discusses the reported radiation measurements and their interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the reported radiation measurements and their interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Highlights why calibration and controls matter in measurement claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights why calibration and controls matter in measurement claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating instrument-based evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating instrument-based evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Explores radiation, military monitoring and UFO-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores radiation, military monitoring and UFO-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radiation-927846-were-the-radiation-readings-actually-unusual-rendlesham-forest-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ For students of UFO evidence, the lesson is broader than Rendlesham itself. A me
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ For students of UFO evidence, the lesson is broader than Rendlesham itself. A me
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ For students of UFO evidence, the lesson is broader than Rendlesham itself. A me
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ For students of UFO evidence, the lesson is broader than Rendlesham itself. A me
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ For students of UFO evidence, the lesson is broader than Rendlesham itself. A me
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,89 +778,89 @@ For students of UFO evidence, the lesson is broader than Rendlesham itself. A me
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Ministry...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S...</p></details>
    Published: May 11, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDCol Halt&#x27;s official memo to the UK Ministry of Defence [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;) the events of the Rendle...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDCol Halt&#x27;s official memo to the UK Ministry of Defence [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;) the events of the Rendle...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tape analysedHalt reports more radiation readings: &#x27;After negative readings in the centre of the field w...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tape analysedHalt reports more radiation readings: &#x27;After negative readings in the centre of the field w...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: in december 1980 us air force personnel saw strange lights in rendlesham forest  
-   Link: <a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...Radiation readings taken at the original landing site showed levels higher than...</p></details>
+   Link:<a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...Radiation readings taken at the original landing site showed levels higher than...</p></details>
    Published: december 1980  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: Still, presumably the normal radiation readings Halt  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The MoD maintains that the Rendlesham Forest incident presen...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The MoD maintains that the Rendlesham Forest incident presen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: what are your thoughts on the rendlesham forest  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force personnel at RAF Woodbridge in Suffolk, England, reported a series of UFO sightings in Rendlesham Forest. Witnesses described...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force personnel at RAF Woodbridge in Suffolk, England, reported a series of UFO sightings in Rendlesham Forest. Witnesses described...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/publicdomain/comments/1ona0fm/[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/publicdomain/comments/1ona0fm/[unexplained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in the forest. Full Audio Recording from Colonel Charles Halt made...</p></details>
+   Link:<a href="https://www.reddit.com/r/publicdomain/comments/1ona0fm/[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/publicdomain/comments/1ona0fm/[unexplained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the forest. Full Audio Recording from Colonel Charles Halt made...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n the [three depressions](&amp;#123;&amp;#123; &#x27;three-marks/&#x27; | relative_url &amp;#125;&amp;#125;) and near the center of the triangle formed...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n the [three depressions](&amp;#123;&amp;#123; &#x27;three-marks/&#x27; | relative_url &amp;#125;&amp;#125;) and near the center of the triangle formed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.howstuffworks.com  
    Title: rendlesham forest incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — Instead, according to Halt&#x27;s memo, they saw a glowing metallic... radiation readings that were ten times the normal backgr...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — Instead, according to Halt&#x27;s memo, they saw a glowing metallic... radiation readings that were ten times the normal backgr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: markfoster.net  
    Title: Rendlesham Forest Mo D  
-   Link: <a href="https://www.markfoster.net/struc/Rendlesham_Forest_MoD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/struc/Rendlesham_Forest_MoD.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Sighting, Rendlesham Forest.1 Nov 2000 — Beta/gamma readings. A nearby tree had moderate (.05-.07) readings on the side of the...</p></details>
+   Link:<a href="https://www.markfoster.net/struc/Rendlesham_Forest_MoD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/struc/Rendlesham_Forest_MoD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Sighting, Rendlesham Forest.1 Nov 2000 — Beta/gamma readings. A nearby tree had moderate (.05-.07) readings on the side of the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Investigating the US Military Tapes of the Rendlesham UFO  
-   Link: <a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check...</p></details>

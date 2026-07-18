@@ -453,13 +453,13 @@ The [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) UFO incident 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_conflicting_memories_5f6d6b-overview.webp" | relative_url }}" alt="Overview image for Memories" loading="eager" decoding="sync" fetchpriority="high">
 ## Contemporary Records Versus Later Stories
 
-The official [paper trail]({{ 'paper-trail/' | relative_url }}) is thinner than many popular accounts imply. The [National Archives]({{ 'archive-map/' | relative_url }}) describes Rendlesham as Britain’s best-known UFO event and identifies Lieutenant Colonel Charles Halt’s December 1980 “Unexplained Lights” report as the key contemporary record. It also states that a single-sheet report is the only record of the event itself held there, while other files are largely later enquiries from the public and press. The Ministry of Defence’s stated position was that there was no threat to UK airspace or national security, and that no further records or investigations took place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+The official [paper trail]({{ 'paper-trail/' | relative_url }}) is thinner than many popular accounts imply. The [National Archives]({{ 'archive-map/' | relative_url }}) describes Rendlesham as Britain’s best-known UFO event and identifies Lieutenant Colonel Charles Halt’s December 1980 “Unexplained Lights” report as the key contemporary record. It also states that a single-sheet report is the only record of the event itself held there, while other files are largely later enquiries from the public and press. The Ministry of Defence’s stated position was that there was no threat to UK airspace or national security, and that no further records or investigations took place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-That distinction is central to the memory problem. A single official memo can show that a report was made, that named personnel took it seriously, and that the incident entered military paperwork. It cannot, by itself, preserve every witness’s [perception]({{ 'perception/' | relative_url }}) or settle what the lights were. The National [Archives]({{ 'archives/' | relative_url }})’ 2009 UFO files transcript says Halt’s memo opened a file that consisted largely of correspondence between the MoD and members of the public from 1983 to 1995; it also notes that the MoD was unable to explain the incident but considered it of “no defence significance” because no unidentified objects had been detected on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+That distinction is central to the memory problem. A single official memo can show that a report was made, that named personnel took it seriously, and that the incident entered military paperwork. It cannot, by itself, preserve every witness’s [perception]({{ 'perception/' | relative_url }}) or settle what the lights were. The National [Archives]({{ 'archives/' | relative_url }})’ 2009 UFO files transcript says Halt’s memo opened a file that consisted largely of correspondence between the MoD and members of the public from 1983 to 1995; it also notes that the MoD was unable to explain the incident but considered it of “no defence significance” because no unidentified objects had been detected on radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-The early witness statements are therefore unusually important. They are not perfect: they were written under military pressure, after an alarming night, and not necessarily as forensic witness interviews. But they are still closer to the event than later memoirs, documentaries and conference appearances. Ian Ridpath’s published collection of the original first-night statements includes accounts by Fred Buran, John Burroughs, Ed Cabansag, J. D. Chandler and Jim Penniston, and is often used by sceptics because it allows later claims to be compared against near-contemporary wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[ianridpath.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Rendlesham Forest UFO</span><span class="citation-popover-snippet">The witness statements 2Here are the original statements provided by five of the participants on the first night of the Rendlesham Forest...</span></span></span>
+The early witness statements are therefore unusually important. They are not perfect: they were written under military pressure, after an alarming night, and not necessarily as forensic witness interviews. But they are still closer to the event than later memoirs, documentaries and conference appearances. Ian Ridpath’s published collection of the original first-night statements includes accounts by Fred Buran, John Burroughs, Ed Cabansag, J. D. Chandler and Jim Penniston, and is often used by sceptics because it allows later claims to be compared against near-contemporary wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[ianridpath.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Rendlesham Forest UFO</span><span class="citation-popover-snippet">The witness statements 2Here are the original statements provided by five of the participants on the first night of the Rendlesham Forest...</span></span></span>
 
-The most consequential gap concerns Jim Penniston’s later account. In later retellings, Penniston described a close encounter with a structured craft, touching its surface, seeing symbols and later recording streams of ones and zeros. Yet a recent Guardian reconstruction noted that Penniston’s official report did not mention a triangular craft, lost time or a binary-code download; Burroughs’ report also described lights and frightening sensory impressions, but not the same close inspection of a craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The most consequential gap concerns Jim Penniston’s later account. In later retellings, Penniston described a close encounter with a structured craft, touching its surface, seeing symbols and later recording streams of ones and zeros. Yet a recent Guardian reconstruction noted that Penniston’s official report did not mention a triangular craft, lost time or a binary-code download; Burroughs’ report also described lights and frightening sensory impressions, but not the same close inspection of a craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 This is why the case divides readers. Believers often argue that military constraints, secrecy, trauma or intimidation explain why early reports were incomplete. Sceptics argue that details absent from the earliest accounts should be treated as later accretions unless independently corroborated. Both positions depend less on whether the witnesses seem honest than on a harder question: when a memory grows more detailed with time, is it recovery, reconstruction or storytelling?
 
@@ -469,11 +469,11 @@ This is why the case divides readers. Believers often argue that military constr
 
 Rendlesham took place in conditions that are bad for precise perception: night, woodland, cold weather, military alertness, uncertainty about a possible aircraft crash, flashing distant lights and confusing terrain. Those conditions do not make testimony worthless. They do make exact claims about shape, distance, motion and duration vulnerable to error.
 
-Eyewitness memory research is directly relevant here. A review on memory and the courtroom explains that confidence and accuracy do not reliably rise together, especially for traumatic or stressful events. People can be vivid, emotional and sincere while still being wrong about details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 266 — Research that specifically examines eyewi...</span></span></span> The American Psychological Association’s interview with Elizabeth Loftus summarises the broader point from decades of research: memories can be altered by information people receive after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is one of the nation&#x27;s...</span></span></span>
+Eyewitness memory research is directly relevant here. A review on memory and the courtroom explains that confidence and accuracy do not reliably rise together, especially for traumatic or stressful events. People can be vivid, emotional and sincere while still being wrong about details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 266 — Research that specifically examines eyewi...</span></span></span> The American Psychological Association’s interview with Elizabeth Loftus summarises the broader point from decades of research: memories can be altered by information people receive after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is one of the nation&#x27;s...</span></span></span>
 
-Rendlesham also contains a classic “source monitoring” problem: over time, a witness may remember a detail but become less certain where it came from. Was it seen on the night? Inferred afterwards? Suggested in a debrief? Heard from another witness? Shown in a documentary? Added during hypnosis? In a case retold for more than forty years, those boundaries become difficult to police. Research on eyewitness memory describes how post-event information can distort original memories and how source-monitoring errors can lead people to misattribute the origin of remembered details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Eyewitness Memory &#124; Springer Nature LinkJune 20, 2023 — 13 Dec 2022 — The text explores theories such as source monitoring and fu...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span>
+Rendlesham also contains a classic “source monitoring” problem: over time, a witness may remember a detail but become less certain where it came from. Was it seen on the night? Inferred afterwards? Suggested in a debrief? Heard from another witness? Shown in a documentary? Added during hypnosis? In a case retold for more than forty years, those boundaries become difficult to police. Research on eyewitness memory describes how post-event information can distort original memories and how source-monitoring errors can lead people to misattribute the origin of remembered details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-3-030-93789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Eyewitness Memory &#124; Springer Nature LinkJune 20, 2023 — 13 Dec 2022 — The text explores theories such as source monitoring and fu...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span>
 
-This matters especially for the most dramatic later material. Penniston’s binary-code claim became a major part of Rendlesham lore after it was publicised decades later, but it was not part of the first wave of official documentation. A technical critique by software writer Kevin Boone notes that the notebook material emerged about thirty years after the incident and was later decoded into an English-language message with coordinates and an “origin” date, features that have made it especially attractive to time-travel and ancient-site interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinboone.me">[Kevin Boone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinboone.me</span><span class="citation-popover-title">The message contains obscure phrases like &quot;eyes of your eyes&quot;.Read more</span><span class="citation-popover-snippet">Kevin BooneDid aliens really talk to us in &quot;binary code&quot; at Rendelsham...7 Jun 2022 — The notebook has been &quot;decoded&quot; and found to conta...</span></span></span>
+This matters especially for the most dramatic later material. Penniston’s binary-code claim became a major part of Rendlesham lore after it was publicised decades later, but it was not part of the first wave of official documentation. A technical critique by software writer Kevin Boone notes that the notebook material emerged about thirty years after the incident and was later decoded into an English-language message with coordinates and an “origin” date, features that have made it especially attractive to time-travel and ancient-site interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinboone.me">[Kevin Boone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinboone.me</span><span class="citation-popover-title">The message contains obscure phrases like &quot;eyes of your eyes&quot;.Read more</span><span class="citation-popover-snippet">Kevin BooneDid aliens really talk to us in &quot;binary code&quot; at Rendelsham...7 Jun 2022 — The notebook has been &quot;decoded&quot; and found to conta...</span></span></span>
 
 The risk is not simply that someone “made it up”. That is too crude. Human memory can absorb suggestion, interpretation and later meaning while still feeling like direct recall. The more often a witness tells a story, hears other versions, answers leading questions or revisits the scene, the more the memory can become a polished narrative rather than a raw record.
 
@@ -482,11 +482,11 @@ The risk is not simply that someone “made it up”. That is too crude. Human m
 
 ## How Retellings Reshape Details
 
-Rendlesham’s afterlife has been unusually powerful. The National Archives transcript says the case became known as “Britain’s Roswell”, and the files show how public attention, parliamentary questions and press interest kept the story alive long after the original incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Forestry England’s [UFO Trail]({{ 'ufo-trail/' | relative_url }}) and later sculpture also show how the event moved from military report to local heritage and visitor experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-title">Rendlesham UFO Leaflet (Jan 23</span><span class="citation-popover-snippet">Rendlesham UFO Leaflet (Jan 23</span></span></span>
+Rendlesham’s afterlife has been unusually powerful. The National Archives transcript says the case became known as “Britain’s Roswell”, and the files show how public attention, parliamentary questions and press interest kept the story alive long after the original incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> Forestry England’s [UFO Trail]({{ 'ufo-trail/' | relative_url }}) and later sculpture also show how the event moved from military report to local heritage and visitor experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-title">Rendlesham UFO Leaflet (Jan 23</span><span class="citation-popover-snippet">Rendlesham UFO Leaflet (Jan 23</span></span></span>
 
-Once an incident becomes a legend, retellings do not merely repeat it; they select and amplify. Early accounts of lights, ground marks and uncertainty are less memorable than a triangular craft, strange symbols, a physical touch and a code from the future. That does not prove the later details are false, but it explains why they become narratively dominant. A publisher’s description of *Encounter in Rendlesham Forest* presents the later witness-led version as a story of a strange craft decorated with symbols, showing how the case’s public centre of gravity shifted from “unexplained lights” to a close encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.publishersweekly.com/9781250038104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publishersweekly.com">[PublishersWeekly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publishersweekly.com</span><span class="citation-popover-snippet">Open source on publishersweekly.com.</span></span></span>
+Once an incident becomes a legend, retellings do not merely repeat it; they select and amplify. Early accounts of lights, ground marks and uncertainty are less memorable than a triangular craft, strange symbols, a physical touch and a code from the future. That does not prove the later details are false, but it explains why they become narratively dominant. A publisher’s description of *Encounter in Rendlesham Forest* presents the later witness-led version as a story of a strange craft decorated with symbols, showing how the case’s public centre of gravity shifted from “unexplained lights” to a close encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.publishersweekly.com/9781250038104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publishersweekly.com">[PublishersWeekly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publishersweekly.com</span><span class="citation-popover-snippet">Open source on publishersweekly.com.</span></span></span>
 
-The binary-code strand is a good example of this shift. It was not needed for the original mystery: the case was already famous because of military witnesses, Halt’s memo and the alleged physical traces. Yet once introduced, it changed the genre of the story. Rendlesham was no longer only about unidentified lights near a Cold War airbase; it became, in some retellings, a message-bearing event connected to ancient sites, future humans and nuclear warnings. The Guardian noted that Penniston said the ones and zeros became significant when a documentary producer noticed them in his notebook decades later and offered to decode them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The binary-code strand is a good example of this shift. It was not needed for the original mystery: the case was already famous because of military witnesses, Halt’s memo and the alleged physical traces. Yet once introduced, it changed the genre of the story. Rendlesham was no longer only about unidentified lights near a Cold War airbase; it became, in some retellings, a message-bearing event connected to ancient sites, future humans and nuclear warnings. The Guardian noted that Penniston said the ones and zeros became significant when a documentary producer noticed them in his notebook decades later and offered to decode them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 Media repetition can also harden uncertainty into apparent fact. A documentary may need clean characters, a clear sequence and a dramatic reveal. A book may arrange fragments into a coherent arc. A sceptical article may compress sincere confusion into misidentification. A believer’s lecture may highlight the most extraordinary testimony and downplay the earliest omissions. Each retelling makes the case easier to remember, but sometimes less faithful to the messy original record.
 
@@ -494,9 +494,9 @@ Media repetition can also harden uncertainty into apparent fact. A documentary m
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_conflicting_memories_5f6d6b-Illustration-2-dark.svg" | relative_url }}" alt="Memories illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_conflicting_memories_5f6d6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_conflicting_memories_5f6d6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hypnosis Problem
 
-Hypnosis sits at the centre of the risk around later Rendlesham testimony. It is sometimes presented as a way to recover hidden memories, but modern memory research treats that claim with caution. A 2025 review of hypnosis and false memory discusses the mechanisms by which hypnosis can increase confidence in inaccurate or confabulated memories rather than simply restore buried facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCthe role of hypnosis in memory recall and false</span><span class="citation-popover-snippet">PMCthe role of hypnosis in memory recall and false</span></span></span>
+Hypnosis sits at the centre of the risk around later Rendlesham testimony. It is sometimes presented as a way to recover hidden memories, but modern memory research treats that claim with caution. A 2025 review of hypnosis and false memory discusses the mechanisms by which hypnosis can increase confidence in inaccurate or confabulated memories rather than simply restore buried facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCthe role of hypnosis in memory recall and false</span><span class="citation-popover-snippet">PMCthe role of hypnosis in memory recall and false</span></span></span>
 
-That is highly relevant to Penniston’s later claims because some accounts connect his recovered or clarified memories to hypnotic regression. The Guardian reported that Penniston underwent hypnotic regression in the 1990s and explained the practice as controversial because it can encourage imaginative reconstruction rather than reliably unlock historical truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> A Washington Post review of *Encounter in Rendlesham Forest* also highlighted the problem that Penniston’s story became more elaborate over time, including the later claim of binary code received when he touched the craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Open source on washingtonpost.com.</span></span></span>
+That is highly relevant to Penniston’s later claims because some accounts connect his recovered or clarified memories to hypnotic regression. The Guardian reported that Penniston underwent hypnotic regression in the 1990s and explained the practice as controversial because it can encourage imaginative reconstruction rather than reliably unlock historical truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> A Washington Post review of *Encounter in Rendlesham Forest* also highlighted the problem that Penniston’s story became more elaborate over time, including the later claim of binary code received when he touched the craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Open source on washingtonpost.com.</span></span></span>
 
 This does not mean all memories discussed after hypnosis are automatically false. It means they should not be treated as stronger because hypnosis was involved. For evidential purposes, hypnosis often weakens rather than strengthens a late-emerging detail, because the process can increase confidence while blurring the line between memory, suggestion and imagination.
 
@@ -509,11 +509,11 @@ The problem is sharper in a famous UFO case than in a private memory dispute. Re
 
 One of the most useful ways to read Rendlesham is to separate sincerity from reliability. A witness can be sincere and still misjudge distance in darkness. A witness can be traumatised and still confabulate a detail. A witness can omit something early because they were frightened, ordered to be brief or unsure how to describe it. A witness can also add something later because memory has been reshaped by conversation, media and belief.
 
-The Penniston-Burroughs divergence shows the problem in human terms. Later accounts describe Penniston experiencing a much longer and more detailed encounter than Burroughs remembered. Burroughs’ recollection, according to the Guardian, included a bright light and a short, frightening episode, while Penniston described a prolonged inspection of a craft. Penniston later suggested Burroughs may have been frozen or unaware during part of the encounter, but that explanation itself depends on Penniston’s later memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Penniston-Burroughs divergence shows the problem in human terms. Later accounts describe Penniston experiencing a much longer and more detailed encounter than Burroughs remembered. Burroughs’ recollection, according to the Guardian, included a bright light and a short, frightening episode, while Penniston described a prolonged inspection of a craft. Penniston later suggested Burroughs may have been frozen or unaware during part of the encounter, but that explanation itself depends on Penniston’s later memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-Halt’s role adds another layer. His memo and tape make the case harder to dismiss as mere rumour, but they also show how a senior officer’s account can become the anchor around which other stories cluster. The National Archives’ description confirms that Halt reported lights and that servicemen investigated the forest on two separate nights; it does not confirm the later, most elaborate close-contact details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Halt’s role adds another layer. His memo and tape make the case harder to dismiss as mere rumour, but they also show how a senior officer’s account can become the anchor around which other stories cluster. The National Archives’ description confirms that Halt reported lights and that servicemen investigated the forest on two separate nights; it does not confirm the later, most elaborate close-contact details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-This is why the Rendlesham debate often goes in circles. Supporters treat later testimony as cumulative: more witnesses, more detail, more emotional force. Critics treat the same accumulation as contamination: more time, more exposure, more narrative pressure. The same feature — decades of witness engagement — can be read as persistence or as drift.
+This is why the Rendlesham debate often goes in circles. Supporters treat later testimony as cumulative: more witnesses,, more emotional force. Critics treat the same accumulation as contamination: more time, more exposure, more narrative pressure. The same feature — decades of witness engagement — can be read as persistence or as drift.
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_conflicting_memories_5f6d6b-Illustration-3-dark.svg" | relative_url }}" alt="Memories illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_conflicting_memories_5f6d6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_conflicting_memories_5f6d6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -523,7 +523,7 @@ A fair assessment does not require dismissing every late claim. It does require 
 
 The strongest later testimony usually has three features: it matches early records, it is independently corroborated by another near-contemporary source, and it does not depend on hypnosis or media-driven reinterpretation. The weakest late testimony usually has the opposite features: it appears decades later, adds highly dramatic details absent from [early statements]({{ 'early-statements/' | relative_url }}), and is tied to suggestive recovery methods or public retelling.
 
-For Rendlesham, that means the broad claim that USAF personnel reported strange lights near RAF Woodbridge is well supported by official records. The claim that the MoD treated the case as no defence threat is also well documented. The claim that some witnesses later believed they had encountered something extraordinary is clear from interviews and books. But the more specific later claims — prolonged craft inspection, binary communication, missing time, and precise explanations involving radiation or time travel — require much greater caution because they are less firmly anchored in contemporary documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+For Rendlesham, that means the broad claim that USAF personnel reported strange lights near RAF Woodbridge is well supported by official records. The claim that the MoD treated the case as no defence threat is also well documented. The claim that some witnesses later believed they had encountered something extraordinary is clear from interviews and books. But the more specific later claims — prolonged craft inspection, binary communication, missing time, and precise explanations involving radiation or time travel — require much greater caution because they are less firmly anchored in contemporary documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 The most honest reading is therefore neither “all witnesses lied” nor “all later details are equally valid”. Rendlesham shows how a real reported incident can become a layered memory event. At the centre are night-time observations, official uncertainty and a short paper trail. Around that centre are decades of interviews, books, documentaries, sceptical reconstructions, believer interpretations and personal trauma. The conflict is not an annoying side issue; it is one of the main things the case is about.
 
@@ -532,178 +532,178 @@ The most honest reading is therefore neither “all witnesses lied” nor “all
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Rendlesham Accounts Conflict?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Rendlesham Accounts Conflict?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Shows how witnesses have remembered and interpreted events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how witnesses have remembered and interpreted events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains memory errors, perception and witness limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memory errors, perception and witness limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Compares records with later narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Compares records with later narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Useful for understanding belief persistence and conflicting accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding belief persistence and conflicting accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="memories-why-do-rendlesham-accounts-conflict-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-programm" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -719,7 +719,7 @@ The most honest reading is therefore neither “all witnesses lied” nor “all
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -739,7 +739,7 @@ The most honest reading is therefore neither “all witnesses lied” nor “all
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -771,7 +771,7 @@ The most honest reading is therefore neither “all witnesses lied” nor “all
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -823,7 +823,7 @@ The most honest reading is therefore neither “all witnesses lied” nor “all
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -868,7 +868,7 @@ The most honest reading is therefore neither “all witnesses lied” nor “all
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -909,195 +909,195 @@ The most honest reading is therefore neither “all witnesses lied” nor “all
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2c.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The witness statements 2Here are the original statements provided by five of the participants on the first night of the Rendlesham Forest...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2c.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The witness statements 2Here are the original statements provided by five of the participants on the first night of the Rendlesham Forest...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 266 — Research that specifically examines eyewi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 266 — Research that specifically examines eyewi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Memory | Springer Nature LinkJune 20, 2023 — 13 Dec 2022 — The text explores theories such as source monitoring and fu...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-3-030-93789" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Memory | Springer Nature LinkJune 20, 2023 — 13 Dec 2022 — The text explores theories such as source monitoring and fu...</p></details>
    Published: June 20, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: publishersweekly.com  
-   Link: <a href="https://www.publishersweekly.com/9781250038104" target="_blank" rel="noopener noreferrer nofollow">https://www.publishersweekly.com/9781250038104</a>  
+   Link:<a href="https://www.publishersweekly.com/9781250038104" target="_blank" rel="noopener noreferrer nofollow">https://www.publishersweekly.com/9781250038104</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham8.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham8.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham9.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham9.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is one of the nation&#x27;s...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is one of the nation&#x27;s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kevinboone.me  
    Title: The message contains obscure phrases like "eyes of your eyes".Read more  
-   Link: <a href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinboone.me/rendelsham-binary.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin BooneDid aliens really talk to us in &quot;binary code&quot; at Rendelsham...7 Jun 2022 — The notebook has been &quot;decoded&quot; and found to conta...</p></details>
+   Link:<a href="https://kevinboone.me/rendelsham-binary.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinboone.me/rendelsham-binary.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin BooneDid aliens really talk to us in &quot;binary code&quot; at Rendelsham...7 Jun 2022 — The notebook has been &quot;decoded&quot; and found to conta...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: forestryengland.uk  
    Title: Rendlesham UFO Leaflet (Jan 23)  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCthe role of hypnosis in memory recall and false  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html</a>  
+   Link:<a href="https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Elizabeth Loftus  
-   Link: <a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: books.google.com  
    Title: Encounter in Rendlesham Forest  
-   Link: <a href="https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=aMpnAgAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=aMpnAgAAQBAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=aMpnAgAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=aMpnAgAAQBAJ</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: books.google.com  
    Title: Encounter in Rendlesham Forest  
-   Link: <a href="https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=lVCqoAEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=lVCqoAEACAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=lVCqoAEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_in_Rendlesham_Forest.html?id=lVCqoAEACAAJ</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Halt tape Larry Warren binary code Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims |...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Halt tape Larry Warren binary code Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims |...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 6 | PART 2: Rendlesham Forest UFO encounter | Binary Code &amp; Jim Penniston | The Basement Office...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 6 | PART 2: Rendlesham Forest UFO encounter | Binary Code &amp; Jim Penniston | The Basement Office...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IaYfsxbiKsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IaYfsxbiKsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IaYfsxbiKsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IaYfsxbiKsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Rendlesham UFO incident: Does new film 'Capel Green' have new evidence?  
-   Link: <a href="https://www.youtube.com/watch?v=21yW_XZR2LU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=21yW_XZR2LU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=21yW_XZR2LU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=21yW_XZR2LU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt  
-   Link: <a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hypnosis101.com  
-   Link: <a href="https://hypnosis101.com/hypnosis/regression/regression-no/" target="_blank" rel="noopener noreferrer nofollow">https://hypnosis101.com/hypnosis/regression/regression-no/</a>  
+   Link:<a href="https://hypnosis101.com/hypnosis/regression/regression-no/" target="_blank" rel="noopener noreferrer nofollow">https://hypnosis101.com/hypnosis/regression/regression-no/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wglt.org  
-   Link: <a href="https://www.wglt.org/local-news/2026-06-02/bloomington-native-tied-to-famous-ufo-case-to-speak-on-unexplained-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.wglt.org/local-news/2026-06-02/bloomington-native-tied-to-famous-ufo-case-to-speak-on-unexplained-phenomena</a>  
+   Link:<a href="https://www.wglt.org/local-news/2026-06-02/bloomington-native-tied-to-famous-ufo-case-to-speak-on-unexplained-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.wglt.org/local-news/2026-06-02/bloomington-native-tied-to-famous-ufo-case-to-speak-on-unexplained-phenomena</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/lufos/posts/1944339123125815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lufos/posts/1944339123125815/</a>  
+   Link:<a href="https://www.facebook.com/groups/lufos/posts/1944339123125815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lufos/posts/1944339123125815/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: psichi.org  
-   Link: <a href="https://www.psichi.org/page/214EyeSum17dLoftus" target="_blank" rel="noopener noreferrer nofollow">https://www.psichi.org/page/214EyeSum17dLoftus</a>  
+   Link:<a href="https://www.psichi.org/page/214EyeSum17dLoftus" target="_blank" rel="noopener noreferrer nofollow">https://www.psichi.org/page/214EyeSum17dLoftus</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: andrewlownie.co.uk  
-   Link: <a href="https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest</a>  
+   Link:<a href="https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest</a>  

@@ -274,32 +274,32 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_tour
 
 ## Introduction
 
-Roswell and Rendlesham are often linked because both became iconic UFO stories, yet they evolved into very different forms of public [memory]({{ 'memory/' | relative_url }}). Roswell turned a disputed 1947 incident into a civic identity, complete with museums, festivals, alien imagery and a tourism economy built around extraterrestrial folklore. Rendlesham, by contrast, became a place people physically walk through: a forest landscape where visitors follow trails, read interpretation panels and encounter a mystery embedded in the terrain itself. The contrast reveals how UFO legends survive. They are not preserved only through documents and witness testimony; they are preserved through places that people visit, experience and reinterpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</span></span></span>
+Roswell and Rendlesham are often linked because both became iconic UFO stories, yet they evolved into very different forms of public [memory]({{ 'memory/' | relative_url }}). Roswell turned a disputed 1947 incident into a civic identity, complete with museums, festivals, alien imagery and a tourism economy built around extraterrestrial folklore. Rendlesham, by contrast, became a place people physically walk through: a forest landscape where visitors follow trails, read interpretation panels and encounter a mystery embedded in the terrain itself. The contrast reveals how UFO legends survive. They are not preserved only through documents and witness testimony; they are preserved through places that people visit, experience and reinterpret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_tourism_vs_trail_mem_2dbbdb-Illustration-1-dark.svg" | relative_url }}" alt="Public Memory illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_tourism_vs_trail_mem_2dbbdb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_tourism_vs_trail_mem_2dbbdb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Roswell as a Public UFO Identity
 
-Roswell's relationship with its UFO story is unusually explicit. The town has embraced the 1947 incident as a defining part of its public image, promoting itself as a destination for visitors interested in [UFO culture]({{ 'ufo-culture/' | relative_url }}). The International UFO Museum and Research Center, founded in the early 1990s, serves as a focal point for this identity, presenting exhibits, [archives]({{ 'archives/' | relative_url }}) and educational material centred on the Roswell incident and broader UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</span></span></span>
+Roswell's relationship with its UFO story is unusually explicit. The town has embraced the 1947 incident as a defining part of its public image, promoting itself as a destination for visitors interested in [UFO culture]({{ 'ufo-culture/' | relative_url }}). The International UFO Museum and Research Center, founded in the early 1990s, serves as a focal point for this identity, presenting exhibits, [archives]({{ 'archives/' | relative_url }}) and educational material centred on the Roswell incident and broader UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</span></span></span>
 
-The annual UFO Festival extends that identity beyond a museum setting. Organisers and tourism agencies promote Roswell as a gathering place for enthusiasts, researchers, sceptics and curious visitors. Costume contests, lectures, themed entertainment and alien imagery transform the town into a temporary celebration of the legend. Tourism authorities openly market Roswell through this association, demonstrating how completely the UFO narrative has become integrated into the town's brand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufofestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofestival.com">[ufofestival.com+2New Mexico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofestival.com</span><span class="citation-popover-snippet">More information on intergalactic entertainment, out-of-this- world speakers, and stellar events coming soon! Stay tuned...Read more...</span></span></span>
+The annual UFO Festival extends that identity beyond a museum setting. Organisers and tourism agencies promote Roswell as a gathering place for enthusiasts, researchers, sceptics and curious visitors. Costume contests, lectures, themed entertainment and alien imagery transform the town into a temporary celebration of the legend. Tourism authorities openly market Roswell through this association, demonstrating how completely the UFO narrative has become integrated into the town's brand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufofestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofestival.com">[ufofestival.com+2New Mexico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofestival.com</span><span class="citation-popover-snippet">More information on intergalactic entertainment, out-of-this- world speakers, and stellar events coming soon! Stay tuned...Read more...</span></span></span>
 
-The economic dimension is equally important. Municipal [reporting]({{ 'reporting/' | relative_url }}) on the 2023 UFO Festival estimated thousands of visitors and a direct economic impact exceeding half a million dollars. The UFO story therefore functions not only as folklore but also as a measurable tourism asset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswell-nm.gov/1852/UFO-Festival-Report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswell-nm.gov">[Roswell NM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswell-nm.gov</span><span class="citation-popover-title">UFO Festival Report 2023</span><span class="citation-popover-snippet">Roswell NMUFO Festival Report 2023 &#124; Roswell, NMThe 2023 UFO Festival had a $510,205 direct economic impact for Roswell and brought more...</span></span></span>
+The economic dimension is equally important. Municipal [reporting]({{ 'reporting/' | relative_url }}) on the 2023 UFO Festival estimated thousands of visitors and a direct economic impact exceeding half a million dollars. The UFO story therefore functions not only as folklore but also as a measurable tourism asset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswell-nm.gov/1852/UFO-Festival-Report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswell-nm.gov">[Roswell NM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswell-nm.gov</span><span class="citation-popover-title">UFO Festival Report 2023</span><span class="citation-popover-snippet">Roswell NMUFO Festival Report 2023 &#124; Roswell, NMThe 2023 UFO Festival had a $510,205 direct economic impact for Roswell and brought more...</span></span></span>
 
-Roswell's public landscape reflects this transformation. Alien-themed businesses, civic branding and even local public symbolism reinforce the idea that visitors are entering a place defined by the UFO legend. The result is a town where the story has become a visible and commercial part of everyday life rather than merely a historical event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/b15f37700428066a206d713f589c57b8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The new patch, unveiled on Friday, features the city logo of a flying saucer with a beam forming the letter &quot;R,&quot; encircled by the motto &quot;...</span></span></span>
+Roswell's public landscape reflects this transformation. Alien-themed businesses, civic branding and even local public symbolism reinforce the idea that visitors are entering a place defined by the UFO legend. The result is a town where the story has become a visible and commercial part of everyday life rather than merely a historical event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/b15f37700428066a206d713f589c57b8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The new patch, unveiled on Friday, features the city logo of a flying saucer with a beam forming the letter &quot;R,&quot; encircled by the motto &quot;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X8LxGbgc1FI" title="Rendlesham Forest UFO Trail - Forestry England" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO Trail - Forestry England</a></p><p class="youtube-embed-meta">Channel: Shauns Stream</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X8LxGbgc1FI">Open on YouTube</a></p></div></div></div>
 
 ## Rendlesham as a Forest Trail and Local Mystery
 
-Rendlesham developed differently. Instead of becoming a town-wide extraterrestrial brand, the site remained rooted in the physical landscape where the reported events occurred. The most significant expression of this memory is the [UFO Trail]({{ 'ufo-trail/' | relative_url }}) established within [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}). Created in response to continuing public interest, the trail guides visitors through areas associated with the reported sightings near the former RAF Woodbridge site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+Rendlesham developed differently. Instead of becoming a town-wide extraterrestrial brand, the site remained rooted in the physical landscape where the reported events occurred. The most significant expression of this memory is the [UFO Trail]({{ 'ufo-trail/' | relative_url }}) established within [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}). Created in response to continuing public interest, the trail guides visitors through areas associated with the reported sightings near the former RAF Woodbridge site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-The trail is notable because it encourages participation rather than consumption. Visitors do not arrive at a themed district filled with alien imagery. Instead, they walk through woodland, heathland and wetlands while considering competing interpretations of what witnesses reported in December 1980. Forestry England describes the route as one that stimulates the imagination while leading walkers through locations connected to the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
+The trail is notable because it encourages participation rather than consumption. Visitors do not arrive at a themed district filled with alien imagery. Instead, they walk through woodland, heathland and wetlands while considering competing interpretations of what witnesses reported in December 1980. Forestry England describes the route as one that stimulates the imagination while leading walkers through locations connected to the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
 
-A further symbol of this approach is the UFO sculpture installed at the trail's end. The artwork was designed around reported descriptions and sketches of the alleged craft rather than around a definitive claim about what happened. The sculpture therefore acts as a memorial to the story itself rather than a declaration that the mystery has been solved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+A further symbol of this approach is the UFO sculpture installed at the trail's end. The artwork was designed around reported descriptions and sketches of the alleged craft rather than around a definitive claim about what happened. The sculpture therefore acts as a memorial to the story itself rather than a declaration that the mystery has been solved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-The experience is also geographically modest. Visitors often describe the trail as a circular woodland walk of only a few miles. The setting remains recognisably a working forest and recreational landscape. The UFO story is layered onto the environment rather than dominating it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.co.uk/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.co.uk">[Tripadvisor+2Postcard from Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.co.uk</span><span class="citation-popover-snippet">Rendlesham Forest CentreThe trail itself is a circular walk of approximately 3 miles through the forest. UFO trail closed with...</span></span></span>
+The experience is also geographically modest. Visitors often describe the trail as a circular woodland walk of only a few miles. The setting remains recognisably a working forest and recreational landscape. The UFO story is layered onto the environment rather than dominating it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.co.uk/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.co.uk">[Tripadvisor+2Postcard from Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.co.uk</span><span class="citation-popover-snippet">Rendlesham Forest CentreThe trail itself is a circular walk of approximately 3 miles through the forest. UFO trail closed with...</span></span></span>
 
 This distinction matters. Roswell asks visitors to enter a town shaped by a legend. Rendlesham asks visitors to enter a landscape where they can imagine the reported events for themselves.
 
@@ -309,11 +309,11 @@ This distinction matters. Roswell asks visitors to enter a town shaped by a lege
 
 The two sites demonstrate different relationships between tourism and evidence.
 
-In Roswell, tourism often centres on the question of what crashed. Museums, festivals and commercial attractions reinforce interest in debris, government secrecy and alleged recovery operations. The physical evidence debate becomes part of the attraction because visitors arrive expecting a story about hidden objects and concealed knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum+2Roswell NM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</span></span></span>
+In Roswell, tourism often centres on the question of what crashed. Museums, festivals and commercial attractions reinforce interest in debris, government secrecy and alleged recovery operations. The physical evidence debate becomes part of the attraction because visitors arrive expecting a story about hidden objects and concealed knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum+2Roswell NM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</span></span></span>
 
-In Rendlesham, tourism tends to emphasise experience rather than recovery. Visitors stand where witnesses stood, look through the trees, follow the route of reported movements and compare the environment with competing explanations. The forest itself becomes a form of evidence, or at least a setting against which evidence claims are mentally tested. Questions about visibility, distance, terrain and atmosphere become more tangible when experienced on foot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
+In Rendlesham, tourism tends to emphasise experience rather than recovery. Visitors stand where witnesses stood, look through the trees, follow the route of reported movements and compare the environment with competing explanations. The forest itself becomes a form of evidence, or at least a setting against which evidence claims are mentally tested. Questions about visibility, distance, terrain and atmosphere become more tangible when experienced on foot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
 
-This difference shapes public memory. Roswell's tourism model can encourage the legend to expand through merchandise, events and symbolic branding. Rendlesham's model keeps attention focused on a specific place and a specific sequence of reported observations. Even visitors who leave unconvinced often remember the location because they have physically moved through it. Home | Forestry England+3ufofestival.com+3Roswell NM <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufofestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofestival.com">[ufofestival.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofestival.com</span><span class="citation-popover-snippet">More information on intergalactic entertainment, out-of-this- world speakers, and stellar events coming soon! Stay tuned...Read more...</span></span></span>
+This difference shapes public memory. Roswell's tourism model can encourage the legend to expand through merchandise, events and symbolic branding. Rendlesham's model keeps attention focused on a specific place and a specific sequence of reported observations. Even visitors who leave unconvinced often remember the location because they have physically moved through it. Home | Forestry England+3ufofestival.com+3Roswell NM<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufofestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofestival.com">[ufofestival.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofestival.com</span><span class="citation-popover-snippet">More information on intergalactic entertainment, out-of-this- world speakers, and stellar events coming soon! Stay tuned...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nu0VqM6FIvA" title="Roswell, NM - International UFO Museum - The Spacewalk - The Alien Zone - Amazing Alien Attractions!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nu0VqM6FIvA" target="_blank" rel="noopener noreferrer">Roswell, NM - International UFO Museum - The Spacewalk - The Alien Zone - Amazing Alien Attractions!</a></p><p class="youtube-embed-meta">Channel: The Carpetbagger</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nu0VqM6FIvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nu0VqM6FIvA">Open on YouTube</a></p></div></div></div>
@@ -325,9 +325,9 @@ This difference shapes public memory. Roswell's tourism model can encourage the 
 
 The comparison shows that famous UFO cases persist not simply because of unresolved evidence but because communities create ways to remember them.
 
-Roswell preserves memory through civic identity. The town has adopted the UFO story as part of its public image, turning a disputed historical event into a continuing cultural and economic resource. Museums, festivals and branding ensure that new generations encounter the legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seeroswell.com">[Seeroswell+2New Mexico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seeroswell.com</span><span class="citation-popover-title">international ufo museum research center</span><span class="citation-popover-snippet">International UFO Museum &amp; Research CenterSince 1992, the International UFO Museum and Research Center has exhibited informatio...</span></span></span>
+Roswell preserves memory through civic identity. The town has adopted the UFO story as part of its public image, turning a disputed historical event into a continuing cultural and economic resource. Museums, festivals and branding ensure that new generations encounter the legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seeroswell.com">[Seeroswell+2New Mexico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seeroswell.com</span><span class="citation-popover-title">international ufo museum research center</span><span class="citation-popover-snippet">International UFO Museum &amp; Research CenterSince 1992, the International UFO Museum and Research Center has exhibited informatio...</span></span></span>
 
-Rendlesham preserves memory through landscape. The [forest trail]({{ 'forest-trail/' | relative_url }}), interpretation materials and sculpture allow visitors to encounter the mystery in the environment where it allegedly unfolded. Rather than building a complete UFO-themed destination, Rendlesham turns the act of walking through the woods into an act of remembrance and interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
+Rendlesham preserves memory through landscape. The [forest trail]({{ 'forest-trail/' | relative_url }}), interpretation materials and sculpture allow visitors to encounter the mystery in the environment where it allegedly unfolded. Rather than building a complete UFO-themed destination, Rendlesham turns the act of walking through the woods into an act of remembrance and interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
 
 Together they illustrate two distinct paths by which UFO stories become part of cultural history: one through a town that embraces an extraterrestrial identity, and the other through a forest that invites visitors to step into an unresolved memory.
 
@@ -335,194 +335,194 @@ Together they illustrate two distinct paths by which UFO stories become part of 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_tourism_vs_trail_mem_2dbbdb-Illustration-3-dark.svg" | relative_url }}" alt="Public Memory illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_tourism_vs_trail_mem_2dbbdb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_tourism_vs_trail_mem_2dbbdb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Places Turn UFO Cases Into Memory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Places Turn UFO Cases Into Memory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides essential context for how UFO cases entered public culture and collective memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for how UFO cases entered public culture and collective memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Directly examines the Roswell incident that became a civic identity and tourism phenomenon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the Roswell incident that became a civic identity and tourism phenomenon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Illustrates how disputed stories, government secrecy, and public imagination create enduring legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how disputed stories, government secrecy, and public imagination create enduring legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO narratives become cultural belief systems and persist through communities and places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO narratives become cultural belief systems and persist through communities and places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="public-memory-how-places-turn-ufo-cases-into-memory-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,206 +728,206 @@ Together they illustrate two distinct paths by which UFO stories become part of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: roswellufomuseum.com  
-   Link: <a href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum and Research Center | Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</p></details>
+   Link:<a href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum and Research Center | Gift Shop...Come and explore our exhibits, witness firsthand accounts, an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: seeroswell.com  
    Title: international ufo museum research center  
-   Link: <a href="https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum &amp; Research CenterSince 1992, the International UFO Museum and Research Center has exhibited informatio...</p></details>
+   Link:<a href="https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum &amp; Research CenterSince 1992, the International UFO Museum and Research Center has exhibited informatio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufofestival.com  
-   Link: <a href="https://ufofestival.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofestival.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More information on intergalactic entertainment, out-of-this- world speakers, and stellar events coming soon! Stay tuned...Read more...</p></details>
+   Link:<a href="https://ufofestival.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofestival.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More information on intergalactic entertainment, out-of-this- world speakers, and stellar events coming soon! Stay tuned...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: seeroswell.com  
-   Link: <a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | We BelieveThe UFO Festival attracts thousands of humanoids every year with an insatiable curiosity and love of all things a...</p></details>
+   Link:<a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | We BelieveThe UFO Festival attracts thousands of humanoids every year with an insatiable curiosity and love of all things a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: roswell-nm.gov  
    Title: UFO Festival Report 2023  
-   Link: <a href="https://www.roswell-nm.gov/1852/UFO-Festival-Report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/1852/UFO-Festival-Report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell NMUFO Festival Report 2023 | Roswell, NMThe 2023 UFO Festival had a $510,205 direct economic impact for Roswell and brought more...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/1852/UFO-Festival-Report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/1852/UFO-Festival-Report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell NMUFO Festival Report 2023 | Roswell, NMThe 2023 UFO Festival had a $510,205 direct economic impact for Roswell and brought more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: roswell-nm.gov  
    Title: Our History  
-   Link: <a href="https://roswell-nm.gov/654/Our-History" target="_blank" rel="noopener noreferrer nofollow">https://roswell-nm.gov/654/Our-History</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NMThat&#x27;s when an object that crashed in the area in late June or early July of 1947 was alleged to be an extraterrestrial spacec...</p></details>
+   Link:<a href="https://roswell-nm.gov/654/Our-History" target="_blank" rel="noopener noreferrer nofollow">https://roswell-nm.gov/654/Our-History</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NMThat&#x27;s when an object that crashed in the area in late June or early July of 1947 was alleged to be an extraterrestrial spacec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: seeroswell.com  
-   Link: <a href="https://seeroswell.com/blog/places/the-roswell-ufo-tour/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/blog/places/the-roswell-ufo-tour/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO TourThe Roswell UFO Tour is approximately two hours in length. Visitors are driven from site to site within the city by t...</p></details>
+   Link:<a href="https://seeroswell.com/blog/places/the-roswell-ufo-tour/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/blog/places/the-roswell-ufo-tour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO TourThe Roswell UFO Tour is approximately two hours in length. Visitors are driven from site to site within the city by t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: seeroswell.com  
-   Link: <a href="https://seeroswell.com/museums-attractions/roswell-ufo-spacewalk-and-gallery/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/museums-attractions/roswell-ufo-spacewalk-and-gallery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Spacewalk and GalleryAn out-of-this-world family-friendly experience that will transport you to another planet! 116 E. 2nd St...</p></details>
+   Link:<a href="https://seeroswell.com/museums-attractions/roswell-ufo-spacewalk-and-gallery/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/museums-attractions/roswell-ufo-spacewalk-and-gallery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Spacewalk and GalleryAn out-of-this-world family-friendly experience that will transport you to another planet! 116 E. 2nd St...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Caso Roswell  
-   Link: <a href="https://pt.wikipedia.org/wiki/Caso_Roswell" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Caso_Roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caso Roswell – Wikipédia, a enciclopédia livreO Caso Roswell, ou Incidente em Roswell (em inglês: The Roswell Incident) refere-se à re...</p></details>
+   Link:<a href="https://pt.wikipedia.org/wiki/Caso_Roswell" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Caso_Roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caso Roswell – Wikipédia, a enciclopédia livreO Caso Roswell, ou Incidente em Roswell (em inglês: The Roswell Incident) refere-se à re...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We loved it! They have a research library and a film about UFOs and aliens, which we thought...Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We loved it! They have a research library and a film about UFOs and aliens, which we thought...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tripadvisor.com  
    Title: Rendlesham Forest Centre  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know...UFO incident at Rendlesham Forest. UFO trail closed. The statue was heavily scratched with peoples names ect not v...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know...UFO incident at Rendlesham Forest. UFO trail closed. The statue was heavily scratched with peoples names ect not v...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-or2440-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-or2440-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We loved it! They have a research library and a film about UFOs and aliens, which we thought...Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-or2440-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-or2440-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We loved it! They have a research library and a film about UFOs and aliens, which we thought...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: roswellufomuseum.com  
    Title: upcoming events  
-   Link: <a href="https://www.roswellufomuseum.com/upcoming-events" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/upcoming-events</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 UFO Museum UFOlogist InvasionJoin us for our annual UFOlogist Invasion, where enthusiasts and experts gather to share insights and d...</p></details>
+   Link:<a href="https://www.roswellufomuseum.com/upcoming-events" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/upcoming-events</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2026 UFO Museum UFOlogist InvasionJoin us for our annual UFOlogist Invasion, where enthusiasts and experts gather to share insights and d...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufofestival.com  
-   Link: <a href="https://ufofestival.com/about/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://ufofestival.com/about/faqs/</a>  
+   Link:<a href="https://ufofestival.com/about/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://ufofestival.com/about/faqs/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: STAYING AT RENDLESHAM CAMPING AND DOING THE UFO TRAIL  
-   Link: <a href="https://www.youtube.com/watch?v=7AGPxKnSRvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7AGPxKnSRvE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM - International UFO Museum - The Spacewalk - The Alien Zone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7AGPxKnSRvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7AGPxKnSRvE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM - International UFO Museum - The Spacewalk - The Alien Zone...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Roswell, NM  
-   Link: <a href="https://www.youtube.com/watch?v=nu0VqM6FIvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nu0VqM6FIvA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=nu0VqM6FIvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nu0VqM6FIvA</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</p></details>
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: forestryengland.uk  
    Title: rendlesham forest  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham ForestWalk the UFO trail and discover more about the famous UFO sighting in December 1980. The Discover...</p></details>
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham ForestWalk the UFO trail and discover more about the famous UFO sighting in December 1980. The Discover...</p></details>
    Published: December 1980  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newmexico.org  
-   Link: <a href="https://www.newmexico.org/events/summer-events/roswell-ufo-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexico.org/events/summer-events/roswell-ufo-festival/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO FestivalMix and mingle with UFO and space enthusiasts while enjoying live entertainment, family-friendly activities, guest sp...</p></details>
+   Link:<a href="https://www.newmexico.org/events/summer-events/roswell-ufo-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexico.org/events/summer-events/roswell-ufo-festival/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO FestivalMix and mingle with UFO and space enthusiasts while enjoying live entertainment, family-friendly activities, guest sp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/b15f37700428066a206d713f589c57b8" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b15f37700428066a206d713f589c57b8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The new patch, unveiled on Friday, features the city logo of a flying saucer with a beam forming the letter &quot;R,&quot; encircled by the motto &quot;...</p></details>
+   Link:<a href="https://apnews.com/article/b15f37700428066a206d713f589c57b8" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b15f37700428066a206d713f589c57b8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The new patch, unveiled on Friday, features the city logo of a flying saucer with a beam forming the letter &quot;R,&quot; encircled by the motto &quot;...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest CentreThe trail itself is a circular walk of approximately 3 miles through the forest. UFO trail closed with...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g186387-d1758736-Reviews-Rendlesham_Forest_Centre-Woodbridge_Suffolk_East_Anglia_England.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest CentreThe trail itself is a circular walk of approximately 3 miles through the forest. UFO trail closed with...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: postcardfromsuffolk.com  
    Title: Postcard from Suffolk Rendlesham Forest UFO Trail  
-   Link: <a href="https://www.postcardfromsuffolk.com/rendlesham-forest-ufo-trail/" target="_blank" rel="noopener noreferrer nofollow">https://www.postcardfromsuffolk.com/rendlesham-forest-ufo-trail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail - Postcard from SuffolkRendlesham Forest UFO Trail 3 mile circular walk - what you can expect to see during y...</p></details>
+   Link:<a href="https://www.postcardfromsuffolk.com/rendlesham-forest-ufo-trail/" target="_blank" rel="noopener noreferrer nofollow">https://www.postcardfromsuffolk.com/rendlesham-forest-ufo-trail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail - Postcard from SuffolkRendlesham Forest UFO Trail 3 mile circular walk - what you can expect to see during y...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: forestryengland.uk  
    Title: Rendlesham UFO Leaflet (Jan 23)  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — In December 1980 several sightings of a UFO were reported in Rendlesham...</p></details>
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — In December 1980 several sightings of a UFO were reported in Rendlesham...</p></details>
    Published: December 1980  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO Trail  
-   Link: <a href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8LxGbgc1FI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forestry EnglandHi, I am Shaun, In this video, we visited the Rendlesham Forest. It is a 3,700-acre mixed woodland in Suffolk owned by Fo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8LxGbgc1FI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forestry EnglandHi, I am Shaun, In this video, we visited the Rendlesham Forest. It is a 3,700-acre mixed woodland in Suffolk owned by Fo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/united-states/roswell/international-ufo-museum-and-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/roswell/international-ufo-museum-and-research-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum and Research Center | RoswellExplore the International UFO Museum and Research Center in Roswell. Discover alien...</p></details>
+   Link:<a href="https://www.kupi.com/en-ae/explore/united-states/roswell/international-ufo-museum-and-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/roswell/international-ufo-museum-and-research-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum and Research Center | RoswellExplore the International UFO Museum and Research Center in Roswell. Discover alien...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: visit-burystedmunds.co.uk  
-   Link: <a href="https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO TrailA three mile trail that will stimulate your imagination, taking you through forest, heathland and wetlands and...</p></details>
+   Link:<a href="https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO TrailA three mile trail that will stimulate your imagination, taking you through forest, heathland and wetlands and...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thoughts on alien writing from Roswell I-BeamIf memory serves, I think also at Rendlesham Forest they saw some writing. This is a multi-c...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thoughts on alien writing from Roswell I-BeamIf memory serves, I think also at Rendlesham Forest they saw some writing. This is a multi-c...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/ufo-mystery-rendlesham-forest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/ufo-mystery-rendlesham-forest.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo mystery rendlesham forest Stock [Photos](&amp;#123;&amp;#123; &#x27;photos/&#x27; | relative_url &amp;#125;&amp;#125;) and ImagesRF 2G5F2XF–Metal sculpture marking the UFO trail in Rendlesham Forest Suffolk Englan...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/ufo-mystery-rendlesham-forest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/ufo-mystery-rendlesham-forest.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo mystery rendlesham forest Stock [Photos](&amp;#123;&amp;#123; &#x27;photos/&#x27; | relative_url &amp;#125;&amp;#125;) and ImagesRF 2G5F2XF–Metal sculpture marking the UFO trail in Rendlesham Forest Suffolk Englan...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SeeRoswellNM/posts/the-countdown-to-the-roswell-ufo-festival-is-officially-on-mark-your-calendars-f/996951796212360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SeeRoswellNM/posts/the-countdown-to-the-roswell-ufo-festival-is-officially-on-mark-your-calendars-f/996951796212360/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience fascinating talks by leading UFO researchers, visit the UFO Museum, and enjoy an unforgettable cosmic adventure with fellow UF...</p></details>
+   Link:<a href="https://www.facebook.com/SeeRoswellNM/posts/the-countdown-to-the-roswell-ufo-festival-is-officially-on-mark-your-calendars-f/996951796212360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SeeRoswellNM/posts/the-countdown-to-the-roswell-ufo-festival-is-officially-on-mark-your-calendars-f/996951796212360/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experience fascinating talks by leading UFO researchers, visit the UFO Museum, and enjoy an unforgettable cosmic adventure with fellow UF...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: It's 45 years since the "Rendlesham Forest Incident"  
-   Link: <a href="https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest area has a history of UFO sightings, with reports of strange skin blisters and green fireballs emerging fro...</p></details>
+   Link:<a href="https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest area has a history of UFO sightings, with reports of strange skin blisters and green fireballs emerging fro...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s multiple witnesses, including military. It&#x27;s sightings over three consecutive nights. It&#x27;s physical...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s multiple witnesses, including military. It&#x27;s sightings over three consecutive nights. It&#x27;s physical...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: visitwickhammarket.co.uk  
    Title: Wickham Market UFO Trail Rendlesham Forest  
-   Link: <a href="https://visitwickhammarket.co.uk/walks-and-trails/ufo-trail-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://visitwickhammarket.co.uk/walks-and-trails/ufo-trail-rendlesham-forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Trail Rendlesham Forest - Wickham MarketUFO Trail Rendlesham Forest 3 miles / 5 kms – Circular Forest Trails Map. Official Visitor We...</p></details>
+   Link:<a href="https://visitwickhammarket.co.uk/walks-and-trails/ufo-trail-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://visitwickhammarket.co.uk/walks-and-trails/ufo-trail-rendlesham-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Trail Rendlesham Forest - Wickham MarketUFO Trail Rendlesham Forest 3 miles / 5 kms – Circular Forest Trails Map. Official Visitor We...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: breaksandbites.co.uk  
    Title: the astonishing story of rendlesham forest  
-   Link: <a href="https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2025 — So begins the leaflet for the Rendlesham Forest UFO Trail: a three-mile circular walk through parts of the 1,500-hectare fo...</p></details>
+   Link:<a href="https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2025 — So begins the leaflet for the Rendlesham Forest UFO Trail: a three-mile circular walk through parts of the 1,500-hectare fo...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: roswellufotour.com  
-   Link: <a href="https://roswellufotour.com/" target="_blank" rel="noopener noreferrer nofollow">https://roswellufotour.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xperience the real places where Roswell&#x27;s...Read more...</p></details>
+   Link:<a href="https://roswellufotour.com/" target="_blank" rel="noopener noreferrer nofollow">https://roswellufotour.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xperience the real places where Roswell&#x27;s...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZapfJ5F7Gn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZapfJ5F7Gn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ebated UFO cases ever recorded. Th. May 30.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZapfJ5F7Gn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZapfJ5F7Gn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ebated UFO cases ever recorded. Th. May 30.Read more...</p></details>

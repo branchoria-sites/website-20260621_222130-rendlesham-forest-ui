@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-index/
 description: Focused pages that expand on Rendlesham Forest.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35
 parent_title: Rendlesham Forest
@@ -16,7 +16,7 @@ parent_permalink: /rendlesham-forest/
 
 # Explore Topics in Rendlesham Forest
 
-The following pages expand on the main **[Rendlesham Forest]({{ '/rendlesham-forest/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Rendlesham Forest]({{ '/rendlesham-forest/' | relative_url }})** page and cover its key branches in.
 
 - [Archives]({{ '/archives/' | relative_url }})
 - [Bentwaters]({{ '/bentwaters/' | relative_url }})

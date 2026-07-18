@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-usaf/
 description: Focused pages that expand on Reporting.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a
 parent_title: Reporting
@@ -16,7 +16,7 @@ parent_permalink: /reporting/
 
 # Explore Topics in Reporting
 
-The following pages expand on the main **[Reporting]({{ '/reporting/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Reporting]({{ '/reporting/' | relative_url }})** page and cover its key branches in.
 
 - [Back Gate]({{ '/back-gate/' | relative_url }})
 - [DS 8 Role]({{ '/ds-8-role/' | relative_url }})

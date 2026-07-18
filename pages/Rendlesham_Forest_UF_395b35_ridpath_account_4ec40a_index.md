@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-ridpath/
 description: Focused pages that expand on Ridpath.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_ridpath_account_4ec40a
 parent_title: Ridpath
@@ -16,7 +16,7 @@ parent_permalink: /ridpath/
 
 # Explore Topics in Ridpath
 
-The following pages expand on the main **[Ridpath]({{ '/ridpath/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ridpath]({{ '/ridpath/' | relative_url }})** page and cover its key branches in.
 
 - [Fireball alarm]({{ '/fireball-alarm/' | relative_url }})
 - [Sight lines]({{ '/sight-lines/' | relative_url }})

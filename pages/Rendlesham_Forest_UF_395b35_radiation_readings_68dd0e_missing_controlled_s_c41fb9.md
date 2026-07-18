@@ -280,19 +280,19 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_miss
 
 ## Introduction
 
-One of the least discussed weaknesses in the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) radiation claim is not the reported numbers themselves but what never happened afterwards. Lieutenant Colonel Charles Halt’s memorandum recorded elevated beta/gamma readings in and around three ground depressions associated with the alleged [landing site]({{ 'landing-site/' | relative_url }}), yet no documented, systematic follow-up survey was conducted to determine whether those readings were unusual for the area, reproducible, or meaningfully different from nearby ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</span></span></span>
+One of the least discussed weaknesses in the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) radiation claim is not the reported numbers themselves but what never happened afterwards. Lieutenant Colonel Charles Halt’s memorandum recorded elevated beta/gamma readings in and around three ground depressions associated with the alleged [landing site]({{ 'landing-site/' | relative_url }}), yet no documented, systematic follow-up survey was conducted to determine whether those readings were unusual for the area, reproducible, or meaningfully different from nearby ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-1-dark.svg" | relative_url }}" alt="Survey Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For any environmental radiation claim, the strongest evidence comes from repeated measurements, mapped locations, calibrated instruments, and comparison with carefully selected control points. Without those steps, even genuine differences in readings are difficult to interpret. In the Rendlesham case, the absence of such a survey left a critical evidential gap that remains unresolved decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+For any environmental radiation claim, the strongest evidence comes from repeated measurements, mapped locations, calibrated instruments, and comparison with carefully selected control points. Without those steps, even genuine differences in readings are difficult to interpret. In the Rendlesham case, the absence of such a survey left a critical evidential gap that remains unresolved decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 ## Why No Follow-Up Survey Matters
 
-The original radiation observations were made during a field investigation rather than as part of a scientific study. Halt’s memorandum reported readings in specific locations, including the depressions and a nearby tree, but it did not provide a detailed site map, a measurement grid, instrument calibration data, or a structured comparison with multiple nearby locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</span></span></span>
+The original radiation observations were made during a field investigation rather than as part of a scientific study. Halt’s memorandum reported readings in specific locations, including the depressions and a nearby tree, but it did not provide a detailed site map, a measurement grid, instrument calibration data, or a structured comparison with multiple nearby locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</span></span></span>
 
-That distinction is important because radiation measurements are inherently comparative. A reading only becomes significant when investigators can show that it differs consistently from the surrounding environment and exceeds expected natural variation. Forest soils can vary in radioactivity because of geology, moisture, vegetation, and other local factors. A single reading, or even a cluster of readings, cannot establish an anomaly unless equivalent nearby locations are measured under the same conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">For more about the landing marks, including a sketch...Read more...</span></span></span>
+That distinction is important because radiation measurements are inherently comparative. A reading only becomes significant when investigators can show that it differs consistently from the surrounding environment and exceeds expected natural variation. Forest soils can vary in radioactivity because of geology, moisture, vegetation, and other local factors. A single reading, or even a cluster of readings, cannot establish an anomaly unless equivalent nearby locations are measured under the same conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">For more about the landing marks, including a sketch...Read more...</span></span></span>
 
-The Ministry of Defence's later position highlights the practical consequence of this gap. In a parliamentary response, the government stated that there was no record of any official assessment of the radiation readings reported by Halt and that no further evaluation had been undertaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+The Ministry of Defence's later position highlights the practical consequence of this gap. In a parliamentary response, the government stated that there was no record of any official assessment of the radiation readings reported by Halt and that no further evaluation had been undertaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 ## What a Controlled Survey Would Require
 
@@ -309,7 +309,7 @@ Such a survey would normally include:
 
 In practice, investigators would likely establish concentric sampling zones around the depressions and then compare them with dozens of randomly selected locations elsewhere in the forest. If the depressions consistently produced elevated readings while controls did not, the claim would gain strength. If similar readings appeared widely across the area, the anomaly would largely disappear.
 
-Nothing comparable is known to have been conducted in the immediate aftermath of the incident. The surviving documentation contains reported readings but not the type of survey framework needed to establish environmental significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+Nothing comparable is known to have been conducted in the immediate aftermath of the incident. The surviving documentation contains reported readings but not the type of survey framework needed to establish environmental significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.9K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ Consider three possible outcomes:
 
 This is precisely why modern environmental investigations place such emphasis on controls. The question is rarely whether a reading exists; it is whether the reading is distinguishable from what appears elsewhere nearby.
 
-Sceptical analyses of the Rendlesham data have repeatedly noted that reported readings around 0.03–0.04 milliroentgens per hour appeared in surrounding areas, while the highest reported values were only modestly above those levels. Without a structured comparison programme, it is impossible to know whether the measured differences represented a meaningful anomaly or ordinary variation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</span></span></span>
+Sceptical analyses of the Rendlesham data have repeatedly noted that reported readings around 0.03–0.04 milliroentgens per hour appeared in surrounding areas, while the highest reported values were only modestly above those levels. Without a structured comparison programme, it is impossible to know whether the measured differences represented a meaningful anomaly or ordinary variation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-2-dark.svg" | relative_url }}" alt="Survey Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,7 +348,7 @@ This timing problem affects both believers and sceptics. Those who argue that th
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-3-dark.svg" | relative_url }}" alt="Survey Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_radiation_readings_68dd0e_missing_controlled_s_c41fb9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Later Surveys Can and Cannot Prove
 
-Decades after the incident, independent researchers carried out new radiation measurements in Rendlesham Forest and reported statistical associations between current radiation levels and locations connected with the UFO narrative. However, such work cannot fully replace a contemporaneous control survey because environmental conditions, land use, instrumentation and sampling methods differ from those present in 1980. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebate.org/2018/02/24/radiation-survey-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebate.org">[The Debate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebate.org</span><span class="citation-popover-title">radiation survey of rendlesham forest</span><span class="citation-popover-snippet">The DebateA radiation survey of Rendlesham Forest identifying hotspots...Feb 24, 2018 — A comprehensive radiation survey of Rendlesham F...</span></span></span>
+Decades after the incident, independent researchers carried out new radiation measurements in Rendlesham Forest and reported statistical associations between current radiation levels and locations connected with the UFO narrative. However, such work cannot fully replace a contemporaneous control survey because environmental conditions, land use, instrumentation and sampling methods differ from those present in 1980.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebate.org/2018/02/24/radiation-survey-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebate.org">[The Debate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebate.org</span><span class="citation-popover-title">radiation survey of rendlesham forest</span><span class="citation-popover-snippet">The DebateA radiation survey of Rendlesham Forest identifying hotspots...Feb 24, 2018 — A comprehensive radiation survey of Rendlesham F...</span></span></span>
 
 The key question is not whether measurable differences exist in the forest today. The key question is whether the specific readings recorded by Halt in December 1980 represented an unusual environmental condition at that time. A properly designed control survey conducted immediately after the event would have addressed that question directly.
 
@@ -361,205 +361,205 @@ Because that survey was never performed, later measurements can suggest possibil
 
 The radiation debate surrounding Rendlesham often centres on instrument sensitivity, reported values and background levels. Those issues matter, but the larger evidential problem is methodological.
 
-No documented investigation systematically compared the alleged landing site with a network of matched control locations. No published mapping exercise established whether the reported hotspots were unique. No official assessment appears to have followed the original report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
+No documented investigation systematically compared the alleged landing site with a network of matched control locations. No published mapping exercise established whether the reported hotspots were unique. No official assessment appears to have followed the original report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</span></span></span>
 
 As a result, one of the most potentially testable aspects of the Rendlesham incident remains suspended between competing interpretations. The reported readings may have reflected a genuine local anomaly, ordinary environmental variation, instrument limitations, or some combination of those factors. The missing controlled survey does not prove any particular explanation, but it prevents any explanation from being confirmed with confidence.
 
-That absence is why the survey gap remains one of the most important unresolved issues within the broader debate over Rendlesham Forest's radiation evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</span></span></span>
+That absence is why the survey gap remains one of the most important unresolved issues within the broader debate over Rendlesham Forest's radiation evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k1srXUsI-7U" title="Investigating the US Military Tapes of the Rendlesham UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer">Investigating the US Military Tapes of the Rendlesham UFO</a></p><p class="youtube-embed-meta">Channel: Watcher</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k1srXUsI-7U">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why No Follow Up Survey Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why No Follow Up Survey Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Addresses the radiation evidence directly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the radiation evidence directly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Covers radiation claims and witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers radiation claims and witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for assessing scientific evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing scientific evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Links UFO discussions with radiation and military contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links UFO discussions with radiation and military contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="survey-gap-why-no-follow-up-survey-matters-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ That absence is why the survey gap remains one of the most important unresolved 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ That absence is why the survey gap remains one of the most important unresolved 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ That absence is why the survey gap remains one of the most important unresolved 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ That absence is why the survey gap remains one of the most important unresolved 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ That absence is why the survey gap remains one of the most important unresolved 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,115 +765,115 @@ That absence is why the survey gap remains one of the most important unresolved 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Halt Memorandum.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of Defence repo...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of Defence repo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-14/debates/96394ce5-f0db-4448-af50-43a69fbf3c57/LieutenantColonelCharlesHaltMemorandum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lieutenant Colonel Charles Halt: Memorandum - Hansard14 Oct 1997 — There is no record of any official assessment of the radiation...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For more about the [landing marks](&amp;#123;&amp;#123; &#x27;landing-marks/&#x27; | relative_url &amp;#125;&amp;#125;), including a sketch...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For more about the [landing marks](&amp;#123;&amp;#123; &#x27;landing-marks/&#x27; | relative_url &amp;#125;&amp;#125;), including a sketch...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedebate.org  
    Title: radiation survey of rendlesham forest  
-   Link: <a href="https://thedebate.org/2018/02/24/radiation-survey-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://thedebate.org/2018/02/24/radiation-survey-of-rendlesham-forest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebateA radiation survey of Rendlesham Forest identifying hotspots...Feb 24, 2018 — A comprehensive radiation survey of Rendlesham F...</p></details>
+   Link:<a href="https://thedebate.org/2018/02/24/radiation-survey-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://thedebate.org/2018/02/24/radiation-survey-of-rendlesham-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebateA radiation survey of Rendlesham Forest identifying hotspots...Feb 24, 2018 — A comprehensive radiation survey of Rendlesham F...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thedebate.org  
    Title: rendlesham forest incident 1980 radiation readings important new information  
-   Link: <a href="https://thedebate.org/2019/09/03/rendlesham-forest-incident-1980-radiation-readings-important-new-information/" target="_blank" rel="noopener noreferrer nofollow">https://thedebate.org/2019/09/03/rendlesham-forest-incident-1980-radiation-readings-important-new-information/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We have confirmed that the correct background radiation level in that...Read more...</p></details>
+   Link:<a href="https://thedebate.org/2019/09/03/rendlesham-forest-incident-1980-radiation-readings-important-new-information/" target="_blank" rel="noopener noreferrer nofollow">https://thedebate.org/2019/09/03/rendlesham-forest-incident-1980-radiation-readings-important-new-information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We have confirmed that the correct background radiation level in that...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham4a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4a.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is folio 9 in Part 1 of the file.Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham4a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is folio 9 in Part 1 of the file.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO case  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Were the radiation readings significant? Summary. According to the manufacturers of the instrument that was used to take...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were the radiation readings significant? Summary. According to the manufacturers of the instrument that was used to take...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gold.ac.uk  
-   Link: <a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian [Ridpath](&amp;#123;&amp;#123; &#x27;ridpath/&#x27; | relative_url &amp;#125;&amp;#125;): UFOs: Fact or fantasy?12 Jan 2016 — This hard-hitting talk by Ian Ridpath, astronomy writer and UFO sceptic, traces the grow...</p></details>
+   Link:<a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian [Ridpath](&amp;#123;&amp;#123; &#x27;ridpath/&#x27; | relative_url &amp;#125;&amp;#125;): UFOs: Fact or fantasy?12 Jan 2016 — This hard-hitting talk by Ian Ridpath, astronomy writer and UFO sceptic, traces the grow...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: conwayhall.org.uk  
-   Link: <a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a MythHere, skeptical investigator Ian Ridpath looks at the main points of the case and provides explanations...</p></details>
+   Link:<a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a MythHere, skeptical investigator Ian Ridpath looks at the main points of the case and provides explanations...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WEB VERSION OF [UFO TRAIL](&amp;#123;&amp;#123; &#x27;ufo-trail/&#x27; | relative_url &amp;#125;&amp;#125;). pdfIf your appetite for the Rendlesham UFO sightings has been whetted, you may want to find out more. Books on t...</p></details>
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WEB VERSION OF [UFO TRAIL](&amp;#123;&amp;#123; &#x27;ufo-trail/&#x27; | relative_url &amp;#125;&amp;#125;). pdfIf your appetite for the Rendlesham UFO sightings has been whetted, you may want to find out more. Books on t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: the rendlesham forest ufo case deconstructing a myth with ian ridpath  
-   Link: <a href="https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/?locale=hu_HU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Case: Deconstructing a Myth...The Rendlesham Forest UFO incident of Christmas 1980 ranks as one of the top ten...</p></details>
+   Link:<a href="https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/?locale=hu_HU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Case: Deconstructing a Myth...The Rendlesham Forest UFO incident of Christmas 1980 ranks as one of the top ten...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: socialmediaforaliens.com  
-   Link: <a href="https://socialmediaforaliens.com/files/rendlesham-forest-1980" target="_blank" rel="noopener noreferrer nofollow">https://socialmediaforaliens.com/files/rendlesham-forest-1980</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Social Media for Aliens13 Jan 1981 — The &#x27;Halt memo&#x27;, a memorandum dated 13 January 1981 from Lt...</p></details>
+   Link:<a href="https://socialmediaforaliens.com/files/rendlesham-forest-1980" target="_blank" rel="noopener noreferrer nofollow">https://socialmediaforaliens.com/files/rendlesham-forest-1980</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Social Media for Aliens13 Jan 1981 — The &#x27;Halt memo&#x27;, a memorandum dated 13 January 1981 from Lt...</p></details>
    Published: January 1981  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — Halt and Englund have a Geiger counter with them and take ra...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — Halt and Englund have a Geiger counter with them and take ra...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: iheart.com  
    Title: the halt tape real time evidence from 331910095  
-   Link: <a href="https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/the-halt-tape-real-time-evidence-from-331910095/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/the-halt-tape-real-time-evidence-from-331910095/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Halt Tape: Real-Time Evidence from the Forest27 Apr 2026 — What that recorder captured — radiation readings at the original landing s...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/the-halt-tape-real-time-evidence-from-331910095/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/the-halt-tape-real-time-evidence-from-331910095/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Halt Tape: Real-Time Evidence from the Forest27 Apr 2026 — What that recorder captured — radiation readings at the original landing s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Legendary British Alien Sighting | History's Greatest Mysteries (S6)  
-   Link: <a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO radiation survey evidence Ministry of Defence Investigating the US Military Tapes of the Rendlesham UFO Watcher...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO radiation survey evidence Ministry of Defence Investigating the US Military Tapes of the Rendlesham UFO Watcher...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: what are your thoughts on the rendlesham forest  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force personnel at RAF Woodbridge in Suffolk, England, reported a series of UFO sightings in Rendlesham Forest. Witnesses described...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tqzifc/what_are_your_thoughts_on_the_rendlesham_forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force personnel at RAF Woodbridge in Suffolk, England, reported a series of UFO sightings in Rendlesham Forest. Witnesses described...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoql-FoT8pUlGbyc4e920s41wE9rX_r1Q7lPLZCatspZYP9_ID9I" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoql-FoT8pUlGbyc4e920s41wE9rX_r1Q7lPLZCatspZYP9_ID9I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellUpon reaching the alleged landing site from the [first night](&amp;#123;&amp;#123; &#x27;first-night/&#x27; | relative_url &amp;#125;&amp;#125;), Halt&#x27;s team took radiation read...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoql-FoT8pUlGbyc4e920s41wE9rX_r1Q7lPLZCatspZYP9_ID9I" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoql-FoT8pUlGbyc4e920s41wE9rX_r1Q7lPLZCatspZYP9_ID9I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellUpon reaching the alleged landing site from the [first night](&amp;#123;&amp;#123; &#x27;first-night/&#x27; | relative_url &amp;#125;&amp;#125;), Halt&#x27;s team took radiation read...</p></details>

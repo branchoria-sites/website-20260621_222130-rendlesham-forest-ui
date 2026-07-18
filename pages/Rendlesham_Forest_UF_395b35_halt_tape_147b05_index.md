@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-halt-tape/
 description: Focused pages that expand on Halt Tape.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_halt_tape_147b05
 parent_title: Halt Tape
@@ -16,7 +16,7 @@ parent_permalink: /halt-tape/
 
 # Explore Topics in Halt Tape
 
-The following pages expand on the main **[Halt Tape]({{ '/halt-tape/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Halt Tape]({{ '/halt-tape/' | relative_url }})** page and cover its key branches in.
 
 - [Audio to Memo]({{ '/audio-to-memo/' | relative_url }})
 - [Ground Marks]({{ '/ground-marks-ba5a2d/' | relative_url }})

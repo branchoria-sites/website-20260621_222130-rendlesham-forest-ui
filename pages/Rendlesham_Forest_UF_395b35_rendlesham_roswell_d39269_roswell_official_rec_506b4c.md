@@ -274,7 +274,7 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_rosw
 
 ## Introduction
 
-Roswell received a far larger official reconstruction than Rendlesham because the controversy became too visible, too politically sensitive and too persistent for the US government to ignore. By the early 1990s, nearly half a century after the 1947 incident, Roswell had evolved from a local mystery into a national dispute about government secrecy, military credibility and alleged extraterrestrial evidence. Congressional interest, media attention, bestselling books and growing public suspicion created pressure for a formal review. Rather than issuing a brief statement, the US Air Force undertook an extensive effort to rebuild the case from surviving records, archived documents and witness testimony. The result was a pair of major official reports intended to explain what happened and close the debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
+Roswell received a far larger official reconstruction than Rendlesham because the controversy became too visible, too politically sensitive and too persistent for the US government to ignore. By the early 1990s, nearly half a century after the 1947 incident, Roswell had evolved from a local mystery into a national dispute about government secrecy, military credibility and alleged extraterrestrial evidence. Congressional interest, media attention, bestselling books and growing public suspicion created pressure for a formal review. Rather than issuing a brief statement, the US Air Force undertook an extensive effort to rebuild the case from surviving records, archived documents and witness testimony. The result was a pair of major official reports intended to explain what happened and close the debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-1-dark.svg" | relative_url }}" alt="Case Closed illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,9 +285,9 @@ In the comparison between Rendlesham and Roswell as UFO legends, this difference
 
 ## The Political Pressure Behind Later Reviews
 
-The immediate trigger for the official Roswell reinvestigation was not new physical evidence but political scrutiny. In 1994, New Mexico Congressman Steven Schiff requested a formal inquiry after receiving questions from constituents about the alleged crash and possible government concealment. The resulting General Accounting Office (GAO) investigation examined whether records relating to the incident had been improperly destroyed or withheld. That congressional interest transformed Roswell from a cultural controversy into a matter requiring an official institutional response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
+The immediate trigger for the official Roswell reinvestigation was not new physical evidence but political scrutiny. In 1994, New Mexico Congressman Steven Schiff requested a formal inquiry after receiving questions from constituents about the alleged crash and possible government concealment. The resulting General Accounting Office (GAO) investigation examined whether records relating to the incident had been improperly destroyed or withheld. That congressional interest transformed Roswell from a cultural controversy into a matter requiring an official institutional response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
 
-By that point, Roswell had become much more than a 1947 news story. Books, television programmes and UFO researchers had popularised claims of recovered alien technology and extraterrestrial bodies. The controversy was sufficiently prominent that the Air Force concluded a detailed historical reconstruction was necessary. Its 1994 report, *The Roswell Report: Fact versus Fiction in the New Mexico Desert*, was produced specifically in response to the GAO inquiry and public controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601607.us.archive.org">[Internet Archive+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601607.us.archive.org</span><span class="citation-popover-title">DTIC ADA326148</span><span class="citation-popover-snippet">Internet ArchiveThe Roswell Report: Fact versus Fiction in the New Mexico...In February 1994, the Air Force was informed that the Genera...</span><span class="citation-popover-meta">Published: February 1994</span></span></span>
+By that point, Roswell had become much more than a 1947 news story. Books, television programmes and UFO researchers had popularised claims of recovered alien technology and extraterrestrial bodies. The controversy was sufficiently prominent that the Air Force concluded a detailed historical reconstruction was necessary. Its 1994 report, *The Roswell Report: Fact versus Fiction in the New Mexico Desert*, was produced specifically in response to the GAO inquiry and public controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601607.us.archive.org">[Internet Archive+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601607.us.archive.org</span><span class="citation-popover-title">DTIC ADA326148</span><span class="citation-popover-snippet">Internet ArchiveThe Roswell Report: Fact versus Fiction in the New Mexico...In February 1994, the Air Force was informed that the Genera...</span><span class="citation-popover-meta">Published: February 1994</span></span></span>
 
 The scale of the response reflected the scale of the problem. Officials were not merely answering questions about debris found on a ranch. They were addressing decades of accusations that the government had hidden evidence of extraterrestrial contact. A short denial would almost certainly have been dismissed. A large documentary reconstruction offered a more defensible approach because it could show how investigators reached their conclusions.
 
@@ -296,225 +296,225 @@ The scale of the response reflected the scale of the problem. Officials were not
 
 ## How Archives and Interviews Reframed Roswell
 
-The reconstruction effort relied heavily on archival recovery. Air Force researchers searched historical records, flight logs, project files and operational documents to determine what classified activities were occurring near Roswell in 1947. That process led investigators to Project Mogul, a secret balloon programme designed to detect Soviet nuclear testing. According to the Air Force, debris associated with one of these balloon arrays provided the most plausible explanation for the material recovered near Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
+The reconstruction effort relied heavily on archival recovery. Air Force researchers searched historical records, flight logs, project files and operational documents to determine what classified activities were occurring near Roswell in 1947. That process led investigators to Project Mogul, a secret balloon programme designed to detect Soviet nuclear testing. According to the Air Force, debris associated with one of these balloon arrays provided the most plausible explanation for the material recovered near Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
 
-The significance of Project Mogul was not simply that it offered an alternative explanation. It also explained why the original military response had been confused. Because the programme's purpose was classified, personnel in 1947 could not openly discuss it. The later reconstruction therefore reframed Roswell as a [Cold War]({{ 'cold-war/' | relative_url }}) secrecy problem rather than an extraterrestrial event. U.S. Air Force+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
+The significance of Project Mogul was not simply that it offered an alternative explanation. It also explained why the original military response had been confused. Because the programme's purpose was classified, personnel in 1947 could not openly discuss it. The later reconstruction therefore reframed Roswell as a [Cold War]({{ 'cold-war/' | relative_url }}) secrecy problem rather than an extraterrestrial event. U.S. Air Force+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
 
-Yet the first report did not end the controversy. Claims about alien bodies remained widespread, prompting a second major review. In 1997, the Air Force released *The Roswell Report: Case Closed*, which examined witness accounts describing non-human bodies. Investigators argued that many such [memories]({{ 'memories/' | relative_url }}) were influenced by later events, including military crash-test dummy programmes and other unusual recovery operations conducted during the 1950s. The report proposed that different incidents had become merged in [public memory]({{ 'public-memory/' | relative_url }}) over time. U.S. Department of War+2Encyclopedia Britannica <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+Yet the first report did not end the controversy. Claims about alien bodies remained widespread, prompting a second major review. In 1997, the Air Force released *The Roswell Report: Case Closed*, which examined witness accounts describing non-human bodies. Investigators argued that many such [memories]({{ 'memories/' | relative_url }}) were influenced by later events, including military crash-test dummy programmes and other unusual recovery operations conducted during the 1950s. The report proposed that different incidents had become merged in [public memory]({{ 'public-memory/' | relative_url }}) over time. U.S. Department of War+2Encyclopedia Britannica<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
-This second reconstruction illustrates how far the official effort had expanded. The government was no longer only identifying debris; it was attempting to explain the evolution of the entire Roswell narrative. The goal was to account for both the physical evidence claims and the later witness testimony that had accumulated over decades. U.S. Department of War+2Encyclopedia Britannica <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+This second reconstruction illustrates how far the official effort had expanded. The government was no longer only identifying debris; it was attempting to explain the evolution of the entire Roswell narrative. The goal was to account for both the physical evidence claims and the later witness testimony that had accumulated over decades. U.S. Department of War+2Encyclopedia Britannica<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-2-dark.svg" | relative_url }}" alt="Case Closed illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rendlesham Never Received the Same Reconstruction
 
-Rendlesham generated public interest and extensive debate, but it never produced the same institutional demand for a comprehensive historical rebuild. One reason is that the case already possessed a contemporaneous documentary record. Lieutenant Colonel Charles Halt's memo, witness statements and Ministry of Defence files gave investigators and the public a starting point that Roswell lacked. Roswell's central controversy arose partly because the original record appeared fragmented, contradictory or incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">rendlesham forest ufo britains roswell incident explored</span><span class="citation-popover-snippet">Declassified memos, like Halt&#x27;s “Unexplained Lights,” and various reports detail the events from an official perspective.Read more...</span></span></span>
+Rendlesham generated public interest and extensive debate, but it never produced the same institutional demand for a comprehensive historical rebuild. One reason is that the case already possessed a contemporaneous documentary record. Lieutenant Colonel Charles Halt's memo, witness statements and Ministry of Defence files gave investigators and the public a starting point that Roswell lacked. Roswell's central controversy arose partly because the original record appeared fragmented, contradictory or incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">rendlesham forest ufo britains roswell incident explored</span><span class="citation-popover-snippet">Declassified memos, like Halt&#x27;s “Unexplained Lights,” and various reports detail the events from an official perspective.Read more...</span></span></span>
 
-Another difference is political scale. Roswell became a symbol of alleged government concealment across the United States and internationally. Congressional involvement, a GAO inquiry and repeated media cycles created pressure for a formal historical accounting. Rendlesham certainly attracted attention in Britain, but it was generally treated by the Ministry of Defence as an event with no defence significance rather than as a national controversy requiring a large retrospective investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
+Another difference is political scale. Roswell became a symbol of alleged government concealment across the United States and internationally. Congressional involvement, a GAO inquiry and repeated media cycles created pressure for a formal historical accounting. Rendlesham certainly attracted attention in Britain, but it was generally treated by the Ministry of Defence as an event with no defence significance rather than as a national controversy requiring a large retrospective investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
 
-Most importantly, the two legends asked different questions. Roswell revolved around a claim that authorities had recovered something physical and then concealed its nature. Such a claim naturally invites archival reconstruction because records, inventories and operational files can potentially resolve it. Rendlesham centred more on observations, interpretations and witness recollections. Even a large official review would have struggled to produce the kind of documentary closure that Roswell investigators sought. U.S. Air Force+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
+Most importantly, the two legends asked different questions. Roswell revolved around a claim that authorities had recovered something physical and then concealed its nature. Such a claim naturally invites archival reconstruction because records, inventories and operational files can potentially resolve it. Rendlesham centred more on observations, interpretations and witness recollections. Even a large official review would have struggled to produce the kind of documentary closure that Roswell investigators sought. U.S. Air Force+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
 
 ## Case Closed—or a New Chapter?
 
-The official Roswell reconstructions demonstrate how [public pressure]({{ 'public-pressure/' | relative_url }}) can force governments to revisit old UFO controversies. Congressional scrutiny, media attention and persistent allegations of secrecy created a situation in which silence was no longer politically sustainable. The Air Force responded by assembling records, interviewing witnesses and producing lengthy historical reports intended to reconstruct events decades after they occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
+The official Roswell reconstructions demonstrate how [public pressure]({{ 'public-pressure/' | relative_url }}) can force governments to revisit old UFO controversies. Congressional scrutiny, media attention and persistent allegations of secrecy created a situation in which silence was no longer politically sustainable. The Air Force responded by assembling records, interviewing witnesses and producing lengthy historical reports intended to reconstruct events decades after they occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</span></span></span>
 
-Whether those reports persuaded everyone is a separate question. The continuing debate around Roswell shows that official reconstructions do not automatically settle cultural myths. Nevertheless, Roswell remains unusual because it generated one of the most extensive government efforts ever undertaken to rebuild a UFO case from the historical record. That scale of reconstruction is one reason the incident occupies a different place in UFO history from Rendlesham, despite the frequent comparison between the two legends. U.S. Air Force+2National Association of Science Writers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
+Whether those reports persuaded everyone is a separate question. The continuing debate around Roswell shows that official reconstructions do not automatically settle cultural myths. Nevertheless, Roswell remains unusual because it generated one of the most extensive government efforts ever undertaken to rebuild a UFO case from the historical record. That scale of reconstruction is one reason the incident occupies a different place in UFO history from Rendlesham, despite the frequent comparison between the two legends. U.S. Air Force+2National Association of Science Writers<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-3-dark.svg" | relative_url }}" alt="Case Closed illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_rendlesham_roswell_d39269_roswell_official_rec_506b4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Roswell Got a Bigger Official Rebuild. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Roswell Got a Bigger Official Rebuild. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony and the evolution of the Roswell controversy that drove later official reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony and the evolution of the Roswell controversy that drove later official reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores government and military engagement with UFO cases, providing context for official investigations and reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores government and military engagement with UFO cases, providing context for official investigations and reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Directly addresses the incident discussed in the article and helps explain why Rendlesham followed a different public trajectory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the incident discussed in the article and helps explain why Rendlesham followed a different public trajectory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Useful for understanding why Roswell attracted extraordinary media attention and political pressure decades later.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why Roswell attracted extraordinary media attention and political pressure decades later.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/0bd99f962f54072d69eb.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/0bd99f962f54072d69eb.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017"><img src="{{ '/assets/images/marketplace-covers/6216165bb5825d57a228.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017"><img src="{{ '/assets/images/marketplace-covers/6216165bb5825d57a228.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 12x8 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017"><img src="{{ '/assets/images/marketplace-covers/a8560f2b626e5d5f4b83.jpg' | relative_url }}" alt="Listing image for Photo 12x8 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 12x8 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 12x8 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017"><img src="{{ '/assets/images/marketplace-covers/a8560f2b626e5d5f4b83.jpg' | relative_url }}" alt="Listing image for Photo 12x8 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 12x8 Start of UFO Trail at Rendlesham Forest Centre, Suffolk Capel G c2017</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006"><img src="{{ '/assets/images/marketplace-covers/1d09326f0f822a7bd02d.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006"><img src="{{ '/assets/images/marketplace-covers/1d09326f0f822a7bd02d.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="case-closed-why-roswell-got-a-bigger-official-rebuild-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ Whether those reports persuaded everyone is a separate question. The continuing 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ Whether those reports persuaded everyone is a separate question. The continuing 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ Whether those reports persuaded everyone is a separate question. The continuing 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ Whether those reports persuaded everyone is a separate question. The continuing 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ Whether those reports persuaded everyone is a separate question. The continuing 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,129 +720,129 @@ Whether those reports persuaded everyone is a separate question. The continuing 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveThe Roswell Report: Fact versus Fiction in the New Mexico...In February 1994, the Air Force was informed that the Genera...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveThe Roswell Report: Fact versus Fiction in the New Mexico...In February 1994, the Air Force was informed that the Genera...</p></details>
    Published: February 1994  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashIn the July 1994 Report of Air Force Research Regarding the Roswell I...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashIn the July 1994 Report of Air Force Research Regarding the Roswell I...</p></details>
    Published: July 1994  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Roswell incident | Overview, Theories, Hoaxes, & Facts  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — In 1997 a definitive air force report—“The Ros...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — In 1997 a definitive air force report—“The Ros...</p></details>
    Published: May 8, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: discoveryuk.com  
    Title: [rendlesham forest](&#123;&#123; 'rendlesham-forest/' | relative_url &#125;&#125;) ufo [britains roswell](&#123;&#123; 'britain-s-roswell/' | relative_url &#125;&#125;) incident explored  
-   Link: <a href="https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified memos, like Halt&#x27;s “Unexplained Lights,” and various reports detail the events from an official perspective.Read more...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified memos, like Halt&#x27;s “Unexplained Lights,” and various reports detail the events from an official perspective.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; bega...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe Official Air Force report (Weaver &amp; McAndrew 1995) had concluded the material recovered near Roswell was consistent w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe Official Air Force report (Weaver &amp; McAndrew 1995) had concluded the material recovered near Roswell was consistent w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...By 1997 the Air Force had collected every s...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...By 1997 the Air Force had collected every s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteSummer Guide now available! Find activities offered by city&#x27;s Recreation Department, Roswell Public Library...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteSummer Guide now available! Find activities offered by city&#x27;s Recreation Department, Roswell Public Library...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ForteanTimes/posts/with-a-new-documentary-about-the-rendlesham-forest-ufo-incident-in-the-offing-da/1176123147855263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForteanTimes/posts/with-a-new-documentary-about-the-rendlesham-forest-ufo-incident-in-the-offing-da/1176123147855263/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fortean TimesThis incident is often referred to as &quot;Britain&#x27;s Roswell&quot; and involves multiple military witnesses, detailed reports, and so...</p></details>
+   Link:<a href="https://www.facebook.com/ForteanTimes/posts/with-a-new-documentary-about-the-rendlesham-forest-ufo-incident-in-the-offing-da/1176123147855263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForteanTimes/posts/with-a-new-documentary-about-the-rendlesham-forest-ufo-incident-in-the-offing-da/1176123147855263/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fortean TimesThis incident is often referred to as &quot;Britain&#x27;s Roswell&quot; and involves multiple military witnesses, detailed reports, and so...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopo3uoBvDm-z4DED0fTO9k6SRonPtQpVekG3TsP6KCzL7gjtKNj" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopo3uoBvDm-z4DED0fTO9k6SRonPtQpVekG3TsP6KCzL7gjtKNj</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellNuclear facilities, trained military witnesses, and physical evidence make the Rendlesham Fo...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopo3uoBvDm-z4DED0fTO9k6SRonPtQpVekG3TsP6KCzL7gjtKNj" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOopo3uoBvDm-z4DED0fTO9k6SRonPtQpVekG3TsP6KCzL7gjtKNj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellNuclear facilities, trained military witnesses, and physical evidence make the Rendlesham Fo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RoswellA cute high-school student saves the life of a teenage waitress. Surrounded by cliques of clever, angst-filled classmates, the two...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RoswellA cute high-school student saves the life of a teenage waitress. Surrounded by cliques of clever, angst-filled classmates, the two...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident – Britain&#x27;s RoswellCultural impacts of UFO phenomena on society. Famous hoaxes in the... The Why Files di...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident – Britain&#x27;s RoswellCultural impacts of UFO phenomena on society. Famous hoaxes in the... The Why Files di...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident and Project MogulReport The Roswell Incident and Project Mogul Dave Thomas From: Volume 19, No. 4 July / August 1995...</p></details>
+   Link:<a href="https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident and Project MogulReport The Roswell Incident and Project Mogul Dave Thomas From: Volume 19, No. 4 July / August 1995...</p></details>
    Published: August 1995  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...Reports of flying saucers and alien bodies allegedly sighted in the Roswell area i...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...Reports of flying saucers and alien bodies allegedly sighted in the Roswell area i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: aliens or crash test dummies the roswell reports 1997 us air force film on the 1  
-   Link: <a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens or Crash Test Dummies!? &quot;The Roswell Reports...U.S. Air Force dismisses Roswell UFO claims in 1997 report... Air Force&#x27;s explana...</p></details>
+   Link:<a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens or Crash Test Dummies!? &quot;The Roswell Reports...U.S. Air Force dismisses Roswell UFO claims in 1997 report... Air Force&#x27;s explana...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO theorists contend that the U.S. Army Air Forces secretly shipped the alien bodies with large...Read more...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO theorists contend that the U.S. Army Air Forces secretly shipped the alien bodies with large...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: telegraph.co.uk  
    Title: britains roswell really happened rendlesham forest ufo incident  
-   Link: <a href="https://www.telegraph.co.uk/films/0/britains-roswell-really-happened-rendlesham-forest-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/films/0/britains-roswell-really-happened-rendlesham-forest-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s Roswell: what really happened in the Rendlesham...31 Dec 2018 — It is understood that almost half of all UFO correspondence di...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/films/0/britains-roswell-really-happened-rendlesham-forest-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/films/0/britains-roswell-really-happened-rendlesham-forest-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s Roswell: what really happened in the Rendlesham...31 Dec 2018 — It is understood that almost half of all UFO correspondence di...</p></details>

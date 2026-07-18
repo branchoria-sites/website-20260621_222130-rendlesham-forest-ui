@@ -274,30 +274,30 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suff
 
 ## Introduction
 
-The Suffolk police response to the [first night]({{ 'first-night/' | relative_url }}) of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is important because it provides one of the few independent, non-military observations from the event. While United States Air Force personnel reported unusual lights in the forest and later described a strange object among the trees, the local police officers who were called to investigate did not confirm the presence of a landed craft or any exotic vehicle. Instead, their observations became a key part of the debate over what happened during the initial alert. The police evidence matters not because it resolves every question, but because it offers an external check on witness memories that were later expanded and retold over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+The Suffolk police response to the [first night]({{ 'first-night/' | relative_url }}) of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is important because it provides one of the few independent, non-military observations from the event. While United States Air Force personnel reported unusual lights in the forest and later described a strange object among the trees, the local police officers who were called to investigate did not confirm the presence of a landed craft or any exotic vehicle. Instead, their observations became a key part of the debate over what happened during the initial alert. The police evidence matters not because it resolves every question, but because it offers an external check on witness memories that were later expanded and retold over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-1-dark.svg" | relative_url }}" alt="Police response illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Suffolk police were called
 
-In the early hours of 26 December 1980, security personnel from RAF Woodbridge believed that lights seen beyond the base perimeter might indicate an aircraft crash or some other emergency in nearby Rendlesham Forest. As the situation developed, Suffolk Constabulary was contacted and officers attended the area. This placed local civilian police in the unusual position of responding to an incident that had already attracted the attention of military security personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+In the early hours of 26 December 1980, security personnel from RAF Woodbridge believed that lights seen beyond the base perimeter might indicate an aircraft crash or some other emergency in nearby Rendlesham Forest. As the situation developed, Suffolk Constabulary was contacted and officers attended the area. This placed local civilian police in the unusual position of responding to an incident that had already attracted the attention of military security personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-The police were not brought in to investigate a UFO claim. At that stage, the concern was a possible downed aircraft or [unexplained]({{ 'unexplained/' | relative_url }}) lights near a sensitive military installation. Their role was therefore practical and routine: determine whether there was evidence of an accident, a security issue, or some other identifiable event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+The police were not brought in to investigate a UFO claim. At that stage, the concern was a possible downed aircraft or [unexplained]({{ 'unexplained/' | relative_url }}) lights near a sensitive military installation. Their role was therefore practical and routine: determine whether there was evidence of an accident, a security issue, or some other identifiable event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-This distinction is significant. Because the officers arrived before the story had become internationally known, their observations are often treated as a relatively uncontaminated source of evidence compared with later recollections shaped by decades of publicity and debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+This distinction is significant. Because the officers arrived before the story had become internationally known, their observations are often treated as a relatively uncontaminated source of evidence compared with later recollections shaped by decades of publicity and debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.9K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
 
 ## What officers reportedly saw
 
-The most frequently cited police account is that officers did not observe a landed object in the forest. According to records discussed by researcher Ian [Ridpath]({{ 'ridpath/' | relative_url }}) and correspondence from Suffolk Constabulary, the officers reported seeing a flashing light in the distance that appeared consistent with the beam from the Orford Ness lighthouse on the Suffolk coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+The most frequently cited police account is that officers did not observe a landed object in the forest. According to records discussed by researcher Ian [Ridpath]({{ 'ridpath/' | relative_url }}) and correspondence from Suffolk Constabulary, the officers reported seeing a flashing light in the distance that appeared consistent with the beam from the Orford Ness lighthouse on the Suffolk coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
-The lighthouse stood several miles east of the forest and emitted a regular rotating beam. From certain locations within the trees, the light could appear intermittently through gaps in the woodland, creating the impression of a moving or flashing source. The police evidence is notable because the officers identified a conventional light source rather than an unidentified craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+The lighthouse stood several miles east of the forest and emitted a regular rotating beam. From certain locations within the trees, the light could appear intermittently through gaps in the woodland, creating the impression of a moving or flashing source. The police evidence is notable because the officers identified a conventional light source rather than an unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
-Accounts associated with the police response also indicate that officers did not discover wreckage, debris, impact evidence, or physical signs that would support the idea of a crashed aircraft. Nor did they report observing a structured object on the ground. Their observations were therefore considerably more limited than some of the later narratives that emerged from military witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+Accounts associated with the police response also indicate that officers did not discover wreckage, debris, impact evidence, or physical signs that would support the idea of a crashed aircraft. Nor did they report observing a structured object on the ground. Their observations were therefore considerably more limited than some of the later narratives that emerged from military witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
-When police returned to view alleged [ground traces]({{ 'ground-traces/' | relative_url }}) after daylight, they reportedly did not regard them as evidence of a spacecraft landing. Contemporary descriptions indicate that impressions in the ground were viewed as ordinary features rather than proof of an extraordinary event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+When police returned to view alleged [ground traces]({{ 'ground-traces/' | relative_url }}) after daylight, they reportedly did not regard them as evidence of a spacecraft landing. Contemporary descriptions indicate that impressions in the ground were viewed as ordinary features rather than proof of an extraordinary event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-2-dark.svg" | relative_url }}" alt="Police response illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -305,11 +305,11 @@ When police returned to view alleged [ground traces]({{ 'ground-traces/' | relat
 
 The police response does not prove that military witnesses were mistaken about every aspect of the incident. It does, however, place important limits on what can be claimed from the first-night evidence.
 
-First, the officers provide an independent observation that points toward a known light source rather than an unknown vehicle. Because they were not members of the USAF patrol and were not involved in later UFO-related publicity, their testimony carries value as an outside perspective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+First, the officers provide an independent observation that points toward a known light source rather than an unknown vehicle. Because they were not members of the USAF patrol and were not involved in later UFO-related publicity, their testimony carries value as an outside perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
-Second, the absence of police confirmation for a landed craft is significant. If a large physical object had been present in the forest, one might expect some corroborating observation from the civilian officers who attended the scene. The available police accounts do not provide such confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+Second, the absence of police confirmation for a landed craft is significant. If a large physical object had been present in the forest, one might expect some corroborating observation from the civilian officers who attended the scene. The available police accounts do not provide such confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
-Third, the police evidence aligns with a broader sceptical interpretation of the first night. In this view, witnesses initially reacted to unusual lights under difficult night-time conditions, then interpreted those lights in increasingly dramatic ways as the story evolved. The lighthouse explanation does not account for every claim made about Rendlesham, but it offers a specific explanation for at least part of what officers and some witnesses were observing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+Third, the police evidence aligns with a broader sceptical interpretation of the first night. In this view, witnesses initially reacted to unusual lights under difficult night-time conditions, then interpreted those lights in increasingly dramatic ways as the story evolved. The lighthouse explanation does not account for every claim made about Rendlesham, but it offers a specific explanation for at least part of what officers and some witnesses were observing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mLqXp90GTX8" title="Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer">Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mLqXp90GTX8">Open on YouTube</a></p></div></div></div>
@@ -321,184 +321,184 @@ Third, the police evidence aligns with a broader sceptical interpretation of the
 
 The Suffolk police response is neither a complete explanation nor a definitive refutation of the Rendlesham incident. Officers were not present for every reported observation, and their involvement was relatively brief. Nevertheless, their testimony remains one of the most important independent sources connected to the first night.
 
-What the police confirmed was modest: they responded to reports of unusual lights, observed a flashing light consistent with the Orford Ness lighthouse, and did not verify the presence of an exotic craft or crash site. What they did not confirm is equally important. They provided no independent evidence that a structured object had landed in Rendlesham Forest. For historians and investigators assessing the first-night claims, that absence of confirmation remains a central piece of the evidential picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
+What the police confirmed was modest: they responded to reports of unusual lights, observed a flashing light consistent with the Orford Ness lighthouse, and did not verify the presence of an exotic craft or crash site. What they did not confirm is equally important. They provided no independent evidence that a structured object had landed in Rendlesham Forest. For historians and investigators assessing the first-night claims, that absence of confirmation remains a central piece of the evidential picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-3-dark.svg" | relative_url }}" alt="Police response illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_suffolk_police_respo_54ffcc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the police did and did not confirm. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the police did and did not confirm. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes official and witness testimony, paralleling police and military accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes official and witness testimony, paralleling police and military accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating UFO reports and evidence, matching discussion of police observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating UFO reports and evidence, matching discussion of police observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how evidence should be assessed in extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how evidence should be assessed in extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores official responses and witness credibility in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official responses and witness credibility in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="police-response-what-the-police-did-and-did-not-confirm-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-seri" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ What the police confirmed was modest: they responded to reports of unusual light
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ What the police confirmed was modest: they responded to reports of unusual light
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ What the police confirmed was modest: they responded to reports of unusual light
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ What the police confirmed was modest: they responded to reports of unusual light
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ What the police confirmed was modest: they responded to reports of unusual light
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,100 +704,100 @@ What the police confirmed was modest: they responded to reports of unusual light
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ianridpath.com  
    Title: Ian Ridpath Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - the police evidenceThe police who were called to the scene provided independent eyewitness evidence th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: whatdotheyknow.com  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_5" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a Freedom of Information...3 Apr 2017 — In late December 1980, there were a series of reported sightings of unexplained lights near Rend...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_5" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Freedom of Information...3 Apr 2017 — In late December 1980, there were a series of reported sightings of unexplained lights near Rend...</p></details>
    Published: December 1980  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: themorbidtourist.com  
    Title: rendlesham forest  
-   Link: <a href="https://themorbidtourist.com/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidtourist.com/rendlesham-forest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Incident: What Happened?2 Jul 2024 — During the early hours of 26th December, two United States Air Force patro...</p></details>
+   Link:<a href="https://themorbidtourist.com/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidtourist.com/rendlesham-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Incident: What Happened?2 Jul 2024 — During the early hours of 26th December, two United States Air Force patro...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO explained – the original articleThe story was sensational. It told of a group of American airmen who were confronte...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO explained – the original articleThe story was sensational. It told of a group of American airmen who were confronte...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Suffolk police constables were called to the scene on the first night and recorded that...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Suffolk police constables were called to the scene on the first night and recorded that...</p></details>
    Published: December 1980  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kids.kiddle.co  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident Facts for Kids17 Oct 2025 — On the first night, they reported that the only visible lights were from the Orford lighthous...</p></details>
+   Link:<a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident Facts for Kids17 Oct 2025 — On the first night, they reported that the only visible lights were from the Orford lighthous...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident – Britain&#x27;s RoswellThe first night, airmen followed the lights thinking a plane had crashed. Instead, they...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident – Britain&#x27;s RoswellThe first night, airmen followed the lights thinking a plane had crashed. Instead, they...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/the-rendlesham-forest-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/the-rendlesham-forest-ufo-incident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rendlesham forest ufo incident Stock [Photos](&amp;#123;&amp;#123; &#x27;photos/&#x27; | relative_url &amp;#125;&amp;#125;) and ImagesRM 2WR801T–UFO sculpture, at the site of the reported incident in the Rendlesha...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/the-rendlesham-forest-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/the-rendlesham-forest-ufo-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rendlesham forest ufo incident Stock [Photos](&amp;#123;&amp;#123; &#x27;photos/&#x27; | relative_url &amp;#125;&amp;#125;) and ImagesRM 2WR801T–UFO sculpture, at the site of the reported incident in the Rendlesha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost reports refer to lights being spotted, rather than an actual ship or craft. View record details. Correspondence on the Re...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost reports refer to lights being spotted, rather than an actual ship or craft. View record details. Correspondence on the Re...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest/[ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/[ufo-trail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and wetlands and some of t...</p></details>
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest/[ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/[ufo-trail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and wetlands and some of t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/multimedia/archive/03242/Telegraph1915_0504_3242769a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03242/Telegraph1915_0504_3242769a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>c.MARRIAGES. DINGWALL-ELDRIDGE. On the 31st March, at West. Hackney Church, by the Rev. A. M. Batty, James Edgar. Dingwall, second son of...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/multimedia/archive/03242/Telegraph1915_0504_3242769a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03242/Telegraph1915_0504_3242769a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>c.MARRIAGES. DINGWALL-ELDRIDGE. On the 31st March, at West. Hackney Church, by the Rev. A. M. Batty, James Edgar. Dingwall, second son of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: visit-burystedmunds.co.uk  
-   Link: <a href="https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail</a>  
+   Link:<a href="https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://visit-burystedmunds.co.uk/blog/rendlesham-forest-ufo-trail</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: in december 1980 us air force personnel saw strange lights in rendlesham forest  
-   Link: <a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...The Rendlesham Forest incident was a series of reported sightings of unexplaine...</p></details>
+   Link:<a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...The Rendlesham Forest incident was a series of reported sightings of unexplaine...</p></details>
    Published: december 1980  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/entomologistsrec1162tutt/entomologistsrec1162tutt_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/entomologistsrec1162tutt/entomologistsrec1162tutt_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. HARVARD UNIVERSITY Ernst Mayr Library of the Museum of Comparative Zoology...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/entomologistsrec1162tutt/entomologistsrec1162tutt_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/entomologistsrec1162tutt/entomologistsrec1162tutt_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. HARVARD UNIVERSITY Ernst Mayr Library of the Museum of Comparative Zoology...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discoveryuk.com  
    Title: rendlesham forest ufo [britains roswell](&#123;&#123; 'britain-s-roswell/' | relative_url &#125;&#125;) incident explored  
-   Link: <a href="https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO: Britain&#x27;s Roswell Incident Explored16 Dec 2024 — The Rendlesham UFO incident unfolded in late December 1980 within...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO: Britain&#x27;s Roswell Incident Explored16 Dec 2024 — The Rendlesham UFO incident unfolded in late December 1980 within...</p></details>
    Published: December 1980  

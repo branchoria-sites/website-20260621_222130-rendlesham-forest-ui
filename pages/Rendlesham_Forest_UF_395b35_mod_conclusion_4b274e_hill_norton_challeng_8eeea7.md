@@ -280,7 +280,7 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_nor
 
 ## Introduction
 
-Among the many disputes surrounding the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident, one of the most influential did not concern aliens, radar returns, or witness testimony. It concerned the logic of the Ministry of Defence itself. The late Admiral of the Fleet and former Chief of the Defence Staff, Lord Hill-Norton, argued that the MOD’s conclusion of “no defence significance” rested on an excessively narrow test. In his view, the official position created a dilemma: either the reported events represented an [unexplained]({{ 'unexplained/' | relative_url }}) intrusion into British airspace and territory, or they revealed serious failures of perception among military personnel at a strategically important base. Either possibility, he argued, should have been a matter of defence concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+Among the many disputes surrounding the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident, one of the most influential did not concern aliens, radar returns, or witness testimony. It concerned the logic of the Ministry of Defence itself. The late Admiral of the Fleet and former Chief of the Defence Staff, Lord Hill-Norton, argued that the MOD’s conclusion of “no defence significance” rested on an excessively narrow test. In his view, the official position created a dilemma: either the reported events represented an [unexplained]({{ 'unexplained/' | relative_url }}) intrusion into British airspace and territory, or they revealed serious failures of perception among military personnel at a strategically important base. Either possibility, he argued, should have been a matter of defence concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-1-dark.svg" | relative_url }}" alt="Hill Norton illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,15 +293,15 @@ This criticism became one of the most persistent challenges to the official verd
 
 Lord Hill-Norton’s argument was notable because it did not depend on accepting extraordinary explanations. Instead, he challenged the MOD from either side of the debate.
 
-In correspondence later highlighted in released government files, he argued that if Lieutenant Colonel Charles Halt’s account and the wider USAF reports were substantially accurate, then they pointed to an intrusion into British airspace and territory that had not been satisfactorily explained. Such a possibility, he believed, raised obvious defence questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+In correspondence later highlighted in released government files, he argued that if Lieutenant Colonel Charles Halt’s account and the wider USAF reports were substantially accurate, then they pointed to an intrusion into British airspace and territory that had not been satisfactorily explained. Such a possibility, he believed, raised obvious defence questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
-But he immediately added a second possibility. If the reports were not accurate, then a different concern emerged: a significant number of trained United States Air Force personnel stationed at a major [Cold War]({{ 'cold-war/' | relative_url }}) installation had seriously misinterpreted events. Hill-Norton described that possibility as “no less disturbing”, because military decisions can be affected by errors of [perception]({{ 'perception/' | relative_url }}) as well as by genuine incursions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+But he immediately added a second possibility. If the reports were not accurate, then a different concern emerged: a significant number of trained United States Air Force personnel stationed at a major [Cold War]({{ 'cold-war/' | relative_url }}) installation had seriously misinterpreted events. Hill-Norton described that possibility as “no less disturbing”, because military decisions can be affected by errors of [perception]({{ 'perception/' | relative_url }}) as well as by genuine incursions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
 His reasoning can be summarised as follows:
 
 * **If the witnesses were broadly correct**, an unexplained intrusion demanded investigation.
 * **If the witnesses were broadly mistaken**, the scale of the misperception itself deserved investigation.
-* **Therefore**, dismissing the incident as lacking defence relevance seemed unjustified in either scenario. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+* **Therefore**, dismissing the incident as lacking defence relevance seemed unjustified in either scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
 This was a fundamentally different question from whether the object was extraterrestrial. Hill-Norton focused on military risk, institutional learning, and security implications.
 
@@ -312,9 +312,9 @@ This was a fundamentally different question from whether the object was extrater
 
 The MOD approached the issue from a different direction. Its UFO policy was not primarily designed to determine the ultimate cause of every sighting. Instead, officials asked whether a report indicated a threat to national defence.
 
-[Released files]({{ 'released-file/' | relative_url }}) show that the department concluded the incident had “no defence significance”. Officials pointed to the absence of corroborating radar evidence and argued that the reported behaviour did not resemble a hostile military operation. A later internal position statement suggested that a genuine airspace violation or espionage mission would be unlikely to advertise itself through conspicuous displays of lights. The same document also noted the delay in formal [reporting]({{ 'reporting/' | relative_url }}) and the relatively low-key handling of the matter by local commanders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+[Released files]({{ 'released-file/' | relative_url }}) show that the department concluded the incident had “no defence significance”. Officials pointed to the absence of corroborating radar evidence and argued that the reported behaviour did not resemble a hostile military operation. A later internal position statement suggested that a genuine airspace violation or espionage mission would be unlikely to advertise itself through conspicuous displays of lights. The same document also noted the delay in formal [reporting]({{ 'reporting/' | relative_url }}) and the relatively low-key handling of the matter by local commanders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
-From the MOD’s perspective, the key question was not whether every witness observation could be explained. The key question was whether there was evidence of a defence threat. Since no such threat was demonstrated to its satisfaction, the department considered further investigation unnecessary. That position remained unchanged for decades. In parliamentary answers, ministers repeatedly stated that nothing had emerged to undermine the original judgement that nothing of defence significance had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — From surviving departmental records, we remain satisfied that not...</span></span></span>
+From the MOD’s perspective, the key question was not whether every witness observation could be explained. The key question was whether there was evidence of a defence threat. Since no such threat was demonstrated to its satisfaction, the department considered further investigation unnecessary. That position remained unchanged for decades. In parliamentary answers, ministers repeatedly stated that nothing had emerged to undermine the original judgement that nothing of defence significance had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — From surviving departmental records, we remain satisfied that not...</span></span></span>
 
 The disagreement therefore centred on threshold rather than facts. Hill-Norton believed uncertainty itself could justify concern; the MOD required stronger evidence of an actual security problem before committing resources.
 
@@ -322,11 +322,11 @@ The disagreement therefore centred on threshold rather than facts. Hill-Norton b
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-2-dark.svg" | relative_url }}" alt="Hill Norton illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why His Criticism Resonated
 
-Hill-Norton’s intervention carried unusual weight because of his background. He was not a fringe commentator but a former Chief of the Defence Staff and one of the most senior military figures ever to question the official handling of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Peter_Hill-Norton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Peter Hill-Norton</span><span class="citation-popover-snippet">Peter Hill-Norton</span></span></span>
+Hill-Norton’s intervention carried unusual weight because of his background. He was not a fringe commentator but a former Chief of the Defence Staff and one of the most senior military figures ever to question the official handling of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Peter_Hill-Norton" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Peter Hill-Norton</span><span class="citation-popover-snippet">Peter Hill-Norton</span></span></span>
 
-His criticism resonated because it exposed a potential blind spot in the official reasoning. Defence institutions routinely investigate events not because a threat has already been proven, but because uncertainty itself may conceal a threat. Critics of the MOD argued that the combination of military witnesses, a sensitive Cold War location, and unresolved reports should have triggered a more searching review regardless of the eventual explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+His criticism resonated because it exposed a potential blind spot in the official reasoning. Defence institutions routinely investigate events not because a threat has already been proven, but because uncertainty itself may conceal a threat. Critics of the MOD argued that the combination of military witnesses, a sensitive Cold War location, and unresolved reports should have triggered a more searching review regardless of the eventual explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
-Supporters of the MOD’s position countered that defence agencies cannot investigate every unexplained report indefinitely. In their view, the absence of [radar]({{ 'radar/' | relative_url }}) confirmation, evidence of hostile activity, or subsequent security consequences justified closing the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+Supporters of the MOD’s position countered that defence agencies cannot investigate every unexplained report indefinitely. In their view, the absence of [radar]({{ 'radar/' | relative_url }}) confirmation, evidence of hostile activity, or subsequent security consequences justified closing the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
 The importance of Hill-Norton’s argument is that it did not rely on proving what happened in Rendlesham Forest. Instead, it questioned whether the government had applied the right standard when deciding that the matter was irrelevant to national security.
 
@@ -337,202 +337,202 @@ The importance of Hill-Norton’s argument is that it did not rely on proving wh
 
 Many disputes about Rendlesham revolve around conflicting witness accounts, alleged physical traces, or competing explanations involving lighthouses, stars, and other conventional phenomena. Hill-Norton’s challenge survives because it operates at a different level.
 
-The issue he raised remains difficult to dismiss entirely: if a group of military personnel at a strategically significant installation reported extraordinary events, what is the appropriate institutional response? The MOD answered that question by asking whether there was evidence of a defence threat. Hill-Norton answered it by asking whether either an intrusion or a major military misperception could itself constitute a defence concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+The issue he raised remains difficult to dismiss entirely: if a group of military personnel at a strategically significant installation reported extraordinary events, what is the appropriate institutional response? The MOD answered that question by asking whether there was evidence of a defence threat. Hill-Norton answered it by asking whether either an intrusion or a major military misperception could itself constitute a defence concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
-That disagreement helps explain why the official verdict has remained controversial. Even among people who reject extraordinary explanations, there is room to debate whether the MOD’s test for “defence significance” was too restrictive. As long as that question remains open, Hill-Norton’s critique continues to be one of the strongest and most enduring challenges to the government’s handling of the Rendlesham Forest incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+That disagreement helps explain why the official verdict has remained controversial. Even among people who reject extraordinary explanations, there is room to debate whether the MOD’s test for “defence significance” was too restrictive. As long as that question remains open, Hill-Norton’s critique continues to be one of the strongest and most enduring challenges to the government’s handling of the Rendlesham Forest incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-3-dark.svg" | relative_url }}" alt="Hill Norton illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_hill_norton_challeng_8eeea7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Strongest Challenge to the MOD Verdict. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Strongest Challenge to the MOD Verdict. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly addresses the MOD&#x27;s defence-threat criteria.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the MOD&#x27;s defence-threat criteria.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains why cases were judged to have no defence significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why cases were judged to have no defence significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Examines the official and unofficial interpretations of the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the official and unofficial interpretations of the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses defence and aviation perspectives on UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses defence and aviation perspectives on UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy"><img src="{{ '/assets/images/marketplace-covers/1c14d7ff9aebbad1de6d.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy"><img src="{{ '/assets/images/marketplace-covers/1c14d7ff9aebbad1de6d.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN"><img src="{{ '/assets/images/marketplace-covers/1eaf79f13b82d5ff0ebf.jpg' | relative_url }}" alt="Listing image for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN"><img src="{{ '/assets/images/marketplace-covers/1eaf79f13b82d5ff0ebf.jpg' | relative_url }}" alt="Listing image for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;"><img src="{{ '/assets/images/marketplace-covers/9772cafe0ca632d034ba.jpg' | relative_url }}" alt="Listing image for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;"><img src="{{ '/assets/images/marketplace-covers/9772cafe0ca632d034ba.jpg' | relative_url }}" alt="Listing image for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="hill-norton-the-strongest-challenge-to-the-mod-verdict-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ That disagreement helps explain why the official verdict has remained controvers
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ That disagreement helps explain why the official verdict has remained controvers
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ That disagreement helps explain why the official verdict has remained controvers
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ That disagreement helps explain why the official verdict has remained controvers
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ That disagreement helps explain why the official verdict has remained controvers
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,91 +738,91 @@ That disagreement helps explain why the official verdict has remained controvers
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Peter Hill-Norton  
-   Link: <a href="https://en.wikipedia.org/wiki/Peter_Hill-Norton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peter_Hill-Norton</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Peter_Hill-Norton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peter_Hill-Norton</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: [National Archives](&#123;&#123; 'archive-map/' | relative_url &#125;&#125;) UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastBut Lord Hill-Norton, a former Chief of Defence Staff, was unconvinced by the MoD&#x27;s state...</p></details>
    Published: August 2009  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest/Raf Bentwaters Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — From surviving departmental records, we remain satisfied that not...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — From surviving departmental records, we remain satisfied that not...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — The MoD has no evidence of any other official investigation or documentation.There...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — The MoD has no evidence of any other official investigation or documentation.There...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/trefgarne.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/trefgarne.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the MoD investigationKnowing of Hill-Norton&#x27;s reputation as an avid UFO believer and an outspoken critic of the M...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/trefgarne.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/trefgarne.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the MoD investigationKnowing of Hill-Norton&#x27;s reputation as an avid UFO believer and an outspoken critic of the M...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: a surreal event outside a us air force base near the rendlesham forest in englan  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...Mysterious Discovery at Rendlesham Forest In December 1980, amidst the winter cal...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...Mysterious Discovery at Rendlesham Forest In December 1980, amidst the winter cal...</p></details>
    Published: December 1980  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incident, and all the men and women in the military who have been...Read more...</p></details>
+   Link:<a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incident, and all the men and women in the military who have been...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Ministry's UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=B07yd8Ke0yE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B07yd8Ke0yE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord Hill Norton Rendlesham Forest UFO Lord Peter John Hill-Norton über den UFO-Vorfall von Rendlesham Forest exonews...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B07yd8Ke0yE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B07yd8Ke0yE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lord Hill Norton Rendlesham Forest UFO Lord Peter John Hill-Norton über den UFO-Vorfall von Rendlesham Forest exonews...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s multiple witnesses, including military. It&#x27;s sightings over three consecutive nights. It&#x27;s physical...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s multiple witnesses, including military. It&#x27;s sightings over three consecutive nights. It&#x27;s physical...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham MoD file: Some Preliminary Thoughts. Jenny Randles. The... Gilbert in a Written Answer to Lord Hill-Norton in the House of Lo...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham MoD file: Some Preliminary Thoughts. Jenny Randles. The... Gilbert in a Written Answer to Lord Hill-Norton in the House of Lo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2070-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2070-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Question from Admiral of the Fleet The Lord Hill-Norton. GCB(X)(CB) in May 2001, regarding the classification of documents on. Unidentifi...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2070-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2070-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Question from Admiral of the Fleet The Lord Hill-Norton. GCB(X)(CB) in May 2001, regarding the classification of documents on. Unidentifi...</p></details>
    Published: May 2001  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt  
-   Link: <a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry&#x27;s UFO Files - Nick Pope, British Min. of Defence / Disclosure Project Testimony Archive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-JBwH6yHEDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry&#x27;s UFO Files - Nick Pope, British Min. of Defence / Disclosure Project Testimony Archive...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rFbeyzSiC14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rFbeyzSiC14</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord Hill-Norton-Rendlesham was of Defence Significance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rFbeyzSiC14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rFbeyzSiC14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lord Hill-Norton-Rendlesham was of Defence Significance...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Legendary British Alien Sighting | History's Greatest Mysteries (S6)  
-   Link: <a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt...</p></details>

@@ -280,18 +280,18 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_sequence_theory_9809d6_halt_sk
 
 ## Introduction
 
-One of the key claims in the [sequence theory]({{ 'sequence-theory/' | relative_url }}) of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is that the lights reported by Lieutenant Colonel Charles Halt during the later search were not necessarily related to whatever initially drew security personnel into the forest. Instead, sceptical investigators argue that the sky lights described on Halt’s famous tape can be explained by a combination of bright stars, low viewing angles, and atmospheric effects that commonly cause misidentifications at night. The importance of this argument is not that it explains every aspect of the case, but that it treats the later aerial observations as a separate stage in a developing sequence of events rather than as confirmation of a single extraordinary object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</span></span></span>
+One of the key claims in the [sequence theory]({{ 'sequence-theory/' | relative_url }}) of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is that the lights reported by Lieutenant Colonel Charles Halt during the later search were not necessarily related to whatever initially drew security personnel into the forest. Instead, sceptical investigators argue that the sky lights described on Halt’s famous tape can be explained by a combination of bright stars, low viewing angles, and atmospheric effects that commonly cause misidentifications at night. The importance of this argument is not that it explains every aspect of the case, but that it treats the later aerial observations as a separate stage in a developing sequence of events rather than as confirmation of a single extraordinary object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_sequence_theory_9809d6_halt_sky_lights_9424ee-Illustration-1-dark.svg" | relative_url }}" alt="Sky Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_sequence_theory_9809d6_halt_sky_lights_9424ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_sequence_theory_9809d6_halt_sky_lights_9424ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Which sky lights came after the forest search?
 
-By the time Halt led his team into Rendlesham Forest on the night of 27–28 December 1980, the earlier reports of strange lights in the woods had already become known among base personnel. The search was therefore conducted in an atmosphere where unusual activity was already expected. During the expedition, Halt recorded observations of distant flashing lights and later described star-like objects low in the sky to the north and south. His audio recording, commonly known as the Halt tape, documents these observations in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+By the time Halt led his team into Rendlesham Forest on the night of 27–28 December 1980, the earlier reports of strange lights in the woods had already become known among base personnel. The search was therefore conducted in an atmosphere where unusual activity was already expected. During the expedition, Halt recorded observations of distant flashing lights and later described star-like objects low in the sky to the north and south. His audio recording, commonly known as the Halt tape, documents these observations in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
 Sceptical analyses separate these observations into different categories:
 
-* The flashing light seen toward the east is often associated with the Orfordness lighthouse because the timing and direction correspond closely with the lighthouse beacon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Rendlesham Forest incidentTimings on Halt&#x27;s tape recording during his sighting on 28 December indicate that the light he saw, which lay i...</span></span></span>
-* The later “star-like” lights reported low above the horizon are treated as a different phenomenon altogether. Investigators such as astronomer Ian [Ridpath]({{ 'ridpath/' | relative_url }}) have argued that these lights matched the positions of bright stars visible at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
+* The flashing light seen toward the east is often associated with the Orfordness lighthouse because the timing and direction correspond closely with the lighthouse beacon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Rendlesham Forest incidentTimings on Halt&#x27;s tape recording during his sighting on 28 December indicate that the light he saw, which lay i...</span></span></span>
+* The later “star-like” lights reported low above the horizon are treated as a different phenomenon altogether. Investigators such as astronomer Ian [Ridpath]({{ 'ridpath/' | relative_url }}) have argued that these lights matched the positions of bright stars visible at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
 
 This distinction matters for sequence theory. If the sky lights were ordinary celestial objects, then the later observations do not strengthen the case for a landed craft. Instead, they represent a new stage in which observers were interpreting distant lights after an already dramatic forest search.
 
@@ -310,19 +310,19 @@ Several factors contribute to this effect:
 
 **Autokinesis.** In darkness, a stationary light viewed without clear reference points can appear to drift or manoeuvre. This is a well-documented perceptual effect that has been linked to numerous UFO reports.
 
-**Observer movement.** When people are walking through woodland or across [open ground]({{ 'open-ground/' | relative_url }}), distant lights can seem to change position relative to nearby trees and landmarks. A fixed celestial object may appear to follow, retreat, or hover. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
+**Observer movement.** When people are walking through woodland or across [open ground]({{ 'open-ground/' | relative_url }}), distant lights can seem to change position relative to nearby trees and landmarks. A fixed celestial object may appear to follow, retreat, or hover.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
 
-These effects are particularly relevant because Halt described lights that were very low above the horizon. According to analyses of the tape and reconstructed sky positions, one southern object was reported at roughly five to ten degrees elevation, exactly the region where atmospheric distortion is strongest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">rendlesham forest ufo incident.13457</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+These effects are particularly relevant because Halt described lights that were very low above the horizon. According to analyses of the tape and reconstructed sky positions, one southern object was reported at roughly five to ten degrees elevation, exactly the region where atmospheric distortion is strongest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">rendlesham forest ufo incident.13457</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_sequence_theory_9809d6_halt_sky_lights_9424ee-Illustration-2-dark.svg" | relative_url }}" alt="Sky Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_sequence_theory_9809d6_halt_sky_lights_9424ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_sequence_theory_9809d6_halt_sky_lights_9424ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Sirius identification
 
-The most frequently proposed identification is Sirius, the brightest star in the night sky. Ridpath concluded that the southern object described by Halt corresponded closely to Sirius's position at the relevant time. Other analyses have similarly noted that the star's brightness and low altitude would have made it particularly susceptible to twinkling and colour changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
+The most frequently proposed identification is Sirius, the brightest star in the night sky. Ridpath concluded that the southern object described by Halt corresponded closely to Sirius's position at the relevant time. Other analyses have similarly noted that the star's brightness and low altitude would have made it particularly susceptible to twinkling and colour changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
 
-On the tape, Halt repeatedly described a bright object low to the south. Later references to the object appearing lower in the sky are also consistent with the normal apparent motion of a setting star. Sceptical commentators have pointed out that a star gradually approaching the horizon would naturally seem to lose altitude over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">rendlesham forest ufo incident.13457</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+On the tape, Halt repeatedly described a bright object low to the south. Later references to the object appearing lower in the sky are also consistent with the normal apparent motion of a setting star. Sceptical commentators have pointed out that a star gradually approaching the horizon would naturally seem to lose altitude over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">rendlesham forest ufo incident.13457</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Some investigators have also suggested that bright northern stars such as Vega or Deneb may account for other reported sky lights, although the southern Sirius identification has received the greatest attention because it matches both brightness and reported direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">rendlesham forest ufo incident.13457</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Some investigators have also suggested that bright northern stars such as Vega or Deneb may account for other reported sky lights, although the southern Sirius identification has received the greatest attention because it matches both brightness and reported direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">rendlesham forest ufo incident.13457</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AKxCYe0dgSU" title="The Rendlesham Forest Incident - Part Two" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AKxCYe0dgSU" target="_blank" rel="noopener noreferrer">The Rendlesham Forest Incident - Part Two</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AKxCYe0dgSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AKxCYe0dgSU">Open on YouTube</a></p></div></div></div>
@@ -334,7 +334,7 @@ Some investigators have also suggested that bright northern stars such as Vega o
 
 The sky-light explanation occupies a different place in the overall sequence theory than explanations for the original alarm.
 
-The [first-night]({{ 'first-night/' | relative_url }}) reports concern lights apparently descending into or near the forest. Those accounts have been linked by sceptical investigators to an exceptionally bright meteor seen over southern England shortly before the initial search began. The later Halt observations, however, occurred after personnel were already actively looking for unusual phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
+The [first-night]({{ 'first-night/' | relative_url }}) reports concern lights apparently descending into or near the forest. Those accounts have been linked by sceptical investigators to an exceptionally bright meteor seen over southern England shortly before the initial search began. The later Halt observations, however, occurred after personnel were already actively looking for unusual phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO explained – the original article The object seen by Col</span><span class="citation-popover-snippet">Halt to the south was almost certainly Sirius, the brightest star in the night sky. If it seems surprising that a colonel in the US ...Re...</span></span></span>
 
 In sequence theory, these are separate interpretive stages:
 
@@ -367,194 +367,194 @@ However, supporters of a more mysterious interpretation argue that some descript
 Within the narrower framework of sequence theory, though, the significance of the sky lights is straightforward: they are treated not as confirmation of the original forest encounter, but as a later phase in which bright horizon stars—especially Sirius—became incorporated into an evolving story that already carried strong expectations of something extraordinary. [Ian Ridpath+2Wikipedia](https://www.ianridpath.com/ufo/rendlesham1b.html)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Stars Explain the Later Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Stars Explain the Later Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Perfect fit for a theory combining multiple ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Perfect fit for a theory combining multiple ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides the overall narrative being analyzed by sequence theory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the overall narrative being analyzed by sequence theory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Demonstrates limits of observation even among attentive individuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates limits of observation even among attentive individuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Highly relevant to how sincere witnesses can reconstruct events inaccurately.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to how sincere witnesses can reconstruct events inaccurately.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="sky-lights-could-stars-explain-the-later-lights-rendlesham-forest-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ Within the narrower framework of sequence theory, though, the significance of th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ Within the narrower framework of sequence theory, though, the significance of th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ Within the narrower framework of sequence theory, though, the significance of th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ Within the narrower framework of sequence theory, though, the significance of th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ Within the narrower framework of sequence theory, though, the significance of th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,122 +760,122 @@ Within the narrower framework of sequence theory, though, the significance of th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentTimings on Halt&#x27;s tape recording during his sighting on 28 December indicate that the light he saw, which lay i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentTimings on Halt&#x27;s tape recording during his sighting on 28 December indicate that the light he saw, which lay i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: rendlesham forest ufo incident.13457  
-   Link: <a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident2 May 2024 — On the tape, Halt describes the starlike object to the south as &#x27;hovering over Woodbri...</p></details>
    Published: May 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendleshama village and civil parish near Woodbridge, Suffolk, United Kingdom. It was a royal centre of authority for the king of the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendleshama village and civil parish near Woodbridge, Suffolk, United Kingdom. It was a royal centre of authority for the king of the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: page 15  
-   Link: <a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-15" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident | Page 152 May 2024 — Randles investigated the Rendlesham Forest UFO case. No independent witnesses saw be...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-15" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident | Page 152 May 2024 — Randles investigated the Rendlesham Forest UFO case. No independent witnesses saw be...</p></details>
    Published: May 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Rendlesham Forest Incident: A Military Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident - Part Two...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident - Part Two...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Rendlesham Forest Incident  
-   Link: <a href="https://www.youtube.com/watch?v=AKxCYe0dgSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AKxCYe0dgSU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Halt tape lights explanation Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt 7 News Spotlight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AKxCYe0dgSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AKxCYe0dgSU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Halt tape lights explanation Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt 7 News Spotlight...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)the radiation readings that were treated as alarming were judged &quot;of little or no signif...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)the radiation readings that were treated as alarming were judged &quot;of little or no signif...</p></details>
    Published: December 1980  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim [Penniston](&amp;#123;&amp;#123; &#x27;penniston/&#x27; | relative_url &amp;#125;&amp;#125;), John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim [Penniston](&amp;#123;&amp;#123; &#x27;penniston/&#x27; | relative_url &amp;#125;&amp;#125;), John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: Rendlesham forest incident  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why this case cannot be...Robert Hastings tracked down 2 radar operators present and has them on tape corroborating Halt&#x27;s testimony. Th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why this case cannot be...Robert Hastings tracked down 2 radar operators present and has them on tape corroborating Halt&#x27;s testimony. Th...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham ForestRendlesham Forest, in Tangham, Suffolk, is situated in an Area of Outstanding Natural Beauty. There&#x27;s something for ever...</p></details>
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham ForestRendlesham Forest, in Tangham, Suffolk, is situated in an Area of Outstanding Natural Beauty. There&#x27;s something for ever...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest/[ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/[ufo-trail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and wetlands and some of t...</p></details>
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest/[ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/[ufo-trail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and wetlands and some of t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thejournal.ie  
    Title: rendlesham forest incident charles halt interview 2015 2422702 Dec2015  
-   Link: <a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — Ian Ridpath, the BBC journalist who went to Rendlesham For...</p></details>
+   Link:<a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — Ian Ridpath, the BBC journalist who went to Rendlesham For...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the overall thoughts brits have on the Rendlesham Forest UFO incident of 1980 in...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/m0m180/my_favorite_ufo_story_of_all_time_rendlesham/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the overall thoughts brits have on the Rendlesham Forest UFO incident of 1980 in...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: was the black glassy object an actual case of time travel?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
    Published: december 1980  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened at the Rendelsham Forest Incident...A series of mysterious lights beamed from Rendlesham Forest in Suffolk, England...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened at the Rendelsham Forest Incident...A series of mysterious lights beamed from Rendlesham Forest in Suffolk, England...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>am Forest in England. Discover more tonight at 10/9c in a new...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>am Forest in England. Discover more tonight at 10/9c in a new...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eball, the Orfordness Lighthouse, and bright...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eball, the Orfordness Lighthouse, and bright...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: myadventures3.blogspot.com  
    Title: rendlesham forest ufo trail suffolk  
-   Link: <a href="https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html" target="_blank" rel="noopener noreferrer nofollow">https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail (Suffolk) 18th November 201918 Nov 2019 — This tape chronicles Halt&#x27;s investigation in the forest in real tim...</p></details>
+   Link:<a href="https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html" target="_blank" rel="noopener noreferrer nofollow">https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail (Suffolk) 18th November 201918 Nov 2019 — This tape chronicles Halt&#x27;s investigation in the forest in real tim...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Rendelsham.ogg - Wikimedia Commons6 Aug 2025 — Audio recording made by Lt. Col. Charles Halt during the second sighting...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Rendelsham.ogg - Wikimedia Commons6 Aug 2025 — Audio recording made by Lt. Col. Charles Halt during the second sighting...</p></details>

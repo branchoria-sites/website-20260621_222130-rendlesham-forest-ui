@@ -280,17 +280,17 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_f
 
 ## Introduction
 
-One of the strongest pieces of evidence supporting a meteor explanation for the opening stage of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident comes not from UFO investigators but from the fireball-[reporting]({{ 'reporting/' | relative_url }}) network maintained by Dr John Mason of the British Astronomical Association (BAA). When astronomer Ian Ridpath investigated the case, he discovered that an exceptionally bright fireball had been independently reported across southern England shortly before 3 a.m. on 26 December 1980—the same period in which security personnel at RAF Woodbridge believed they had seen something descending into the forest. The importance of Mason’s reports lies not in proving what witnesses saw, but in demonstrating that a known astronomical event occurred at the right time and in the right region to account for the initial impression of a crash or landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+One of the strongest pieces of evidence supporting a meteor explanation for the opening stage of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident comes not from UFO investigators but from the fireball-[reporting]({{ 'reporting/' | relative_url }}) network maintained by Dr John Mason of the British Astronomical Association (BAA). When astronomer Ian Ridpath investigated the case, he discovered that an exceptionally bright fireball had been independently reported across southern England shortly before 3 a.m. on 26 December 1980—the same period in which security personnel at RAF Woodbridge believed they had seen something descending into the forest. The importance of Mason’s reports lies not in proving what witnesses saw, but in demonstrating that a known astronomical event occurred at the right time and in the right region to account for the initial impression of a crash or landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-1-dark.svg" | relative_url }}" alt="Mason Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Who Collected the Fireball Reports?
 
-Dr John Mason was a long-standing figure within the British Astronomical Association’s [Meteor]({{ 'meteor/' | relative_url }}) Section, an organisation dedicated to collecting and analysing reports of meteors and fireballs from observers around the United Kingdom. The section’s purpose is to gather independent witness accounts, compare them, and reconstruct the characteristics of significant meteor events. Such observational databases are valuable because bright fireballs are often visible over very large areas and can be studied using multiple reports rather than relying on a single observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britastro.org/sections/meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britastro.org">[British Astronomical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britastro.org</span><span class="citation-popover-snippet">British Astronomical AssociationMeteorCollection of visual, telescopic, photographic, video and radio observations of meteor activity on...</span></span></span>
+Dr John Mason was a long-standing figure within the British Astronomical Association’s [Meteor]({{ 'meteor/' | relative_url }}) Section, an organisation dedicated to collecting and analysing reports of meteors and fireballs from observers around the United Kingdom. The section’s purpose is to gather independent witness accounts, compare them, and reconstruct the characteristics of significant meteor events. Such observational databases are valuable because bright fireballs are often visible over very large areas and can be studied using multiple reports rather than relying on a single observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britastro.org/sections/meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britastro.org">[British Astronomical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britastro.org</span><span class="citation-popover-snippet">British Astronomical AssociationMeteorCollection of visual, telescopic, photographic, video and radio observations of meteor activity on...</span></span></span>
 
-When [Ridpath]({{ 'ridpath/' | relative_url }}) examined the chronology of the Rendlesham incident, he contacted Mason specifically because Mason maintained records of unusual meteor sightings. Mason informed him that shortly before 3 a.m. on 26 December 1980 an exceptionally brilliant meteor—described as almost as bright as the full Moon—had been observed over southern England. Mason further stated that from Woodbridge the object could easily have appeared to be descending into nearby woodland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+When [Ridpath]({{ 'ridpath/' | relative_url }}) examined the chronology of the Rendlesham incident, he contacted Mason specifically because Mason maintained records of unusual meteor sightings. Mason informed him that shortly before 3 a.m. on 26 December 1980 an exceptionally brilliant meteor—described as almost as bright as the full Moon—had been observed over southern England. Mason further stated that from Woodbridge the object could easily have appeared to be descending into nearby woodland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
-The significance of this exchange is that the information did not originate from Rendlesham witnesses attempting to explain their own experience. It came from an independent astronomical reporting system that had recorded the fireball separately from the UFO controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+The significance of this exchange is that the information did not originate from Rendlesham witnesses attempting to explain their own experience. It came from an independent astronomical reporting system that had recorded the fireball separately from the UFO controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZrflYSIhbpY" title="The UFO Close Encounter At Rendlesham Forest. LISTEN To De-Classified Audio from the US Air Force." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZrflYSIhbpY" target="_blank" rel="noopener noreferrer">The UFO Close Encounter At Rendlesham Forest. LISTEN To De-Classified Audio from the US Air Force.</a></p><p class="youtube-embed-meta">Channel: Very Nearly Interesting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZrflYSIhbpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZrflYSIhbpY">Open on YouTube</a></p></div></div></div>
@@ -299,13 +299,13 @@ The significance of this exchange is that the information did not originate from
 
 The evidential value of Mason’s reports comes from three related factors.
 
-**First, they establish timing.** A BAA Meteor Section report recorded a brilliant fireball at approximately 02:50 Universal Time on Boxing Day 1980, with an uncertainty of only a few minutes. This closely matches the period when the first alarm was raised at RAF Woodbridge. The correlation is far stronger than a generic claim that “a meteor might have been visible that night”. It identifies a specific astronomical event occurring at the relevant time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</span></span></span>
+**First, they establish timing.** A BAA Meteor Section report recorded a brilliant fireball at approximately 02:50 Universal Time on Boxing Day 1980, with an uncertainty of only a few minutes. This closely matches the period when the first alarm was raised at RAF Woodbridge. The correlation is far stronger than a generic claim that “a meteor might have been visible that night”. It identifies a specific astronomical event occurring at the relevant time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</span></span></span>
 
-**Second, they provide independence.** The fireball reports were gathered from observers who were not connected to the military personnel involved in the Rendlesham incident. Because the observations originated outside the UFO narrative, they serve as an external check on the chronology. Independent corroboration is generally more valuable than retrospective witness recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+**Second, they provide independence.** The fireball reports were gathered from observers who were not connected to the military personnel involved in the Rendlesham incident. Because the observations originated outside the UFO narrative, they serve as an external check on the chronology. Independent corroboration is generally more valuable than retrospective witness recollection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
-**Third, they offer a plausible mechanism for the original misunderstanding.** Bright fireballs are notorious for appearing much closer than they really are. An observer can easily interpret a distant meteor disappearing behind trees or below the horizon as an object descending into local terrain. Mason explicitly argued that the 1980 fireball could have appeared to airmen at Woodbridge as though something had crashed into the nearby forest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+**Third, they offer a plausible mechanism for the original misunderstanding.** Bright fireballs are notorious for appearing much closer than they really are. An observer can easily interpret a distant meteor disappearing behind trees or below the horizon as an object descending into local terrain. Mason explicitly argued that the 1980 fireball could have appeared to airmen at Woodbridge as though something had crashed into the nearby forest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
-This point matters because the earliest phase of the Rendlesham story centred on the belief that something had come down in the woods. The fireball reports provide a concrete astronomical event capable of triggering exactly that interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+This point matters because the earliest phase of the Rendlesham story centred on the belief that something had come down in the woods. The fireball reports provide a concrete astronomical event capable of triggering exactly that interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-2-dark.svg" | relative_url }}" alt="Mason Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,7 +315,7 @@ Many proposed explanations for UFO reports rely on theoretical possibilities: pe
 
 In evidential terms, this moves the meteor explanation from speculation to documented coincidence. Researchers are not merely suggesting that a meteor could have occurred; they can point to reports showing that one did occur. The distinction is important because the strength of any natural explanation depends on whether it is supported by contemporaneous records.
 
-The BAA report therefore functions as a form of independent environmental evidence. It establishes that witnesses at Woodbridge were observing the sky during a period when an exceptionally bright meteor was visible across southern England. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</span></span></span>
+The BAA report therefore functions as a form of independent environmental evidence. It establishes that witnesses at Woodbridge were observing the sky during a period when an exceptionally bright meteor was visible across southern England.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T-v-BBVinpY" title="BAA Meteor Section" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T-v-BBVinpY" target="_blank" rel="noopener noreferrer">BAA Meteor Section</a></p><p class="youtube-embed-meta">Channel: britishastronomical</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T-v-BBVinpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T-v-BBVinpY">Open on YouTube</a></p></div></div></div>
@@ -324,213 +324,213 @@ The BAA report therefore functions as a form of independent environmental eviden
 
 The Mason reports are valuable, but they do not settle every question associated with Rendlesham.
 
-A key limitation is that the surviving reports do not provide a complete instrumental reconstruction of the fireball's trajectory. The BAA record confirms the event and its approximate timing, but it does not allow modern investigators to calculate with precision exactly how every witness at Woodbridge would have perceived it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</span></span></span>
+A key limitation is that the surviving reports do not provide a complete instrumental reconstruction of the fireball's trajectory. The BAA record confirms the event and its approximate timing, but it does not allow modern investigators to calculate with precision exactly how every witness at Woodbridge would have perceived it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</span></span></span>
 
-Another limitation is scope. The reports are most relevant to the initial [perception]({{ 'perception/' | relative_url }}) that something descended from the sky. They do not by themselves explain later claims involving moving lights, close encounters, [ground traces]({{ 'ground-traces/' | relative_url }}), or the events reported on subsequent nights. Even proponents of the meteor explanation generally treat the fireball as an explanation for the trigger event rather than the entirety of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+Another limitation is scope. The reports are most relevant to the initial [perception]({{ 'perception/' | relative_url }}) that something descended from the sky. They do not by themselves explain later claims involving moving lights, close encounters, [ground traces]({{ 'ground-traces/' | relative_url }}), or the events reported on subsequent nights. Even proponents of the meteor explanation generally treat the fireball as an explanation for the trigger event rather than the entirety of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
-Finally, all witness-report databases contain uncertainties. Fireball observations are often made under brief, surprising conditions, and exact positions or directions may not be recorded. Nevertheless, the value of the dataset comes from the convergence of multiple reports rather than the perfection of any individual observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britastro.org/sections/meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britastro.org">[British Astronomical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britastro.org</span><span class="citation-popover-snippet">British Astronomical AssociationMeteorCollection of visual, telescopic, photographic, video and radio observations of meteor activity on...</span></span></span>
+Finally, all witness-report databases contain uncertainties. Fireball observations are often made under brief, surprising conditions, and exact positions or directions may not be recorded. Nevertheless, the value of the dataset comes from the convergence of multiple reports rather than the perfection of any individual observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britastro.org/sections/meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britastro.org">[British Astronomical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britastro.org</span><span class="citation-popover-snippet">British Astronomical AssociationMeteorCollection of visual, telescopic, photographic, video and radio observations of meteor activity on...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-3-dark.svg" | relative_url }}" alt="Mason Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_mason_fireball_repor_1230df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Mason’s Dataset Remains Important
 
-Among the various natural explanations proposed for the Rendlesham Forest incident, Dr John Mason’s fireball reports stand out because they are contemporaneous, independent, and directly relevant to the earliest stage of the event. They show that a brilliant meteor was seen over southern England at almost exactly the time RAF Woodbridge personnel believed something had descended into the forest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+Among the various natural explanations proposed for the Rendlesham Forest incident, Dr John Mason’s fireball reports stand out because they are contemporaneous, independent, and directly relevant to the earliest stage of the event. They show that a brilliant meteor was seen over southern England at almost exactly the time RAF Woodbridge personnel believed something had descended into the forest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
-The reports do not prove that every aspect of the Rendlesham story was caused by a meteor. Their evidential value is narrower and more precise. They provide documented astronomical evidence that a bright fireball was present in the sky when the incident began, giving the meteor hypothesis a factual foundation that goes beyond retrospective guesswork or general sceptical argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
+The reports do not prove that every aspect of the Rendlesham story was caused by a meteor. Their evidential value is narrower and more precise. They provide documented astronomical evidence that a bright fireball was present in the sky when the incident began, giving the meteor hypothesis a factual foundation that goes beyond retrospective guesswork or general sceptical argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dEAIqF4D_mQ" title="Rendlesham Forest: Britain&#x27;s Roswell?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dEAIqF4D_mQ" target="_blank" rel="noopener noreferrer">Rendlesham Forest: Britain&#x27;s Roswell?</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 128.0K &middot; Uploaded: March 2026 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dEAIqF4D_mQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dEAIqF4D_mQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Meteor Reports Behind the Theory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Meteor Reports Behind the Theory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Shows the broader claims that a meteor alone may not explain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the broader claims that a meteor alone may not explain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains meteors, fireballs and common skywatching misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains meteors, fireballs and common skywatching misinterpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Covers observable celestial phenomena relevant to meteor explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observable celestial phenomena relevant to meteor explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Useful for understanding perceptual and memory contributions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding perceptual and memory contributions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box"><img src="{{ '/assets/images/marketplace-covers/eebafd5b3f1a115b8b6f.jpg' | relative_url }}" alt="Listing image for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box"><img src="{{ '/assets/images/marketplace-covers/eebafd5b3f1a115b8b6f.jpg' | relative_url }}" alt="Listing image for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine meteorite space rock in black display box art gift collectible with COA"><img src="{{ '/assets/images/marketplace-covers/75dc8e5572fe62b9bf1c.jpg' | relative_url }}" alt="Listing image for Genuine meteorite space rock in black display box art gift collectible with COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Genuine meteorite space rock in black display box art gift collectible with COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine meteorite space rock in black display box art gift collectible with COA"><img src="{{ '/assets/images/marketplace-covers/75dc8e5572fe62b9bf1c.jpg' | relative_url }}" alt="Listing image for Genuine meteorite space rock in black display box art gift collectible with COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Genuine meteorite space rock in black display box art gift collectible with COA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Large"><img src="{{ '/assets/images/marketplace-covers/d956499babbb60df63f3.jpg' | relative_url }}" alt="Listing image for Chelyabinsk Meteorite in Display Box - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Large"><img src="{{ '/assets/images/marketplace-covers/d956499babbb60df63f3.jpg' | relative_url }}" alt="Listing image for Chelyabinsk Meteorite in Display Box - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Small"><img src="{{ '/assets/images/marketplace-covers/93bdef70dfd5444716e8.jpg' | relative_url }}" alt="Listing image for Chelyabinsk Meteorite in Display Box - Small" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Small</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Small"><img src="{{ '/assets/images/marketplace-covers/93bdef70dfd5444716e8.jpg' | relative_url }}" alt="Listing image for Chelyabinsk Meteorite in Display Box - Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Small</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display box">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display box" data-ebay-reference="mason-reports-the-meteor-reports-behind-the-theory-rendlesham-forest-meteorite-display-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ The reports do not prove that every aspect of the Rendlesham story was caused by
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ The reports do not prove that every aspect of the Rendlesham story was caused by
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ The reports do not prove that every aspect of the Rendlesham story was caused by
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ The reports do not prove that every aspect of the Rendlesham story was caused by
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ The reports do not prove that every aspect of the Rendlesham story was caused by
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,163 +736,163 @@ The reports do not prove that every aspect of the Rendlesham story was caused by
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleShortly before 3 am on December 26 an exceptionally brilliant meteor, al...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/3amfireball.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/3amfireball.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/3amfireball.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathBAA Meteor Section Newsletter 1981 FebruaryBAA meteor section report of the 3 am fireball that sparked off the Rendlesham Fore...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/sections/meteor" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/sections/meteor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British Astronomical AssociationMeteorCollection of visual, telescopic, photographic, video and radio observations of meteor activity on...</p></details>
+   Link:<a href="https://britastro.org/sections/meteor" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/sections/meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Astronomical AssociationMeteorCollection of visual, telescopic, photographic, video and radio observations of meteor activity on...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/section_information_/meteor-section-overview" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/section_information_/meteor-section-overview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British Astronomical AssociationMeteor Section OverviewThe Section also collects fireball reports for the British Fireball Survey (origin...</p></details>
+   Link:<a href="https://britastro.org/section_information_/meteor-section-overview" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/section_information_/meteor-section-overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Astronomical AssociationMeteor Section OverviewThe Section also collects fireball reports for the British Fireball Survey (origin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ianridpath.com  
    Title: Ian Ridpath Rendlesham UFO explained – the 3 a.m  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1d.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fireballThe BAA report notes that this fireball was seen at 02.50 UT (± 5 minutes) on Boxing Day 1980 by four witnesses, locations not gi...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1d.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fireballThe BAA report notes that this fireball was seen at 02.50 UT (± 5 minutes) on Boxing Day 1980 by four witnesses, locations not gi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of [unexplained](&amp;#123;&amp;#123; &#x27;unexplained/&#x27; | relative_url &amp;#125;&amp;#125;) lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of [unexplained](&amp;#123;&amp;#123; &#x27;unexplained/&#x27; | relative_url &amp;#125;&amp;#125;) lights near Rendlesham Fore...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britastro.org  
    Title: 2012 sept 21 fireball track  
-   Link: <a href="https://britastro.org/2012/2012-sept-21-fireball-track" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2012/2012-sept-21-fireball-track</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Oct 2012 —... John Mason is shown in the attached picture. This is based on an analysis by Nick James. We are very grateful to the pho...</p></details>
+   Link:<a href="https://britastro.org/2012/2012-sept-21-fireball-track" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2012/2012-sept-21-fireball-track</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Oct 2012 —... John Mason is shown in the attached picture. This is based on an analysis by Nick James. We are very grateful to the pho...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britastro.org  
    Title: 2012 september 21 earth grazing fireball  
-   Link: <a href="https://britastro.org/2012/2012-september-21-earth-grazing-fireball" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2012/2012-september-21-earth-grazing-fireball</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 September 21 Earth-grazing fireball7 Oct 2012 — Further information will be posted as it becomes available. John Mason &amp; Nick James...</p></details>
+   Link:<a href="https://britastro.org/2012/2012-september-21-earth-grazing-fireball" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2012/2012-september-21-earth-grazing-fireball</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2012 September 21 Earth-grazing fireball7 Oct 2012 — Further information will be posted as it becomes available. John Mason &amp; Nick James...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/videos/baa-meteor-section" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/baa-meteor-section</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BAA Meteor Section – British Astronomical AssociationJohn Mason, Acting Director, describes the Meteor Section&#x27;s objectives. For more det...</p></details>
+   Link:<a href="https://britastro.org/videos/baa-meteor-section" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/baa-meteor-section</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAA Meteor Section – British Astronomical AssociationJohn Mason, Acting Director, describes the Meteor Section&#x27;s objectives. For more det...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britastro.org  
    Title: fireballs over scotland  
-   Link: <a href="https://britastro.org/forums/topic/fireballs-over-scotland" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/fireballs-over-scotland</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Oct 2013 —... John Mason is at the bottom of this message … the main point is that we now know that the two fireballs imaged over Sco...</p></details>
+   Link:<a href="https://britastro.org/forums/topic/fireballs-over-scotland" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/fireballs-over-scotland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Oct 2013 —... John Mason is at the bottom of this message … the main point is that we now know that the two fireballs imaged over Sco...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/videos/meteors-and-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/meteors-and-fireballs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors and Fireballs – British Astronomical AssociationThe British Astronomical Association supports amateur astronomers around the UK a...</p></details>
+   Link:<a href="https://britastro.org/videos/meteors-and-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/meteors-and-fireballs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors and Fireballs – British Astronomical AssociationThe British Astronomical Association supports amateur astronomers around the UK a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britastro.org  
    Title: christmas observers challenge  
-   Link: <a href="https://britastro.org/2024/christmas-observers-challenge" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2024/christmas-observers-challenge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas Observer&#x27;s Challenge23 Dec 2024 — Roy Panther famously discovered a comet on Christmas Day in 1980 (C/1980 Y2 or 1980u) his obs...</p></details>
+   Link:<a href="https://britastro.org/2024/christmas-observers-challenge" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2024/christmas-observers-challenge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas Observer&#x27;s Challenge23 Dec 2024 — Roy Panther famously discovered a comet on Christmas Day in 1980 (C/1980 Y2 or 1980u) his obs...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
    Published: December 1980  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yorkastro.org.uk  
    Title: BAA Journal 2023 10  
-   Link: <a href="https://yorkastro.org.uk/wp-content/uploads/2024/02/BAA_Journal_2023-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yorkastro.org.uk/wp-content/uploads/2024/02/BAA_Journal_2023-10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British Astronomical Association3 Feb 2024 — The Journal is published six times per year, in February, October &amp; December. around 80 tour...</p></details>
+   Link:<a href="https://yorkastro.org.uk/wp-content/uploads/2024/02/BAA_Journal_2023-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yorkastro.org.uk/wp-content/uploads/2024/02/BAA_Journal_2023-10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Astronomical Association3 Feb 2024 — The Journal is published six times per year, in February, October &amp; December. around 80 tour...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ianridpath.com  
    Title: Rocket Attack  
-   Link: <a href="https://www.ianridpath.com/ufo/RocketAttack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/RocketAttack.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Mar 1991 — Since 1983, Ian Ridpath has been pro- moting his theory that the lighthouse, a fireball, and [stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;) were the sou...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/RocketAttack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/RocketAttack.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Mar 1991 — Since 1983, Ian Ridpath has been pro- moting his theory that the lighthouse, a fireball, and [stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;) were the sou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kids.kiddle.co  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident Facts for Kids17 Oct 2025 — Scientists believe these lights were from a piece of space rock. It was burning up as a fireb...</p></details>
+   Link:<a href="https://kids.kiddle.co/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident Facts for Kids17 Oct 2025 — Scientists believe these lights were from a piece of space rock. It was burning up as a fireb...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Frendlesham-forest-incident.1914%2Fpage-11=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Frendlesham-forest-incident.1914%2Fpage-11=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident | Page 11 - The Forteana ForumsHe told me that shortly before 3 am on December 26 an exceptionally brilliant meteor, almo...</p></details>
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Frendlesham-forest-incident.1914%2Fpage-11=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Frendlesham-forest-incident.1914%2Fpage-11=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident | Page 11 - The Forteana ForumsHe told me that shortly before 3 am on December 26 an exceptionally brilliant meteor, almo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The UFO Close Encounter At Rendlesham Forest  
-   Link: <a href="https://www.youtube.com/watch?v=ZrflYSIhbpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrflYSIhbpY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAA Meteor Section...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZrflYSIhbpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrflYSIhbpY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAA Meteor Section...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelWhat happened at the Rendelsham Forest Incident...Around the time the initial &#x27;glowing object&#x27; was seen descending...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelWhat happened at the Rendelsham Forest Incident...Around the time the initial &#x27;glowing object&#x27; was seen descending...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on... The account of the events in Rendlesham Forest on December 25/26 and December...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on... The account of the events in Rendlesham Forest on December 25/26 and December...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sitp.online  
    Title: the rendlesham forest ufo deconstructing a myth ian ridpath  
-   Link: <a href="https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/" target="_blank" rel="noopener noreferrer nofollow">https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO: Deconstructing a mythThe Rendlesham Forest UFO incident of December 1980 ranks as one of the top ten UFO cases...</p></details>
+   Link:<a href="https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/" target="_blank" rel="noopener noreferrer nofollow">https://sitp.online/show/the-rendlesham-forest-ufo-deconstructing-a-myth-ian-ridpath/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO: Deconstructing a mythThe Rendlesham Forest UFO incident of December 1980 ranks as one of the top ten UFO cases...</p></details>
    Published: December 1980  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle Down - 50 Years of Unexplained Military Encounters...December 27, 1980 – Rendlesham Forest, England – UFO Encounter A close...</p></details>
+   Link:<a href="https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle Down - 50 Years of Unexplained Military Encounters...December 27, 1980 – Rendlesham Forest, England – UFO Encounter A close...</p></details>
    Published: December 27, 1980  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: esa.int  
    Title: ESA analysing fireball over Europe on 8 March 2026  
-   Link: <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fireball glowed for approximately six seconds, leaving a visible trail in the sky before fracturing into pieces. The event was record...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fireball glowed for approximately six seconds, leaving a visible trail in the sky before fracturing into pieces. The event was record...</p></details>
    Published: March 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1410822469132503/posts/3801804196700973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1410822469132503/posts/3801804196700973/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing up as a fireball (meteor) over southern England at...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1410822469132503/posts/3801804196700973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1410822469132503/posts/3801804196700973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing up as a fireball (meteor) over southern England at...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: metacast.app  
-   Link: <a href="https://metacast.app/podcast/strange-arrivals/LEEZSNO5/the-lighthouse/qzfi4Tho" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/strange-arrivals/LEEZSNO5/the-lighthouse/qzfi4Tho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>06:36. a bright fireball had been seen over southern England...</p></details>
+   Link:<a href="https://metacast.app/podcast/strange-arrivals/LEEZSNO5/the-lighthouse/qzfi4Tho" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/strange-arrivals/LEEZSNO5/the-lighthouse/qzfi4Tho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>06:36. a bright fireball had been seen over southern England...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — It had been reported in Rendlesham Forest by two American ai...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — It had been reported in Rendlesham Forest by two American ai...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: basexpeditiongroup.org.uk  
    Title: baa comet section meeting 8 7 2023  
-   Link: <a href="https://basexpeditiongroup.org.uk/2023/07/09/baa-comet-section-meeting-8-7-2023/" target="_blank" rel="noopener noreferrer nofollow">https://basexpeditiongroup.org.uk/2023/07/09/baa-comet-section-meeting-8-7-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAA Comet Section Meeting (8/7/2023) - BAS Expedition Group9 Jul 2023 — The final section of talks was covered the charismatic Dr John Ma...</p></details>
+   Link:<a href="https://basexpeditiongroup.org.uk/2023/07/09/baa-comet-section-meeting-8-7-2023/" target="_blank" rel="noopener noreferrer nofollow">https://basexpeditiongroup.org.uk/2023/07/09/baa-comet-section-meeting-8-7-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAA Comet Section Meeting (8/7/2023) - BAS Expedition Group9 Jul 2023 — The final section of talks was covered the charismatic Dr John Ma...</p></details>

@@ -280,15 +280,15 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_au
 
 ## Introduction
 
-One of the most important [perception]({{ 'perception/' | relative_url }})-based explanations discussed in relation to the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is the autokinetic effect: the tendency for a small, isolated light viewed in darkness to appear as if it is moving when it is actually stationary. In a setting such as Rendlesham—dark woodland, limited visual references, uncertain distances, and observers concentrating on unusual lights—the illusion becomes particularly relevant. It does not explain every claim made about the incident, nor does it automatically resolve the case. However, it offers a well-established mechanism for why some witnesses could sincerely report lights that seemed to hover, drift, dart, retreat, or change position even when the original light source remained fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
+One of the most important [perception]({{ 'perception/' | relative_url }})-based explanations discussed in relation to the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is the autokinetic effect: the tendency for a small, isolated light viewed in darkness to appear as if it is moving when it is actually stationary. In a setting such as Rendlesham—dark woodland, limited visual references, uncertain distances, and observers concentrating on unusual lights—the illusion becomes particularly relevant. It does not explain every claim made about the incident, nor does it automatically resolve the case. However, it offers a well-established mechanism for why some witnesses could sincerely report lights that seemed to hover, drift, dart, retreat, or change position even when the original light source remained fixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-1-dark.svg" | relative_url }}" alt="Moving Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the autokinetic effect works
 
-The autokinetic effect is a recognised visual illusion. When a person stares at a single bright point in an otherwise dark or featureless field, the light may appear to wander, oscillate, or move in unpredictable directions. The effect has been documented in psychology for more than a century and has been used in classic perception experiments because observers often become convinced that a stationary light is genuinely moving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Brock University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
+The autokinetic effect is a recognised visual illusion. When a person stares at a single bright point in an otherwise dark or featureless field, the light may appear to wander, oscillate, or move in unpredictable directions. The effect has been documented in psychology for more than a century and has been used in classic perception experiments because observers often become convinced that a stationary light is genuinely moving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Brock University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
 
-The underlying problem is that the visual system normally judges movement relative to surrounding reference points. In darkness those reference points largely disappear. Small involuntary eye movements continue, but the brain can misattribute the resulting change in the retinal image to movement of the light itself rather than movement of the observer's eyes. Modern research continues to describe autokinesis as a consequence of impoverished visual scenes in which the brain struggles to stabilise motion perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UR Scholarship Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Autokinesis reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may ex...</span></span></span>
+The underlying problem is that the visual system normally judges movement relative to surrounding reference points. In darkness those reference points largely disappear. Small involuntary eye movements continue, but the brain can misattribute the resulting change in the retinal image to movement of the light itself rather than movement of the observer's eyes. Modern research continues to describe autokinesis as a consequence of impoverished visual scenes in which the brain struggles to stabilise motion perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UR Scholarship Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Autokinesis reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may ex...</span></span></span>
 
 Several features of the illusion are relevant to UFO reports:
 
@@ -298,7 +298,7 @@ Several features of the illusion are relevant to UFO reports:
 * The apparent movement can seem purposeful rather than random.
 * Different observers may describe different directions of motion.
 * The perceived movement can increase when attention becomes highly focused.
-* The light may appear to stop, start, or shift position despite remaining fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UR Scholarship Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
+* The light may appear to stop, start, or shift position despite remaining fixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UR Scholarship Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
 
 </div>
 
@@ -311,11 +311,11 @@ These characteristics make autokinesis particularly important when evaluating re
 
 The autokinetic effect is most often discussed in connection with the reports of distant lights rather than the more dramatic claims of a landed craft. Its relevance increases whenever witnesses describe a small bright object seen against a dark [background]({{ 'background/' | relative_url }}) with few stable reference points.
 
-Several Rendlesham accounts involved lights that appeared to move away when approached, hover among trees, or shift position in the distance. According to witness statements from the [first night]({{ 'first-night/' | relative_url }}), observers pursuing a flashing light eventually realised it was farther away than they had initially believed. Some statements referred to a distant beacon or lighthouse-like light rather than a nearby object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+Several Rendlesham accounts involved lights that appeared to move away when approached, hover among trees, or shift position in the distance. According to witness statements from the [first night]({{ 'first-night/' | relative_url }}), observers pursuing a flashing light eventually realised it was farther away than they had initially believed. Some statements referred to a distant beacon or lighthouse-like light rather than a nearby object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-Sceptical reconstructions have argued that the Orford Ness lighthouse provided a fixed flashing source in the same general direction as some of the reported lights. Under that interpretation, observers moving through woodland while concentrating on the light could experience a combination of changing [sight lines]({{ 'sight-lines/' | relative_url }}), uncertain distance perception, and autokinetic motion illusions. The result would be a light that appeared to manoeuvre even though the source itself remained stationary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+Sceptical reconstructions have argued that the Orford Ness lighthouse provided a fixed flashing source in the same general direction as some of the reported lights. Under that interpretation, observers moving through woodland while concentrating on the light could experience a combination of changing [sight lines]({{ 'sight-lines/' | relative_url }}), uncertain distance perception, and autokinetic motion illusions. The result would be a light that appeared to manoeuvre even though the source itself remained stationary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-The same reasoning has been applied to some of the later observations recorded by Deputy Base Commander Charles Halt. Analyses of the famous Halt tape have suggested that apparent motion reported for certain lights could have been amplified by autokinetic effects, particularly when observers stared at bright points in a dark sky for extended periods. Ian [Ridpath]({{ 'ridpath/' | relative_url }})'s examination of the tape specifically identifies autokinesis as one of several perceptual factors that may have affected interpretations of the lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedThese include the autokinetic effect in the eye, and moving cloud (there was pat...</span></span></span>
+The same reasoning has been applied to some of the later observations recorded by Deputy Base Commander Charles Halt. Analyses of the famous Halt tape have suggested that apparent motion reported for certain lights could have been amplified by autokinetic effects, particularly when observers stared at bright points in a dark sky for extended periods. Ian [Ridpath]({{ 'ridpath/' | relative_url }})'s examination of the tape specifically identifies autokinesis as one of several perceptual factors that may have affected interpretations of the lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedThese include the autokinetic effect in the eye, and moving cloud (there was pat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-2-dark.svg" | relative_url }}" alt="Moving Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,9 +323,9 @@ The same reasoning has been applied to some of the later observations recorded b
 
 A common misunderstanding is that apparent movement automatically proves that a light was either extraordinary or mundane. In reality, movement reports by themselves are often difficult to evaluate because human perception of motion is less reliable than many people assume under night-time conditions.
 
-The autokinetic effect demonstrates that honest observers can perceive motion where none exists. At the same time, recognising the existence of the illusion does not prove that every reported movement at Rendlesham was illusory. Some lights may have involved aircraft, stars viewed through atmospheric distortion, lighthouse flashes, observer movement, or combinations of several factors. The key point is that perceived motion alone is not a strong indicator of the true behaviour of the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
+The autokinetic effect demonstrates that honest observers can perceive motion where none exists. At the same time, recognising the existence of the illusion does not prove that every reported movement at Rendlesham was illusory. Some lights may have involved aircraft, stars viewed through atmospheric distortion, lighthouse flashes, observer movement, or combinations of several factors. The key point is that perceived motion alone is not a strong indicator of the true behaviour of the source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
 
-This distinction matters because many Rendlesham narratives place considerable weight on descriptions such as "hovering", "moving through the trees", "darting away", or "responding" to observers. Those descriptions are psychologically meaningful—they reveal what witnesses experienced—but they do not necessarily provide a direct record of what the external light source was doing. The autokinetic effect shows how a stationary point of light can acquire apparently dynamic behaviour in the observer's perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/science/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2UR Scholarship Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAutokinetic effect &#124; Perception, Illusion, Visual...4 days ago — Autokinetic effect, illusory movement of a singl...</span></span></span>
+This distinction matters because many Rendlesham narratives place considerable weight on descriptions such as "hovering", "moving through the trees", "darting away", or "responding" to observers. Those descriptions are psychologically meaningful—they reveal what witnesses experienced—but they do not necessarily provide a direct record of what the external light source was doing. The autokinetic effect shows how a stationary point of light can acquire apparently dynamic behaviour in the observer's perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/science/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2UR Scholarship Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAutokinetic effect &#124; Perception, Illusion, Visual...4 days ago — Autokinetic effect, illusory movement of a singl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pPDobI2Ezpk" title="Did a Lighthouse fool the US - Rendlesham Forest Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pPDobI2Ezpk" target="_blank" rel="noopener noreferrer">Did a Lighthouse fool the US - Rendlesham Forest Incident</a></p><p class="youtube-embed-meta">Channel: Paul Vs the Paranormal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pPDobI2Ezpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pPDobI2Ezpk">Open on YouTube</a></p></div></div></div>
@@ -337,200 +337,200 @@ This distinction matters because many Rendlesham narratives place considerable w
 
 The value of the autokinetic explanation is not that it solves every aspect of Rendlesham. Rather, it addresses a specific class of observations: reports of small lights whose apparent motion became a major part of the witnesses' interpretation of events.
 
-Within the broader discussion of night patrol perception and misidentification, autokinesis provides a scientifically documented mechanism linking darkness, isolated lights, and convincing impressions of movement. It helps explain why multiple sincere observers might describe a distant light as active, evasive, or manoeuvring even when the visual stimulus itself remained fixed. For that reason, analyses of Rendlesham that focus on lighthouse flashes, bright stars, or other distant [light sources]({{ 'light-sources/' | relative_url }}) frequently consider the autokinetic effect an essential part of understanding how still lights could come to be remembered as moving ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[PMC+3Ian Ridpath+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedThese include the autokinetic effect in the eye, and moving cloud (there was pat...</span></span></span>
+Within the broader discussion of night patrol perception and misidentification, autokinesis provides a scientifically documented mechanism linking darkness, isolated lights, and convincing impressions of movement. It helps explain why multiple sincere observers might describe a distant light as active, evasive, or manoeuvring even when the visual stimulus itself remained fixed. For that reason, analyses of Rendlesham that focus on lighthouse flashes, bright stars, or other distant [light sources]({{ 'light-sources/' | relative_url }}) frequently consider the autokinetic effect an essential part of understanding how still lights could come to be remembered as moving ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[PMC+3Ian Ridpath+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedThese include the autokinetic effect in the eye, and moving cloud (there was pat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-3-dark.svg" | relative_url }}" alt="Moving Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_night_patrol_percept_5380ca_autokinetic_moving_l_9d6310-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Still Lights Appear to Move. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Still Lights Appear to Move. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how extraordinary claims, perception and evidence should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how extraordinary claims, perception and evidence should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Directly supports the page’s theme that sincere observers can misperceive visual events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the page’s theme that sincere observers can misperceive visual events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers judgement under uncertainty, bias and fast interpretation of ambiguous cues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers judgement under uncertainty, bias and fast interpretation of ambiguous cues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO context involving trained observers and official reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO context involving trained observers and official reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="moving-lights-d1f979-when-still-lights-appear-to-move-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ Within the broader discussion of night patrol perception and misidentification, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ Within the broader discussion of night patrol perception and misidentification, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ Within the broader discussion of night patrol perception and misidentification, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ Within the broader discussion of night patrol perception and misidentification, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ Within the broader discussion of night patrol perception and misidentification, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,127 +736,127 @@ Within the broader discussion of night patrol perception and misidentification, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinesis reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may ex...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinesis reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may ex...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/science/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/autokinetic-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAutokinetic effect | Perception, Illusion, Visual...4 days ago — Autokinetic effect, illusory movement of a singl...</p></details>
+   Link:<a href="https://www.britannica.com/science/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/autokinetic-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAutokinetic effect | Perception, Illusion, Visual...4 days ago — Autokinetic effect, illusory movement of a singl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psychology.town  
    Title: impact limitations sherifs autokinetic effect research  
-   Link: <a href="https://psychology.town/social/impact-limitations-sherifs-autokinetic-effect-research/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/impact-limitations-sherifs-autokinetic-effect-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Impact and Limitations of Sherif&#x27;s...11 Nov 2025 — Because the room offered no visual reference points, the stationary li...</p></details>
+   Link:<a href="https://psychology.town/social/impact-limitations-sherifs-autokinetic-effect-research/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/impact-limitations-sherifs-autokinetic-effect-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Impact and Limitations of Sherif&#x27;s...11 Nov 2025 — Because the room offered no visual reference points, the stationary li...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychology.town  
    Title: autokinetic effect sherif norm formation study  
-   Link: <a href="https://psychology.town/social/autokinetic-effect-sherif-norm-formation-study/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/autokinetic-effect-sherif-norm-formation-study/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Autokinetic Effect: The Basis of Sherif&#x27;s Norm...Nov 8, 2025 — The autokinetic effect (from the Greek auto, meaning “self...</p></details>
+   Link:<a href="https://psychology.town/social/autokinetic-effect-sherif-norm-formation-study/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/autokinetic-effect-sherif-norm-formation-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Autokinetic Effect: The Basis of Sherif&#x27;s Norm...Nov 8, 2025 — The autokinetic effect (from the Greek auto, meaning “self...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: brocku.ca  
    Title: not moving at all  
-   Link: <a href="https://brocku.ca/MeadProject/Sherif/Sherif_1935a/Sherif_1935a_2.html" target="_blank" rel="noopener noreferrer nofollow">https://brocku.ca/MeadProject/Sherif/Sherif_1935a/Sherif_1935a_2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brock UniversityMuzafer Sherif: A study of some social factors in perceptionIn a dark room, when there is no objective basis of compariso...</p></details>
+   Link:<a href="https://brocku.ca/MeadProject/Sherif/Sherif_1935a/Sherif_1935a_2.html" target="_blank" rel="noopener noreferrer nofollow">https://brocku.ca/MeadProject/Sherif/Sherif_1935a/Sherif_1935a_2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brock UniversityMuzafer Sherif: A study of some social factors in perceptionIn a dark room, when there is no objective basis of compariso...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scholarship.richmond.edu  
    Title: UR Scholarship Repository"Autokinetic Effect" by Donelson R  
-   Link: <a href="https://scholarship.richmond.edu/jepson-faculty-publications/162/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.richmond.edu/jepson-faculty-publications/162/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forsythby DR Forsyth · 2008 — The autokinetic effect is an optical illusion. It occurs when a perceiver staring at a stationary pinpoint...</p></details>
+   Link:<a href="https://scholarship.richmond.edu/jepson-faculty-publications/162/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.richmond.edu/jepson-faculty-publications/162/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forsythby DR Forsyth · 2008 — The autokinetic effect is an optical illusion. It occurs when a perceiver staring at a stationary pinpoint...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleThere was even talk of aliens aboard the craft, and allegations of a mas...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleThere was even talk of aliens aboard the craft, and allegations of a mas...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before the month was out a real-life UFO encounter was to play itself out in Rendlesham Forest...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before the month was out a real-life UFO encounter was to play itself out in Rendlesham Forest...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedThese include the autokinetic effect in the eye, and moving cloud (there was pat...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedThese include the autokinetic effect in the eye, and moving cloud (there was pat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tarrdaniel.com  
-   Link: <a href="https://www.tarrdaniel.com/documents/Ufology/ufology.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/ufology.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - A scientific introductionThe Autokinetic effect hypothesis found to be delusions or misidentifications may still be worth...</p></details>
+   Link:<a href="https://www.tarrdaniel.com/documents/Ufology/ufology.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/ufology.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - A scientific introductionThe Autokinetic effect hypothesis found to be delusions or misidentifications may still be worth...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gold.ac.uk  
-   Link: <a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian Ridpath: UFOs: Fact or fantasy?12 Jan 2016 —... UFOs. He is probably best known for investigating and solving the Rendlesham Forest...</p></details>
+   Link:<a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian Ridpath: UFOs: Fact or fantasy?12 Jan 2016 —... UFOs. He is probably best known for investigating and solving the Rendlesham Forest...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: autokinetics.com.sg  
-   Link: <a href="https://autokinetics.com.sg/" target="_blank" rel="noopener noreferrer nofollow">https://autokinetics.com.sg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoKinetics specialises in custom forged rims, tyres, suspension, maintenance repairs, servicing and brake solutions. We pri...</p></details>
+   Link:<a href="https://autokinetics.com.sg/" target="_blank" rel="noopener noreferrer nofollow">https://autokinetics.com.sg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoKinetics specialises in custom forged rims, tyres, suspension, maintenance repairs, servicing and brake solutions. We pri...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: conwayhall.org.uk  
-   Link: <a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a MythHere, skeptical investigator Ian Ridpath looks at the main points of the case and provides explanations...</p></details>
+   Link:<a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a MythHere, skeptical investigator Ian Ridpath looks at the main points of the case and provides explanations...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: astronomyufo.com  
-   Link: <a href="https://www.astronomyufo.com/UFO/SUNlite6_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNlite6_4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUNlitePope attempts to dispose of the explana- tion offered by Ian Ridpath. He focuses on the lighthouse and proclaims that skeptics use...</p></details>
+   Link:<a href="https://www.astronomyufo.com/UFO/SUNlite6_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNlite6_4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUNlitePope attempts to dispose of the explana- tion offered by Ian Ridpath. He focuses on the lighthouse and proclaims that skeptics use...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Dominic-Abrams/publication/314120328_The_formation_of_social_norms_Revisiting_Sherif%27s_autokinetic_illusion_study/links/58b6b5a045851591c5d44605/The-formation-of-social-norms-Revisiting-Sherifs-autokinetic-illusion-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Dominic-Abrams/publication/314120328_The_formation_of_social_norms_Revisiting_Sherif%27s_autokinetic_illusion_study/links/58b6b5a045851591c5d44605/The-formation-of-social-norms-Revisiting-Sherifs-autokinetic-illusion-study.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Dominic-Abrams/publication/314120328_The_formation_of_social_norms_Revisiting_Sherif%27s_autokinetic_illusion_study/links/58b6b5a045851591c5d44605/The-formation-of-social-norms-Revisiting-Sherifs-autokinetic-illusion-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Dominic-Abrams/publication/314120328_The_formation_of_social_norms_Revisiting_Sherif%27s_autokinetic_illusion_study/links/58b6b5a045851591c5d44605/The-formation-of-social-norms-Revisiting-Sherifs-autokinetic-illusion-study.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2E2jib4d_cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2E2jib4d_cw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muzafer Sherif Conformity and the autokinetic effectThis video explores Sherif&#x27;s conformity and the autokinetic effect. Psychology on A-L...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2E2jib4d_cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2E2jib4d_cw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muzafer Sherif Conformity and the autokinetic effectThis video explores Sherif&#x27;s conformity and the autokinetic effect. Psychology on A-L...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UuINkhdCC4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UuINkhdCC4s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO moving lights explanation star lighthouse TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UuINkhdCC4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UuINkhdCC4s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO moving lights explanation star lighthouse TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: alleydog.com  
    Title: Autokinetic Effect Definition | Psychology Glossary Autokinetic effect  
-   Link: <a href="https://www.alleydog.com/glossary/definition.php?term=Autokinetic+Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.alleydog.com/glossary/definition.php?term=Autokinetic+Effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>looks at an stationary, bright light in the dark for a long time. After a period of time, the light appears to move, but really is not.Re...</p></details>
+   Link:<a href="https://www.alleydog.com/glossary/definition.php?term=Autokinetic+Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.alleydog.com/glossary/definition.php?term=Autokinetic+Effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>looks at an stationary, bright light in the dark for a long time. After a period of time, the light appears to move, but really is not.Re...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thejournal.ie  
    Title: rendlesham forest incident charles halt interview 2015 2422702 Dec2015  
-   Link: <a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s...24 Dec 2015 — “To help your children round the [UFO Trail](&amp;#123;&amp;#123; &#x27;ufo-trail/&#x27; | relative_url &amp;#125;&amp;#125;), why not look for th...</p></details>
+   Link:<a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s...24 Dec 2015 — “To help your children round the [UFO Trail](&amp;#123;&amp;#123; &#x27;ufo-trail/&#x27; | relative_url &amp;#125;&amp;#125;), why not look for th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — Delivery charges may apply. Explore more on these topics. UF...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — Delivery charges may apply. Explore more on these topics. UF...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: was the black glassy object an actual case of time travel?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
    Published: december 1980  

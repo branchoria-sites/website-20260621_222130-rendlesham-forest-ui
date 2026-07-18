@@ -280,11 +280,11 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_si
 
 ## Introduction
 
-One of the most important facts in the Ministry of Defence’s handling of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident was not something that appeared in the file, but something that did not: a confirmed radar track. For defence officials, the key question was whether the reported lights represented an unidentified aircraft, an airspace intrusion, or another military-security problem. Without radar evidence showing an unknown object moving through protected airspace, the incident remained [unexplained]({{ 'unexplained/' | relative_url }}) but failed to meet the threshold for a national-security concern. The absence of radar confirmation became a central reason why the MOD concluded that Rendlesham had “no defence significance” and posed no threat to UK airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+One of the most important facts in the Ministry of Defence’s handling of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident was not something that appeared in the file, but something that did not: a confirmed radar track. For defence officials, the key question was whether the reported lights represented an unidentified aircraft, an airspace intrusion, or another military-security problem. Without radar evidence showing an unknown object moving through protected airspace, the incident remained [unexplained]({{ 'unexplained/' | relative_url }}) but failed to meet the threshold for a national-security concern. The absence of radar confirmation became a central reason why the MOD concluded that Rendlesham had “no defence significance” and posed no threat to UK airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-1-dark.svg" | relative_url }}" alt="Radar Silence illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction shaped the entire official response. Witness testimony, however sincere, was not enough on its own to trigger a major air-defence investigation. The military system was designed to identify and track aircraft, and [radar]({{ 'radar/' | relative_url }}) evidence was one of the principal forms of corroboration that could have transformed the case from a strange sighting into a defence incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[UAP Globe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">radar, no obvious explanation and no threat,</span><span class="citation-popover-snippet">UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
+This distinction shaped the entire official response. Witness testimony, however sincere, was not enough on its own to trigger a major air-defence investigation. The military system was designed to identify and track aircraft, and [radar]({{ 'radar/' | relative_url }}) evidence was one of the principal forms of corroboration that could have transformed the case from a strange sighting into a defence incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[UAP Globe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">radar, no obvious explanation and no threat,</span><span class="citation-popover-snippet">UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/21yW_XZR2LU" title="Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=21yW_XZR2LU" target="_blank" rel="noopener noreferrer">Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=21yW_XZR2LU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=21yW_XZR2LU">Open on YouTube</a></p></div></div></div>
@@ -305,9 +305,9 @@ A radar confirmation capable of changing the case would have needed to show one 
 
 </div>
 
-Such evidence would have moved the incident into the realm of air defence rather than eyewitness reporting. During the Cold War, RAF radar stations existed precisely to detect aircraft approaching or operating within UK-controlled airspace. If a significant unknown object had been recorded by those systems, officials would have had a concrete security problem to investigate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[UAP Globe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">radar, no obvious explanation and no threat,</span><span class="citation-popover-snippet">UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
+Such evidence would have moved the incident into the realm of air defence rather than eyewitness reporting. During the Cold War, RAF radar stations existed precisely to detect aircraft approaching or operating within UK-controlled airspace. If a significant unknown object had been recorded by those systems, officials would have had a concrete security problem to investigate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[UAP Globe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">radar, no obvious explanation and no threat,</span><span class="citation-popover-snippet">UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
 
-Instead, the surviving official record repeatedly points in the opposite direction. Government statements issued years later referred to the lack of unusual radar returns associated with the event. In a 2001 parliamentary answer, the MOD stated that records from the period documented “no evidence of unusual radar returns.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — Hansard record of the item: &#x27;Rendlesham Forest... MoD records...</span></span></span>
+Instead, the surviving official record repeatedly points in the opposite direction. Government statements issued years later referred to the lack of unusual radar returns associated with the event. In a 2001 parliamentary answer, the MOD stated that records from the period documented “no evidence of unusual radar returns.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — Hansard record of the item: &#x27;Rendlesham Forest... MoD records...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.9K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
@@ -316,11 +316,11 @@ Instead, the surviving official record repeatedly points in the opposite directi
 
 Radar evidence occupies an unusual place in the Rendlesham debate because two different issues became intertwined over time: the apparent absence of radar detections and the later absence of many radar records themselves.
 
-The first issue concerns what officials said was known at the time. According to later MOD explanations, checks conducted in relation to the incident did not reveal radar evidence supporting the reports of an unidentified craft. David [Clarke]({{ 'clarke/' | relative_url }})'s summary of the released UFO files stated that officials considered the case to have no defence significance because no unidentified objects had been detected on radar during the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+The first issue concerns what officials said was known at the time. According to later MOD explanations, checks conducted in relation to the incident did not reveal radar evidence supporting the reports of an unidentified craft. David [Clarke]({{ 'clarke/' | relative_url }})'s summary of the released UFO files stated that officials considered the case to have no defence significance because no unidentified objects had been detected on radar during the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
-The second issue concerns record retention. By the time renewed public interest and parliamentary questions emerged years later, original radar recordings from 1980 no longer existed. The MOD explained that radar recordings were routinely retained for only a short period before reuse, while many paper records were also destroyed under standard retention policies. Consequently, later investigators could not independently revisit raw radar data from the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Recordings of radar data are retained for a period of thirty days...</span></span></span>
+The second issue concerns record retention. By the time renewed public interest and parliamentary questions emerged years later, original radar recordings from 1980 no longer existed. The MOD explained that radar recordings were routinely retained for only a short period before reuse, while many paper records were also destroyed under standard retention policies. Consequently, later investigators could not independently revisit raw radar data from the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Recordings of radar data are retained for a period of thirty days...</span></span></span>
 
-This has created a persistent source of disagreement. Supporters of extraordinary explanations argue that the disappearance of original records leaves open the possibility that important information was lost. Sceptics counter that there is no surviving evidence showing that relevant radar detections ever existed in the first place. What remains significant for understanding the MOD position is that the official assessment was made when the incident was current, not decades later after records had been discarded. The judgment recorded by officials was that radar checks had not revealed a defence concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Recordings of radar data are retained for a period of thirty days...</span></span></span>
+This has created a persistent source of disagreement. Supporters of extraordinary explanations argue that the disappearance of original records leaves open the possibility that important information was lost. Sceptics counter that there is no surviving evidence showing that relevant radar detections ever existed in the first place. What remains significant for understanding the MOD position is that the official assessment was made when the incident was current, not decades later after records had been discarded. The judgment recorded by officials was that radar checks had not revealed a defence concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Recordings of radar data are retained for a period of thirty days...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-2-dark.svg" | relative_url }}" alt="Radar Silence illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,11 +328,11 @@ This has created a persistent source of disagreement. Supporters of extraordinar
 
 The absence of a radar track did not prove that witnesses saw nothing. Nor did it explain every reported light or observation. What it did was remove the strongest form of military corroboration that could have elevated the incident into a national-security matter.
 
-Released MOD material and later commentary from those familiar with the files indicate that officials viewed radar confirmation as a key test. Once basic checks failed to identify a radar-tracked object and no threat indicator emerged, the case was treated as lacking defence significance. The matter therefore remained outside the category of incidents requiring sustained military investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[UAP Globe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">radar, no obvious explanation and no threat,</span><span class="citation-popover-snippet">UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
+Released MOD material and later commentary from those familiar with the files indicate that officials viewed radar confirmation as a key test. Once basic checks failed to identify a radar-tracked object and no threat indicator emerged, the case was treated as lacking defence significance. The matter therefore remained outside the category of incidents requiring sustained military investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[UAP Globe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">radar, no obvious explanation and no threat,</span><span class="citation-popover-snippet">UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
 
-This logic appears consistently in official statements over subsequent decades. The National Archives summarises the government's position as there being no threat to UK airspace or national security and no further investigation by the MOD. Parliamentary responses likewise reaffirmed the original judgement and noted the absence of unusual radar evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+This logic appears consistently in official statements over subsequent decades. The National Archives summarises the government's position as there being no threat to UK airspace or national security and no further investigation by the MOD. Parliamentary responses likewise reaffirmed the original judgement and noted the absence of unusual radar evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
-An important feature of the conclusion is that it was procedural rather than explanatory. Officials did not claim that radar silence solved the mystery. Instead, radar silence meant the event lacked one of the principal indicators that an unidentified aerial phenomenon had become an air-defence problem. In MOD terms, unexplained did not automatically mean threatening. Without a radar-confirmed intrusion, the incident remained an unusual report rather than evidence of a breach of national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+An important feature of the conclusion is that it was procedural rather than explanatory. Officials did not claim that radar silence solved the mystery. Instead, radar silence meant the event lacked one of the principal indicators that an unidentified aerial phenomenon had become an air-defence problem. In MOD terms, unexplained did not automatically mean threatening. Without a radar-confirmed intrusion, the incident remained an unusual report rather than evidence of a breach of national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
@@ -341,200 +341,200 @@ An important feature of the conclusion is that it was procedural rather than exp
 
 The radar question remains central because it sits at the intersection of witness testimony and military verification. Rendlesham involved trained military personnel reporting unusual lights near sensitive installations, but the official record never acquired the supporting radar evidence that might have transformed those reports into a confirmed airspace event.
 
-As a result, the case occupies a distinctive category in the MOD archive: unresolved in terms of exact explanation, yet resolved in terms of defence relevance. The lack of radar confirmation did not answer what every witness saw, but it strongly influenced the official conclusion that no hostile aircraft, military incursion, or national-security threat had been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+As a result, the case occupies a distinctive category in the MOD archive: unresolved in terms of exact explanation, yet resolved in terms of defence relevance. The lack of radar confirmation did not answer what every witness saw, but it strongly influenced the official conclusion that no hostile aircraft, military incursion, or national-security threat had been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-3-dark.svg" | relative_url }}" alt="Radar Silence illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_mod_conclusion_4b274e_radar_silence_no_thr_497896-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why No Radar Track Changed the Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why No Radar Track Changed the Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly addresses the MOD&#x27;s defence-threat criteria.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the MOD&#x27;s defence-threat criteria.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains why cases were judged to have no defence significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why cases were judged to have no defence significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Examines the official and unofficial interpretations of the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the official and unofficial interpretations of the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses defence and aviation perspectives on UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses defence and aviation perspectives on UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Rendlesham Forest UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/1e53fb4d8898ba097c9b.jpg' | relative_url }}" alt="Listing image for UFO Model - Rendlesham Forest UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Rendlesham Forest UFO - Geek Gift / UFO / UAP / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Rendlesham Forest UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/1e53fb4d8898ba097c9b.jpg' | relative_url }}" alt="Listing image for UFO Model - Rendlesham Forest UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Rendlesham Forest UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles"><img src="{{ '/assets/images/marketplace-covers/6b9710719f0b261b7173.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles"><img src="{{ '/assets/images/marketplace-covers/6b9710719f0b261b7173.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006"><img src="{{ '/assets/images/marketplace-covers/1d09326f0f822a7bd02d.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006"><img src="{{ '/assets/images/marketplace-covers/1d09326f0f822a7bd02d.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Supposed UFO landing site - Rendlesham Forest Capel Green In th c2006</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/0bd99f962f54072d69eb.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/0bd99f962f54072d69eb.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible" data-ebay-reference="radar-silence-why-no-radar-track-changed-the-case-rendlesham-forest-rendlesham-forest-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ As a result, the case occupies a distinctive category in the MOD archive: unreso
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ As a result, the case occupies a distinctive category in the MOD archive: unreso
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ As a result, the case occupies a distinctive category in the MOD archive: unreso
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ As a result, the case occupies a distinctive category in the MOD archive: unreso
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ As a result, the case occupies a distinctive category in the MOD archive: unreso
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,146 +740,146 @@ As a result, the case occupies a distinctive category in the MOD archive: unreso
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National [Archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;) UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</p></details>
    Published: August 2009  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uapglobe.com  
    Title: radar, no obvious explanation and no threat,  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP GlobeThe Rendlesham Forest Incident (26 December 1980)The MoD&#x27;s settled position, stated repeatedly over the years, is that the incid...</p></details>
    Published: December 1980  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — Hansard record of the item: &#x27;Rendlesham Forest... MoD records...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — Hansard record of the item: &#x27;Rendlesham Forest... MoD records...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recordings of radar data are retained for a period of thirty days...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recordings of radar data are retained for a period of thirty days...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest/Raf [Bentwaters](&#123;&#123; 'bentwaters/' | relative_url &#125;&#125;) Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest/Raf Bentwaters Incident - HansardJan 30, 2001 — The Ministry of Defence&#x27;s knowledge of an investigation by the US authorities into...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest/Raf Bentwaters Incident - HansardJan 30, 2001 — The Ministry of Defence&#x27;s knowledge of an investigation by the US authorities into...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentAccording to Halt&#x27;s memo, upon entering the forest to investigate, they witnessed a glowing object that was...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentAccording to Halt&#x27;s memo, upon entering the forest to investigate, they witnessed a glowing object that was...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1977)...Read more...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977)...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideBelow is information on the key stories and reports of UFO activity contained in these files. It includes a list of the bookmarks co...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GuideBelow is information on the key stories and reports of UFO activity contained in these files. It includes a list of the bookmarks co...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: podcast transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to the 8 th collection of Ministry of Defence UFO files released by The. National Archives. I‟m Dr...Read more...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to the 8 th collection of Ministry of Defence UFO files released by The. National Archives. I‟m Dr...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76307/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76307/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest UFO2 Aug 2022 — Rendlesham Forest UFO. Date: 1980 Reference: DEFE 24/2034/1 p227 Creator: Ministry of Defence [Catalogue](&amp;#123;&amp;#123; &#x27;catalogue/&#x27; | relative_url &amp;#125;&amp;#125;) context: D...</p></details>
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76307/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76307/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest UFO2 Aug 2022 — Rendlesham Forest UFO. Date: 1980 Reference: DEFE 24/2034/1 p227 Creator: Ministry of Defence [Catalogue](&amp;#123;&amp;#123; &#x27;catalogue/&#x27; | relative_url &amp;#125;&amp;#125;) context: D...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.howstuffworks.com  
    Title: rendlesham forest incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — He says only that he learned &quot;additional information&quot; that ties the Rendlesham case to &quot;other unexplained UFO incidents.&quot; T...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — He says only that he learned &quot;additional information&quot; that ties the Rendlesham case to &quot;other unexplained UFO incidents.&quot; T...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Rendlesham Forest Incident in 198011 May 2015 — You may also wish to know that descriptions of the UFO files available on the TNA...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Rendlesham Forest Incident in 198011 May 2015 — You may also wish to know that descriptions of the UFO files available on the TNA...</p></details>
    Published: May 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n the National Archives Catalog...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n the National Archives Catalog...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of Defence repo...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of Defence repo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew ManningIn the 20 years since the alien invasion, the peoples of the Earth have become united. They&#x27;re aware that the aliens could...</p></details>
+   Link:<a href="https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew ManningIn the 20 years since the alien invasion, the peoples of the Earth have become united. They&#x27;re aware that the aliens could...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoTwo nights later, Deputy Base Commander Charles Halt led a team to investigate after the lights ret...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoTwo nights later, Deputy Base Commander Charles Halt led a team to investigate after the lights ret...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force Colonel claims he has new evidence that...15 Jul 2015 — A former United States Air Force Colonel claims he has obtained...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force Colonel claims he has new evidence that...15 Jul 2015 — A former United States Air Force Colonel claims he has obtained...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: in december 1980 us air force personnel saw strange lights in rendlesham forest  
-   Link: <a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...Charles Halt concerning the UFO incidents in Rendlesham Forest, near the Bentwa...</p></details>
+   Link:<a href="https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-december-1980-us-air-force-personnel-saw-strange-lights-in-rendlesham-forest-/908029534929214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December 1980, U.S. Air Force personnel saw strange...Charles Halt concerning the UFO incidents in Rendlesham Forest, near the Bentwa...</p></details>
    Published: december 1980  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: drdavidclarke.co.uk  
    Title: top 10 ufo documents at the national archives  
-   Link: <a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 15, 2018 — This 3 volume report ended the MoD Defence Intelligence interest in UFOs that began half a century earlier with the Flying...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 15, 2018 — This 3 volume report ended the MoD Defence Intelligence interest in UFOs that began half a century earlier with the Flying...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The MoD maintains that the Rendlesham Forest incident presen...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The MoD maintains that the Rendlesham Forest incident presen...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: myadventures3.blogspot.com  
    Title: rendlesham forest [ufo trail](&#123;&#123; 'ufo-trail/' | relative_url &#125;&#125;) suffolk  
-   Link: <a href="https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html" target="_blank" rel="noopener noreferrer nofollow">https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail (Suffolk) 18th November 201918 Nov 2019 — A series of reported sightings of unexplained lights near Rendlesha...</p></details>
+   Link:<a href="https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html" target="_blank" rel="noopener noreferrer nofollow">https://myadventures3.blogspot.com/2019/11/rendlesham-forest-ufo-trail-suffolk.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail (Suffolk) 18th November 201918 Nov 2019 — A series of reported sightings of unexplained lights near Rendlesha...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>efore, it was never investigated as a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>efore, it was never investigated as a...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24/2030D/Sec(AS) 12/1 PtA- UFO Policy (1985) -Currently held at Bayes. D/Sec(AS) 64/1 PtA- UFO Policy (1996) -Held by DAS 4a(Sec)-CONFIDE...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24/2030D/Sec(AS) 12/1 PtA- UFO Policy (1985) -Currently held at Bayes. D/Sec(AS) 64/1 PtA- UFO Policy (1996) -Held by DAS 4a(Sec)-CONFIDE...</p></details>

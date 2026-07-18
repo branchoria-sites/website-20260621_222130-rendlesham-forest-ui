@@ -280,30 +280,30 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_lat
 
 ## Introduction
 
-The Halt Tape occupies a special place in the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) UFO incident because it captures events as they unfolded in December 1980, before the case accumulated decades of retellings, books, documentaries and increasingly elaborate witness narratives. For historians of the case, the tape is valuable not because it settles what was seen, but because it creates a benchmark. Later claims can be compared against a contemporaneous record rather than against [memories]({{ 'memories/' | relative_url }}) reconstructed years later. The result is a useful way to measure how the Rendlesham story changed over time. The contrast between what is heard on the tape and what appeared in later accounts reveals one of the central debates surrounding the incident: whether later testimony expanded genuine memories or gradually transformed a limited set of observations into a much larger mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+The Halt Tape occupies a special place in the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) UFO incident because it captures events as they unfolded in December 1980, before the case accumulated decades of retellings, books, documentaries and increasingly elaborate witness narratives. For historians of the case, the tape is valuable not because it settles what was seen, but because it creates a benchmark. Later claims can be compared against a contemporaneous record rather than against [memories]({{ 'memories/' | relative_url }}) reconstructed years later. The result is a useful way to measure how the Rendlesham story changed over time. The contrast between what is heard on the tape and what appeared in later accounts reveals one of the central debates surrounding the incident: whether later testimony expanded genuine memories or gradually transformed a limited set of observations into a much larger mythology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-1-dark.svg" | relative_url }}" alt="Later Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Tape's Earlier Evidential Core
 
-The recording made by Lieutenant Colonel Charles Halt during the second major night of activity is strikingly restrained compared with many later Rendlesham narratives. The participants discuss ground depressions, radiation readings, distant lights, directions and visibility problems. They sound uncertain and investigative rather than certain and dramatic. The tape preserves confusion, disagreement and attempts to identify what they were seeing in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+The recording made by Lieutenant Colonel Charles Halt during the second major night of activity is strikingly restrained compared with many later Rendlesham narratives. The participants discuss ground depressions, radiation readings, distant lights, directions and visibility problems. They sound uncertain and investigative rather than certain and dramatic. The tape preserves confusion, disagreement and attempts to identify what they were seeing in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
-Equally important is what the tape does not contain. Listeners do not hear discussions of time travel, encoded messages, alien communication, secret government recovery operations or many of the more spectacular claims that later became associated with the case. Instead, the audio presents a field investigation focused on unusual lights and possible physical traces. The gap between that narrow evidential core and later versions of the story is one reason the tape remains central to debates about Rendlesham. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+Equally important is what the tape does not contain. Listeners do not hear discussions of time travel, encoded messages, alien communication, secret government recovery operations or many of the more spectacular claims that later became associated with the case. Instead, the audio presents a field investigation focused on unusual lights and possible physical traces. The gap between that narrow evidential core and later versions of the story is one reason the tape remains central to debates about Rendlesham.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
-The same pattern appears in Halt's official memorandum, written shortly after the incident. Although the memo describes unusual lights and observations that Halt considered significant, it remains comparatively concise and avoids many details that would emerge in later decades. Because both the memo and the tape were created close to the events themselves, researchers often treat them as baseline documents against which subsequent accounts can be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
+The same pattern appears in Halt's official memorandum, written shortly after the incident. Although the memo describes unusual lights and observations that Halt considered significant, it remains comparatively concise and avoids many details that would emerge in later decades. Because both the memo and the tape were created close to the events themselves, researchers often treat them as baseline documents against which subsequent accounts can be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YZZtidhZbcE" title="The Rendlesham Forest Incident: The Halt Tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YZZtidhZbcE" target="_blank" rel="noopener noreferrer">The Rendlesham Forest Incident: The Halt Tape</a></p><p class="youtube-embed-meta">Channel: White Chaddar &middot; Views: 48.3K &middot; Uploaded: July 2015 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YZZtidhZbcE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YZZtidhZbcE">Open on YouTube</a></p></div></div></div>
 
 ## Claims That Became More Spectacular Later
 
-One of the clearest examples of story expansion involves witness accounts that developed substantially after the original reports. Over time, some narratives grew to include close encounters, prolonged interactions with a landed craft, telepathic experiences and highly specific details absent from the earliest documentation. Even commentators sympathetic to the mystery have noted that later witness recollections sometimes contained information not present in original statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+One of the clearest examples of story expansion involves witness accounts that developed substantially after the original reports. Over time, some narratives grew to include close encounters, prolonged interactions with a landed craft, telepathic experiences and highly specific details absent from the earliest documentation. Even commentators sympathetic to the mystery have noted that later witness recollections sometimes contained information not present in original statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
-The most famous example is the so-called Rendlesham binary code story. Decades after the incident, Jim [Penniston]({{ 'penniston/' | relative_url }}) publicly described receiving a stream of binary information associated with his encounter. The claim evolved into a complex narrative involving decoded messages, geographic coordinates and, in some versions, references to humanity's future. Whatever one's view of the claim, it is notable that nothing comparable appears on the Halt Tape or in the early official record. The binary-code element entered public discussion many years after the events and became one of the most widely discussed aspects of the modern Rendlesham story. International Business Times UK+2The Rendlesham Forest Incident <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">He said that long after that winter night, a stream of binary code...Read more...</span></span></span>
+The most famous example is the so-called Rendlesham binary code story. Decades after the incident, Jim [Penniston]({{ 'penniston/' | relative_url }}) publicly described receiving a stream of binary information associated with his encounter. The claim evolved into a complex narrative involving decoded messages, geographic coordinates and, in some versions, references to humanity's future. Whatever one's view of the claim, it is notable that nothing comparable appears on the Halt Tape or in the early official record. The binary-code element entered public discussion many years after the events and became one of the most widely discussed aspects of the modern Rendlesham story. International Business Times UK+2The Rendlesham Forest Incident<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">He said that long after that winter night, a stream of binary code...Read more...</span></span></span>
 
-A similar process affected descriptions of the object itself. Later books and media productions often presented more detailed accounts of a structured craft, its appearance, behaviour and effects. By contrast, the tape largely captures observers attempting to determine what distant lights might be and where they were located. The difference does not prove that later descriptions were false, but it highlights the distinction between immediate observations and retrospective interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+A similar process affected descriptions of the object itself. Later books and media productions often presented more detailed accounts of a structured craft, its appearance, behaviour and effects. By contrast, the tape largely captures observers attempting to determine what distant lights might be and where they were located. The difference does not prove that later descriptions were false, but it highlights the distinction between immediate observations and retrospective interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
-The growth of the case through popular culture also played a role. Books such as *Sky Crash* and later works like *Left at East Gate* introduced additional testimony, interpretations and theories that reached audiences far beyond the original military reports. As the story circulated, new details often became blended with older evidence, making it harder for readers to separate contemporaneous records from later reconstructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.apple.com/tw/podcast/30-the-rendlesham-forest-incident-britains-roswell/id1843787114?i=1000764353296" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-title">Podcasts Yeti To Rumble》〈30</span><span class="citation-popover-snippet">The Rendlesham Forest Inci⋯〉29 Apr 2026 — Halt — Halt Tape Recording, hand-held Lanier micro-cassette ... Ian Ridpath — &#x27;The Rendlesham F...</span></span></span>
+The growth of the case through popular culture also played a role. Books such as *Sky Crash* and later works like *Left at East Gate* introduced additional testimony, interpretations and theories that reached audiences far beyond the original military reports. As the story circulated, new details often became blended with older evidence, making it harder for readers to separate contemporaneous records from later reconstructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.apple.com/tw/podcast/30-the-rendlesham-forest-incident-britains-roswell/id1843787114?i=1000764353296" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-title">Podcasts Yeti To Rumble》〈30</span><span class="citation-popover-snippet">The Rendlesham Forest Inci⋯〉29 Apr 2026 — Halt — Halt Tape Recording, hand-held Lanier micro-cassette ... Ian Ridpath — &#x27;The Rendlesham F...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-2-dark.svg" | relative_url }}" alt="Later Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,11 +311,11 @@ The growth of the case through popular culture also played a role. Books such as
 
 The Halt Tape is especially useful because audio evidence preserves sequence. It allows researchers to ask a simple question: did witnesses describe a particular feature while events were occurring, or did that feature appear only years later?
 
-This distinction matters because [memory]({{ 'memory/' | relative_url }}) is not a recording device. Studies of witness testimony consistently show that recollections can change through repetition, discussion, media exposure and the influence of later interpretations. The tape therefore serves as a control document. If a dramatic claim appears in a memoir published decades later but has no trace in the audio or early paperwork, investigators can at least identify when that element entered the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+This distinction matters because [memory]({{ 'memory/' | relative_url }}) is not a recording device. Studies of witness testimony consistently show that recollections can change through repetition, discussion, media exposure and the influence of later interpretations. The tape therefore serves as a control document. If a dramatic claim appears in a memoir published decades later but has no trace in the audio or early paperwork, investigators can at least identify when that element entered the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
-The tape also preserves uncertainty that later narratives often smooth away. On the recording, observers repeatedly question distances, directions and object identities. In later retellings, events can appear more coherent and more certain than they sounded at the time. This is a common feature of historical narratives: stories often become clearer, more structured and more meaningful after years of retelling. Rendlesham provides an unusually good case study because the original audio survived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+The tape also preserves uncertainty that later narratives often smooth away. On the recording, observers repeatedly question distances, directions and object identities. In later retellings, events can appear more coherent and more certain than they sounded at the time. This is a common feature of historical narratives: stories often become clearer, more structured and more meaningful after years of retelling. Rendlesham provides an unusually good case study because the original audio survived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
-Sceptical investigators have frequently used the tape in precisely this way, comparing specific statements with possible explanations such as the Orford Ness lighthouse and bright [stars]({{ 'stars/' | relative_url }}) visible from the area. Believers, meanwhile, point to the same recording as evidence that trained military personnel encountered something genuinely puzzling. Both sides rely on the tape because it is closer to the event than later testimony. The disagreement is not usually about whether the tape is important; it is about how its contents should be interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedThis is my analysis of the third and final page of my transcript of the tape rec...</span></span></span>
+Sceptical investigators have frequently used the tape in precisely this way, comparing specific statements with possible explanations such as the Orford Ness lighthouse and bright [stars]({{ 'stars/' | relative_url }}) visible from the area. Believers, meanwhile, point to the same recording as evidence that trained military personnel encountered something genuinely puzzling. Both sides rely on the tape because it is closer to the event than later testimony. The disagreement is not usually about whether the tape is important; it is about how its contents should be interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tape analysedThis is my analysis of the third and final page of my transcript of the tape rec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MnYBNT1KwrY" title="UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer">UFOs, interrogations, cover-ups: The Rendlesham Forest incident | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MnYBNT1KwrY">Open on YouTube</a></p></div></div></div>
@@ -325,186 +325,186 @@ Sceptical investigators have frequently used the tape in precisely this way, com
 
 ## Why the Comparison Still Matters
 
-The history of Rendlesham is partly the history of a story growing beyond its earliest documentation. The Halt Tape captures a specific moment: a military team investigating unusual lights and physical traces in the forest. Later Rendlesham lore expanded to include richer narratives, stronger conclusions and, in some cases, extraordinary claims that reached far beyond the contents of the original recording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+The history of Rendlesham is partly the history of a story growing beyond its earliest documentation. The Halt Tape captures a specific moment: a military team investigating unusual lights and physical traces in the forest. Later Rendlesham lore expanded to include richer narratives, stronger conclusions and, in some cases, extraordinary claims that reached far beyond the contents of the original recording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
-For anyone trying to understand the case, the tape remains the most useful reference point. It does not eliminate mystery, but it provides a fixed record against which decades of additions, reinterpretations and embellishments can be measured. That is why discussions of Rendlesham repeatedly return to the same question: not simply what witnesses later remembered, but what they were actually saying before the legend had fully formed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
+For anyone trying to understand the case, the tape remains the most useful reference point. It does not eliminate mystery, but it provides a fixed record against which decades of additions, reinterpretations and embellishments can be measured. That is why discussions of Rendlesham repeatedly return to the same question: not simply what witnesses later remembered, but what they were actually saying before the legend had fully formed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-3-dark.svg" | relative_url }}" alt="Later Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_tape_147b05_halt_tape_later_clai_93a5d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Later Claims Outgrew the Tape. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Later Claims Outgrew the Tape. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Allows readers to compare established accounts with the contemporaneous tape record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Allows readers to compare established accounts with the contemporaneous tape record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how people form and expand narratives from ambiguous events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people form and expand narratives from ambiguous events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO narratives develop around official witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO narratives develop around official witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Useful for understanding memory revision, belief reinforcement and story drift.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding memory revision, belief reinforcement and story drift.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-claims-dbe0d9-how-later-claims-outgrew-the-tape-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ For anyone trying to understand the case, the tape remains the most useful refer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ For anyone trying to understand the case, the tape remains the most useful refer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ For anyone trying to understand the case, the tape remains the most useful refer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ For anyone trying to understand the case, the tape remains the most useful refer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ For anyone trying to understand the case, the tape remains the most useful refer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,132 +710,132 @@ For anyone trying to understand the case, the tape remains the most useful refer
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Yeti To Rumble》〈30  
-   Link: <a href="https://podcasts.apple.com/tw/podcast/30-the-rendlesham-forest-incident-[britains-roswell" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/tw/podcast/30-the-rendlesham-forest-incident-[britains-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Inci⋯〉29 Apr 2026 — Halt — Halt Tape Recording, hand-held Lanier micro-cassette... Ian [Ridpath](&amp;#123;&amp;#123; &#x27;ridpath/&#x27; | relative_url &amp;#125;&amp;#125;) — &#x27;The Rendlesham F...</p></details>
+   Link:<a href="https://podcasts.apple.com/tw/podcast/30-the-rendlesham-forest-incident-[britains-roswell" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/tw/podcast/30-the-rendlesham-forest-incident-[britains-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Inci⋯〉29 Apr 2026 — Halt — Halt Tape Recording, hand-held Lanier micro-cassette... Ian [Ridpath](&amp;#123;&amp;#123; &#x27;ridpath/&#x27; | relative_url &amp;#125;&amp;#125;) — &#x27;The Rendlesham F...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ibtimes.co.uk  
-   Link: <a href="https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He said that long after that winter night, a stream of binary code...Read more...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/rendlesham-ufo-allegedly-implanted-chilling-doomsday-warning-soldiers-brain-1771969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He said that long after that winter night, a stream of binary code...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: rendlesham forest ufo incident.13457  
-   Link: <a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident2 May 2024 — But Ridpath discusses the later part of Halt&#x27;s tape in some detail, and it seems quite obvious...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident2 May 2024 — But Ridpath discusses the later part of Halt&#x27;s tape in some detail, and it seems quite obvious...</p></details>
    Published: May 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Investigating the US Military Tapes of the Rendlesham UFO  
-   Link: <a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident: The Halt Tape...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident: The Halt Tape...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Rendlesham Forest Incident: The Halt Tape  
-   Link: <a href="https://www.youtube.com/watch?v=YZZtidhZbcE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YZZtidhZbcE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Britain&#x27;s Roswell?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YZZtidhZbcE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YZZtidhZbcE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest: Britain&#x27;s Roswell?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tapeThis is a transcript of the cassette tape recording made by Lt Col Charles Halt on the ni...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: therendleshamforestincident.com  
-   Link: <a href="https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html" target="_blank" rel="noopener noreferrer nofollow">https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Rendlesham Forest Incident binary code message...The Rendlesham Forest incident binary decode by professional binary code expert...</p></details>
+   Link:<a href="https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html" target="_blank" rel="noopener noreferrer nofollow">https://www.therendleshamforestincident.com/2022/04/2010-it-was-revealed-by-jim-penniston.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Rendlesham Forest Incident binary code message...The Rendlesham Forest incident binary decode by professional binary code expert...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedThis is my analysis of the third and final page of my transcript of the tape rec...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO – the Halt tape analysedThis is my analysis of the third and final page of my transcript of the tape rec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>craft in the forest outside a US...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>craft in the forest outside a US...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[landing marks](&amp;#123;&amp;#123; &#x27;landing-marks/&#x27; | relative_url &amp;#125;&amp;#125;)? Were the radiation readings significant?...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[landing marks](&amp;#123;&amp;#123; &#x27;landing-marks/&#x27; | relative_url &amp;#125;&amp;#125;)? Were the radiation readings significant?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: military-history.fandom.com  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://military-history.fandom.com/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident | Military Wiki - FandomThe tape has also been transcribed by researcher Ian Ridpath, who includes a link to an audio dow...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest incident | Military Wiki - FandomThe tape has also been transcribed by researcher Ian Ridpath, who includes a link to an audio dow...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham forest incident binary code: r/HighStrangenessAmong the incident&#x27;s most baffling aspects is the binary code that Sergeant Jim...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b16h91/a_message_from_the_future_rendlesham_forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham forest incident binary code: r/HighStrangenessAmong the incident&#x27;s most baffling aspects is the binary code that Sergeant Jim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: conwayhall.org.uk  
-   Link: <a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a MythHere, skeptical investigator Ian Ridpath looks at the main points of the case and provides explanations...</p></details>
+   Link:<a href="https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.conwayhall.org.uk/whats-on/event/rendlesham-deconstructing-a-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham — Deconstructing a MythHere, skeptical investigator Ian Ridpath looks at the main points of the case and provides explanations...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/Halt.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Halt.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colonel Charles Halt Audio Tape TranscriptionThe following full transcript is of a tape recording that was made by Lt Colonel Halt during...</p></details>
+   Link:<a href="https://www.ufocasebook.com/Halt.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Halt.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colonel Charles Halt Audio Tape TranscriptionThe following full transcript is of a tape recording that was made by Lt Colonel Halt during...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: santitafarella.wordpress.com  
-   Link: <a href="https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/" target="_blank" rel="noopener noreferrer nofollow">https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident: The Testimony of Sgt...Aug 20, 2009 — And here&#x27;s the famous “Halt memo” written just a few weeks after t...</p></details>
+   Link:<a href="https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/" target="_blank" rel="noopener noreferrer nofollow">https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident: The Testimony of Sgt...Aug 20, 2009 — And here&#x27;s the famous “Halt memo” written just a few weeks after t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c</a>  
+   Link:<a href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZrSUIYZ4SWs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrSUIYZ4SWs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Halt Tape Recording of The Rendlesham Forest IncidentThe Rendlesham Forest incident was a series of reported sightings of unexplaine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZrSUIYZ4SWs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrSUIYZ4SWs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full Halt Tape Recording of The Rendlesham Forest IncidentThe Rendlesham Forest incident was a series of reported sightings of unexplaine...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest...The story of one of my favorite UFO UAP sightings of all time and who better to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MnYBNT1KwrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYBNT1KwrY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, interrogations, cover-ups: The Rendlesham Forest...The story of one of my favorite UFO UAP sightings of all time and who better to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
    Title: christmas in suffolk the rendlesham ufo sighting of 1980 5dfb44240f86  
-   Link: <a href="https://medium.com/speculative-encounters/christmas-in-suffolk-the-rendlesham-ufo-sighting-of-1980-5dfb44240f86" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/speculative-encounters/christmas-in-suffolk-the-rendlesham-ufo-sighting-of-1980-5dfb44240f86</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas in Suffolk: The Rendlesham UFO Sighting of 1980Penniston later transcribed these symbols, now known as the “Rendlesham Binary C...</p></details>
+   Link:<a href="https://medium.com/speculative-encounters/christmas-in-suffolk-the-rendlesham-ufo-sighting-of-1980-5dfb44240f86" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/speculative-encounters/christmas-in-suffolk-the-rendlesham-ufo-sighting-of-1980-5dfb44240f86</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas in Suffolk: The Rendlesham UFO Sighting of 1980Penniston later transcribed these symbols, now known as the “Rendlesham Binary C...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: the rendlesham forest ufo case deconstructing a myth with ian ridpath  
-   Link: <a href="https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Case: Deconstructing a Myth...The Rendlesham Forest UFO incident of Christmas 1980 ranks as one of the top ten...</p></details>
+   Link:<a href="https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/events/the-blue-moon/the-rendlesham-forest-ufo-case-deconstructing-a-myth-with-ian-ridpath/1351095056853262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Case: Deconstructing a Myth...The Rendlesham Forest UFO incident of Christmas 1980 ranks as one of the top ten...</p></details>

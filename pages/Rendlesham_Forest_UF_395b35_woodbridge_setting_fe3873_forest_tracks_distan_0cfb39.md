@@ -280,32 +280,32 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_fore
 
 ## Introduction
 
-One of the most overlooked features of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is that the witnesses were not observing lights from a fixed position across an open landscape. They were moving through a commercial plantation at night, following forest tracks, crossing uneven ground and repeatedly entering and leaving clear [sight lines]({{ 'sight-lines/' | relative_url }}). In that environment, lights could appear closer than they really were, vanish behind trees, reappear in a different gap, or seem to move as the observers themselves moved. This matters because several witness accounts describe lights that appeared reachable, then seemed to retreat, shift position or become difficult to locate. The physical structure of Rendlesham Forest provides a plausible mechanism for why distance estimates became unstable during the patrols. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+One of the most overlooked features of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is that the witnesses were not observing lights from a fixed position across an open landscape. They were moving through a commercial plantation at night, following forest tracks, crossing uneven ground and repeatedly entering and leaving clear [sight lines]({{ 'sight-lines/' | relative_url }}). In that environment, lights could appear closer than they really were, vanish behind trees, reappear in a different gap, or seem to move as the observers themselves moved. This matters because several witness accounts describe lights that appeared reachable, then seemed to retreat, shift position or become difficult to locate. The physical structure of Rendlesham Forest provides a plausible mechanism for why distance estimates became unstable during the patrols.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-1-dark.svg" | relative_url }}" alt="Forest Tracks illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Plantation Sight Lines Change While Walking
 
-Rendlesham was not a natural ancient woodland. It consisted largely of managed conifer plantations broken up by rides, tracks, clearings, heathland and wetland areas. These features create a patchwork of visibility rather than a continuous open view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+Rendlesham was not a natural ancient woodland. It consisted largely of managed conifer plantations broken up by rides, tracks, clearings, heathland and wetland areas. These features create a patchwork of visibility rather than a continuous open view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 A person walking through such terrain experiences a constantly changing visual scene. A distant light may be visible through one gap between tree trunks, disappear after only a few steps, then reappear in another opening. At night, when surrounding landmarks are poorly defined, the brain often treats the visible light itself as the main reference point. As a result, the observer can mistakenly interpret changes in visibility as changes in the light's position.
 
-The geometry of plantation forestry amplifies this effect. Straight rides and service tracks can create long tunnels of visibility. A light at the far end of such a corridor may appear to lie just beyond the next stand of trees even when it is several miles away. When the observer leaves the corridor and enters denser woodland, the same light can vanish completely, creating the impression that it has moved or been obscured by an unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The route into the forest‍It should be clear from this map that they were heading in the direction of...</span></span></span>
+The geometry of plantation forestry amplifies this effect. Straight rides and service tracks can create long tunnels of visibility. A light at the far end of such a corridor may appear to lie just beyond the next stand of trees even when it is several miles away. When the observer leaves the corridor and enters denser woodland, the same light can vanish completely, creating the impression that it has moved or been obscured by an unknown object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The route into the forest‍It should be clear from this map that they were heading in the direction of...</span></span></span>
 
-This is particularly relevant because the direction investigated by the patrols broadly aligned with the direction of the Orford Ness lighthouse, a powerful coastal light visible beyond the forest. Witnesses later reported that when they attempted to approach a flashing light, it seemed farther away than first assumed. Contemporary statements include descriptions of the light as a distant beacon or lighthouse rather than an object immediately ahead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+This is particularly relevant because the direction investigated by the patrols broadly aligned with the direction of the Orford Ness lighthouse, a powerful coastal light visible beyond the forest. Witnesses later reported that when they attempted to approach a flashing light, it seemed farther away than first assumed. Contemporary statements include descriptions of the light as a distant beacon or lighthouse rather than an object immediately ahead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X8LxGbgc1FI" title="Rendlesham Forest UFO Trail - Forestry England" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO Trail - Forestry England</a></p><p class="youtube-embed-meta">Channel: Shauns Stream</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X8LxGbgc1FI">Open on YouTube</a></p></div></div></div>
 
 ## Why Tracks and Uneven Ground Affect Distance Judgements
 
-Distance estimation becomes less reliable when people walk through uneven terrain at night. Unlike movement on a flat road, forest travel involves constant changes in pace, footing and direction. Small rises, dips, drainage features and rough surfaces alter a person's sense of how far they have travelled. Research on human movement and [perception]({{ 'perception/' | relative_url }}) shows that effort and terrain influence perceived distance, with slopes and difficult walking conditions tending to distort spatial judgements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/28283916/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Distances on hills look farther than distances on flat groundby NL Tenhundfeld · 2017 · Cited by 25 — The hypothesized reason for t...</span></span></span>
+Distance estimation becomes less reliable when people walk through uneven terrain at night. Unlike movement on a flat road, forest travel involves constant changes in pace, footing and direction. Small rises, dips, drainage features and rough surfaces alter a person's sense of how far they have travelled. Research on human movement and [perception]({{ 'perception/' | relative_url }}) shows that effort and terrain influence perceived distance, with slopes and difficult walking conditions tending to distort spatial judgements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/28283916/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Distances on hills look farther than distances on flat groundby NL Tenhundfeld · 2017 · Cited by 25 — The hypothesized reason for t...</span></span></span>
 
 In Rendlesham, this effect would have been compounded by darkness. Witnesses could not continuously see the wider landscape. Instead, they were navigating by torches, moonlight and intermittent visual references. Without a clear horizon, it becomes difficult to determine whether a light is a few hundred metres away or several miles distant.
 
 A practical example illustrates the problem. Suppose observers see a flashing light through the trees and walk towards it for several minutes. In open country, the surrounding landscape would provide clues about whether the gap is closing. In a forest, each new stand of trees replaces the previous visual frame. The walkers may feel they have covered substantial ground while receiving very little information about the actual distance to the light. If the light remains visible at roughly the same apparent size and brightness, it can seem as though it is withdrawing ahead of them.
 
-This mechanism closely matches a recurring feature of Rendlesham accounts: the impression that a light was being approached, yet never quite reached. Such experiences do not require a moving object. They can emerge naturally when observers move through fragmented sight lines toward a distant source whose true range is difficult to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+This mechanism closely matches a recurring feature of Rendlesham accounts: the impression that a light was being approached, yet never quite reached. Such experiences do not require a moving object. They can emerge naturally when observers move through fragmented sight lines toward a distant source whose true range is difficult to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-2-dark.svg" | relative_url }}" alt="Forest Tracks illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,7 +315,7 @@ The forest environment did more than affect what witnesses saw. It also affected
 
 Individuals walking only a short distance apart may not share identical sight lines. One person may have a clear view down a track while another sees only trees. A light visible through a narrow opening can therefore appear bright and distinct to one observer and invisible to another. As the group moves, those viewing conditions constantly change.
 
-This helps explain why some Rendlesham testimonies emphasise a structured object, others focus on coloured lights, and others describe a distant flashing source. Different observers were often viewing the scene from different positions, at different moments, through different gaps in the plantation. The forest did not provide a stable viewing platform; it created a sequence of brief and shifting visual windows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+This helps explain why some Rendlesham testimonies emphasise a structured object, others focus on coloured lights, and others describe a distant flashing source. Different observers were often viewing the scene from different positions, at different moments, through different gaps in the plantation. The forest did not provide a stable viewing platform; it created a sequence of brief and shifting visual windows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 The problem becomes even more pronounced when observers are actively searching. Once attention is fixed on a suspected target, every reappearance of the light through another gap can reinforce the belief that the same object is still being tracked. Yet the observer may now be seeing a different aspect of the landscape or a different line through the trees. In dense woodland, continuity is often assumed rather than directly observed.
 
@@ -327,202 +327,202 @@ The problem becomes even more pronounced when observers are actively searching. 
 
 ## The Key Mechanism: A Moving Observer in a Fragmented Landscape
 
-The most important point is that Rendlesham's geography created a perception problem rather than a simple viewing problem. The patrols were not standing still and watching a distant horizon. They were advancing through plantation rides, crossing uneven ground and repeatedly losing and regaining visual contact with lights beyond the forest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England+2Discover Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-title">Home &#124; Forestry England UFO trail at Rendlesham Forest This trail will stimulate your imagination, taking you through forest, heathland a</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
+The most important point is that Rendlesham's geography created a perception problem rather than a simple viewing problem. The patrols were not standing still and watching a distant horizon. They were advancing through plantation rides, crossing uneven ground and repeatedly losing and regaining visual contact with lights beyond the forest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England+2Discover Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-title">Home &#124; Forestry England UFO trail at Rendlesham Forest This trail will stimulate your imagination, taking you through forest, heathland a</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</span></span></span>
 
-Under those conditions, distance becomes surprisingly difficult to judge. A fixed light can seem mobile. A distant light can seem nearby. An object that appears to be retreating may simply be maintaining its position while the observer's route bends through the woodland. The result is a setting in which sincere witnesses can report dramatic changes in the apparent behaviour of lights even when the visual scene is being shaped as much by the forest itself as by the source being observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+Under those conditions, distance becomes surprisingly difficult to judge. A fixed light can seem mobile. A distant light can seem nearby. An object that appears to be retreating may simply be maintaining its position while the observer's route bends through the woodland. The result is a setting in which sincere witnesses can report dramatic changes in the apparent behaviour of lights even when the visual scene is being shaped as much by the forest itself as by the source being observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-3-dark.svg" | relative_url }}" alt="Forest Tracks illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_forest_tracks_distan_0cfb39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Forest Made Lights Hard to Read. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Forest Made Lights Hard to Read. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Discusses witness movement through the forest and changing observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses witness movement through the forest and changing observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Explores how terrain and observation conditions affected reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how terrain and observation conditions affected reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness perception, distance estimation and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness perception, distance estimation and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding how humans interpret ambiguous visual phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how humans interpret ambiguous visual phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9142f5ac1988f82061b9.jpg' | relative_url }}" alt="Listing image for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">&#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9142f5ac1988f82061b9.jpg' | relative_url }}" alt="Listing image for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">&#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="forest-tracks-why-the-forest-made-lights-hard-to-read-rendlesham-forest-ufo-wall-sign-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Under those conditions, distance becomes surprisingly difficult to judge. A fixe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Under those conditions, distance becomes surprisingly difficult to judge. A fixe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Under those conditions, distance becomes surprisingly difficult to judge. A fixe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Under those conditions, distance becomes surprisingly difficult to judge. A fixe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Under those conditions, distance becomes surprisingly difficult to judge. A fixe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,111 +728,111 @@ Under those conditions, distance becomes surprisingly difficult to judge. A fixe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham2d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2d.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - The route into the forest‍It should be clear from this map that they were heading in the direction of...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham2d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2d.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - The route into the forest‍It should be clear from this map that they were heading in the direction of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest/[ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/[ufo-trail</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</p></details>
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest/[ufo-trail" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/[ufo-trail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandUFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discoversuffolk.org.uk  
-   Link: <a href="https://www.discoversuffolk.org.uk/easygoing-trails/rendlesham-forest-easy-going-trails/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoversuffolk.org.uk/easygoing-trails/rendlesham-forest-easy-going-trails/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Easy Going TrailsFrom the car park you can head deeper into the forest through conifer plantation, heathland and wetlan...</p></details>
+   Link:<a href="https://www.discoversuffolk.org.uk/easygoing-trails/rendlesham-forest-easy-going-trails/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoversuffolk.org.uk/easygoing-trails/rendlesham-forest-easy-going-trails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Easy Going TrailsFrom the car park you can head deeper into the forest through conifer plantation, heathland and wetlan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28283916/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28283916/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Distances on hills look farther than distances on flat groundby NL Tenhundfeld · 2017 · Cited by 25 — The hypothesized reason for t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28283916/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28283916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distances on hills look farther than distances on flat groundby NL Tenhundfeld · 2017 · Cited by 25 — The hypothesized reason for t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: forestryengland.uk  
    Title: rendlesham forest  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Walk the UFO trail and discover more about the famous UFO sighting in December 1980. The Discovery Trail now open. This interactive famil...</p></details>
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walk the UFO trail and discover more about the famous UFO sighting in December 1980. The Discovery Trail now open. This interactive famil...</p></details>
    Published: December 1980  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: forestryengland.uk  
    Title: Rendlesham UFO Leaflet (Jan 23)  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail27 Sept 2023 — The Orford Ness lighthouse, approx. 6 miles Unusual lights. In December 1980 several sightings...</p></details>
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail27 Sept 2023 — The Orford Ness lighthouse, approx. 6 miles Unusual lights. In December 1980 several sightings...</p></details>
    Published: December 1980  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO Trail  
-   Link: <a href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8LxGbgc1FI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forestry EnglandHi, I am Shaun, In this video, we visited the Rendlesham Forest. It is a 3,700-acre mixed woodland in Suffolk owned by Fo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X8LxGbgc1FI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8LxGbgc1FI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forestry EnglandHi, I am Shaun, In this video, we visited the Rendlesham Forest. It is a 3,700-acre mixed woodland in Suffolk owned by Fo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iheart.com  
    Title: Rendlesham Forest  
-   Link: <a href="https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High StrangeOver the holidays in 1980, several days of sightings occurred in a forest surrounded by two military bases in eastern England...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High StrangeOver the holidays in 1980, several days of sightings occurred in a forest surrounded by two military bases in eastern England...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: a surreal event outside a us air force base near the rendlesham forest in englan  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...The Rendlesham Forest Incident – UK (1980) Often called “Britain&#x27;s Roswell,” this...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A surreal event outside a US Air Force base near the...The Rendlesham Forest Incident – UK (1980) Often called “Britain&#x27;s Roswell,” this...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/uncannyfan/posts/2027645177712103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uncannyfan/posts/2027645177712103/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was very peaceful. Felt a little bit eerie too but then maybe I had the UFO incident at the back of my mind...</p></details>
+   Link:<a href="https://www.facebook.com/groups/uncannyfan/posts/2027645177712103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uncannyfan/posts/2027645177712103/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was very peaceful. Felt a little bit eerie too but then maybe I had the UFO incident at the back of my mind...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: debspecs.com  
    Title: the science of sight exploring the boundaries of human vision  
-   Link: <a href="https://debspecs.com/blog/the-science-of-sight-exploring-the-boundaries-of-human-vision/?srsltid=AfmBOooHWTnvuA_WXsOCUtuARHA-bHr-fARuzLuLlrudyMHeghDfHrQy" target="_blank" rel="noopener noreferrer nofollow">https://debspecs.com/blog/the-science-of-sight-exploring-the-boundaries-of-human-vision/?srsltid=AfmBOooHWTnvuA_WXsOCUtuARHA-bHr-fARuzLuLlrudyMHeghDfHrQy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Boundaries of Human Vision3 Jul 2024 — Objects at great distances appear less distinct due to atmospheric particles scatter...</p></details>
+   Link:<a href="https://debspecs.com/blog/the-science-of-sight-exploring-the-boundaries-of-human-vision/?srsltid=AfmBOooHWTnvuA_WXsOCUtuARHA-bHr-fARuzLuLlrudyMHeghDfHrQy" target="_blank" rel="noopener noreferrer nofollow">https://debspecs.com/blog/the-science-of-sight-exploring-the-boundaries-of-human-vision/?srsltid=AfmBOooHWTnvuA_WXsOCUtuARHA-bHr-fARuzLuLlrudyMHeghDfHrQy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Boundaries of Human Vision3 Jul 2024 — Objects at great distances appear less distinct due to atmospheric particles scatter...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nightskytourist.com  
-   Link: <a href="https://nightskytourist.com/how-far-can-we-see/" target="_blank" rel="noopener noreferrer nofollow">https://nightskytourist.com/how-far-can-we-see/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light, Darkness, and the Human Eye: How Far Can We See?25 Jan 2023 — The human eye is astonishingly powerful when it comes to seeing long...</p></details>
+   Link:<a href="https://nightskytourist.com/how-far-can-we-see/" target="_blank" rel="noopener noreferrer nofollow">https://nightskytourist.com/how-far-can-we-see/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light, Darkness, and the Human Eye: How Far Can We See?25 Jan 2023 — The human eye is astonishingly powerful when it comes to seeing long...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
    Title: The distance is mostly limited by Earth's curvature  
-   Link: <a href="https://www.instagram.com/reel/DYItnxtx2ES/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYItnxtx2ES/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On a clear day on flat ground, the human eye can see about 3...On a clear day on flat ground, the human eye can see about 3 miles (4.8 k...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYItnxtx2ES/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYItnxtx2ES/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On a clear day on flat ground, the human eye can see about 3...On a clear day on flat ground, the human eye can see about 3 miles (4.8 k...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askscience/comments/i51ii/what_is_the_farthest_a_human_being_can_see_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/i51ii/what_is_the_farthest_a_human_being_can_see_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>far can the naked human eye perceive visual phenomena (eg a tire on a flat...</p></details>
+   Link:<a href="https://www.reddit.com/r/askscience/comments/i51ii/what_is_the_farthest_a_human_being_can_see_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/i51ii/what_is_the_farthest_a_human_being_can_see_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>far can the naked human eye perceive visual phenomena (eg a tire on a flat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s physical evidence in terms of [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;), radioactivity, ground trace indentations, scorch marks.Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s physical evidence in terms of [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;), radioactivity, ground trace indentations, scorch marks.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt his memo to the MoD. Apart from hearsay and rumour...Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt his memo to the MoD. Apart from hearsay and rumour...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: breaksandbites.co.uk  
    Title: the astonishing story of rendlesham forest  
-   Link: <a href="https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2025 — “In December 1980, several sightings of a UFO were reported in Rendlesham Forest. Many think these mysterious events are th...</p></details>
+   Link:<a href="https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.breaksandbites.co.uk/2025/07/25/the-astonishing-story-of-rendlesham-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2025 — “In December 1980, several sightings of a UFO were reported in Rendlesham Forest. Many think these mysterious events are th...</p></details>
    Published: December 1980  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sham Forest in Suffolk, England, in December...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sham Forest in Suffolk, England, in December...Read more...</p></details>

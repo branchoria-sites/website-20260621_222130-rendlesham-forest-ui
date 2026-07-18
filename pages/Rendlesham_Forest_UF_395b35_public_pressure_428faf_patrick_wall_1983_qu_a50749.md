@@ -274,17 +274,17 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_public_pressure_428faf_patrick
 
 ## Introduction
 
-Patrick Wall’s 1983 parliamentary question marked the moment when the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident ceased to be a rumour circulating among UFO researchers and became a matter requiring an official government answer. The key significance of Wall’s intervention was not that [Parliament]({{ 'parliament/' | relative_url }}) launched a major investigation. Rather, it forced the Ministry of Defence (MoD) to formulate a public position on an incident it had largely treated as an administrative curiosity. Once ministers were required to answer questions on the record, a policy line emerged that would remain remarkably consistent for decades: the reports had been reviewed by staff responsible for air-defence matters, nothing of defence significance had been identified, and no further action was considered necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
+Patrick Wall’s 1983 parliamentary question marked the moment when the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident ceased to be a rumour circulating among UFO researchers and became a matter requiring an official government answer. The key significance of Wall’s intervention was not that [Parliament]({{ 'parliament/' | relative_url }}) launched a major investigation. Rather, it forced the Ministry of Defence (MoD) to formulate a public position on an incident it had largely treated as an administrative curiosity. Once ministers were required to answer questions on the record, a policy line emerged that would remain remarkably consistent for decades: the reports had been reviewed by staff responsible for air-defence matters, nothing of defence significance had been identified, and no further action was considered necessary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_public_pressure_428faf_patrick_wall_1983_qu_a50749-Illustration-1-dark.svg" | relative_url }}" alt="1983 Question illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_public_pressure_428faf_patrick_wall_1983_qu_a50749-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_public_pressure_428faf_patrick_wall_1983_qu_a50749-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the 1983 Press Story Reached Parliament
 
-For more than two years after the events of December 1980, the Rendlesham reports attracted little national political attention. The turning point came in 1983, when wider media coverage brought the story to a much larger audience. According to records later described by The [National Archives]({{ 'archive-map/' | relative_url }}), the publication of the story in the *News of the World* prompted parliamentary interest and led to a question being tabled by Major Patrick Wall MP. The dedicated MoD file on Rendlesham contains briefing material prepared specifically for that parliamentary question, alongside Lieutenant Colonel Charles Halt’s memorandum and later correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
+For more than two years after the events of December 1980, the Rendlesham reports attracted little national political attention. The turning point came in 1983, when wider media coverage brought the story to a much larger audience. According to records later described by The [National Archives]({{ 'archive-map/' | relative_url }}), the publication of the story in the *News of the World* prompted parliamentary interest and led to a question being tabled by Major Patrick Wall MP. The dedicated MoD file on Rendlesham contains briefing material prepared specifically for that parliamentary question, alongside Lieutenant Colonel Charles Halt’s memorandum and later correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
 
 This sequence is important because it shows that Parliament did not discover Rendlesham independently through classified channels. Instead, journalism created [public pressure]({{ 'public-pressure/' | relative_url }}), and parliamentary scrutiny followed. Once an MP asked ministers to account for the matter, officials had to decide how the department would characterise the incident publicly.
 
-Wall himself was an experienced Conservative MP with a longstanding interest in defence and security issues. His involvement gave the story a level of legitimacy that press coverage alone could not provide. A parliamentary question required a formal answer and ensured that the government's position would become part of the permanent public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/people/mr-patrick-wall/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">APIMr Patrick Wall (Hansard</span><span class="citation-popover-snippet">Parliament APIMr Patrick Wall (Hansard) - API Parliament UKMr Patrick Wall, October 19, 1916 - 1998, Constituencies, Offices, Contributio...</span><span class="citation-popover-meta">Published: October 19, 1916</span></span></span>
+Wall himself was an experienced Conservative MP with a longstanding interest in defence and security issues. His involvement gave the story a level of legitimacy that press coverage alone could not provide. A parliamentary question required a formal answer and ensured that the government's position would become part of the permanent public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.parliament.uk/historic-hansard/people/mr-patrick-wall/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.parliament.uk">[Parliament API]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.parliament.uk</span><span class="citation-popover-title">APIMr Patrick Wall (Hansard</span><span class="citation-popover-snippet">Parliament APIMr Patrick Wall (Hansard) - API Parliament UKMr Patrick Wall, October 19, 1916 - 1998, Constituencies, Offices, Contributio...</span><span class="citation-popover-meta">Published: October 19, 1916</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0DXwp5CmoY" title="The Rendlesham Forest Incident: The Interview with Nick Pope and speaker Mountain View CA | 8/26/14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer">The Rendlesham Forest Incident: The Interview with Nick Pope and speaker Mountain View CA | 8/26/14</a></p><p class="youtube-embed-meta">Channel: POW MAGAZINE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0DXwp5CmoY">Open on YouTube</a></p></div></div></div>
@@ -301,11 +301,11 @@ The essential argument was straightforward:
 * The report had been examined by personnel responsible for air-defence matters.
 * Nothing in the material suggested a threat to the United Kingdom.
 * No evidence indicated hostile activity or an issue requiring operational action.
-* Therefore no further investigation was warranted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
+* Therefore no further investigation was warranted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
 
 </div>
 
-Although the wording evolved slightly over the years, the substance remained unchanged. Later parliamentary answers repeated the same assessment almost verbatim. In a 1996 Commons reply, Defence Minister Nicholas Soames stated that the report had been assessed by air-defence staff and that, because it contained “nothing of defence significance”, no further action had been taken. That formulation closely reflected the position developed after the 1983 parliamentary scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
+Although the wording evolved slightly over the years, the substance remained unchanged. Later parliamentary answers repeated the same assessment almost verbatim. In a 1996 Commons reply, Defence Minister Nicholas Soames stated that the report had been assessed by air-defence staff and that, because it contained “nothing of defence significance”, no further action had been taken. That formulation closely reflected the position developed after the 1983 parliamentary scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
 
 The phrase “nothing of defence significance” became the defining MoD description of Rendlesham. It did not mean officials had solved the mystery. Nor did it mean they had concluded exactly what every witness saw. Instead, it meant that from the department’s perspective the reports did not justify further expenditure of defence resources.
 
@@ -327,7 +327,7 @@ Officials were concerned with whether an unidentified object represented:
 
 </div>
 
-If the answer to those questions was no, the department considered its responsibilities fulfilled. The official position therefore avoided speculation about extraterrestrial explanations while also avoiding any commitment to investigate unusual witness claims in depth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+If the answer to those questions was no, the department considered its responsibilities fulfilled. The official position therefore avoided speculation about extraterrestrial explanations while also avoiding any commitment to investigate unusual witness claims in depth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 This bureaucratic framing helps explain why the MoD could acknowledge that unusual reports had been received while simultaneously declining to pursue the matter further.
 
@@ -338,9 +338,9 @@ This bureaucratic framing helps explain why the MoD could acknowledge that unusu
 
 Ironically, the parliamentary answer intended to close the issue helped preserve it.
 
-For supporters of extraordinary explanations, the MoD’s position seemed unsatisfactory because it did not provide a detailed explanation of what witnesses reported. The department was effectively saying that it had reviewed the material and found no defence implications, not that it had solved the mystery. That distinction left room for continuing debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+For supporters of extraordinary explanations, the MoD’s position seemed unsatisfactory because it did not provide a detailed explanation of what witnesses reported. The department was effectively saying that it had reviewed the material and found no defence implications, not that it had solved the mystery. That distinction left room for continuing debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-For sceptics, the answer demonstrated something different: that the government had examined the available information and found no reason to treat the event as a national-security matter. From this perspective, the lack of further investigation reflected the assessment that nothing operationally significant had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+For sceptics, the answer demonstrated something different: that the government had examined the available information and found no reason to treat the event as a national-security matter. From this perspective, the lack of further investigation reflected the assessment that nothing operationally significant had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 The result was a durable ambiguity. Parliament had forced the MoD to speak publicly, but the answer was framed so tightly around defence responsibilities that it neither confirmed nor definitively resolved wider public questions. That official restraint became part of the Rendlesham story itself.
 
@@ -348,203 +348,203 @@ The result was a durable ambiguity. Parliament had forced the MoD to speak publi
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_public_pressure_428faf_patrick_wall_1983_qu_a50749-Illustration-3-dark.svg" | relative_url }}" alt="1983 Question illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_public_pressure_428faf_patrick_wall_1983_qu_a50749-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_public_pressure_428faf_patrick_wall_1983_qu_a50749-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Importance of Wall’s Question
 
-Patrick Wall’s 1983 intervention occupies a small but pivotal place in the history of the Rendlesham affair. It transformed a press-driven story into a matter of official record and compelled the MoD to define its position for the first time. The significance lies less in the wording of the question than in the precedent it created: once ministers had stated that the incident carried no defence significance, subsequent governments repeatedly returned to the same formulation whenever Rendlesham resurfaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
+Patrick Wall’s 1983 intervention occupies a small but pivotal place in the history of the Rendlesham affair. It transformed a press-driven story into a matter of official record and compelled the MoD to define its position for the first time. The significance lies less in the wording of the question than in the precedent it created: once ministers had stated that the incident carried no defence significance, subsequent governments repeatedly returned to the same formulation whenever Rendlesham resurfaced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
 
-In that sense, Wall’s question established the framework through which the British government would discuss Rendlesham for decades. Parliament did not force a new investigation, but it did force the first public line—and that line became the foundation of every later official response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
+In that sense, Wall’s question established the framework through which the British government would discuss Rendlesham for decades. Parliament did not force a new investigation, but it did force the first public line—and that line became the foundation of every later official response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.9K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Parliament Forced the First Public Line. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Parliament Forced the First Public Line. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Directly relevant to the growth of public pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to the growth of public pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Left at East Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fyP0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Left at East Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
-        </h4>
-        <p class="fr-book-author">By Larry Warren, Peter Robbins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Left at East Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fyP0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Left at East Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
+</h4>
+<p class="fr-book-author">By Larry Warren, Peter Robbins</p>
         
-        <p class="fr-book-desc">Influenced public understanding of the incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Influenced public understanding of the incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines public and official engagement with UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines public and official engagement with UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for why cases attract sustained attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why cases attract sustained attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+at+East+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left at East Gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+at+East+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left at East Gate</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1983-question-how-parliament-forced-the-first-public-line-rendlesham-forest-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ In that sense, Wall’s question established the framework through which the Bri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ In that sense, Wall’s question established the framework through which the Bri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ In that sense, Wall’s question established the framework through which the Bri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ In that sense, Wall’s question established the framework through which the Bri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ In that sense, Wall’s question established the framework through which the Bri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,166 +750,166 @@ In that sense, Wall’s question established the framework through which the Bri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: api.parliament.uk  
    Title: APIMr Patrick Wall (Hansard)  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/mr-patrick-wall/index.html" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-patrick-wall/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament APIMr Patrick Wall (Hansard) - API Parliament UKMr Patrick Wall, October 19, 1916 - 1998, Constituencies, Offices, Contributio...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/mr-patrick-wall/index.html" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-patrick-wall/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament APIMr Patrick Wall (Hansard) - API Parliament UKMr Patrick Wall, October 19, 1916 - 1998, Constituencies, Offices, Contributio...</p></details>
    Published: October 19, 1916  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Tuesday 16 October 2001...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Tuesday 16 October 2001...</p></details>
    Published: October 2001  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Commons/1983-12-09/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1983-12-09/WrittenAnswers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament9 Dec 1983 — Hansard record of the item: &#x27;Written Answers&#x27; on Friday 9 December 1983...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/Commons/1983-12-09/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1983-12-09/WrittenAnswers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament9 Dec 1983 — Hansard record of the item: &#x27;Written Answers&#x27; on Friday 9 December 1983...</p></details>
    Published: December 1983  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: uk Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK ParliamentRecords dating from 1980 no longer exist. Paper records are retained for a period of three years...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK ParliamentRecords dating from 1980 no longer exist. Paper records are retained for a period of three years...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament... 1981, and whether they will detail the... Rendlesham Forest incident, in December 1980.... debate...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament... 1981, and whether they will detail the... Rendlesham Forest incident, in December 1980.... debate...</p></details>
    Published: December 1980  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Commons/1983-07-12/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1983-07-12/WrittenAnswers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament12 Jul 1983 —... Questions. Column 289is located here. Tuesday 12 July 1983. Education And Science...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/Commons/1983-07-12/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1983-07-12/WrittenAnswers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament12 Jul 1983 —... Questions. Column 289is located here. Tuesday 12 July 1983. Education And Science...</p></details>
    Published: July 1983  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects - Hansard - UK Parliament18 Jan 1979 — It is with much pleasure that I introduce this debate this evening about unidentifi...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects - Hansard - UK Parliament18 Jan 1979 — It is with much pleasure that I introduce this debate this evening about unidentifi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: members.parliament.uk  
    Title: uk Spoken contributions of Sir Patrick Wall  
-   Link: <a href="https://members.parliament.uk/member/1108/contributions" target="_blank" rel="noopener noreferrer nofollow">https://members.parliament.uk/member/1108/contributions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual debates are shown below, and you can expand them to show individual spoken contributions...</p></details>
+   Link:<a href="https://members.parliament.uk/member/1108/contributions" target="_blank" rel="noopener noreferrer nofollow">https://members.parliament.uk/member/1108/contributions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Individual debates are shown below, and you can expand them to show individual spoken contributions...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: api.parliament.uk  
    Title: uk Mr Pat Wall (Hansard)  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/mr-pat-wall/index.html" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-pat-wall/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pat Wall (Hansard) - API Parliament UKHANSARD 1803–2005 → People (W). Mr Pat Wall. May 6, 1933 - August 6, 1990. Constituencies. Bradford...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/mr-pat-wall/index.html" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-pat-wall/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pat Wall (Hansard) - API Parliament UKHANSARD 1803–2005 → People (W). Mr Pat Wall. May 6, 1933 - August 6, 1990. Constituencies. Bradford...</p></details>
    Published: May 6, 1933  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Commons/1983-11-01/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1983-11-01/WrittenAnswers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament1 Nov 1983 — Hansard record of the item: &#x27;Written Answers&#x27; on Tuesday 1 November 1983...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/Commons/1983-11-01/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Commons/1983-11-01/WrittenAnswers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament1 Nov 1983 — Hansard record of the item: &#x27;Written Answers&#x27; on Tuesday 1 November 1983...</p></details>
    Published: November 1983  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: Raf [Bentwaters](&#123;&#123; 'bentwaters/' | relative_url &#125;&#125;) And Woodbridg Nuclear Weapons Allegations  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbridge in viola...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbridge in viola...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The acronym UFO is an abbreviation for the US Air Force term „Unidentified Flying. Object.‟ It was coined in 1950 by...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/rendlesham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/rendlesham.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF/USAF Woodbridge/Rendlesham Forest29 Dec 2025 — Only 2 weeks after the London sighting, one of the most sensational UFO events ever re...</p></details>
+   Link:<a href="https://www.bahaistudies.net/asma/rendlesham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/rendlesham.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF/USAF Woodbridge/Rendlesham Forest29 Dec 2025 — Only 2 weeks after the London sighting, one of the most sensational UFO events ever re...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76309/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76309/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest UFO2 Aug 2022 — Digital copy of DEFE 24/2034: UFO Parliamentary questions and correspondence; with redactions.... 1980 Reference...</p></details>
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76309/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76309/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest UFO2 Aug 2022 — Digital copy of DEFE 24/2034: UFO Parliamentary questions and correspondence; with redactions.... 1980 Reference...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skepsis.nl  
-   Link: <a href="https://skepsis.nl/rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/rendlesham/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterie van Rendlesham Forest UFOIn maart 1983 verschijnt er in het tijdschrift Omni een stuk over de UFO in Rendlesham Forest, die op 3...</p></details>
+   Link:<a href="https://skepsis.nl/rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/rendlesham/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterie van Rendlesham Forest UFOIn maart 1983 verschijnt er in het tijdschrift Omni een stuk over de UFO in Rendlesham Forest, die op 3...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LBC/posts/former-mod-official-who-investigated-ufo-sightings-tells-nick-ferrari-what-he-fo/916541810763316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBC/posts/former-mod-official-who-investigated-ufo-sightings-tells-nick-ferrari-what-he-fo/916541810763316/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former MoD official who investigated UFO sightings tells...The levels of radioactivity in Rendlesham Forest are an important piece of ph...</p></details>
+   Link:<a href="https://www.facebook.com/LBC/posts/former-mod-official-who-investigated-ufo-sightings-tells-nick-ferrari-what-he-fo/916541810763316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBC/posts/former-mod-official-who-investigated-ufo-sightings-tells-nick-ferrari-what-he-fo/916541810763316/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former MoD official who investigated UFO sightings tells...The levels of radioactivity in Rendlesham Forest are an important piece of ph...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: ministry of defence ordered officers to find ufo technology secret files revealt  
-   Link: <a href="https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew Manning&#x27;s postA file containing responses to Parliamentary Questions on UFOs by Martin Redmond MP... Patrick Wall MP in 1983 whe...</p></details>
+   Link:<a href="https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthewmanningukhealer/posts/ministry-of-defence-ordered-officers-to-find-ufo-technology-secret-files-revealt/1410197227129033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew Manning&#x27;s postA file containing responses to Parliamentary Questions on UFOs by Martin Redmond MP... Patrick Wall MP in 1983 whe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: carleton.scholaris.ca  
-   Link: <a href="https://carleton.scholaris.ca/bitstreams/706d15de-e798-4d29-b7da-d1f4f415969f/download" target="_blank" rel="noopener noreferrer nofollow">https://carleton.scholaris.ca/bitstreams/706d15de-e798-4d29-b7da-d1f4f415969f/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>States Lie: A Historical Sociological Investigation into the...the Rendlesham Forest incident in 1980, Britain&#x27;s most famous alleged UFO...</p></details>
+   Link:<a href="https://carleton.scholaris.ca/bitstreams/706d15de-e798-4d29-b7da-d1f4f415969f/download" target="_blank" rel="noopener noreferrer nofollow">https://carleton.scholaris.ca/bitstreams/706d15de-e798-4d29-b7da-d1f4f415969f/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>States Lie: A Historical Sociological Investigation into the...the Rendlesham Forest incident in 1980, Britain&#x27;s most famous alleged UFO...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Rendlesham Forest Incident: Interview with Nick Pope  
-   Link: <a href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w0DXwp5CmoY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident MoD files Nick Pope US Congress to hold a public hearing on UFOs | Former head of the MOD UFO Project Nick...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w0DXwp5CmoY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident MoD files Nick Pope US Congress to hold a public hearing on UFOs | Former head of the MOD UFO Project Nick...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: shura.shu.ac.uk  
    Title: [Clarke](&#123;&#123; 'clarke/' | relative_url &#125;&#125;) National [Archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;) Research(AM)  
-   Link: <a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects (UFOs)by D Clarke · 2008 · Cited by 1 — As a result, the earliest UFO records held by The National Archives, from the firs...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects (UFOs)by D Clarke · 2008 · Cited by 1 — As a result, the earliest UFO records held by The National Archives, from the firs...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Rendlesham forest incident of 1980, that has been... In 1955 and again in 1962 the MOD assured Major Patrick Wall MP in answer to Pa...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Rendlesham forest incident of 1980, that has been... In 1955 and again in 1962 the MOD assured Major Patrick Wall MP in answer to Pa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ukufosightings.com  
    Title: History of UFOs Continued  
-   Link: <a href="https://www.ukufosightings.com/history_of_ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukufosightings.com/history_of_ufos.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO SightingsThis contains Halt&#x27;s memo and briefings prepared for a Parliamentary question tabled by Major Patrick Wall MP in 1983 cor...</p></details>
+   Link:<a href="https://www.ukufosightings.com/history_of_ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukufosightings.com/history_of_ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO SightingsThis contains Halt&#x27;s memo and briefings prepared for a Parliamentary question tabled by Major Patrick Wall MP in 1983 cor...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skeptic.org.uk  
    Title: The Rendlesham Incident  
-   Link: <a href="https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Lessons for UFOlogy7 Apr 2006 — From the archives in 2006, Jenny Randles describes her own long involvement with the case and consid...</p></details>
+   Link:<a href="https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some Lessons for UFOlogy7 Apr 2006 — From the archives in 2006, Jenny Randles describes her own long involvement with the case and consid...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: parliament.isaackoi.com  
    Title: ufos and parliament uk  
-   Link: <a href="https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Parliament (UK)AIR 20/9321 1957 Parliamentary Question 15 May 1957 from Major Patrick Wall MP: To ask the Secretary of State for Air...</p></details>
+   Link:<a href="https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Parliament (UK)AIR 20/9321 1957 Parliamentary Question 15 May 1957 from Major Patrick Wall MP: To ask the Secretary of State for Air...</p></details>
    Published: May 1957  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Episode 291: Rendlesham Forest Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=_v8pg1wZa-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_v8pg1wZa-g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military MysteryThis week Jesse takes Mike, Alex and all of you on one of the most non-Jesse topics to date...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_v8pg1wZa-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_v8pg1wZa-g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military MysteryThis week Jesse takes Mike, Alex and all of you on one of the most non-Jesse topics to date...</p></details>

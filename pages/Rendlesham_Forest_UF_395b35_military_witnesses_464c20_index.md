@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-military/
 description: Focused pages that expand on Witnesses.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_military_witnesses_464c20
 parent_title: Witnesses
@@ -16,7 +16,7 @@ parent_permalink: /witnesses/
 
 # Explore Topics in Witnesses
 
-The following pages expand on the main **[Witnesses]({{ '/witnesses/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Witnesses]({{ '/witnesses/' | relative_url }})** page and cover its key branches in.
 
 - [Moving Lights]({{ '/moving-lights/' | relative_url }})
 - [Distance Errors]({{ '/distance-errors/' | relative_url }})

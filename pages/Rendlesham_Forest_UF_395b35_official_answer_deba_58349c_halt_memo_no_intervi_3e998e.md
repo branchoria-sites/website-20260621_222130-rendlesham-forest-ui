@@ -274,17 +274,17 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_ha
 
 ## Introduction
 
-One reason the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident continued to generate debate long after the Ministry of Defence (MoD) lost interest is that the official record was built around a single document rather than a full witness investigation. Lieutenant Colonel Charles Halt’s memorandum, submitted in January 1981, gave the MoD a formal account from a senior officer. Yet the surviving record indicates that officials did not conduct detailed interviews with the personnel who reported the sightings. Instead, they relied on internal checks, radar [enquiries]({{ 'enquiries/' | relative_url }}), and consultations with relevant branches. For critics, believers, and many neutral observers, that choice left a lasting evidential gap: the government had an official report, but never systematically tested the testimony behind it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+One reason the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident continued to generate debate long after the Ministry of Defence (MoD) lost interest is that the official record was built around a single document rather than a full witness investigation. Lieutenant Colonel Charles Halt’s memorandum, submitted in January 1981, gave the MoD a formal account from a senior officer. Yet the surviving record indicates that officials did not conduct detailed interviews with the personnel who reported the sightings. Instead, they relied on internal checks, radar [enquiries]({{ 'enquiries/' | relative_url }}), and consultations with relevant branches. For critics, believers, and many neutral observers, that choice left a lasting evidential gap: the government had an official report, but never systematically tested the testimony behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-1-dark.svg" | relative_url }}" alt="No Interviews illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Halt's Memo Gave the MoD
 
-Halt's memorandum, titled *[Unexplained]({{ 'unexplained/' | relative_url }}) Lights*, became the central official document in the case. It summarised reports from the December 1980 events near RAF Woodbridge and included observations from Halt's own night-time investigation. The memo described unusual lights, [ground traces]({{ 'ground-traces/' | relative_url }}), radiation readings, and aerial phenomena observed by United States Air Force personnel. Once received by the MoD, it effectively became the government's primary documentary record of the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+Halt's memorandum, titled *[Unexplained]({{ 'unexplained/' | relative_url }}) Lights*, became the central official document in the case. It summarised reports from the December 1980 events near RAF Woodbridge and included observations from Halt's own night-time investigation. The memo described unusual lights, [ground traces]({{ 'ground-traces/' | relative_url }}), radiation readings, and aerial phenomena observed by United States Air Force personnel. Once received by the MoD, it effectively became the government's primary documentary record of the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
-The significance of the memo was not merely what it reported but who wrote it. Halt was the deputy base commander, not a junior witness. A signed report from a senior officer required some level of administrative attention. According to researcher David Clarke's examination of released MoD files, the memo reached [UFO desk]({{ 'ufo-desk/' | relative_url }}) officer Simon Weeden roughly three weeks after the sightings. Weeden then circulated it to various MoD branches and radar stations for comment and assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+The significance of the memo was not merely what it reported but who wrote it. Halt was the deputy base commander, not a junior witness. A signed report from a senior officer required some level of administrative attention. According to researcher David Clarke's examination of released MoD files, the memo reached [UFO desk]({{ 'ufo-desk/' | relative_url }}) officer Simon Weeden roughly three weeks after the sightings. Weeden then circulated it to various MoD branches and radar stations for comment and assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
-This circulation created the appearance of an official review. However, the review was largely documentary and administrative. The memo provided a starting point for inquiries, but there is little evidence that officials attempted to build a broader evidential record through direct witness examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+This circulation created the appearance of an official review. However, the review was largely documentary and administrative. The memo provided a starting point for inquiries, but there is little evidence that officials attempted to build a broader evidential record through direct witness examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.9K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
@@ -293,13 +293,13 @@ This circulation created the appearance of an official review. However, the revi
 
 The available records suggest that the MoD approached the case as a question of defence relevance rather than a witness-investigation exercise. Officials sought information that could determine whether an air-defence or security issue existed.
 
-According to Clarke's research into the [released files]({{ 'released-file/' | relative_url }}), Weeden circulated Halt's report to relevant departments and radar stations. Air-defence radar records were checked, and officials sought comments from branches that might have knowledge of aircraft movements or other activities capable of explaining the reported lights. Those enquiries reportedly failed to identify unusual radar tracks during the relevant period. Officials also considered more conventional explanations, including military activity, lighthouse effects, and other terrestrial light sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+According to Clarke's research into the [released files]({{ 'released-file/' | relative_url }}), Weeden circulated Halt's report to relevant departments and radar stations. Air-defence radar records were checked, and officials sought comments from branches that might have knowledge of aircraft movements or other activities capable of explaining the reported lights. Those enquiries reportedly failed to identify unusual radar tracks during the relevant period. Officials also considered more conventional explanations, including military activity, lighthouse effects, and other terrestrial light sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
-What is striking is what the files do not show. Rather than interviewing Halt, Jim Penniston, John Burroughs, or other key witnesses, the MoD appears to have relied on the written account and the results of technical checks. Clarke quotes RAF Group Captain Neil Colvin as stating that radar logs were examined but witnesses were not interviewed and no further follow-up occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+What is striking is what the files do not show. Rather than interviewing Halt, Jim Penniston, John Burroughs, or other key witnesses, the MoD appears to have relied on the written account and the results of technical checks. Clarke quotes RAF Group Captain Neil Colvin as stating that radar logs were examined but witnesses were not interviewed and no further follow-up occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
-Parliamentary discussions years later reinforced this picture. In a 2001 House of Lords exchange, the government stated that the only United States Air Force material held by the MoD was Halt's memorandum. The response further noted that there was no indication officials raised additional questions with Halt after receiving it and that the reason for the lack of further inquiry was unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</span></span></span>
+Parliamentary discussions years later reinforced this picture. In a 2001 House of Lords exchange, the government stated that the only United States Air Force material held by the MoD was Halt's memorandum. The response further noted that there was no indication officials raised additional questions with Halt after receiving it and that the reason for the lack of further inquiry was unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</span></span></span>
 
-The result was an unusual investigative structure: a case famous for witness testimony was reviewed largely without direct engagement with the witnesses themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+The result was an unusual investigative structure: a case famous for witness testimony was reviewed largely without direct engagement with the witnesses themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-2-dark.svg" | relative_url }}" alt="No Interviews illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,9 +307,9 @@ The result was an unusual investigative structure: a case famous for witness tes
 
 The most plausible explanation lies in the MoD's institutional priorities. The department's UFO policy during this era focused on defence implications rather than the broader question of whether an unexplained event had occurred.
 
-From that perspective, witness interviews may have seemed unnecessary. If [radar checks]({{ 'radar-checks/' | relative_url }}) revealed no significant activity, if no confirmed airspace intrusion was detected, and if there was no evidence of a national-security threat, the case could be administratively closed without committing further resources. The purpose of the review was not necessarily to reconstruct events in detail but to determine whether defence action was required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+From that perspective, witness interviews may have seemed unnecessary. If [radar checks]({{ 'radar-checks/' | relative_url }}) revealed no significant activity, if no confirmed airspace intrusion was detected, and if there was no evidence of a national-security threat, the case could be administratively closed without committing further resources. The purpose of the review was not necessarily to reconstruct events in detail but to determine whether defence action was required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
-This approach also reflected practical constraints. The incident occurred on a United States Air Force installation operating in Britain. The MoD possessed Halt's report but does not appear to have possessed a large body of original witness statements. The department may have regarded the matter as primarily a USAF issue unless evidence emerged that directly affected British defence responsibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</span></span></span>
+This approach also reflected practical constraints. The incident occurred on a United States Air Force installation operating in Britain. The MoD possessed Halt's report but does not appear to have possessed a large body of original witness statements. The department may have regarded the matter as primarily a USAF issue unless evidence emerged that directly affected British defence responsibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</span></span></span>
 
 Even so, the absence of interviews remains noteworthy because witness testimony was the strongest element of the case. Had officials interviewed participants promptly, they could have tested consistency, clarified timelines, and compared accounts before memories evolved. That opportunity was largely lost.
 
@@ -321,202 +321,202 @@ Even so, the absence of interviews remains noteworthy because witness testimony 
 
 ## Why That Choice Looked Inadequate Later
 
-The decision not to interview witnesses became more controversial as the Rendlesham story grew. During the 1980s and subsequent decades, new claims, revised recollections, books, documentaries, and public appearances expanded the narrative far beyond the contents of Halt's original memo. Because there had been no detailed official witness examination in 1981, there was no comprehensive contemporary record against which later claims could be measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.starburstmagazine.com/features/daniel-simpson-a-laurie-cook-the-rendelsham-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starburstmagazine.com">[STARBURST Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starburstmagazine.com</span><span class="citation-popover-title">daniel simpson a laurie cook the rendelsham ufo incident</span><span class="citation-popover-snippet">STARBURST MagazineDaniel Simpson &amp; Laurie Cook &#124; THE RENDLESHAM UFO...In 1983, a memo to the British Ministry of Defence, written by Hal...</span></span></span>
+The decision not to interview witnesses became more controversial as the Rendlesham story grew. During the 1980s and subsequent decades, new claims, revised recollections, books, documentaries, and public appearances expanded the narrative far beyond the contents of Halt's original memo. Because there had been no detailed official witness examination in 1981, there was no comprehensive contemporary record against which later claims could be measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.starburstmagazine.com/features/daniel-simpson-a-laurie-cook-the-rendelsham-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starburstmagazine.com">[STARBURST Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starburstmagazine.com</span><span class="citation-popover-title">daniel simpson a laurie cook the rendelsham ufo incident</span><span class="citation-popover-snippet">STARBURST MagazineDaniel Simpson &amp; Laurie Cook &#124; THE RENDLESHAM UFO...In 1983, a memo to the British Ministry of Defence, written by Hal...</span></span></span>
 
-For sceptics, the absence of interviews weakened extraordinary claims. Without systematic questioning at the time, it became difficult to determine which details were genuinely contemporary and which emerged years later through memory reconstruction, discussion among witnesses, or public retelling. The lack of formal interviews therefore made later testimony harder to evaluate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</span></span></span>
+For sceptics, the absence of interviews weakened extraordinary claims. Without systematic questioning at the time, it became difficult to determine which details were genuinely contemporary and which emerged years later through memory reconstruction, discussion among witnesses, or public retelling. The lack of formal interviews therefore made later testimony harder to evaluate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</span></span></span>
 
-For proponents of the UFO interpretation, the same absence suggested institutional indifference. They argue that a report from a senior officer describing unusual events near a sensitive military installation merited a deeper inquiry. The fact that officials checked radar records but did not question the principal witnesses is often cited as evidence that the investigation never seriously engaged with the core testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+For proponents of the UFO interpretation, the same absence suggested institutional indifference. They argue that a report from a senior officer describing unusual events near a sensitive military installation merited a deeper inquiry. The fact that officials checked radar records but did not question the principal witnesses is often cited as evidence that the investigation never seriously engaged with the core testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
-This is why the issue continues to matter. The debate is not simply about what the witnesses saw. It is also about what investigators chose not to do. Halt's memo gave the MoD enough information to decide there was no defence threat, but it did not provide enough information to settle the historical question. The missing witness interviews left a permanent evidential gap, allowing supporters and critics alike to argue that the most important questions were never properly tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+This is why the issue continues to matter. The debate is not simply about what the witnesses saw. It is also about what investigators chose not to do. Halt's memo gave the MoD enough information to decide there was no defence threat, but it did not provide enough information to settle the historical question. The missing witness interviews left a permanent evidential gap, allowing supporters and critics alike to argue that the most important questions were never properly tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Rendlesham Forest UFOs</span><span class="citation-popover-snippet">Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-3-dark.svg" | relative_url }}" alt="No Interviews illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_official_answer_deba_58349c_halt_memo_no_intervi_3e998e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Were the Witnesses Not Interviewed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Were the Witnesses Not Interviewed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Directly examines the incident, MoD involvement, official documents, and investigative shortcomings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the incident, MoD involvement, official documents, and investigative shortcomings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explains how the MoD handled UFO reports and why some cases received limited investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how the MoD handled UFO reports and why some cases received limited investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides context on official records, declassified files, and the evidential limitations of government UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on official records, declassified files, and the evidential limitations of government UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest%3A+The+Inside+Story+of+the+World%27s+Best+Documented+UFO+Incident+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest: The Inside Story of the World&#x27;s Best-Documented UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest%3A+The+Inside+Story+of+the+World%27s+Best+Documented+UFO+Incident+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest: The Inside Story of the World&#x27;s Best-Documented UFO Incident">Encounter in Rendlesham Forest: The Inside Story of the World...</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest%3A+The+Inside+Story+of+the+World%27s+Best+Documented+UFO+Incident+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest: The Inside Story of the World&#x27;s Best-Documented UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest%3A+The+Inside+Story+of+the+World%27s+Best+Documented+UFO+Incident+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest: The Inside Story of the World&#x27;s Best-Documented UFO Incident">Encounter in Rendlesham Forest: The Inside Story of the World...</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Directly examines the incident, MoD involvement, official documents, and investigative shortcomings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest%3A+The+Inside+Story+of+the+World%27s+Best+Documented+UFO+Incident+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the incident, MoD involvement, official documents, and investigative shortcomings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest%3A+The+Inside+Story+of+the+World%27s+Best+Documented+UFO+Incident+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-search-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible -book -books -gerry -anderson -series -television -band -concert" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rendlesham Forest UFO collectible on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20Rendlesham%20Forest%20UFO%20collectible%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERendlesham%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EForest%20Ufo%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECollectible%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERendlesham%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EForest%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for Rendlesham Forest UFO collectible on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">Rendlesham Forest UFO collectible</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Rendlesham</span><span class="fr-search-tag">Forest</span><span class="fr-search-tag">Ufo</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible -book -books -gerry -anderson -series -television -band -concert" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible -book -books -gerry -anderson -series -television -band -concert" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rendlesham Forest UFO collectible on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20Rendlesham%20Forest%20UFO%20collectible%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERendlesham%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EForest%20Ufo%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECollectible%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERendlesham%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EForest%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for Rendlesham Forest UFO collectible on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Top pick</p>
+<h4 class="fr-search-title">Rendlesham Forest UFO collectible</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Rendlesham</span><span class="fr-search-tag">Forest</span><span class="fr-search-tag">Ufo</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest UFO collectible -book -books -gerry -anderson -series -television -band -concert" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO art print on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO art print on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO art print</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO art print on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO art print on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO art print</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-art-print-book-books-dvd-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer wall art on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWall%20Art%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer wall art on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">flying saucer wall art</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Wall</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer wall art on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWall%20Art%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer wall art on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">flying saucer wall art</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Wall</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO decal on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20decal%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Decal%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDecal%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO decal on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO decal</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Decal</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO decal on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20decal%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Decal%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDecal%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO decal on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO decal</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Decal</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-ufo-decal-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+</a>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-interviews-why-were-the-witnesses-not-interviewed-rendlesham-forest-rendlesham-forest-ufo-collectible-book-books-gerr&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ This is why the issue continues to matter. The debate is not simply about what t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ This is why the issue continues to matter. The debate is not simply about what t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ This is why the issue continues to matter. The debate is not simply about what t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ This is why the issue continues to matter. The debate is not simply about what t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ This is why the issue continues to matter. The debate is not simply about what t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,104 +722,104 @@ This is why the issue continues to matter. The debate is not simply about what t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: drdavidclarke.co.uk  
    Title: Rendlesham Forest UFOs  
-   Link: <a href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/rendlesham-forest-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/rendlesham-forest-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeDecember 31, 2020 — We now know that Halt&#x27;s memo, titled “Unexplained Lights”, dated 13 January 1981, reached the UFO desk...</p></details>
    Published: December 31, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Halt Memorandum.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: drdavidclarke.co.uk  
    Title: Rendlesham forest UFOs  
-   Link: <a href="https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeWhen the contents of Lt Col Charles Halt&#x27;s now famous memo were broken by The News of the World in 1983 the MoD said his r...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeWhen the contents of Lt Col Charles Halt&#x27;s now famous memo were broken by The News of the World in 1983 the MoD said his r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — There is no indication from the papers held on file that MoD rai...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
    Published: August 2009  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: starburstmagazine.com  
    Title: daniel simpson a laurie cook the rendelsham ufo incident  
-   Link: <a href="https://www.starburstmagazine.com/features/daniel-simpson-a-laurie-cook-the-rendelsham-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.starburstmagazine.com/features/daniel-simpson-a-laurie-cook-the-rendelsham-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>STARBURST MagazineDaniel Simpson &amp; Laurie Cook | THE RENDLESHAM UFO...In 1983, a memo to the British Ministry of Defence, written by Hal...</p></details>
+   Link:<a href="https://www.starburstmagazine.com/features/daniel-simpson-a-laurie-cook-the-rendelsham-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.starburstmagazine.com/features/daniel-simpson-a-laurie-cook-the-rendelsham-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STARBURST MagazineDaniel Simpson &amp; Laurie Cook | THE RENDLESHAM UFO...In 1983, a memo to the British Ministry of Defence, written by Hal...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/multimedia/archive/02940/Telegraph1914_1506_2940911a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/02940/Telegraph1914_1506_2940911a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AND - The SINDING EXHIBITIONChurch, Leamington, by the Rev. Hector Maclean, M.A.. CONCERTS ALL DAY. Vicar of Newbold Pacey, assisted by t...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/multimedia/archive/02940/Telegraph1914_1506_2940911a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/02940/Telegraph1914_1506_2940911a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AND - The SINDING EXHIBITIONChurch, Leamington, by the Rev. Hector Maclean, M.A.. CONCERTS ALL DAY. Vicar of Newbold Pacey, assisted by t...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of the Rendle...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of the Rendle...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoTwo nights later, Deputy Base Commander Charles Halt led a team to investigate after the lights ret...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoTwo nights later, Deputy Base Commander Charles Halt led a team to investigate after the lights ret...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/multimedia/archive/03210/Telegraph1915_1103_3210572a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03210/Telegraph1915_1103_3210572a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zog it offCounsel questioned witness as to whether this sum The debtor, who was an undischarged bankrupt, had included all his debts, and...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/multimedia/archive/03210/Telegraph1915_1103_3210572a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/multimedia/archive/03210/Telegraph1915_1103_3210572a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zog it offCounsel questioned witness as to whether this sum The debtor, who was an undischarged bankrupt, had included all his debts, and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe file contains the Ministry of Defence‟s final position statement on the Rendlesham incident in a briefing for the House of Lords...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe file contains the Ministry of Defence‟s final position statement on the Rendlesham incident in a briefing for the House of Lords...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c</a>  
+   Link:<a href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>simon ronse keppard jexner skeikh kandyan linah maskawa delmark chiik... not alisa nov boldspilklub fushui nos itza ramose feldebro konopka...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>simon ronse keppard jexner skeikh kandyan linah maskawa delmark chiik... not alisa nov boldspilklub fushui nos itza ramose feldebro konopka...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: raw.githubusercontent.com  
    Title: Wordlist 550000 frequency weighted (BNC).txt  
-   Link: <a href="https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20550000%20frequency%20weighted%20%28BNC%29.txt" target="_blank" rel="noopener noreferrer nofollow">https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20550000%20frequency%20weighted%20%28BNC%29.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>forest studio provided relate comes waste document resource farm Hill aspect... witness wake extreme sweet fault silver plane regular la...</p></details>
+   Link:<a href="https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20550000%20frequency%20weighted%20%28BNC%29.txt" target="_blank" rel="noopener noreferrer nofollow">https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20550000%20frequency%20weighted%20%28BNC%29.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forest studio provided relate comes waste document resource farm Hill aspect... witness wake extreme sweet fault silver plane regular la...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>am Forest in England. Discover more tonight at 10/9c in a new...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>am Forest in England. Discover more tonight at 10/9c in a new...</p></details>

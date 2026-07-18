@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-halt/
 description: Focused pages that expand on Halt Night.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_halt_second_night_645870
 parent_title: Halt Night
@@ -16,7 +16,7 @@ parent_permalink: /halt-night/
 
 # Explore Topics in Halt Night
 
-The following pages expand on the main **[Halt Night]({{ '/halt-night/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Halt Night]({{ '/halt-night/' | relative_url }})** page and cover its key branches in.
 
 - [Ground Impressions]({{ '/ground-impressions/' | relative_url }})
 - [Halt Tape]({{ '/halt-tape-f09ec7/' | relative_url }})

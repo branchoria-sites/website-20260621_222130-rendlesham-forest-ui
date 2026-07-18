@@ -280,49 +280,49 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_fl
 
 ## Introduction
 
-The first formal decision in the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident was not the writing of a memorandum, a Ministry of Defence review, or a senior commander’s investigation. It was a much smaller operational judgement. According to Lieutenant Colonel Charles Halt’s later report, two USAF security policemen at RAF Woodbridge saw unusual lights beyond the base perimeter, believed an aircraft might have come down, and requested permission to leave their post and investigate. The on-duty flight chief authorised that request. That brief approval transformed an [unexplained]({{ 'unexplained/' | relative_url }}) sighting into an operational matter inside the base security system and created the first step in the reporting chain that eventually reached Whitehall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+The first formal decision in the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident was not the writing of a memorandum, a Ministry of Defence review, or a senior commander’s investigation. It was a much smaller operational judgement. According to Lieutenant Colonel Charles Halt’s later report, two USAF security policemen at RAF Woodbridge saw unusual lights beyond the base perimeter, believed an aircraft might have come down, and requested permission to leave their post and investigate. The on-duty flight chief authorised that request. That brief approval transformed an [unexplained]({{ 'unexplained/' | relative_url }}) sighting into an operational matter inside the base security system and created the first step in the reporting chain that eventually reached Whitehall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-1-dark.svg" | relative_url }}" alt="Flight Chief illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because the Rendlesham case is often discussed through the lens of UFO claims, the significance of this early command handoff can be overlooked. Yet the surviving record suggests that the incident initially moved through ordinary security procedures rather than any specialised UFO-[reporting]({{ 'reporting/' | relative_url }}) mechanism. The flight chief’s decision was the first documented command action in the chain of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+Because the Rendlesham case is often discussed through the lens of UFO claims, the significance of this early command handoff can be overlooked. Yet the surviving record suggests that the incident initially moved through ordinary security procedures rather than any specialised UFO-[reporting]({{ 'reporting/' | relative_url }}) mechanism. The flight chief’s decision was the first documented command action in the chain of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-3-dark.svg" | relative_url }}" alt="Flight Chief illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Permission to Investigate Meant
 
-Halt’s memorandum provides the clearest surviving description of the opening stage. He wrote that two security police patrolmen observed unusual lights outside the [back gate]({{ 'back-gate/' | relative_url }}) of RAF Woodbridge at approximately 0300 hours. Believing an aircraft might have crashed or been forced down, they requested authority to go outside the gate and investigate. The on-duty flight chief authorised them to proceed on foot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+Halt’s memorandum provides the clearest surviving description of the opening stage. He wrote that two security police patrolmen observed unusual lights outside the [back gate]({{ 'back-gate/' | relative_url }}) of RAF Woodbridge at approximately 0300 hours. Believing an aircraft might have crashed or been forced down, they requested authority to go outside the gate and investigate. The on-duty flight chief authorised them to proceed on foot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
-That wording is important because it frames the initial response as a security and safety matter. The patrolmen did not report a UFO and wait for a specialist investigator. They reported lights that could indicate an aviation accident, an intrusion, or another event requiring immediate attention near a military installation. In that context, the flight chief’s role was practical: deciding whether personnel should leave the perimeter to verify what was occurring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+That wording is important because it frames the initial response as a security and safety matter. The patrolmen did not report a UFO and wait for a specialist investigator. They reported lights that could indicate an aviation accident, an intrusion, or another event requiring immediate attention near a military installation. In that context, the flight chief’s role was practical: deciding whether personnel should leave the perimeter to verify what was occurring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
-The permission also established accountability. Once security personnel were authorised to investigate beyond the gate, observations made during that patrol entered the military reporting system rather than remaining an informal conversation among witnesses. Later narratives often focus on what the patrolmen claimed to have seen in the forest, but the administrative significance lies in the fact that their actions were officially sanctioned from the outset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+The permission also established accountability. Once security personnel were authorised to investigate beyond the gate, observations made during that patrol entered the military reporting system rather than remaining an informal conversation among witnesses. Later narratives often focus on what the patrolmen claimed to have seen in the forest, but the administrative significance lies in the fact that their actions were officially sanctioned from the outset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/khOo9uvr5_s" title="Rendlesham Forest Incident: A Military Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer">Rendlesham Forest Incident: A Military Mystery</a></p><p class="youtube-embed-meta">Channel: The Tape Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=khOo9uvr5_s">Open on YouTube</a></p></div></div></div>
 
 ## Why the First Handoff Matters
 
-The first command handoff occurred when the patrolmen elevated their concern to the on-duty flight chief and received approval to investigate. In military terms, this was a routine escalation within the security chain of command. Yet it established a reporting pathway that later allowed the incident to move upward through increasingly senior levels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+The first command handoff occurred when the patrolmen elevated their concern to the on-duty flight chief and received approval to investigate. In military terms, this was a routine escalation within the security chain of command. Yet it established a reporting pathway that later allowed the incident to move upward through increasingly senior levels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
 Several consequences followed from that initial handoff:
 
 * The event was treated as a matter requiring operational attention rather than a private observation.
 * Security personnel became official witnesses acting under orders.
 * Information generated during the investigation could be reported through command channels.
-* Later commanders, including Charles Halt, inherited a documented incident rather than a rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+* Later commanders, including Charles Halt, inherited a documented incident rather than a rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
-This helps explain why the Rendlesham case produced an official [paper trail]({{ 'paper-trail/' | relative_url }}) at all. The incident did not begin with a senior officer deciding to investigate unexplained phenomena. It began with security personnel reporting something unusual and a supervisor authorising a response. The chain of command functioned as designed: information moved upward because an operational question had first been raised at the lowest practical level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
+This helps explain why the Rendlesham case produced an official [paper trail]({{ 'paper-trail/' | relative_url }}) at all. The incident did not begin with a senior officer deciding to investigate unexplained phenomena. It began with security personnel reporting something unusual and a supervisor authorising a response. The chain of command functioned as designed: information moved upward because an operational question had first been raised at the lowest practical level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">permission to go outside the gate to investigate. The on-duty flight chief responded and allowed to patrolmen to pro- ceed on foot. The i...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-2-dark.svg" | relative_url }}" alt="Flight Chief illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_usaf_reporting_route_e2582a_flight_chief_handoff_6c201c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Flight Chief to Formal Report
 
-The surviving evidence does not provide a detailed minute-by-minute account of every internal communication after the patrol entered the forest. However, the broad route is clearer. The observations made by security personnel eventually reached Lieutenant Colonel Charles Halt, the deputy base commander, who later summarised the incidents in his memorandum titled “Unexplained Lights.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
+The surviving evidence does not provide a detailed minute-by-minute account of every internal communication after the patrol entered the forest. However, the broad route is clearer. The observations made by security personnel eventually reached Lieutenant Colonel Charles Halt, the deputy base commander, who later summarised the incidents in his memorandum titled “Unexplained Lights.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives UFO files</span><span class="citation-popover-snippet">National ArchivesUFO files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt...</span><span class="citation-popover-meta">Published: August 2009</span></span></span>
 
-From there, the matter crossed from the internal USAF security structure into the Anglo-American liaison system at the base. British liaison officer Squadron Leader Donald Moreland forwarded Halt’s report to the Ministry of Defence with a covering letter stating that the account was being sent “for your information and action as considered necessary.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">December 26, 2020 — 26 Dec 2020 — He forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for your...</span><span class="citation-popover-meta">Published: December 26, 2020</span></span></span>
+From there, the matter crossed from the internal USAF security structure into the Anglo-American liaison system at the base. British liaison officer Squadron Leader Donald Moreland forwarded Halt’s report to the Ministry of Defence with a covering letter stating that the account was being sent “for your information and action as considered necessary.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-snippet">December 26, 2020 — 26 Dec 2020 — He forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for your...</span><span class="citation-popover-meta">Published: December 26, 2020</span></span></span>
 
 Viewed from a chain-of-command perspective, the route is remarkably linear:
 
-1. Security patrol observes unusual lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">The Woodbridge UFO IncidentColonel Charles Halt&#x27;s memo on official American headed &quot;Unexplained Lights,&quot; security police patrolmen saw un...</span></span></span> 2. Patrol requests permission from the flight chief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">The Halt Memo and TapesBelieving them to be from an aircraft that may have crashed or been forced to land, they asked for permission from...</span></span></span>
+1. Security patrol observes unusual lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">The Woodbridge UFO IncidentColonel Charles Halt&#x27;s memo on official American headed &quot;Unexplained Lights,&quot; security police patrolmen saw un...</span></span></span> 2. Patrol requests permission from the flight chief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">The Halt Memo and TapesBelieving them to be from an aircraft that may have crashed or been forced to land, they asked for permission from...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UfKwQgmHfII" title="Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer">Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 388.3K &middot; Uploaded: October 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UfKwQgmHfII">Open on YouTube</a></p></div></div></div>
 
@@ -345,194 +345,194 @@ The record is much weaker on the details of the flight chief himself. Publicly a
 As a result, historians and researchers can say with confidence that a command authorisation occurred, but they cannot reconstruct every discussion surrounding it. The significance of the event comes not from extensive documentation about the flight chief, but from the fact that his approval marked the moment when the sighting crossed from observation into official action. That small administrative step became the first link in the reporting chain that eventually carried the Rendlesham incident from a patrol near the back gate of RAF Woodbridge to the desks of Ministry of Defence officials in London. [Wikimedia Commons+2drdavidclarke.co.uk](https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Small Approval That Started the Trail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Small Approval That Started the Trail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Directly covers the Rendlesham Forest events, witnesses, reporting chain, and subsequent interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the Rendlesham Forest events, witnesses, reporting chain, and subsequent interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Explores witness accounts, documentation, and official handling of the incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness accounts, documentation, and official handling of the incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides foundational background on investigation, classification, and assessment of unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational background on investigation, classification, and assessment of unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Places military sightings and reporting structures into a wider Cold War context relevant to Rendlesham readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places military sightings and reporting structures into a wider Cold War context relevant to Rendlesham readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1947 Roswell UFO Incident Soil / Earth Sample"><img src="{{ '/assets/images/marketplace-covers/51cdf37f2af3fa7e6b1c.jpg' | relative_url }}" alt="Listing image for 1947 Roswell UFO Incident Soil / Earth Sample" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">1947 Roswell UFO Incident Soil / Earth Sample</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1947 Roswell UFO Incident Soil / Earth Sample"><img src="{{ '/assets/images/marketplace-covers/51cdf37f2af3fa7e6b1c.jpg' | relative_url }}" alt="Listing image for 1947 Roswell UFO Incident Soil / Earth Sample" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">1947 Roswell UFO Incident Soil / Earth Sample</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Westall Encounter Melbourne UFO Incident Sighting Iron / Sew on Patch Badge"><img src="{{ '/assets/images/marketplace-covers/7c723360c2cad8c165de.jpg' | relative_url }}" alt="Listing image for 3&quot; Westall Encounter Melbourne UFO Incident Sighting Iron / Sew on Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">3&quot; Westall Encounter Melbourne UFO Incident Sighting Iron / Sew on Patch Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Westall Encounter Melbourne UFO Incident Sighting Iron / Sew on Patch Badge"><img src="{{ '/assets/images/marketplace-covers/7c723360c2cad8c165de.jpg' | relative_url }}" alt="Listing image for 3&quot; Westall Encounter Melbourne UFO Incident Sighting Iron / Sew on Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">3&quot; Westall Encounter Melbourne UFO Incident Sighting Iron / Sew on Patch Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="{{ '/assets/images/marketplace-covers/626531ba742c8333d95a.jpg' | relative_url }}" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="{{ '/assets/images/marketplace-covers/626531ba742c8333d95a.jpg' | relative_url }}" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue"><img src="{{ '/assets/images/marketplace-covers/f27dd7c083ebee5ea511.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue"><img src="{{ '/assets/images/marketplace-covers/f27dd7c083ebee5ea511.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Incident 50th Anniversary Commemorative Sculpture Statue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO incident collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO incident collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+incident+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO incident collectible" data-ebay-reference="flight-chief-the-small-approval-that-started-the-trail-rendlesham-forest-ufo-incident-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ As a result, historians and researchers can say with confidence that a command a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ As a result, historians and researchers can say with confidence that a command a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ As a result, historians and researchers can say with confidence that a command a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ As a result, historians and researchers can say with confidence that a command a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ As a result, historians and researchers can say with confidence that a command a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,119 +738,119 @@ As a result, historians and researchers can say with confidence that a command a
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 26, 2020 — 26 Dec 2020 — He forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for your...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 26, 2020 — 26 Dec 2020 — He forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for your...</p></details>
    Published: December 26, 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: drdavidclarke.co.uk  
    Title: Rendlesham forest UFOs  
-   Link: <a href="https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeHe forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for your information and ac...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/rendlesham-forest-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeHe forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for your information and ac...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: drdavidclarke.co.uk  
    Title: Margaret Thatcher  
-   Link: <a href="https://drdavidclarke.co.uk/tag/margaret-thatcher/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/margaret-thatcher/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David Clarke26 Dec 2020 — Halt&#x27;s dramatic account was accompanied by a covering letter signed by Squadron Leader Donald Moreland, the...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/tag/margaret-thatcher/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/margaret-thatcher/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David Clarke26 Dec 2020 — Halt&#x27;s dramatic account was accompanied by a covering letter signed by Squadron Leader Donald Moreland, the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: drdavidclarke.co.uk  
-   Link: <a href="https://drdavidclarke.co.uk/tag/di55/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/di55/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DI55 | - Dr David Clarke26 Dec 2020 — He forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/tag/di55/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/di55/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DI55 | - Dr David Clarke26 Dec 2020 — He forwarded the account of &#x27;mysterious sightings in the Rendlesham forest near RAF Woodbridge…for...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: drdavidclarke.co.uk  
    Title: Rendlesham Forest UFOs  
-   Link: <a href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/rendlesham-forest-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeWe summed up what we had and Lt Col Halt composed a letter addressed to Wing Commander [Don] Moreland [the British Base Co...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/rendlesham-forest-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/rendlesham-forest-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeWe summed up what we had and Lt Col Halt composed a letter addressed to Wing Commander [Don] Moreland [the British Base Co...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe United States Air Commanding Officer at RAF Woodbridge, Lieutenant Colonel Charles Halt, reported seeing lights near the r...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe United States Air Commanding Officer at RAF Woodbridge, Lieutenant Colonel Charles Halt, reported seeing lights near the r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: [National Archives](&#123;&#123; 'archive-map/' | relative_url &#125;&#125;) UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt...</p></details>
    Published: August 2009  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS base&#x27;s report of UFO crash &#x27;had MoD in a panic&#x27;28 Aug 2001 — British papers on the incident have been discovered by David...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS base&#x27;s report of UFO crash &#x27;had MoD in a panic&#x27;28 Aug 2001 — British papers on the incident have been discovered by David...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: whatdotheyknow.com  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Halt claimed to see things they described as a UFO sighting.Read more...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Halt claimed to see things they described as a UFO sighting.Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: x.com  
-   Link: <a href="https://x.com/histories_arch/status/2026570708999163986" target="_blank" rel="noopener noreferrer nofollow">https://x.com/histories_arch/status/2026570708999163986</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ArchaeoHistoriesDeputy base commander Lieutenant Colonel Charles Halt led an investigation on December 28, recording observations on tape...</p></details>
+   Link:<a href="https://x.com/histories_arch/status/2026570708999163986" target="_blank" rel="noopener noreferrer nofollow">https://x.com/histories_arch/status/2026570708999163986</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ArchaeoHistoriesDeputy base commander Lieutenant Colonel Charles Halt led an investigation on December 28, recording observations on tape...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Halt Memo and TapesBelieving them to be from an aircraft that may have crashed or been forced to land, they asked for permission from...</p></details>
+   Link:<a href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Halt Memo and TapesBelieving them to be from an aircraft that may have crashed or been forced to land, they asked for permission from...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Woodbridge UFO IncidentColonel Charles Halt&#x27;s memo on official American headed &quot;Unexplained Lights,&quot; security police patrolmen saw un...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/10/22165321/p79.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Woodbridge UFO IncidentColonel Charles Halt&#x27;s memo on official American headed &quot;Unexplained Lights,&quot; security police patrolmen saw un...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WEB VERSION OF [UFO TRAIL](&amp;#123;&amp;#123; &#x27;ufo-trail/&#x27; | relative_url &amp;#125;&amp;#125;). pdfThe patrolmen obtained permission from their on-duty flight chief to leave the airfield and investigate. They...</p></details>
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/WEB%20VERSION%20OF%20UFO%20TRAIL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WEB VERSION OF [UFO TRAIL](&amp;#123;&amp;#123; &#x27;ufo-trail/&#x27; | relative_url &amp;#125;&amp;#125;). pdfThe patrolmen obtained permission from their on-duty flight chief to leave the airfield and investigate. They...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thejournal.ie  
    Title: rendlesham forest incident charles halt interview 2015 2422702 Dec2015  
-   Link: <a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — According to a later report by Halt, they “saw unusual lig...</p></details>
+   Link:<a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — According to a later report by Halt, they “saw unusual lig...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chain soue egba pastner abdyl godefroot dujon igwebuike hurtubise mathewson... flight nilgiris algeria cinquecento buzhans lokeren aleur...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chain soue egba pastner abdyl godefroot dujon igwebuike hurtubise mathewson... flight nilgiris algeria cinquecento buzhans lokeren aleur...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page... Lieutenant Colonel Charles Halt or Squadron Leader Donald Moreland. In a.Read more...</p></details>
+   Link:<a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page... Lieutenant Colonel Charles Halt or Squadron Leader Donald Moreland. In a.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: handsworthprimary.org.uk  
-   Link: <a href="https://handsworthprimary.org.uk/AjaxRequestHandler.ashx?DOCUrl=App_Data%2Fhandsworthprimary_org_uk%2FClassPages%2F014%2F_Documents_2020-21%2FSlide.pdf&amp;Function=GetSecuredDOC" target="_blank" rel="noopener noreferrer nofollow">https://handsworthprimary.org.uk/AjaxRequestHandler.ashx?DOCUrl=App_Data%2Fhandsworthprimary_org_uk%2FClassPages%2F014%2F_Documents_2020-21%2FSlide.pdf&amp;Function=GetSecuredDOC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They called the Chief Duty Officer for permission to go outside to investigate.Read more...</p></details>
+   Link:<a href="https://handsworthprimary.org.uk/AjaxRequestHandler.ashx?DOCUrl=App_Data%2Fhandsworthprimary_org_uk%2FClassPages%2F014%2F_Documents_2020-21%2FSlide.pdf&amp;Function=GetSecuredDOC" target="_blank" rel="noopener noreferrer nofollow">https://handsworthprimary.org.uk/AjaxRequestHandler.ashx?DOCUrl=App_Data%2Fhandsworthprimary_org_uk%2FClassPages%2F014%2F_Documents_2020-21%2FSlide.pdf&amp;Function=GetSecuredDOC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They called the Chief Duty Officer for permission to go outside to investigate.Read more...</p></details>

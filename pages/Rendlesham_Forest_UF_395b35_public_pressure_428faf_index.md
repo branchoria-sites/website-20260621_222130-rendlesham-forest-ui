@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-public/
 description: Focused pages that expand on Public Pressure.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_public_pressure_428faf
 parent_title: Public Pressure
@@ -16,7 +16,7 @@ parent_permalink: /public-pressure/
 
 # Explore Topics in Public Pressure
 
-The following pages expand on the main **[Public Pressure]({{ '/public-pressure/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Public Pressure]({{ '/public-pressure/' | relative_url }})** page and cover its key branches in.
 
 - [Bruni Book]({{ '/bruni-book/' | relative_url }})
 - [FOI Files]({{ '/foi-files/' | relative_url }})

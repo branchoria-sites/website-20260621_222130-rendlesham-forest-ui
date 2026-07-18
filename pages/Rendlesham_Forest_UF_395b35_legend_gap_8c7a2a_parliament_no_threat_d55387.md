@@ -280,26 +280,26 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_n
 
 ## Introduction
 
-One reason the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident gained lasting public attention is that it did not remain merely a local military story. Questions reached [Parliament]({{ 'parliament/' | relative_url }}), forcing the Ministry of Defence (MoD) to provide an official position. Yet the answer Parliament received was far narrower than many later retellings suggest. Rather than endorsing claims of a landed extraterrestrial craft, the MoD treated Rendlesham as a defence matter and concluded that the reported events had no significance for national defence, airspace security, or military operations. That distinction became one of the most important—and most misunderstood—features of the official record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+One reason the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident gained lasting public attention is that it did not remain merely a local military story. Questions reached [Parliament]({{ 'parliament/' | relative_url }}), forcing the Ministry of Defence (MoD) to provide an official position. Yet the answer Parliament received was far narrower than many later retellings suggest. Rather than endorsing claims of a landed extraterrestrial craft, the MoD treated Rendlesham as a defence matter and concluded that the reported events had no significance for national defence, airspace security, or military operations. That distinction became one of the most important—and most misunderstood—features of the official record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-1-dark.svg" | relative_url }}" alt="No Threat illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader tension between official records and modern legend, the Parliamentary response shows how government institutions framed the case. The key question was not whether witnesses sincerely saw something unusual. The question was whether the incident represented a threat, an intrusion, or a matter requiring defence action. The MoD's answer was effectively no. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+Within the broader tension between official records and modern legend, the Parliamentary response shows how government institutions framed the case. The key question was not whether witnesses sincerely saw something unusual. The question was whether the incident represented a threat, an intrusion, or a matter requiring defence action. The MoD's answer was effectively no.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 ## Why Parliament asked about Rendlesham
 
-The original events occurred in December 1980 near RAF Woodbridge and RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}), facilities used by the United States Air Force. Lieutenant Colonel Charles Halt's memorandum describing "[unexplained]({{ 'unexplained/' | relative_url }}) lights" ensured that the incident entered official channels rather than remaining a rumour among base personnel. As press coverage expanded during the following years, Members of Parliament sought clarification from the government about what had happened and whether the incident had security implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
+The original events occurred in December 1980 near RAF Woodbridge and RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}), facilities used by the United States Air Force. Lieutenant Colonel Charles Halt's memorandum describing "[unexplained]({{ 'unexplained/' | relative_url }}) lights" ensured that the incident entered official channels rather than remaining a rumour among base personnel. As press coverage expanded during the following years, Members of Parliament sought clarification from the government about what had happened and whether the incident had security implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
 
-This Parliamentary interest mattered because it elevated Rendlesham from a reported sighting to a matter requiring a formal government response. Parliamentary questions oblige ministers to state an official position on the record. In the Rendlesham case, that process created a documentary trail showing how the MoD assessed the incident. The resulting papers later became part of the archive surrounding the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+This Parliamentary interest mattered because it elevated Rendlesham from a reported sighting to a matter requiring a formal government response. Parliamentary questions oblige ministers to state an official position on the record. In the Rendlesham case, that process created a documentary trail showing how the MoD assessed the incident. The resulting papers later became part of the archive surrounding the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
-Importantly, Parliament was not asking whether aliens had visited Suffolk. The questions focused on government knowledge, defence assessment, investigations, records, and the significance of the reported events. That framing shaped the answer that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest (Incident</span><span class="citation-popover-snippet">Rendlesham Forest (Incident) - Hansard - UK Parliament24 Jul 1996 — Hansard record of the item: &#x27;Rendlesham Forest (Incident)&#x27; on...</span></span></span>
+Importantly, Parliament was not asking whether aliens had visited Suffolk. The questions focused on government knowledge, defence assessment, investigations, records, and the significance of the reported events. That framing shaped the answer that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest (Incident</span><span class="citation-popover-snippet">Rendlesham Forest (Incident) - Hansard - UK Parliament24 Jul 1996 — Hansard record of the item: &#x27;Rendlesham Forest (Incident)&#x27; on...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fwLmRc7Mhjo" title="No One Can Explain The Rendlesham Forest Incident (Documented, Yet Still Has No Official Name)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fwLmRc7Mhjo" target="_blank" rel="noopener noreferrer">No One Can Explain The Rendlesham Forest Incident (Documented, Yet Still Has No Official Name)</a></p><p class="youtube-embed-meta">Channel: The Void Enigma</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fwLmRc7Mhjo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fwLmRc7Mhjo">Open on YouTube</a></p></div></div></div>
 
 ## What “no defence significance” did and did not say
 
-The most frequently cited official judgment is the MoD's conclusion that the incident was of no defence significance. [National Archives]({{ 'archive-map/' | relative_url }}) material summarising the case states that a note prepared in response to a Parliamentary Question confirmed there was "nothing of defence interest" in the alleged sighting. The department subsequently maintained that the incident posed no threat to UK airspace or national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+The most frequently cited official judgment is the MoD's conclusion that the incident was of no defence significance. [National Archives]({{ 'archive-map/' | relative_url }}) material summarising the case states that a note prepared in response to a Parliamentary Question confirmed there was "nothing of defence interest" in the alleged sighting. The department subsequently maintained that the incident posed no threat to UK airspace or national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 This conclusion is often misunderstood because it can be interpreted in two very different ways.
 
@@ -311,7 +311,7 @@ What the statement did mean:
 * The MoD found no evidence that the reported phenomenon threatened British defence interests.
 * Officials did not regard the incident as hostile military activity.
 * The reports did not trigger a continuing national-security investigation.
-* The case did not justify major defence resources or operational responses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+* The case did not justify major defence resources or operational responses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 </div>
 
@@ -323,11 +323,11 @@ What the statement did not mean:
 * It did not prove that witnesses were mistaken.
 * It did not identify a definitive explanation for every reported light or observation.
 * It did not amount to a declaration that nothing unusual occurred.
-* It did not confirm an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+* It did not confirm an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 </div>
 
-In bureaucratic terms, the MoD was answering a defence question, not a philosophical or scientific one. Officials were concerned with threats, intrusions, intelligence value, and military significance. Once they concluded those elements were absent, the matter largely ceased to be a defence issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+In bureaucratic terms, the MoD was answering a defence question, not a philosophical or scientific one. Officials were concerned with threats, intrusions, intelligence value, and military significance. Once they concluded those elements were absent, the matter largely ceased to be a defence issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-2-dark.svg" | relative_url }}" alt="No Threat illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,11 +335,11 @@ In bureaucratic terms, the MoD was answering a defence question, not a philosoph
 
 A notable feature of the record is how consistently the government repeated this assessment over time. Years after the incident, ministers continued to rely on the original conclusion when responding to renewed interest.
 
-In January 2001, the government stated in the House of Lords that no additional information had emerged in the previous two decades to undermine the original judgment that nothing of defence significance had occurred at Rendlesham Forest. On that basis, ministers said there was no reason to open a new investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Ministry of Defence that nothing of defence significance occurred in the location of Rendlesham Forest in 1980. Accordingly there is no...</span></span></span>
+In January 2001, the government stated in the House of Lords that no additional information had emerged in the previous two decades to undermine the original judgment that nothing of defence significance had occurred at Rendlesham Forest. On that basis, ministers said there was no reason to open a new investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Ministry of Defence that nothing of defence significance occurred in the location of Rendlesham Forest in 1980. Accordingly there is no...</span></span></span>
 
-Parliamentary exchanges during the 1990s likewise focused on who had made the assessment, what evidence had been considered, and why the events had been judged insignificant from a defence perspective. The fact that such questions continued to be asked demonstrates that public interest persisted, but the [official answer]({{ 'unsettled-debate/' | relative_url }}) remained substantially unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest (Incident</span><span class="citation-popover-snippet">Rendlesham Forest (Incident) - Hansard - UK Parliament24 Jul 1996 — Hansard record of the item: &#x27;Rendlesham Forest (Incident)&#x27; on...</span></span></span>
+Parliamentary exchanges during the 1990s likewise focused on who had made the assessment, what evidence had been considered, and why the events had been judged insignificant from a defence perspective. The fact that such questions continued to be asked demonstrates that public interest persisted, but the [official answer]({{ 'unsettled-debate/' | relative_url }}) remained substantially unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest (Incident</span><span class="citation-popover-snippet">Rendlesham Forest (Incident) - Hansard - UK Parliament24 Jul 1996 — Hansard record of the item: &#x27;Rendlesham Forest (Incident)&#x27; on...</span></span></span>
 
-This continuity is important because it shows that the "no defence significance" conclusion was not a temporary press line. It became the enduring institutional position of the MoD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Ministry of Defence that nothing of defence significance occurred in the location of Rendlesham Forest in 1980. Accordingly there is no...</span></span></span>
+This continuity is important because it shows that the "no defence significance" conclusion was not a temporary press line. It became the enduring institutional position of the MoD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Ministry of Defence that nothing of defence significance occurred in the location of Rendlesham Forest in 1980. Accordingly there is no...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BFp3KX6L91k" title="Defence in the Grey Zone - Defence Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BFp3KX6L91k" target="_blank" rel="noopener noreferrer">Defence in the Grey Zone - Defence Committee</a></p><p class="youtube-embed-meta">Channel: UK Parliament</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BFp3KX6L91k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BFp3KX6L91k">Open on YouTube</a></p></div></div></div>
@@ -350,213 +350,213 @@ The Parliamentary answer helped create one of the central ambiguities in the Ren
 
 As a result, two different narratives developed side by side.
 
-The official narrative held that servicemen reported unusual lights, the reports were considered, and nothing emerged that threatened national security or required further defence action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+The official narrative held that servicemen reported unusual lights, the reports were considered, and nothing emerged that threatened national security or required further defence action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
-The popular narrative increasingly asked a different question: if witnesses included trained military personnel and officials never fully explained every observation, what exactly had been seen? That gap between a limited bureaucratic conclusion and a broader public curiosity allowed the incident to grow into "Britain's Roswell". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+The popular narrative increasingly asked a different question: if witnesses included trained military personnel and officials never fully explained every observation, what exactly had been seen? That gap between a limited bureaucratic conclusion and a broader public curiosity allowed the incident to grow into "Britain's Roswell".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
-The result is a common misunderstanding that still appears in discussions of the case today. Some readers interpret the absence of a threat finding as evidence of a cover-up. Others interpret it as proof that nothing unusual happened at all. The official record supports neither extreme. It shows that the MoD evaluated Rendlesham through the lens of defence policy and concluded that, whatever the witnesses had observed, it did not constitute a defence problem requiring further action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+The result is a common misunderstanding that still appears in discussions of the case today. Some readers interpret the absence of a threat finding as evidence of a cover-up. Others interpret it as proof that nothing unusual happened at all. The official record supports neither extreme. It shows that the MoD evaluated Rendlesham through the lens of defence policy and concluded that, whatever the witnesses had observed, it did not constitute a defence problem requiring further action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-3-dark.svg" | relative_url }}" alt="No Threat illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_legend_gap_8c7a2a_parliament_no_threat_d55387-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the no-threat answer really meant
 
-The Parliamentary response to Rendlesham is best understood as a statement about government priorities rather than a verdict on every claim associated with the incident. The MoD's task was to determine whether the reported events represented a military threat, a breach of airspace, or a matter of national security. Officials concluded they did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+The Parliamentary response to Rendlesham is best understood as a statement about government priorities rather than a verdict on every claim associated with the incident. The MoD's task was to determine whether the reported events represented a military threat, a breach of airspace, or a matter of national security. Officials concluded they did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
-That conclusion gave the case an unusual status. Rendlesham was important enough to reach Parliament and enter the official record, yet not important enough in the eyes of defence authorities to justify an extensive continuing investigation. The phrase "nothing of defence significance" therefore marks a boundary in the historical record: it neither validates extraordinary interpretations nor dismisses every witness account. Instead, it records the point at which the British government's interest effectively ended, even as public fascination continued for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
+That conclusion gave the case an unusual status. Rendlesham was important enough to reach Parliament and enter the official record, yet not important enough in the eyes of defence authorities to justify an extensive continuing investigation. The phrase "nothing of defence significance" therefore marks a boundary in the historical record: it neither validates extraordinary interpretations nor dismisses every witness account. Instead, it records the point at which the British government's interest effectively ended, even as public fascination continued for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RDVL6KcGDLA" title="Exploring the Cabinet papers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RDVL6KcGDLA" target="_blank" rel="noopener noreferrer">Exploring the Cabinet papers</a></p><p class="youtube-embed-meta">Channel: The National Archives UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RDVL6KcGDLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RDVL6KcGDLA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the no threat answer really mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the no threat answer really mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explains how the incident became a major UFO legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how the incident became a major UFO legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Traces the growth of the story beyond the original records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Traces the growth of the story beyond the original records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines how UFO stories gain attention long after events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO stories gain attention long after events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how extraordinary stories evolve culturally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how extraordinary stories evolve culturally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="no-threat-8b27ee-what-did-the-no-threat-answer-really-mean-rendlesham-forest-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ That conclusion gave the case an unusual status. Rendlesham was important enough
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ That conclusion gave the case an unusual status. Rendlesham was important enough
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ That conclusion gave the case an unusual status. Rendlesham was important enough
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ That conclusion gave the case an unusual status. Rendlesham was important enough
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ That conclusion gave the case an unusual status. Rendlesham was important enough
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,167 +762,167 @@ That conclusion gave the case an unusual status. Rendlesham was important enough
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest/Raf Bentwaters Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence that nothing of defence significance occurred in the location of Rendlesham Forest in 1980. Accordingly there is no...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence that nothing of defence significance occurred in the location of Rendlesham Forest in 1980. Accordingly there is no...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest (Incident)  
-   Link: <a href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest (Incident) - Hansard - UK Parliament24 Jul 1996 — Hansard record of the item: &#x27;Rendlesham Forest (Incident)&#x27; on...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1996-07-24/debates/0ece5c04-6650-47b4-b228-cdb2336633e8/RendleshamForest%28Incident%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest (Incident) - Hansard - UK Parliament24 Jul 1996 — Hansard record of the item: &#x27;Rendlesham Forest (Incident)&#x27; on...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.parliament.uk  
    Title: The Question I asked was, "Is that figure correct, or not?Read more  
-   Link: <a href="https://hansard.parliament.uk/lords/1982-04-07/debates/834f5b4f-f90a-40cd-99ef-f6906467f7f0/UfoSightingReportsSecurity" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1982-04-07/debates/834f5b4f-f90a-40cd-99ef-f6906467f7f0/UfoSightingReportsSecurity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting Reports: Security - Hansard - UK Parliament7 Apr 1982 — The Question refers to 2,250 sightings &quot;reported&quot; to the Mini...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/1982-04-07/debates/834f5b4f-f90a-40cd-99ef-f6906467f7f0/UfoSightingReportsSecurity" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1982-04-07/debates/834f5b4f-f90a-40cd-99ef-f6906467f7f0/UfoSightingReportsSecurity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting Reports: Security - Hansard - UK Parliament7 Apr 1982 — The Question refers to 2,250 sightings &quot;reported&quot; to the Mini...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: uk Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — asked Her Majesty&#x27;s Government:Whether the United States Air Force investigated an...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK Parliament16 Oct 2001 — asked Her Majesty&#x27;s Government:Whether the United States Air Force investigated an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: uk Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK ParliamentRecords dating from 1980 no longer exist. Paper records are retained for a period of three years...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Incident - Hansard - UK ParliamentRecords dating from 1980 no longer exist. Paper records are retained for a period of three years...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: uk Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament... 1981, and whether they will detail the... Rendlesham Forest incident, in December 1980.... debate...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords%E2%80%8F/1997-10-28/WrittenAnswers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliament... 1981, and whether they will detail the... Rendlesham Forest incident, in December 1980.... debate...</p></details>
    Published: December 1980  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: questions-statements.parliament.uk  
    Title: uk Beaufort's Dyke  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2020-09-21/HL8325" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2020-09-21/HL8325</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukBeaufort&#x27;s Dyke - Written questions, answers and statementsSep 21, 2020 — Information from UK Parliament on written question...</p></details>
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2020-09-21/HL8325" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2020-09-21/HL8325</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukBeaufort&#x27;s Dyke - Written questions, answers and statementsSep 21, 2020 — Information from UK Parliament on written question...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects - Hansard - UK Parliament18 Jan 1979 — It is with much pleasure that I introduce this debate this evening about unidentifi...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects - Hansard - UK Parliament18 Jan 1979 — It is with much pleasure that I introduce this debate this evening about unidentifi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hansard.parliament.uk  
    Title: Raf Bentwaters And Woodbridg Nuclear Weapons Allegations  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbridge in viola...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbridge in viola...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsA note in response to a Parliamentary Question confirmed that there was nothing of defence interest in th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.ie  
-   Link: <a href="https://nationalarchives.ie/ga/government-services/parliamentary-questions-disposal-guide/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.ie/ga/government-services/parliamentary-questions-disposal-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parliamentary questions: disposal guideOral PQ files that are of a routine nature concerning issues which are of no major significance to...</p></details>
+   Link:<a href="https://nationalarchives.ie/ga/government-services/parliamentary-questions-disposal-guide/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.ie/ga/government-services/parliamentary-questions-disposal-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parliamentary questions: disposal guideOral PQ files that are of a routine nature concerning issues which are of no major significance to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/parliament/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/parliament/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/parliament/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/parliament/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76309/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76309/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest UFO2 Aug 2022 — Digital copy of DEFE 24/2034: UFO Parliamentary questions and correspondence; with redactions.... 1980 Reference...</p></details>
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76309/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76309/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest UFO2 Aug 2022 — Digital copy of DEFE 24/2034: UFO Parliamentary questions and correspondence; with redactions.... 1980 Reference...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Rendlesham Forest Incident in 198011 May 2015 — Section 1 of the FOIA 2000 gives an applicant the right to access recorded informa...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Rendlesham Forest Incident in 198011 May 2015 — Section 1 of the FOIA 2000 gives an applicant the right to access recorded informa...</p></details>
    Published: May 2015  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
    Published: December 1980  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: niassembly.gov.uk  
-   Link: <a href="https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2022-2027/2025/communities/4425.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2022-2027/2025/communities/4425.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing parliamentary oversight of retention and...Apr 25, 2025 — The legislation outlines the procedures for both the destruction of...</p></details>
+   Link:<a href="https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2022-2027/2025/communities/4425.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2022-2027/2025/communities/4425.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing parliamentary oversight of retention and...Apr 25, 2025 — The legislation outlines the procedures for both the destruction of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: whatdotheyknow.com  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3?unfold=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a Freedom of Information...3 Apr 2017 — In late December 1980, there were a series of reported sightings of unexplained lights near Rend...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3?unfold=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/rendlesham_forest_incident_3?unfold=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Freedom of Information...3 Apr 2017 — In late December 1980, there were a series of reported sightings of unexplained lights near Rend...</p></details>
    Published: December 1980  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoTo this day, the Rendlesham Forest Incident remains one of the most well-documented and credible UF...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoTo this day, the Rendlesham Forest Incident remains one of the most well-documented and credible UF...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: parliament.isaackoi.com  
-   Link: <a href="https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Parliament (UK)(3) Reading UFO documents available at the Public Records Office (PRO) include numerous files relating to UFOs. Ma...</p></details>
+   Link:<a href="https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Parliament (UK)(3) Reading UFO documents available at the Public Records Office (PRO) include numerous files relating to UFOs. Ma...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cain.ulster.ac.uk  
-   Link: <a href="https://cain.ulster.ac.uk/nai/1970/nai_DFA-2001-43-1396_1971-07-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cain.ulster.ac.uk/nai/1970/nai_DFA-2001-43-1396_1971-07-16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[ARCHIVES](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) IRELAND Reference CodeLabour Party announcing its withdrawal from the Northern Ireland Parliament. Creation Date(s):. 16 July, 1...</p></details>
+   Link:<a href="https://cain.ulster.ac.uk/nai/1970/nai_DFA-2001-43-1396_1971-07-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cain.ulster.ac.uk/nai/1970/nai_DFA-2001-43-1396_1971-07-16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[ARCHIVES](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) IRELAND Reference CodeLabour Party announcing its withdrawal from the Northern Ireland Parliament. Creation Date(s):. 16 July, 1...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· The Todmorden UFO mystery: Close encounters in West Yorkshire · &#x27;Oumuamua: Did an alien probe visit our solar...Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· The Todmorden UFO mystery: Close encounters in West Yorkshire · &#x27;Oumuamua: Did an alien probe visit our solar...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RDVL6KcGDLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RDVL6KcGDLA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Cabinet papersThis webinar will explain how to use the Cabinet Papers online, demonstrating the value of this superb resour...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RDVL6KcGDLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RDVL6KcGDLA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Cabinet papersThis webinar will explain how to use the Cabinet Papers online, demonstrating the value of this superb resour...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>archives of UFO documents in 2011, the Rendlesham Forest papers were conspicuously absent.... defence significance of UFOs. He took the...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archives of UFO documents in 2011, the Rendlesham Forest papers were conspicuously absent.... defence significance of UFOs. He took the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: parallelparliament.co.uk  
-   Link: <a href="https://www.parallelparliament.co.uk/dept/ministry-of-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.parallelparliament.co.uk/dept/ministry-of-defence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of DefenceWe protect the security, independence and interests of our country at home and abroad. We work with our allies and par...</p></details>
+   Link:<a href="https://www.parallelparliament.co.uk/dept/ministry-of-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.parallelparliament.co.uk/dept/ministry-of-defence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of DefenceWe protect the security, independence and interests of our country at home and abroad. We work with our allies and par...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: virtualtreasury.ie  
-   Link: <a href="https://virtualtreasury.ie/archive-fever/recovering-the-lost-debates" target="_blank" rel="noopener noreferrer nofollow">https://virtualtreasury.ie/archive-fever/recovering-the-lost-debates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t parliamentary archive in a way that not only holds the potential to reanimate...Read more...</p></details>
+   Link:<a href="https://virtualtreasury.ie/archive-fever/recovering-the-lost-debates" target="_blank" rel="noopener noreferrer nofollow">https://virtualtreasury.ie/archive-fever/recovering-the-lost-debates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t parliamentary archive in a way that not only holds the potential to reanimate...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But I know that the first sighting coincided with the burn-...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But I know that the first sighting coincided with the burn-...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fwLmRc7Mhjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fwLmRc7Mhjo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Rendlesham Forest&quot; Parliamentary Questions MoD Rendlesham Forest Incident UFO Tops...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fwLmRc7Mhjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fwLmRc7Mhjo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Rendlesham Forest&quot; Parliamentary Questions MoD Rendlesham Forest Incident UFO Tops...</p></details>

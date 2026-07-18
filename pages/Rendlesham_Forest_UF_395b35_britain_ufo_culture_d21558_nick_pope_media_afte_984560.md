@@ -284,17 +284,17 @@ The [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident did 
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-1-dark.svg" | relative_url }}" alt="Media Afterlife illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Although Pope was not involved in the original events, his later role at the Ministry of Defence (MoD), his access to government UFO files, and his willingness to discuss Rendlesham publicly gave journalists and broadcasters a ready-made spokesperson. By the 2000s and 2010s, Rendlesham had evolved from a [Cold War]({{ 'cold-war/' | relative_url }}) incident into a recurring media phenomenon, with Pope frequently acting as an interpreter between official records, eyewitness testimony and public curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenakedscientists.com/articles/interviews/ufos-rendlesham-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenakedscientists.com">[The Naked Scientists+2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenakedscientists.com</span><span class="citation-popover-title">The Naked Scientists UFOs: The Rendlesham incident</span><span class="citation-popover-snippet">The Naked ScientistsUFOs: The Rendlesham incident - The Naked Scientists30 Oct 2005 — UFOs: The Rendlesham incident. The Naked Scientists...</span></span></span>
+Although Pope was not involved in the original events, his later role at the Ministry of Defence (MoD), his access to government UFO files, and his willingness to discuss Rendlesham publicly gave journalists and broadcasters a ready-made spokesperson. By the 2000s and 2010s, Rendlesham had evolved from a [Cold War]({{ 'cold-war/' | relative_url }}) incident into a recurring media phenomenon, with Pope frequently acting as an interpreter between official records, eyewitness testimony and public curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thenakedscientists.com/articles/interviews/ufos-rendlesham-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenakedscientists.com">[The Naked Scientists+2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenakedscientists.com</span><span class="citation-popover-title">The Naked Scientists UFOs: The Rendlesham incident</span><span class="citation-popover-snippet">The Naked ScientistsUFOs: The Rendlesham incident - The Naked Scientists30 Oct 2005 — UFOs: The Rendlesham incident. The Naked Scientists...</span></span></span>
 
 ## Why Former Officials Made Strong Media Messengers
 
 One reason Rendlesham endured was that the story could be told by people who appeared to possess institutional credibility. Unlike many UFO cases that relied primarily on enthusiasts or anonymous witnesses, Rendlesham had military participants and later attracted commentary from a former government official.
 
-Pope worked on the MoD's [UFO desk]({{ 'ufo-desk/' | relative_url }}) between 1991 and 1994, more than a decade after the incident itself. His position gave him an unusual public identity: neither a direct witness nor a conventional sceptic. After leaving government service, he became a prominent media commentator on UFOs and repeatedly highlighted Rendlesham as one of the most significant cases in British files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nick Pope (journalist</span><span class="citation-popover-snippet">Nick Pope (journalist</span></span></span>
+Pope worked on the MoD's [UFO desk]({{ 'ufo-desk/' | relative_url }}) between 1991 and 1994, more than a decade after the incident itself. His position gave him an unusual public identity: neither a direct witness nor a conventional sceptic. After leaving government service, he became a prominent media commentator on UFOs and repeatedly highlighted Rendlesham as one of the most significant cases in British files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nick Pope (journalist</span><span class="citation-popover-snippet">Nick Pope (journalist</span></span></span>
 
-This role mattered because journalists often need a recognisable authority figure who can explain complicated material quickly. Rendlesham involved military reports, conflicting recollections, official memoranda and technical arguments about lights, radiation and security procedures. Pope could present the story in a form suitable for television interviews, newspaper articles and documentaries while retaining the appeal of an insider perspective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</span></span></span>
+This role mattered because journalists often need a recognisable authority figure who can explain complicated material quickly. Rendlesham involved military reports, conflicting recollections, official memoranda and technical arguments about lights, radiation and security procedures. Pope could present the story in a form suitable for television interviews, newspaper articles and documentaries while retaining the appeal of an insider perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</span></span></span>
 
-His commentary also arrived at a moment when public interest in government secrecy and [unexplained]({{ 'unexplained/' | relative_url }}) aerial phenomena was growing internationally. Rendlesham therefore became more than a historical mystery; it became a recurring example in wider discussions about whether governments disclose everything they know about unusual aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
+His commentary also arrived at a moment when public interest in government secrecy and [unexplained]({{ 'unexplained/' | relative_url }}) aerial phenomena was growing internationally. Rendlesham therefore became more than a historical mystery; it became a recurring example in wider discussions about whether governments disclose everything they know about unusual aerial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uDS3ahkAXdA" title="British UFO Head Exposes Most Chilling Alien Sighting in UK History | Nick Pope • 179" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uDS3ahkAXdA" target="_blank" rel="noopener noreferrer">British UFO Head Exposes Most Chilling Alien Sighting in UK History | Nick Pope • 179</a></p><p class="youtube-embed-meta">Channel: Julian Dorey &middot; Views: 460.5K &middot; Uploaded: January 2024 &middot; Length: 3 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uDS3ahkAXdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uDS3ahkAXdA">Open on YouTube</a></p></div></div></div>
@@ -305,25 +305,25 @@ His commentary also arrived at a moment when public interest in government secre
 
 The original incident generated official paperwork, most famously Lieutenant Colonel Charles Halt's memorandum. Yet documents alone rarely create mass public awareness. Rendlesham's transformation into a household name depended on media retellings.
 
-Television producers found the case especially attractive because it combined several narrative advantages: military witnesses, a forest setting, audio recordings, physical-location footage and ongoing disagreement about what had occurred. Pope became a frequent contributor to documentaries and news features because he could summarise the case for viewers unfamiliar with the details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/remembering-nick-pope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">remembering nick pope</span><span class="citation-popover-snippet">Sky HISTORY TV channelRemembering Nick Pope: 1965 - 2026The late Nick Pope made his name as a top UFO expert on Sky HISTORY&#x27;s Ancient Ali...</span></span></span>
+Television producers found the case especially attractive because it combined several narrative advantages: military witnesses, a forest setting, audio recordings, physical-location footage and ongoing disagreement about what had occurred. Pope became a frequent contributor to documentaries and news features because he could summarise the case for viewers unfamiliar with the details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/remembering-nick-pope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">remembering nick pope</span><span class="citation-popover-snippet">Sky HISTORY TV channelRemembering Nick Pope: 1965 - 2026The late Nick Pope made his name as a top UFO expert on Sky HISTORY&#x27;s Ancient Ali...</span></span></span>
 
-His media presence extended across television interviews, documentaries, public lectures and newspaper commentary. Broadcasters repeatedly used him to frame Rendlesham as Britain's most important UFO mystery, helping standardise the nickname "Britain's Roswell" in popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net+2Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</span></span></span>
+His media presence extended across television interviews, documentaries, public lectures and newspaper commentary. Broadcasters repeatedly used him to frame Rendlesham as Britain's most important UFO mystery, helping standardise the nickname "Britain's Roswell" in popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net+2Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</span></span></span>
 
 ### Anniversary Journalism and the Recycling of Mystery
 
 A significant mechanism behind Rendlesham's longevity has been anniversary coverage. Every major anniversary—twenty years, thirty years, forty years and beyond—generated renewed newspaper and television interest.
 
-These commemorations followed a familiar pattern. Journalists revisited witness accounts, revisited the forest itself, examined newly released documents and sought comment from former officials. Pope frequently appeared in these retrospectives, offering historical context and arguing that important questions remained unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+These commemorations followed a familiar pattern. Journalists revisited witness accounts, revisited the forest itself, examined newly released documents and sought comment from former officials. Pope frequently appeared in these retrospectives, offering historical context and arguing that important questions remained unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
-This process created a self-reinforcing cycle. Each anniversary generated fresh coverage, which introduced the case to new audiences who had no [memory]({{ 'memory/' | relative_url }}) of the original events. As a result, Rendlesham became a recurring cultural reference point rather than a single historical incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+This process created a self-reinforcing cycle. Each anniversary generated fresh coverage, which introduced the case to new audiences who had no [memory]({{ 'memory/' | relative_url }}) of the original events. As a result, Rendlesham became a recurring cultural reference point rather than a single historical incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-2-dark.svg" | relative_url }}" alt="Media Afterlife illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Books, Lectures and Documentary Culture
 
-The media afterlife of Rendlesham extended beyond news [reporting]({{ 'reporting/' | relative_url }}). Pope co-authored a book on the case with witnesses John Burroughs and Jim [Penniston]({{ 'penniston/' | relative_url }}), helping move the story into the broader publishing and documentary marketplace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nick Pope (journalist</span><span class="citation-popover-snippet">Nick Pope (journalist</span></span></span>
+The media afterlife of Rendlesham extended beyond news [reporting]({{ 'reporting/' | relative_url }}). Pope co-authored a book on the case with witnesses John Burroughs and Jim [Penniston]({{ 'penniston/' | relative_url }}), helping move the story into the broader publishing and documentary marketplace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nick Pope (journalist</span><span class="citation-popover-snippet">Nick Pope (journalist</span></span></span>
 
-Public lectures, conference appearances and specialist television programming further expanded the audience. Rendlesham became one of the few British UFO cases capable of supporting entire documentaries, panel discussions and feature-length investigations. Pope's repeated involvement helped maintain continuity across these formats, ensuring that audiences encountered a familiar interpreter even as new claims and theories emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/calendar/?id=2319" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">smiths, University of LondonPostponed: Nick Pope: The Real X Files3 Feb 2009 — Nick Pope will discuss the Ministry of Defence&#x27;s polic...</span></span></span>
+Public lectures, conference appearances and specialist television programming further expanded the audience. Rendlesham became one of the few British UFO cases capable of supporting entire documentaries, panel discussions and feature-length investigations. Pope's repeated involvement helped maintain continuity across these formats, ensuring that audiences encountered a familiar interpreter even as new claims and theories emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/calendar/?id=2319" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">smiths, University of LondonPostponed: Nick Pope: The Real X Files3 Feb 2009 — Nick Pope will discuss the Ministry of Defence&#x27;s polic...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-3-dark.svg" | relative_url }}" alt="Media Afterlife illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558_nick_pope_media_afte_984560-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -331,9 +331,9 @@ Public lectures, conference appearances and specialist television programming fu
 
 The media success of Rendlesham did not depend solely on believers. In many ways, scepticism helped sustain public interest.
 
-Television producers generally discovered that the most engaging format paired advocates of the mystery with critics who proposed conventional explanations. Rendlesham lent itself naturally to this structure because competing interpretations already existed. Some researchers emphasised military testimony, official paperwork and unexplained observations. Others pointed to misidentified lights, memory distortion and the passage of time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+Television producers generally discovered that the most engaging format paired advocates of the mystery with critics who proposed conventional explanations. Rendlesham lent itself naturally to this structure because competing interpretations already existed. Some researchers emphasised military testimony, official paperwork and unexplained observations. Others pointed to misidentified lights, memory distortion and the passage of time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
-Pope typically occupied an intermediate but mystery-friendly position. He frequently argued that the case deserved serious attention because of the quality of the witnesses and the surviving documentation, while stopping short of claiming definitive proof of extraterrestrial visitation. This stance worked well in broadcast settings because it left room for debate rather than closure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+Pope typically occupied an intermediate but mystery-friendly position. He frequently argued that the case deserved serious attention because of the quality of the witnesses and the surviving documentation, while stopping short of claiming definitive proof of extraterrestrial visitation. This stance worked well in broadcast settings because it left room for debate rather than closure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
 The resulting media formula proved remarkably durable:
 
@@ -347,7 +347,7 @@ The resulting media formula proved remarkably durable:
 
 </div>
 
-Rather than settling the issue, media coverage often highlighted the continuing disagreement itself. That disagreement became part of the story's appeal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+Rather than settling the issue, media coverage often highlighted the continuing disagreement itself. That disagreement became part of the story's appeal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0DXwp5CmoY" title="The Rendlesham Forest Incident: The Interview with Nick Pope and speaker Mountain View CA | 8/26/14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer">The Rendlesham Forest Incident: The Interview with Nick Pope and speaker Mountain View CA | 8/26/14</a></p><p class="youtube-embed-meta">Channel: POW MAGAZINE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0DXwp5CmoY">Open on YouTube</a></p></div></div></div>
@@ -356,203 +356,203 @@ Rather than settling the issue, media coverage often highlighted the continuing 
 
 Many UFO reports receive temporary publicity and then disappear. Rendlesham followed a different trajectory because it accumulated several reinforcing advantages: official documents, identifiable witnesses, a visitable location and a succession of public advocates who continued discussing it long after the original events.
 
-Nick Pope became one of the most visible figures in that process. Through interviews, books, lectures and documentary appearances, he helped translate a decades-old military incident into a continuing public debate. Even when sceptics challenged aspects of witness testimony or criticised later interpretations, the discussion itself kept Rendlesham in circulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</span></span></span>
+Nick Pope became one of the most visible figures in that process. Through interviews, books, lectures and documentary appearances, he helped translate a decades-old military incident into a continuing public debate. Even when sceptics challenged aspects of witness testimony or criticised later interpretations, the discussion itself kept Rendlesham in circulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</span></span></span>
 
-The result was a distinctive media afterlife. Rendlesham ceased to be merely an incident from 1980 and became an enduring cultural narrative within Britain's UFO tradition—one repeatedly revived by anniversaries, file releases, television programmes and commentators such as Nick Pope who ensured that the story never fully disappeared from public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+The result was a distinctive media afterlife. Rendlesham ceased to be merely an incident from 1980 and became an enduring cultural narrative within Britain's UFO tradition—one repeatedly revived by anniversaries, file releases, television programmes and commentators such as Nick Pope who ensured that the story never fully disappeared from public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uRJlcncylE8" title="Nick Pope: Inside the UK&#x27;s UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer">Nick Pope: Inside the UK&#x27;s UFO Files</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uRJlcncylE8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Kept Rendlesham in the Headlines?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Kept Rendlesham in the Headlines?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Focuses on the Rendlesham incident and the role of official records, witnesses and public interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the Rendlesham incident and the role of official records, witnesses and public interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explains the British government UFO-file context that helped keep Rendlesham in public discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the British government UFO-file context that helped keep Rendlesham in public discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores the credibility of official and military sources, a central theme in Rendlesham&#x27;s continued media profile.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the credibility of official and military sources, a central theme in Rendlesham&#x27;s continued media profile.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides broader context on how British UFO cases, including high-profile incidents, were sustained through files and media interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on how British UFO cases, including high-profile incidents, were sustained through files and media interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-afterlife-who-kept-rendlesham-in-the-headlines-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ The result was a distinctive media afterlife. Rendlesham ceased to be merely an 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ The result was a distinctive media afterlife. Rendlesham ceased to be merely an 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ The result was a distinctive media afterlife. Rendlesham ceased to be merely an 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ The result was a distinctive media afterlife. Rendlesham ceased to be merely an 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ The result was a distinctive media afterlife. Rendlesham ceased to be merely an 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,114 +758,114 @@ The result was a distinctive media afterlife. Rendlesham ceased to be merely an 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nickpope.net  
-   Link: <a href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/rendlesham-forest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/rendlesham-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham ForestThe Rendlesham Forest incident is the most intriguing and best-documented UFO case in the world and is second only to Ro...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Nick Pope (journalist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nick_Pope_%28journalist%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe occurrence is the most famous of alleged UFO events to have happened in the United Kingdom, and is among...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe occurrence is the most famous of alleged UFO events to have happened in the United Kingdom, and is among...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nickpope.net  
-   Link: <a href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOsThe UK&#x27;s best-known and most compelling UFO encounter is known as the Rendlesham Forest incident. The sightings took place over three...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOsThe UK&#x27;s best-known and most compelling UFO encounter is known as the Rendlesham Forest incident. The sightings took place over three...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nickpope.net  
-   Link: <a href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/mod-ufo-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD UFO FilesThe UFO files inevitably include some alien contact/alien abduction accounts, as well as some material on other mysteries th...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/mod-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MoD UFO FilesThe UFO files inevitably include some alien contact/alien abduction accounts, as well as some material on other mysteries th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thenakedscientists.com  
    Title: The Naked Scientists UFOs: The Rendlesham incident  
-   Link: <a href="https://www.thenakedscientists.com/articles/interviews/ufos-rendlesham-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.thenakedscientists.com/articles/interviews/ufos-rendlesham-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Naked ScientistsUFOs: The Rendlesham incident - The Naked Scientists30 Oct 2005 — UFOs: The Rendlesham incident. The Naked Scientists...</p></details>
+   Link:<a href="https://www.thenakedscientists.com/articles/interviews/ufos-rendlesham-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.thenakedscientists.com/articles/interviews/ufos-rendlesham-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Naked ScientistsUFOs: The Rendlesham incident - The Naked Scientists30 Oct 2005 — UFOs: The Rendlesham incident. The Naked Scientists...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.co.uk  
    Title: remembering nick pope  
-   Link: <a href="https://www.history.co.uk/articles/remembering-nick-pope" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/remembering-nick-pope</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelRemembering Nick Pope: 1965 - 2026The late Nick Pope made his name as a top UFO expert on Sky HISTORY&#x27;s Ancient Ali...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/remembering-nick-pope" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/remembering-nick-pope</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelRemembering Nick Pope: 1965 - 2026The late Nick Pope made his name as a top UFO expert on Sky HISTORY&#x27;s Ancient Ali...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gold.ac.uk  
-   Link: <a href="https://www.gold.ac.uk/calendar/?id=2319" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=2319</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonPostponed: Nick Pope: The Real X Files3 Feb 2009 — Nick Pope will discuss the Ministry of Defence&#x27;s polic...</p></details>
+   Link:<a href="https://www.gold.ac.uk/calendar/?id=2319" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=2319</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonPostponed: Nick Pope: The Real X Files3 Feb 2009 — Nick Pope will discuss the Ministry of Defence&#x27;s polic...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2008/may/14/spaceexploration.military" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2008/may/14/spaceexploration.military</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former civil servant who worked at the MoD for 21 years, spending three years on its UFO desk. The MoD has decided to releas...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2008/may/14/spaceexploration.military" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2008/may/14/spaceexploration.military</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former civil servant who worked at the MoD for 21 years, spending three years on its UFO desk. The MoD has decided to releas...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: andrewlownie.co.uk  
-   Link: <a href="https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounter in Rendlesham Forest Nick PopeNick Pope was interviewed as part of BBC radio&#x27;s UFO Special this week, discussing his book Encou...</p></details>
+   Link:<a href="https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.andrewlownie.co.uk/authors/nick-pope/books/encounter-in-rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounter in Rendlesham Forest Nick PopeNick Pope was interviewed as part of BBC radio&#x27;s UFO Special this week, discussing his book Encou...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TELEGRAPH.CO.UK/posts/%EF%B8%8F-some-cases-i-investigated-defied-conventional-explanation-writes-nick-poperead/1348519640655998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TELEGRAPH.CO.UK/posts/%EF%B8%8F-some-cases-i-investigated-defied-conventional-explanation-writes-nick-poperead/1348519640655998/</a>  
+   Link:<a href="https://www.facebook.com/TELEGRAPH.CO.UK/posts/%EF%B8%8F-some-cases-i-investigated-defied-conventional-explanation-writes-nick-poperead/1348519640655998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TELEGRAPH.CO.UK/posts/%EF%B8%8F-some-cases-i-investigated-defied-conventional-explanation-writes-nick-poperead/1348519640655998/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: rendlesham forest ufo incidentthe rendlesham forest incident was a series of rep  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident The...Britain&#x27;s most extraordinary UFO encounter occurred between 26 and 28 December 1980 near Rendlesham...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident The...Britain&#x27;s most extraordinary UFO encounter occurred between 26 and 28 December 1980 near Rendlesham...</p></details>
    Published: December 1980  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uRJlcncylE8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope: Inside the UK&#x27;s UFO FilesFormer U.K. Ministry of Defence insider Nick Pope joins Tyrus to unpack what he saw on the government...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uRJlcncylE8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope: Inside the UK&#x27;s UFO FilesFormer U.K. Ministry of Defence insider Nick Pope joins Tyrus to unpack what he saw on the government...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/pds5zc/is_nick_pope_lying_about_his_position_in_the_mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pds5zc/is_nick_pope_lying_about_his_position_in_the_mod/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The problem is there was no such project. He also claims to have been the UK government&#x27;s UFO...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/pds5zc/is_nick_pope_lying_about_his_position_in_the_mod/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pds5zc/is_nick_pope_lying_about_his_position_in_the_mod/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The problem is there was no such project. He also claims to have been the UK government&#x27;s UFO...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>epartment of Defense From UFOs almost crashing into planes to alien...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>epartment of Defense From UFOs almost crashing into planes to alien...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/videos/what-is-the-rendlesham-forest-incident/915138847545187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/videos/what-is-the-rendlesham-forest-incident/915138847545187/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>makes the 1980 Rendlesham Forest incident in the UK the most...</p></details>
+   Link:<a href="https://www.facebook.com/alarabiya.english/videos/what-is-the-rendlesham-forest-incident/915138847545187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/videos/what-is-the-rendlesham-forest-incident/915138847545187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>makes the 1980 Rendlesham Forest incident in the UK the most...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: British UFO Head Exposes Most Chilling Alien Sighting in UK History | Nick Pope  
-   Link: <a href="https://www.youtube.com/watch?v=uDS3ahkAXdA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uDS3ahkAXdA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uDS3ahkAXdA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uDS3ahkAXdA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IaYfsxbiKsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IaYfsxbiKsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British UFO Head Exposes Most Chilling Alien Sighting in UK History | Nick Pope...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IaYfsxbiKsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IaYfsxbiKsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British UFO Head Exposes Most Chilling Alien Sighting in UK History | Nick Pope...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w0DXwp5CmoY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n View CA | 8/26/14. 10K views · 11 years ago...more...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w0DXwp5CmoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w0DXwp5CmoY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n View CA | 8/26/14. 10K views · 11 years ago...more...Read more...</p></details>

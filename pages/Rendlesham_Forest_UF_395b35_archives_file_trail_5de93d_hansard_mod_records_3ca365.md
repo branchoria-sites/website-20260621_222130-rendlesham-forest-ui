@@ -280,7 +280,7 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_han
 
 ## Introduction
 
-The parliamentary record on [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) is important not because it adds new eyewitness testimony, but because it captures the Ministry of Defence's official position when challenged directly in Parliament. In 2001, a series of questions from Lord Hill-Norton, a former Chief of the Defence Staff and one of the most persistent parliamentary advocates for further scrutiny of the case, forced ministers to state publicly what records the MoD actually possessed and what evidence it could substantiate. The resulting Hansard exchanges became a key part of the [National Archives]({{ 'archive-map/' | relative_url }}) paper trail because they documented an unusually narrow official position: the MoD recognised Lieutenant Colonel Charles Halt's memorandum, but stated that it held no evidence of corroborating radar returns, no record of a wider official investigation, and no known cache of additional USAF documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+The parliamentary record on [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) is important not because it adds new eyewitness testimony, but because it captures the Ministry of Defence's official position when challenged directly in Parliament. In 2001, a series of questions from Lord Hill-Norton, a former Chief of the Defence Staff and one of the most persistent parliamentary advocates for further scrutiny of the case, forced ministers to state publicly what records the MoD actually possessed and what evidence it could substantiate. The resulting Hansard exchanges became a key part of the [National Archives]({{ 'archive-map/' | relative_url }}) paper trail because they documented an unusually narrow official position: the MoD recognised Lieutenant Colonel Charles Halt's memorandum, but stated that it held no evidence of corroborating radar returns, no record of a wider official investigation, and no known cache of additional USAF documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-1-dark.svg" | relative_url }}" alt="Hansard illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,9 +290,9 @@ Within the broader archive history of the Rendlesham incident, these answers mat
 
 ### Lord Hill-Norton's questions and Lord Bach's reply
 
-By 2001, Rendlesham had moved beyond a local military incident and become a long-running public-records controversy. Lord Hill-Norton submitted a series of parliamentary questions seeking clarification about alleged investigations, intelligence involvement, photographs, [radar]({{ 'radar/' | relative_url }}) evidence and possible American records connected to the December 1980 events. Hansard records show that these questions were directed at identifying whether official documentation existed beyond the material already known publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament25 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Thu...</span></span></span>
+By 2001, Rendlesham had moved beyond a local military incident and become a long-running public-records controversy. Lord Hill-Norton submitted a series of parliamentary questions seeking clarification about alleged investigations, intelligence involvement, photographs, [radar]({{ 'radar/' | relative_url }}) evidence and possible American records connected to the December 1980 events. Hansard records show that these questions were directed at identifying whether official documentation existed beyond the material already known publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament25 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Thu...</span></span></span>
 
-The most consequential response came in October 2001, when Lord Bach answered on behalf of the government. He stated that the only USAF document held by the Ministry of Defence relating to the incident was Halt's memorandum of 13 January 1981. According to the ministerial reply, the department possessed no evidence that a further official USAF investigation had generated records available to the MoD, nor evidence that Halt himself had been formally questioned by the department after his report was received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+The most consequential response came in October 2001, when Lord Bach answered on behalf of the government. He stated that the only USAF document held by the Ministry of Defence relating to the incident was Halt's memorandum of 13 January 1981. According to the ministerial reply, the department possessed no evidence that a further official USAF investigation had generated records available to the MoD, nor evidence that Halt himself had been formally questioned by the department after his report was received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
 The answer effectively narrowed the official documentary foundation of the case to a single recognised report rather than a larger investigative archive.
 
@@ -303,17 +303,17 @@ The answer effectively narrowed the official documentary foundation of the case 
 
 One of the most discussed elements of the parliamentary exchanges concerned claims that military radar had tracked unusual objects during the incident. Such claims had circulated for years in books, interviews and UFO research literature.
 
-The government response was unusually direct. Lord Bach stated that MoD records from the relevant period contained no evidence of unusual radar returns associated with the incident. The wording did not claim that radar systems were incapable of detecting anything, nor did it prove that no unusual readings ever existed anywhere. Instead, it established a narrower but important point: the Ministry of Defence could find no documentary evidence in its own records supporting claims of extraordinary radar tracking linked to Rendlesham. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+The government response was unusually direct. Lord Bach stated that MoD records from the relevant period contained no evidence of unusual radar returns associated with the incident. The wording did not claim that radar systems were incapable of detecting anything, nor did it prove that no unusual readings ever existed anywhere. Instead, it established a narrower but important point: the Ministry of Defence could find no documentary evidence in its own records supporting claims of extraordinary radar tracking linked to Rendlesham.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
-The same answer addressed another recurring allegation: that substantial USAF investigative files existed but remained hidden. The MoD stated that it had no evidence of additional official USAF documentation beyond the Halt memorandum in its possession. For researchers attempting to follow a [paper trail]({{ 'paper-trail/' | relative_url }}) through British government [archives]({{ 'archives/' | relative_url }}), this was significant because it suggested that the documentary record available to the department was far more limited than many public narratives assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+The same answer addressed another recurring allegation: that substantial USAF investigative files existed but remained hidden. The MoD stated that it had no evidence of additional official USAF documentation beyond the Halt memorandum in its possession. For researchers attempting to follow a [paper trail]({{ 'paper-trail/' | relative_url }}) through British government [archives]({{ 'archives/' | relative_url }}), this was significant because it suggested that the documentary record available to the department was far more limited than many public narratives assumed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-2-dark.svg" | relative_url }}" alt="Hansard illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### How this fits the National Archives record
 
-The parliamentary position closely mirrors what later became visible through released files. The National Archives states that only a single-sheet report of the event itself is held in the archive, while most associated files consist of later correspondence, public enquiries and media requests rather than contemporary investigative material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsServicemen investigated an area of Rendlesham Forest on two separate nights.... A single sheet report is...</span></span></span>
+The parliamentary position closely mirrors what later became visible through released files. The National Archives states that only a single-sheet report of the event itself is held in the archive, while most associated files consist of later correspondence, public enquiries and media requests rather than contemporary investigative material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsServicemen investigated an area of Rendlesham Forest on two separate nights.... A single sheet report is...</span></span></span>
 
-In other words, the Hansard answers did not merely reflect a temporary ministerial line. They broadly anticipated what subsequent archival releases would reveal: a surprisingly sparse official record centred on Halt's memo and later administrative correspondence rather than a large investigative dossier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsServicemen investigated an area of Rendlesham Forest on two separate nights.... A single sheet report is...</span></span></span>
+In other words, the Hansard answers did not merely reflect a temporary ministerial line. They broadly anticipated what subsequent archival releases would reveal: a surprisingly sparse official record centred on Halt's memo and later administrative correspondence rather than a large investigative dossier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsServicemen investigated an area of Rendlesham Forest on two separate nights.... A single sheet report is...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MN4g2aEBxdQ" title="UFO file release February 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer">UFO file release February 2010</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 454.7K &middot; Uploaded: February 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MN4g2aEBxdQ">Open on YouTube</a></p></div></div></div>
@@ -322,195 +322,195 @@ In other words, the Hansard answers did not merely reflect a temporary ministeri
 
 Witness testimony, personal recollections and later interviews form one strand of the Rendlesham story. Parliamentary answers serve a different function. They are formal government statements entered into the official record and subject to ministerial accountability.
 
-That distinction matters because the Hansard exchanges were not attempts to determine what happened in the forest. Instead, they addressed a narrower governance question: what evidence and records did the government actually possess? Lord Hill-Norton's questions sought to test whether official files existed beyond those already known. The replies effectively stated that the MoD's documentary holdings did not support claims of extensive investigations, radar confirmation or a substantial body of additional records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+That distinction matters because the Hansard exchanges were not attempts to determine what happened in the forest. Instead, they addressed a narrower governance question: what evidence and records did the government actually possess? Lord Hill-Norton's questions sought to test whether official files existed beyond those already known. The replies effectively stated that the MoD's documentary holdings did not support claims of extensive investigations, radar confirmation or a substantial body of additional records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
-For supporters of extraordinary interpretations of Rendlesham, the answers were often seen as evidence that records had been lost, withheld or never shared with British authorities. For sceptics, the same answers suggested that later claims had outgrown the surviving documentary record. Hansard itself does not resolve that dispute. What it does provide is a clear snapshot of the government's declared position at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+For supporters of extraordinary interpretations of Rendlesham, the answers were often seen as evidence that records had been lost, withheld or never shared with British authorities. For sceptics, the same answers suggested that later claims had outgrown the surviving documentary record. Hansard itself does not resolve that dispute. What it does provide is a clear snapshot of the government's declared position at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-3-dark.svg" | relative_url }}" alt="Hansard illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_archives_file_trail_5de93d_hansard_mod_records_3ca365-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Significance of the MoD's No-Records Position
 
-The enduring importance of the 2001 parliamentary exchanges lies in their simplicity. Faced with detailed questions about investigations, radar data and American files, ministers repeatedly returned to a limited evidential base: Halt's memorandum, the absence of corroborating records in MoD holdings, and the absence of evidence for unusual radar returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+The enduring importance of the 2001 parliamentary exchanges lies in their simplicity. Faced with detailed questions about investigations, radar data and American files, ministers repeatedly returned to a limited evidential base: Halt's memorandum, the absence of corroborating records in MoD holdings, and the absence of evidence for unusual radar returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
-As a result, the Hansard record became part of the National Archives UFO file trail in its own right. It illustrates how Rendlesham evolved from a reported sighting into a records and accountability issue. Long after the lights in the forest were reported, the central question in Parliament was no longer what witnesses claimed to have seen, but whether government archives contained evidence that could independently confirm those claims. The [official answer]({{ 'unsettled-debate/' | relative_url }}) remained that they did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
+As a result, the Hansard record became part of the National Archives UFO file trail in its own right. It illustrates how Rendlesham evolved from a reported sighting into a records and accountability issue. Long after the lights in the forest were reported, the central question in Parliament was no longer what witnesses claimed to have seen, but whether government archives contained evidence that could independently confirm those claims. The [official answer]({{ 'unsettled-debate/' | relative_url }}) remained that they did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</span><span class="citation-popover-meta">Published: October 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5L2Zro86QDE" title="Rendlesham Forest: The MOD File That Wouldn&#x27;t Settle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5L2Zro86QDE" target="_blank" rel="noopener noreferrer">Rendlesham Forest: The MOD File That Wouldn&#x27;t Settle</a></p><p class="youtube-embed-meta">Channel: The Night Record</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5L2Zro86QDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5L2Zro86QDE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Parliament Was Told About Rendlesham. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Parliament Was Told About Rendlesham. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Directly covers the incident, evidence, records and later interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the incident, evidence, records and later interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Examines official records and how UFO files were handled and released.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official records and how UFO files were handled and released.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides context on Ministry of Defence UFO investigations and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on Ministry of Defence UFO investigations and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Out of the Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=isHzPAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Out of the Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Out of the Shadows">Out of the Shadows</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke, Andy Roberts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Out of the Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=isHzPAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Out of the Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Out of the Shadows">Out of the Shadows</a>
+</h4>
+<p class="fr-book-author">By David Clarke, Andy Roberts</p>
         
-        <p class="fr-book-desc">Examines the history of British UFO records and secrecy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the history of British UFO records and secrecy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Out+of+the+Shadows+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="hansard-what-parliament-was-told-about-rendlesham-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series-pro" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ As a result, the Hansard record became part of the National Archives UFO file tr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ As a result, the Hansard record became part of the National Archives UFO file tr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ As a result, the Hansard record became part of the National Archives UFO file tr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ As a result, the Hansard record became part of the National Archives UFO file tr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ As a result, the Hansard record became part of the National Archives UFO file tr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,167 +716,167 @@ As a result, the Hansard record became part of the National Archives UFO file tr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament16 Oct 2001 — s: 16 October 2001. Lord Hill-Norton. MoD records from the same...</p></details>
    Published: October 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament25 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Thu...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-25/debates/53c4b46c-1f17-44d3-b3a2-c6dabc0e5a5e/RendleshamForestIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident - Hansard - UK Parliament25 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest Incident&#x27; on Thu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Rendlesham Forest/Raf [Bentwaters](&#123;&#123; 'bentwaters/' | relative_url &#125;&#125;) Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest/Raf Bentwaters Incident&#x27; on Tuesday...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — Hansard record of the item: &#x27;Rendlesham Forest/Raf Bentwaters Incident&#x27; on Tuesday...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Written Answers  
-   Link: <a href="https://hansard.parliament.uk/html/Lords/2001-01-25/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords/2001-01-25/WrittenAnswers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliamentasked Her Majesty&#x27;s Government:Whether they are aware of any involvement by Special Branch personnel in...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/Lords/2001-01-25/WrittenAnswers" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/Lords/2001-01-25/WrittenAnswers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers - Hansard - UK Parliamentasked Her Majesty&#x27;s Government:Whether they are aware of any involvement by Special Branch personnel in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: uk Contributions for Lord Bach  
-   Link: <a href="https://hansard.parliament.uk/search/MemberContributions?house=Lords&amp;memberId=3451" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/search/MemberContributions?house=Lords&amp;memberId=3451</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Lord Bach - Hansard - UK ParliamentReview the contributions made by Lord Bach that have been recorded in Hansard. Filter by keyword a...</p></details>
+   Link:<a href="https://hansard.parliament.uk/search/MemberContributions?house=Lords&amp;memberId=3451" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/search/MemberContributions?house=Lords&amp;memberId=3451</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Lord Bach - Hansard - UK ParliamentReview the contributions made by Lord Bach that have been recorded in Hansard. Filter by keyword a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: api.parliament.uk  
    Title: mr peter hill norton  
-   Link: <a href="https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peter Hill-Norton: speeches in 2001 (Hansard)Mr Peter Hill-Norton: speeches in 2001 (Hansard) 2001 3 speeches — Rendlesham Forest Inciden...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/people/mr-peter-hill-norton/2001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peter Hill-Norton: speeches in 2001 (Hansard)Mr Peter Hill-Norton: speeches in 2001 (Hansard) 2001 3 speeches — Rendlesham Forest Inciden...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe United States Air Force retired to the [custody](&amp;#123;&amp;#123; &#x27;custody/&#x27; | relative_url &amp;#125;&amp;#125;) of the National Archives its records on Project BLUE BOOK r...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe United States Air Force retired to the [custody](&amp;#123;&amp;#123; &#x27;custody/&#x27; | relative_url &amp;#125;&amp;#125;) of the National Archives its records on Project BLUE BOOK r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsServicemen investigated an area of Rendlesham Forest on two separate nights.... A single sheet report is...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsServicemen investigated an area of Rendlesham Forest on two separate nights.... A single sheet report is...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings, Rendlesham Forest2 Aug 2022 — Digital copy of DEFE 24/1948: UFO reports of sighting: Rendlesham Forest, December 1980; with re...</p></details>
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76305/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings, Rendlesham Forest2 Aug 2022 — Digital copy of DEFE 24/1948: UFO reports of sighting: Rendlesham Forest, December 1980; with re...</p></details>
    Published: December 1980  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukSheet1Please include copies of material which is held as both paper and electronic records.... October 2001. Sp...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukSheet1Please include copies of material which is held as both paper and electronic records.... October 2001. Sp...</p></details>
    Published: October 2001  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
    Published: August 2009  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Fo...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Fo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: webarchive.nationalarchives.gov.uk  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/5vFCtJerILc" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/5vFCtJerILc</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/5vFCtJerILc" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/5vFCtJerILc</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hansardsociety.org.uk  
-   Link: <a href="https://www.hansardsociety.org.uk/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.hansardsociety.org.uk/publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PublicationsFor over 70 years the Hansard Society has produced leading research on parliaments, political engagement and democratic innov...</p></details>
+   Link:<a href="https://www.hansardsociety.org.uk/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.hansardsociety.org.uk/publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PublicationsFor over 70 years the Hansard Society has produced leading research on parliaments, political engagement and democratic innov...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
    Published: December 1980  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: libraries.westminster.gov.uk  
-   Link: <a href="https://libraries.westminster.gov.uk/Record/197353?page=&amp;recordIndex=13&amp;searchId=13489" target="_blank" rel="noopener noreferrer nofollow">https://libraries.westminster.gov.uk/Record/197353?page=&amp;recordIndex=13&amp;searchId=13489</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>westminster.gov.uk[https://libraries.westminster.gov.uk/Record/197353...No](https://libraries.westminster.gov.uk/Record/197353...No) information is available for this page...</p></details>
+   Link:<a href="https://libraries.westminster.gov.uk/Record/197353?page=&amp;recordIndex=13&amp;searchId=13489" target="_blank" rel="noopener noreferrer nofollow">https://libraries.westminster.gov.uk/Record/197353?page=&amp;recordIndex=13&amp;searchId=13489</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>westminster.gov.uk[https://libraries.westminster.gov.uk/Record/197353...No](https://libraries.westminster.gov.uk/Record/197353...No) information is available for this page...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of Defence repo...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of Defence repo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/hill_norton1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/hill_norton1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hill-NortonMy correspondence with Lady Symons about the UFO landing at Rendlesham Forest twenty years ago is important, although your off...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/hill_norton1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/hill_norton1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hill-NortonMy correspondence with Lady Symons about the UFO landing at Rendlesham Forest twenty years ago is important, although your off...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: parliament.isaackoi.com  
-   Link: <a href="https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Parliament (UK)This webpage relates to material reported in Hansard connected to UFO reports. Hansard is the Official Report of p...</p></details>
+   Link:<a href="https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://parliament.isaackoi.com/p/ufos-and-parliament-uk.html?m=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Parliament (UK)This webpage relates to material reported in Hansard connected to UFO reports. Hansard is the Official Report of p...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lingexp.uni-tuebingen.de  
-   Link: <a href="https://www.lingexp.uni-tuebingen.de/z2/Morphology/baroni.rows" target="_blank" rel="noopener noreferrer nofollow">https://www.lingexp.uni-tuebingen.de/z2/Morphology/baroni.rows</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uni-tuebingen.debaroni.rows... held taken always days took why current english web act society really week due view published better spec...</p></details>
+   Link:<a href="https://www.lingexp.uni-tuebingen.de/z2/Morphology/baroni.rows" target="_blank" rel="noopener noreferrer nofollow">https://www.lingexp.uni-tuebingen.de/z2/Morphology/baroni.rows</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uni-tuebingen.debaroni.rows... held taken always days took why current english web act society really week due view published better spec...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nypost.com  
    Title: uk ordered agents to find ufo tech in bombshell 1990s secret files shocker  
-   Link: <a href="https://nypost.com/2026/01/04/world-news/uk-ordered-agents-to-find-ufo-tech-in-bombshell-1990s-secret-files-shocker/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/01/04/world-news/uk-ordered-agents-to-find-ufo-tech-in-bombshell-1990s-secret-files-shocker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ordered agents to find UFO tech in bombshell 1990s...4 Jan 2026 — Although the correspondence concedes most of the alleged UFO sighti...</p></details>
+   Link:<a href="https://nypost.com/2026/01/04/world-news/uk-ordered-agents-to-find-ufo-tech-in-bombshell-1990s-secret-files-shocker/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/01/04/world-news/uk-ordered-agents-to-find-ufo-tech-in-bombshell-1990s-secret-files-shocker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ordered agents to find UFO tech in bombshell 1990s...4 Jan 2026 — Although the correspondence concedes most of the alleged UFO sighti...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As for the star-like... That, of course, is exactly why the UFO community dare not let Rendlesham fall.Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As for the star-like... That, of course, is exactly why the UFO community dare not let Rendlesham fall.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khOo9uvr5_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military MysteryBrace yourself for a journey into one of the most perplexing UFO incidents in history—the R...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWE7H2uDzJy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWE7H2uDzJy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lt. Col. Charles Halt recorded events in real time while investigating — documenting strange lights, radiation readings and...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWE7H2uDzJy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWE7H2uDzJy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lt. Col. Charles Halt recorded events in real time while investigating — documenting strange lights, radiation readings and...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1190102757/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1190102757/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bibliography of Occult and Fantastic Beliefs vol.1: A - Dby BA Buike · 2017 — -UFOs In The House of Lords, 1979 (Hansard, 18 January 1979...</p></details>
+   Link:<a href="https://d-nb.info/1190102757/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1190102757/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bibliography of Occult and Fantastic Beliefs vol.1: A - Dby BA Buike · 2017 — -UFOs In The House of Lords, 1979 (Hansard, 18 January 1979...</p></details>
    Published: January 1979  

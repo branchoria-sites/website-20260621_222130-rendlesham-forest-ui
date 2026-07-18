@@ -280,19 +280,19 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_auto
 
 ## Introduction
 
-One of the most important perceptual mechanisms discussed in explanations of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is the autokinetic illusion: the tendency for a stationary point of light to appear to move when viewed against a dark, featureless [background]({{ 'background/' | relative_url }}). Aviation authorities have warned pilots about this effect for decades because it can create a convincing impression that a distant light is drifting, approaching, receding or manoeuvring even when it is completely fixed. In the context of Rendlesham, the significance is not that witnesses imagined a light that was not there, but that a real light could have appeared far more dynamic, closer and more mysterious than it actually was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsThe Autokinetic Illusion gives you the impression that a stationary object is moving in front...</span></span></span>
+One of the most important perceptual mechanisms discussed in explanations of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is the autokinetic illusion: the tendency for a stationary point of light to appear to move when viewed against a dark, featureless [background]({{ 'background/' | relative_url }}). Aviation authorities have warned pilots about this effect for decades because it can create a convincing impression that a distant light is drifting, approaching, receding or manoeuvring even when it is completely fixed. In the context of Rendlesham, the significance is not that witnesses imagined a light that was not there, but that a real light could have appeared far more dynamic, closer and more mysterious than it actually was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsThe Autokinetic Illusion gives you the impression that a stationary object is moving in front...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-1-dark.svg" | relative_url }}" alt="Moving Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many Rendlesham reports involved lights seen at night through woodland, with uncertain distances and limited visual reference points. Those are conditions in which [trained observers]({{ 'night-vision-d8d2d0/' | relative_url }}) can still experience powerful visual misinterpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</span></span></span>
+This matters because many Rendlesham reports involved lights seen at night through woodland, with uncertain distances and limited visual reference points. Those are conditions in which [trained observers]({{ 'night-vision-d8d2d0/' | relative_url }}) can still experience powerful visual misinterpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-3-dark.svg" | relative_url }}" alt="Moving Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the autokinetic illusion works
 
-The autokinetic illusion occurs when a person fixates on a small, isolated light in darkness. Because the eyes constantly make tiny involuntary movements, the brain normally uses surrounding visual references to stabilise [perception]({{ 'perception/' | relative_url }}). When those references are absent, the brain can mistakenly interpret the slight shifts in retinal image as movement of the light itself. The result is a convincing sensation that a stationary object is drifting or changing position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
+The autokinetic illusion occurs when a person fixates on a small, isolated light in darkness. Because the eyes constantly make tiny involuntary movements, the brain normally uses surrounding visual references to stabilise [perception]({{ 'perception/' | relative_url }}). When those references are absent, the brain can mistakenly interpret the slight shifts in retinal image as movement of the light itself. The result is a convincing sensation that a stationary object is drifting or changing position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span>
 
-Aviation safety guidance repeatedly identifies this as a hazard during night operations. The Aircraft Owners and Pilots Association (AOPA) notes that a stationary light can appear to move after only six to twelve seconds of visual fixation. Pilots may then respond to the perceived motion as though it were real. The FAA likewise describes autokinesis as creating the impression that a fixed object is moving across a pilot's path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
+Aviation safety guidance repeatedly identifies this as a hazard during night operations. The Aircraft Owners and Pilots Association (AOPA) notes that a stationary light can appear to move after only six to twelve seconds of visual fixation. Pilots may then respond to the perceived motion as though it were real. The FAA likewise describes autokinesis as creating the impression that a fixed object is moving across a pilot's path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
 
 Several features make the illusion especially persuasive:
 
@@ -303,11 +303,11 @@ Several features make the illusion especially persuasive:
 * The background is dark or featureless.
 * Distance is difficult to judge.
 * The observer concentrates on the light for an extended period.
-* There are few nearby reference objects against which motion can be measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA+2Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
+* There are few nearby reference objects against which motion can be measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA+2Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
 
 </div>
 
-Importantly, the illusion does not require poor eyesight, inexperience or unusual beliefs. It arises from normal visual processing and is common enough that pilot training materials specifically teach methods for avoiding it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</span></span></span>
+Importantly, the illusion does not require poor eyesight, inexperience or unusual beliefs. It arises from normal visual processing and is common enough that pilot training materials specifically teach methods for avoiding it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
@@ -316,11 +316,11 @@ Importantly, the illusion does not require poor eyesight, inexperience or unusua
 
 A dark forest creates many of the conditions that favour autokinetic effects and related moving-light misperceptions.
 
-Unlike an open landscape, woodland breaks up visual references. A distant light may appear and disappear behind trunks and branches, creating an impression of movement even when the source is fixed. As an observer walks, changes in viewing angle can also make a stationary light seem to shift position relative to nearby trees. The brain may interpret these changing glimpses as purposeful motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</span></span></span>
+Unlike an open landscape, woodland breaks up visual references. A distant light may appear and disappear behind trunks and branches, creating an impression of movement even when the source is fixed. As an observer walks, changes in viewing angle can also make a stationary light seem to shift position relative to nearby trees. The brain may interpret these changing glimpses as purposeful motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</span></span></span>
 
-Distance estimation becomes particularly difficult at night. Without familiar size cues or a visible horizon, people often struggle to determine whether a light is hundreds of metres away or several miles distant. Aviation guidance notes that isolated lights against dark surroundings can produce serious errors in judging distance, altitude and movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airresearch.com/Pilots/AIM-08/Chap8/aim0801.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airresearch.com">[AirResearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airresearch.com</span><span class="citation-popover-title">Air Research AIM</span><span class="citation-popover-snippet">AIM - Chapter 8, Section 1Bright runway and approach lighting systems, especially where few lights illuminate the surrounding...</span></span></span>
+Distance estimation becomes particularly difficult at night. Without familiar size cues or a visible horizon, people often struggle to determine whether a light is hundreds of metres away or several miles distant. Aviation guidance notes that isolated lights against dark surroundings can produce serious errors in judging distance, altitude and movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airresearch.com/Pilots/AIM-08/Chap8/aim0801.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airresearch.com">[AirResearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airresearch.com</span><span class="citation-popover-title">Air Research AIM</span><span class="citation-popover-snippet">AIM - Chapter 8, Section 1Bright runway and approach lighting systems, especially where few lights illuminate the surrounding...</span></span></span>
 
-Psychological factors can intensify the effect. When observers are searching for a possible aircraft crash, security threat or unknown object, attention becomes concentrated on ambiguous stimuli. Once a light is regarded as potentially significant, prolonged fixation becomes more likely, increasing the chance that autokinetic motion will be perceived. This does not mean the witnesses were irrational; rather, the circumstances naturally encouraged exactly the viewing behaviour known to produce the illusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</span></span></span>
+Psychological factors can intensify the effect. When observers are searching for a possible aircraft crash, security threat or unknown object, attention becomes concentrated on ambiguous stimuli. Once a light is regarded as potentially significant, prolonged fixation becomes more likely, increasing the chance that autokinetic motion will be perceived. This does not mean the witnesses were irrational; rather, the circumstances naturally encouraged exactly the viewing behaviour known to produce the illusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y_HvgmQ3NJs" title="Night Illusions (Private Pilot Lesson 15d)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y_HvgmQ3NJs" target="_blank" rel="noopener noreferrer">Night Illusions (Private Pilot Lesson 15d)</a></p><p class="youtube-embed-meta">Channel: Cyndy Hollman &middot; Views: 43.9K &middot; Uploaded: November 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y_HvgmQ3NJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y_HvgmQ3NJs">Open on YouTube</a></p></div></div></div>
@@ -329,209 +329,209 @@ Psychological factors can intensify the effect. When observers are searching for
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-2-dark.svg" | relative_url }}" alt="Moving Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_military_witnesses_464c20_autokinetic_moving_l_9d6310-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the effect fits Rendlesham's light reports
 
-Autokinesis is not a complete explanation for every claim associated with Rendlesham. However, it offers a specific mechanism for understanding why some witnesses reported lights that seemed to move, dart, hover or behave unusually despite the possibility that at least some of those lights were ordinary distant sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness L...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Autokinesis is not a complete explanation for every claim associated with Rendlesham. However, it offers a specific mechanism for understanding why some witnesses reported lights that seemed to move, dart, hover or behave unusually despite the possibility that at least some of those lights were ordinary distant sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">May 11, 2026 — Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness L...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-One long-standing sceptical interpretation links parts of the incident to the beam of the Orford Ness lighthouse, visible from the area and flashing at regular intervals. Independent investigations and police accounts have argued that the lighthouse was visible through the trees and contributed to at least some of the reported observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThis is the letter to Ian Ridpath from the Suffolk police which first demonstrated...</span></span></span>
+One long-standing sceptical interpretation links parts of the incident to the beam of the Orford Ness lighthouse, visible from the area and flashing at regular intervals. Independent investigations and police accounts have argued that the lighthouse was visible through the trees and contributed to at least some of the reported observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the police evidenceThis is the letter to Ian Ridpath from the Suffolk police which first demonstrated...</span></span></span>
 
-The relevance of autokinesis is that a distant lighthouse beacon need not be perceived as a simple flashing light. Viewed through darkness and woodland, then watched intently for extended periods, a fixed or regularly recurring light could acquire an apparent pattern of motion. Witnesses might sincerely perceive it as advancing, retreating, weaving among trees or changing position. The illusion affects perceived movement, not honesty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA+2FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
+The relevance of autokinesis is that a distant lighthouse beacon need not be perceived as a simple flashing light. Viewed through darkness and woodland, then watched intently for extended periods, a fixed or regularly recurring light could acquire an apparent pattern of motion. Witnesses might sincerely perceive it as advancing, retreating, weaving among trees or changing position. The illusion affects perceived movement, not honesty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA+2FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
 
-Astronomer Ian [Ridpath]({{ 'ridpath/' | relative_url }}) and other commentators have also argued that some later reports of lights breaking apart or behaving strangely may have involved atmospheric and observational distortions of distant [light sources]({{ 'light-sources/' | relative_url }}). More recent discussion of the case has continued to cite optical effects as a plausible contributor to descriptions of lights apparently "shooting off" or changing behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">the rendlesham forest mystery its the perfect storm of a ufo case</span><span class="citation-popover-snippet">The GuardianThe Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The pieces “shooting off” that Halt mentions on...</span></span></span>
+Astronomer Ian [Ridpath]({{ 'ridpath/' | relative_url }}) and other commentators have also argued that some later reports of lights breaking apart or behaving strangely may have involved atmospheric and observational distortions of distant [light sources]({{ 'light-sources/' | relative_url }}). More recent discussion of the case has continued to cite optical effects as a plausible contributor to descriptions of lights apparently "shooting off" or changing behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">the rendlesham forest mystery its the perfect storm of a ufo case</span><span class="citation-popover-snippet">The GuardianThe Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The pieces “shooting off” that Halt mentions on...</span></span></span>
 
-The key point is that the moving-light problem does not require witnesses to invent events. A real light can be present while its motion is misperceived. That distinction helps explain why military personnel could provide sincere, detailed reports of unusual aerial behaviour while still being vulnerable to one of the best-documented visual illusions encountered in night-time observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA+2AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsThe Autokinetic Illusion gives you the impression that a stationary object is moving in front...</span></span></span>
+The key point is that the moving-light problem does not require witnesses to invent events. A real light can be present while its motion is misperceived. That distinction helps explain why military personnel could provide sincere, detailed reports of unusual aerial behaviour while still being vulnerable to one of the best-documented visual illusions encountered in night-time observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA+2AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsThe Autokinetic Illusion gives you the impression that a stationary object is moving in front...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AL6vBWh09SU" title="Top 5 Visual Illusions During Drone Night Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer">Top 5 Visual Illusions During Drone Night Operations</a></p><p class="youtube-embed-meta">Channel: Do You Know Drones?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AL6vBWh09SU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why still lights can look like they move. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why still lights can look like they move. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how observers miss or misinterpret visual information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how observers miss or misinterpret visual information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We See what We Do on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DStpQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why We See what We Do" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We See what We Do">Why We See what We Do</a>
-        </h4>
-        <p class="fr-book-author">By Dale Purves, R. Beau Lotto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We See what We Do on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DStpQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why We See what We Do" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We See what We Do">Why We See what We Do</a>
+</h4>
+<p class="fr-book-author">By Dale Purves, R. Beau Lotto</p>
         
-        <p class="fr-book-desc">Explains why visual perception can diverge from physical reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why visual perception can diverge from physical reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of unusual observations and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of unusual observations and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/249796-M.jpg" alt="Cover for Visual intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual intelligence">Visual intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Donald David Hoffman, Donald D. Hoffman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/249796-M.jpg" alt="Cover for Visual intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual intelligence">Visual intelligence</a>
+</h4>
+<p class="fr-book-author">By Donald David Hoffman, Donald D. Hoffman</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Visual perception, Human information processing, Vision, Neuropsychology, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Visual perception, Human information processing, Vision, Neuropsychology, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+See+what+We+Do&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We See what We Do</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+See+what+We+Do&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We See what We Do</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin USFOR Afghanistan United States Armed Forces"><img src="{{ '/assets/images/marketplace-covers/f35832bcbf407aded81c.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin USFOR Afghanistan United States Armed Forces" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin USFOR Afghanistan United States Armed Forces</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin USFOR Afghanistan United States Armed Forces"><img src="{{ '/assets/images/marketplace-covers/f35832bcbf407aded81c.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin USFOR Afghanistan United States Armed Forces" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin USFOR Afghanistan United States Armed Forces</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;"><img src="{{ '/assets/images/marketplace-covers/9772cafe0ca632d034ba.jpg' | relative_url }}" alt="Listing image for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;"><img src="{{ '/assets/images/marketplace-covers/9772cafe0ca632d034ba.jpg' | relative_url }}" alt="Listing image for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="moving-lights-why-still-lights-can-look-like-they-move-rendlesham-forest-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ The key point is that the moving-light problem does not require witnesses to inv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ The key point is that the moving-light problem does not require witnesses to inv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ The key point is that the moving-light problem does not require witnesses to inv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ The key point is that the moving-light problem does not require witnesses to inv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ The key point is that the moving-light problem does not require witnesses to inv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,155 +737,155 @@ The key point is that the moving-light problem does not require witnesses to inv
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsThe Autokinetic Illusion gives you the impression that a stationary object is moving in front...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsThe Autokinetic Illusion gives you the impression that a stationary object is moving in front...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</p></details>
+   Link:<a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: airresearch.com  
    Title: Air Research AIM  
-   Link: <a href="https://www.airresearch.com/Pilots/AIM-08/Chap8/aim0801.html" target="_blank" rel="noopener noreferrer nofollow">https://www.airresearch.com/Pilots/AIM-08/Chap8/aim0801.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIM - Chapter 8, Section 1Bright runway and approach lighting systems, especially where few lights illuminate the surrounding...</p></details>
+   Link:<a href="https://www.airresearch.com/Pilots/AIM-08/Chap8/aim0801.html" target="_blank" rel="noopener noreferrer nofollow">https://www.airresearch.com/Pilots/AIM-08/Chap8/aim0801.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIM - Chapter 8, Section 1Bright runway and approach lighting systems, especially where few lights illuminate the surrounding...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ual system only. False Horizon. Flying at night under clear...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ual system only. False Horizon. Flying at night under clear...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness L...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness L...</p></details>
    Published: May 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: indjaerospacemed.com  
    Title: autokinesis illusion in fighter flying revisited  
-   Link: <a href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</p></details>
+   Link:<a href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — Autokinesis ref...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faasafety.gov  
    Title: FAA Safety Your Senses in the Shadows  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</p></details>
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The pieces “shooting off” that Halt mentions on...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — The pieces “shooting off” that Halt mentions on...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ianridpath.com  
    Title: Ian Ridpath Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - the police evidenceThis is the letter to Ian Ridpath from the Suffolk police which first demonstrated...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - the police evidenceThis is the letter to Ian Ridpath from the Suffolk police which first demonstrated...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/lighthouse_visibility.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/lighthouse_visibility.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No more can it be seen flashing every five seconds...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/lighthouse_visibility.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/lighthouse_visibility.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No more can it be seen flashing every five seconds...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I didn&#x27;t blame him. ‍It was past midnight when Vince Thurkettle took us to the site...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I didn&#x27;t blame him. ‍It was past midnight when Vince Thurkettle took us to the site...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: faasafety.gov  
    Title: Safer Skies Through Education  
-   Link: <a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
+   Link:<a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
    Published: December 1980  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQZ2mlxkUzB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQZ2mlxkUzB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This optical illusion is called autokinesis. Why it matters: Pilots may falsely believe another aircraft is moving toward them or that th...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQZ2mlxkUzB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQZ2mlxkUzB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This optical illusion is called autokinesis. Why it matters: Pilots may falsely believe another aircraft is moving toward them or that th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cfinotebook.net  
-   Link: <a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation &amp; Illusions In FlightThe vestibular system and visual system can create powerful flight illusions that mislead pil...</p></details>
+   Link:<a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation &amp; Illusions In FlightThe vestibular system and visual system can create powerful flight illusions that mislead pil...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: flyhpa.com  
-   Link: <a href="https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Flying at NightAutokinesis is caused by staring at a stationary flashing light for too long. After a while, it appears to move...</p></details>
+   Link:<a href="https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Flying at NightAutokinesis is caused by staring at a stationary flashing light for too long. After a while, it appears to move...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoMany explanations have been put forward, the most touted is that the soldiers saw the Orfordness li...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jo4fh8/the_rendlesham_forest_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham forest incident: r/ufoMany explanations have been put forward, the most touted is that the soldiers saw the Orfordness li...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a Confusing World Up There. The Specifics of Spatial...If you are attempting to align your aircraft with a stationary light...</p></details>
+   Link:<a href="https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a Confusing World Up There. The Specifics of Spatial...If you are attempting to align your aircraft with a stationary light...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 323856886 Optical Illusions and Spatial Disorientation in Aviation Pilots  
-   Link: <a href="https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Illusions and Spatial Disorientation in Aviation Pilots12 May 2026 — These illusions are caused primarily by sensory misinterpret...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Illusions and Spatial Disorientation in Aviation Pilots12 May 2026 — These illusions are caused primarily by sensory misinterpret...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AL6vBWh09SU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Visual Illusions During Drone Night OperationsLet&#x27;s get into the top five night visual illusions that you will encounter when you w...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AL6vBWh09SU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Visual Illusions During Drone Night OperationsLet&#x27;s get into the top five night visual illusions that you will encounter when you w...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: flyaeroguard.com  
-   Link: <a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the dark, a static light will appear to move about when stared at for many seconds. The...Read more...</p></details>
+   Link:<a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the dark, a static light will appear to move about when stared at for many seconds. The...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: boldmethod.com  
    Title: eight things you need to consider on your next night flight  
-   Link: <a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your eyes need about 30 minutes to adjust to the darkness. · 2) Strobe Lights · 3) Autokinesis · 4) False Horizon · 5) Black hole...Read...</p></details>
+   Link:<a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your eyes need about 30 minutes to adjust to the darkness. · 2) Strobe Lights · 3) Autokinesis · 4) False Horizon · 5) Black hole...Read...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: was the black glassy object an actual case of time travel?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
    Published: december 1980  

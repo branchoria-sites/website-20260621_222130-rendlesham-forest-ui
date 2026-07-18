@@ -273,28 +273,28 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_
 
 ## Introduction
 
-During Lieutenant Colonel Charles Halt’s second-night investigation in [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}), one of the most discussed pieces of apparent physical evidence was a series of marks on nearby pine trees. To some members of the search party, the damaged bark appeared unusual enough to be associated with the reported object. Yet later examination by foresters and sceptical investigators concluded that the marks were ordinary forestry cuts made to identify trees scheduled for felling. The dispute matters because it illustrates a recurring problem in the Rendlesham case: features that looked significant during a night-time field investigation often acquired more mundane explanations when examined in daylight and with local knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
+During Lieutenant Colonel Charles Halt’s second-night investigation in [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}), one of the most discussed pieces of apparent physical evidence was a series of marks on nearby pine trees. To some members of the search party, the damaged bark appeared unusual enough to be associated with the reported object. Yet later examination by foresters and sceptical investigators concluded that the marks were ordinary forestry cuts made to identify trees scheduled for felling. The dispute matters because it illustrates a recurring problem in the Rendlesham case: features that looked significant during a night-time field investigation often acquired more mundane explanations when examined in daylight and with local knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-1-dark.svg" | relative_url }}" alt="Tree Marks illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Halt's Party Saw on the Trees
 
-As Halt’s team revisited the alleged landing area, attention focused not only on the shallow ground depressions but also on abrasions and cuts visible on surrounding pine trunks. The marks were treated as potentially relevant because they appeared close to the area where earlier witnesses believed an unusual object had been present. On the recorded investigation, radiation measurements were taken around both the [ground impressions]({{ 'ground-impressions/' | relative_url }}) and selected tree marks, reinforcing the impression that the trees might contain evidence connected to the reported event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">Avalon Library Transcri pt of Col</span><span class="citation-popover-snippet">Halt&#x27;s tape - Avalon LibraryDecember 7, 2019 — This is a transcript of the cassette tape recording made by Lt. Col. Charles Halt on the n...</span><span class="citation-popover-meta">Published: December 7, 2019</span></span></span>
+As Halt’s team revisited the alleged landing area, attention focused not only on the shallow ground depressions but also on abrasions and cuts visible on surrounding pine trunks. The marks were treated as potentially relevant because they appeared close to the area where earlier witnesses believed an unusual object had been present. On the recorded investigation, radiation measurements were taken around both the [ground impressions]({{ 'ground-impressions/' | relative_url }}) and selected tree marks, reinforcing the impression that the trees might contain evidence connected to the reported event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">Avalon Library Transcri pt of Col</span><span class="citation-popover-snippet">Halt&#x27;s tape - Avalon LibraryDecember 7, 2019 — This is a transcript of the cassette tape recording made by Lt. Col. Charles Halt on the n...</span><span class="citation-popover-meta">Published: December 7, 2019</span></span></span>
 
-The appearance of the marks contributed to their perceived significance. Pine bark cut with an axe often releases resin that hardens and discolours. Under torchlight or night-vision equipment, these resin-filled cuts can resemble scorching, burning, or other forms of damage. Later photographs taken at the site showed examples of such cuts that, at first glance, could easily be interpreted as burn marks by someone unfamiliar with forestry practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
+The appearance of the marks contributed to their perceived significance. Pine bark cut with an axe often releases resin that hardens and discolours. Under torchlight or night-vision equipment, these resin-filled cuts can resemble scorching, burning, or other forms of damage. Later photographs taken at the site showed examples of such cuts that, at first glance, could easily be interpreted as burn marks by someone unfamiliar with forestry practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
 
-Importantly, the tree marks were not initially presented as conclusive proof of a landing. Rather, they became part of a wider pattern of observations—ground impressions, radiation readings, lights in the distance and damaged-looking trees—that investigators attempted to fit into a coherent explanation while working in darkness and under the assumption that something unusual might have occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">Avalon Library Transcri pt of Col</span><span class="citation-popover-snippet">Halt&#x27;s tape - Avalon LibraryDecember 7, 2019 — This is a transcript of the cassette tape recording made by Lt. Col. Charles Halt on the n...</span><span class="citation-popover-meta">Published: December 7, 2019</span></span></span>
+Importantly, the tree marks were not initially presented as conclusive proof of a landing. Rather, they became part of a wider pattern of observations—ground impressions, radiation readings, lights in the distance and damaged-looking trees—that investigators attempted to fit into a coherent explanation while working in darkness and under the assumption that something unusual might have occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">Avalon Library Transcri pt of Col</span><span class="citation-popover-snippet">Halt&#x27;s tape - Avalon LibraryDecember 7, 2019 — This is a transcript of the cassette tape recording made by Lt. Col. Charles Halt on the n...</span><span class="citation-popover-meta">Published: December 7, 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mLqXp90GTX8" title="Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer">Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mLqXp90GTX8">Open on YouTube</a></p></div></div></div>
 
 ## Why the Marks Appeared More Mysterious at Night
 
-The conditions of the investigation amplified the apparent significance of the trees. Halt’s team was operating in a forest at night using torches, a Geiger counter and a starlight scope, an image-intensifying night-vision device. Such equipment can alter the appearance of surfaces, making reflective or contrasting textures seem more dramatic than they do in daylight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/204660542/Rendlesham-UFO-Incident-Timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Rendlesham UFO Incident Timeline</span><span class="citation-popover-snippet">Rendlesham Forest Incident Overview &#124; PDF8 Nov 2012 — These were a Geiger counter, starlight scope (night vision device) and traine...</span></span></span>
+The conditions of the investigation amplified the apparent significance of the trees. Halt’s team was operating in a forest at night using torches, a Geiger counter and a starlight scope, an image-intensifying night-vision device. Such equipment can alter the appearance of surfaces, making reflective or contrasting textures seem more dramatic than they do in daylight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/204660542/Rendlesham-UFO-Incident-Timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Rendlesham UFO Incident Timeline</span><span class="citation-popover-snippet">Rendlesham Forest Incident Overview &#124; PDF8 Nov 2012 — These were a Geiger counter, starlight scope (night vision device) and traine...</span></span></span>
 
-Witnesses later recalled that some of the abrasions appeared unusual when viewed through the night-vision equipment. In a setting where investigators were already searching for traces of a reported object, the marks naturally attracted attention. The broader context is important: the team was not conducting a controlled forensic examination but attempting to reconstruct an event they believed might have involved an unidentified craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+Witnesses later recalled that some of the abrasions appeared unusual when viewed through the night-vision equipment. In a setting where investigators were already searching for traces of a reported object, the marks naturally attracted attention. The broader context is important: the team was not conducting a controlled forensic examination but attempting to reconstruct an event they believed might have involved an unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
-This does not mean the observers fabricated what they saw. Rather, it highlights how ambiguous physical features can acquire different meanings depending on circumstances. A forestry cut viewed during a tense nocturnal search may appear very different from the same cut examined later by someone familiar with forest management practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
+This does not mean the observers fabricated what they saw. Rather, it highlights how ambiguous physical features can acquire different meanings depending on circumstances. A forestry cut viewed during a tense nocturnal search may appear very different from the same cut examined later by someone familiar with forest management practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-2-dark.svg" | relative_url }}" alt="Tree Marks illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -302,11 +302,11 @@ This does not mean the observers fabricated what they saw. Rather, it highlights
 
 One of the more technical issues concerns the interaction between the tree marks, the starlight scope and the radiation measurements being taken nearby.
 
-The starlight scope was not a thermal-imaging device. It amplified available light rather than detecting heat. Nevertheless, some later retellings blurred the distinction, creating the impression that the marks somehow emitted unusual heat signatures. Researchers who reviewed the tape and the circumstances of the investigation have argued that the equipment itself and reflections from nearby surfaces contributed to confusion about what was actually being observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
+The starlight scope was not a thermal-imaging device. It amplified available light rather than detecting heat. Nevertheless, some later retellings blurred the distinction, creating the impression that the marks somehow emitted unusual heat signatures. Researchers who reviewed the tape and the circumstances of the investigation have argued that the equipment itself and reflections from nearby surfaces contributed to confusion about what was actually being observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
-A related debate surrounds one of the higher radiation readings recorded near a tree mark. Critics of the UFO interpretation have noted that the reading occurred while the starlight scope was being used close to the measurement area. When the detector was moved to a different position relative to the tree and equipment, the reading reportedly dropped. This has been cited as evidence that the measurement may have been influenced by the investigative setup rather than by anything unusual in the tree itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 19</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident &#124; Page 192 May 2024 —... marking was also being viewed from close by using the Starlight Scope, w...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+A related debate surrounds one of the higher radiation readings recorded near a tree mark. Critics of the UFO interpretation have noted that the reading occurred while the starlight scope was being used close to the measurement area. When the detector was moved to a different position relative to the tree and equipment, the reading reportedly dropped. This has been cited as evidence that the measurement may have been influenced by the investigative setup rather than by anything unusual in the tree itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 19</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident &#124; Page 192 May 2024 —... marking was also being viewed from close by using the Starlight Scope, w...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-The significance of this point is not that every reading can be definitively explained, but that the tree marks and instrument readings were not independent pieces of evidence. They were being interpreted together in a dynamic night-time environment, increasing the possibility of observational confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 19</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident &#124; Page 192 May 2024 —... marking was also being viewed from close by using the Starlight Scope, w...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The significance of this point is not that every reading can be definitively explained, but that the tree marks and instrument readings were not independent pieces of evidence. They were being interpreted together in a dynamic night-time environment, increasing the possibility of observational confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 19</span><span class="citation-popover-snippet">Rendlesham Forest UFO Incident &#124; Page 192 May 2024 —... marking was also being viewed from close by using the Starlight Scope, w...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eP3X0e0xJII" title="Rendlesham Forest Unveiled: Lights, Secrets, and Skepticism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eP3X0e0xJII" target="_blank" rel="noopener noreferrer">Rendlesham Forest Unveiled: Lights, Secrets, and Skepticism</a></p><p class="youtube-embed-meta">Channel: Mystery Atlas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eP3X0e0xJII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eP3X0e0xJII">Open on YouTube</a></p></div></div></div>
@@ -315,11 +315,11 @@ The significance of this point is not that every reading can be definitively exp
 
 The most widely cited conventional explanation is straightforward: the marks were forestry cuts.
 
-According to investigations carried out after the incident, local forestry workers routinely used [axe cuts]({{ 'axe-cuts/' | relative_url }}) on pine trunks to identify trees intended for future felling. The cuts penetrated the bark and exposed resin, which could later harden and create an appearance resembling burns or unusual damage. Photographs taken in the forest after the incident documented numerous examples of similar markings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
+According to investigations carried out after the incident, local forestry workers routinely used [axe cuts]({{ 'axe-cuts/' | relative_url }}) on pine trunks to identify trees intended for future felling. The cuts penetrated the bark and exposed resin, which could later harden and create an appearance resembling burns or unusual damage. Photographs taken in the forest after the incident documented numerous examples of similar markings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
 
-The explanation gained additional support from people familiar with the forest. Former forestry personnel have stated that the marks found near the alleged landing site were consistent with normal management practices and had been made shortly before the incident. One forester later explained that the cuts were preparation marks indicating trees selected for removal, not traces left by an external object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+The explanation gained additional support from people familiar with the forest. Former forestry personnel have stated that the marks found near the alleged landing site were consistent with normal management practices and had been made shortly before the incident. One forester later explained that the cuts were preparation marks indicating trees selected for removal, not traces left by an external object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
-This interpretation also helps explain why similar marks could be found elsewhere in the plantation. Rendlesham Forest was not untouched wilderness but a managed commercial forest where routine cutting, marking and thinning operations were common. In that setting, damaged-looking bark was not inherently unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
+This interpretation also helps explain why similar marks could be found elsewhere in the plantation. Rendlesham Forest was not untouched wilderness but a managed commercial forest where routine cutting, marking and thinning operations were common. In that setting, damaged-looking bark was not inherently unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-3-dark.svg" | relative_url }}" alt="Tree Marks illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_halt_second_night_645870_tree_marks_forestry_38c7d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,203 +327,203 @@ This interpretation also helps explain why similar marks could be found elsewher
 
 The tree marks are significant less because of what they prove and more because of what they reveal about the investigation process.
 
-Supporters of the UFO interpretation have often viewed the marks as one component of a larger pattern of evidence. Sceptical investigators, by contrast, regard them as an example of how ordinary features can acquire extraordinary meanings when encountered under unusual circumstances. The later forestry explanation did not merely offer an alternative theory; it provided a specific mechanism, a known local practice and physical examples that resembled the marks described by witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
+Supporters of the UFO interpretation have often viewed the marks as one component of a larger pattern of evidence. Sceptical investigators, by contrast, regard them as an example of how ordinary features can acquire extraordinary meanings when encountered under unusual circumstances. The later forestry explanation did not merely offer an alternative theory; it provided a specific mechanism, a known local practice and physical examples that resembled the marks described by witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
 
-Within the context of Halt’s second-night investigation, the tree marks therefore illustrate a broader historical lesson. Physical traces that appear compelling during an unfolding event may look very different once local expertise, daylight inspection and comparative evidence are brought into the analysis. In the Rendlesham case, the forester-cut explanation remains the principal conventional account of the damaged-looking trees examined by Halt’s party. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
+Within the context of Halt’s second-night investigation, the tree marks therefore illustrate a broader historical lesson. Physical traces that appear compelling during an unfolding event may look very different once local expertise, daylight inspection and comparative evidence are brought into the analysis. In the Rendlesham case, the forester-cut explanation remains the principal conventional account of the damaged-looking trees examined by Halt’s party.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Y8wHmLgDks" title="Truth Behind UFO sighting at Rendlesham Forest | Full Documentary | Alien Encounters | Real Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Y8wHmLgDks" target="_blank" rel="noopener noreferrer">Truth Behind UFO sighting at Rendlesham Forest | Full Documentary | Alien Encounters | Real Story</a></p><p class="youtube-embed-meta">Channel: Classic Documentaries &amp; VHS Tapes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Y8wHmLgDks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Y8wHmLgDks">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Tree Marks Evidence or Forestry Cuts?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Tree Marks Evidence or Forestry Cuts?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Discusses physical traces, tree marks and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses physical traces, tree marks and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Examines evidence claims and witness interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence claims and witness interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing physical-trace and witness-evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing physical-trace and witness-evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places reported traces and anomalous encounters into broader context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places reported traces and anomalous encounters into broader context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="tree-marks-were-the-tree-marks-evidence-or-forestry-cuts-rendlesham-forest-ufo-wall-art-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,108 +729,108 @@ Within the context of Halt’s second-night investigation, the tree marks theref
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: metabunk.org  
    Title: page 19  
-   Link: <a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident | Page 192 May 2024 —... marking was also being viewed from close by using the Starlight Scope, w...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/rendlesham-forest-ufo-incident.13457/page-19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident | Page 192 May 2024 —... marking was also being viewed from close by using the Starlight Scope, w...</p></details>
    Published: May 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribd.com  
    Title: Rendlesham UFO Incident [Timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.scribd.com/document/204660542/Rendlesham-UFO-Incident-Timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/204660542/Rendlesham-UFO-Incident-Timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident Overview | PDF8 Nov 2012 — These were a Geiger counter, starlight scope (night vision device) and traine...</p></details>
+   Link:<a href="https://www.scribd.com/document/204660542/Rendlesham-UFO-Incident-Timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/204660542/Rendlesham-UFO-Incident-Timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident Overview | PDF8 Nov 2012 — These were a Geiger counter, starlight scope (night vision device) and traine...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleSlash and burn: Cuts made by foresters on pine trees of Rendlesham Fores...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleFor more about the landing marks, including a sketch of them, and a disc...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleFor more about the landing marks, including a sketch of them, and a disc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: avalonlibrary.net  
    Title: Avalon Library Transcri pt of Col  
-   Link: <a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Halt&#x27;s tape - Avalon LibraryDecember 7, 2019 — This is a transcript of the cassette tape recording made by Lt. Col. Charles Halt on the n...</p></details>
+   Link:<a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Transcript%20of%20Colonel%20Halt%20Tape%20%28Ian%20Ridpath%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Halt&#x27;s tape - Avalon LibraryDecember 7, 2019 — This is a transcript of the cassette tape recording made by Lt. Col. Charles Halt on the n...</p></details>
    Published: December 7, 2019  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape2.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/halttape2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape2.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim [Penniston](&amp;#123;&amp;#123; &#x27;penniston/&#x27; | relative_url &amp;#125;&amp;#125;), John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim [Penniston](&amp;#123;&amp;#123; &#x27;penniston/&#x27; | relative_url &amp;#125;&amp;#125;), John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gold.ac.uk  
-   Link: <a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian Ridpath: UFOs: Fact or fantasy?12 Jan 2016 — This hard-hitting talk by Ian Ridpath, astronomy writer and UFO sceptic, traces the grow...</p></details>
+   Link:<a href="https://www.gold.ac.uk/calendar/?id=9028" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=9028</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian Ridpath: UFOs: Fact or fantasy?12 Jan 2016 — This hard-hitting talk by Ian Ridpath, astronomy writer and UFO sceptic, traces the grow...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ut the &#x27;landed objects&#x27;, dismissing them.Read more...</p></details>
+   Link:<a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ut the &#x27;landed objects&#x27;, dismissing them.Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177620292284538/posts/6138284359551405/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177620292284538/posts/6138284359551405/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AN IMPORTANT NEW DEVELOPMENT...On the following morning when investigating the sighting in the Rendlesham Forest, landing marks were fou...</p></details>
+   Link:<a href="https://www.facebook.com/groups/177620292284538/posts/6138284359551405/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177620292284538/posts/6138284359551405/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN IMPORTANT NEW DEVELOPMENT...On the following morning when investigating the sighting in the Rendlesham Forest, landing marks were fou...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOooCvouc5P3Hqivd78XHd7C8tAqya_nnfdiA-AAlAS0Rhmh2KeKu" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOooCvouc5P3Hqivd78XHd7C8tAqya_nnfdiA-AAlAS0Rhmh2KeKu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellSkeptical investigator Ian Ridpath has championed this theory, arguing that the lighthouse b...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOooCvouc5P3Hqivd78XHd7C8tAqya_nnfdiA-AAlAS0Rhmh2KeKu" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOooCvouc5P3Hqivd78XHd7C8tAqya_nnfdiA-AAlAS0Rhmh2KeKu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellSkeptical investigator Ian Ridpath has championed this theory, arguing that the lighthouse b...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-[bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-[bentwaters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Then, two days later, other military personnel said they experienced the same...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-[bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-[bentwaters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Then, two days later, other military personnel said they experienced the same...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: It's 45 years since the "Rendlesham Forest Incident"  
-   Link: <a href="https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 1980, something strange stirred the trees of Rendlesham Forest, near the twin NATO airbases of RAF Woodbridge and RAF...</p></details>
+   Link:<a href="https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sandlingsforest/posts/its-45-years-since-the-rendlesham-forest-incident-come-explore-our-ufo-trail-ins/1328904915708024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 1980, something strange stirred the trees of Rendlesham Forest, near the twin NATO airbases of RAF Woodbridge and RAF...</p></details>
    Published: December 1980  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZnwrD6Auvc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZnwrD6Auvc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d [unexplained](&amp;#123;&amp;#123; &#x27;unexplained/&#x27; | relative_url &amp;#125;&amp;#125;) aerial encounters in the United Kingdom.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZnwrD6Auvc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZnwrD6Auvc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d [unexplained](&amp;#123;&amp;#123; &#x27;unexplained/&#x27; | relative_url &amp;#125;&amp;#125;) aerial encounters in the United Kingdom.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>am Forest in England. Discover more tonight at 10/9c in a new...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-unexplained-lights-he-saw-in-rendlesham-fo/10156037522506184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>am Forest in England. Discover more tonight at 10/9c in a new...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufos-aliens.co.uk  
    Title: The Rendlesham Forest Incident  
-   Link: <a href="https://www.ufos-aliens.co.uk/cosmicrend.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufos-aliens.co.uk/cosmicrend.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>smic ConspiraciesMany trees had their tops broken and three holes were found in the frozen soil in a triangular formation, matching the...</p></details>
+   Link:<a href="https://www.ufos-aliens.co.uk/cosmicrend.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufos-aliens.co.uk/cosmicrend.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smic ConspiraciesMany trees had their tops broken and three holes were found in the frozen soil in a triangular formation, matching the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ancient-origins.net  
-   Link: <a href="https://www.ancient-origins.net/unexplained-phenomena/rendlesham-forest-ufo-0014368" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/unexplained-phenomena/rendlesham-forest-ufo-0014368</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Sightings: An Unresolved...7 Oct 2020 — When viewed through the night scopes, the abrasions on the trees gave...</p></details>
+   Link:<a href="https://www.ancient-origins.net/unexplained-phenomena/rendlesham-forest-ufo-0014368" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/unexplained-phenomena/rendlesham-forest-ufo-0014368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Sightings: An Unresolved...7 Oct 2020 — When viewed through the night scopes, the abrasions on the trees gave...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: Rendlesham forest incident  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why this case cannot be...Robert Hastings tracked down 2 [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) operators present and has them on tape corroborating Halt&#x27;s testimony. Th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/859k0g/rendlesham_forest_incident_why_this_case_cannot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why this case cannot be...Robert Hastings tracked down 2 [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) operators present and has them on tape corroborating Halt&#x27;s testimony. Th...</p></details>

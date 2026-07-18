@@ -274,28 +274,28 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burr
 
 ## Introduction
 
-One of the most important but often overlooked features of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) case is what John Burroughs did **not** say in his earliest written account. Burroughs was one of the central security policemen involved in the [first-night]({{ 'first-night/' | relative_url }}) investigation in December 1980, yet his original statement focused on unusual lights, movement in the woods and the pursuit of a distant flashing source. It did not clearly describe a landed spacecraft or detailed close encounter. This omission matters because later retellings of the incident frequently centred on claims of a structured craft in the forest. The contrast between Burroughs’ early report and later narratives has become a key point in debates about the reliability of witness memory and the evolution of the Rendlesham story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+One of the most important but often overlooked features of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) case is what John Burroughs did **not** say in his earliest written account. Burroughs was one of the central security policemen involved in the [first-night]({{ 'first-night/' | relative_url }}) investigation in December 1980, yet his original statement focused on unusual lights, movement in the woods and the pursuit of a distant flashing source. It did not clearly describe a landed spacecraft or detailed close encounter. This omission matters because later retellings of the incident frequently centred on claims of a structured craft in the forest. The contrast between Burroughs’ early report and later narratives has become a key point in debates about the reliability of witness memory and the evolution of the Rendlesham story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-1-dark.svg" | relative_url }}" alt="Burroughs report illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Bright lights and movement in Burroughs' early account
 
-Burroughs' original statement was written close in time to the events and is therefore one of the most valuable contemporary records from the first night. In that account, he described seeing unusual lights beyond the base perimeter and moving through the wooded area. His attention was directed toward what appeared to be a flashing source in the distance rather than toward a clearly identified object on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+Burroughs' original statement was written close in time to the events and is therefore one of the most valuable contemporary records from the first night. In that account, he described seeing unusual lights beyond the base perimeter and moving through the wooded area. His attention was directed toward what appeared to be a flashing source in the distance rather than toward a clearly identified object on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
-A striking feature of the statement is that Burroughs eventually described the patrol reaching a point where the mysterious light appeared to be associated with a beacon or lighthouse. According to his account, the group followed the light for a considerable distance before recognising its likely source. Similar remarks were made by fellow witness Ed Cabansag, who referred to a beacon light in the distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham UFO – what was the flashing light?Burroughs&#x27; statement continues: &#x27;Once we reached the farmer&#x27;s house we could see...</span></span></span>
+A striking feature of the statement is that Burroughs eventually described the patrol reaching a point where the mysterious light appeared to be associated with a beacon or lighthouse. According to his account, the group followed the light for a considerable distance before recognising its likely source. Similar remarks were made by fellow witness Ed Cabansag, who referred to a beacon light in the distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham UFO – what was the flashing light?Burroughs&#x27; statement continues: &#x27;Once we reached the farmer&#x27;s house we could see...</span></span></span>
 
-This does not mean Burroughs considered the entire incident explained. His statement still conveyed confusion and concern about unusual lights seen near a sensitive military installation. However, the document records an investigation of lights rather than a detailed observation of a landed machine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+This does not mean Burroughs considered the entire incident explained. His statement still conveyed confusion and concern about unusual lights seen near a sensitive military installation. However, the document records an investigation of lights rather than a detailed observation of a landed machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pk57F7j9IOM" title="Rendlesham Forest UFO Encounter - Art Bell featuring John Burroughs #artbell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pk57F7j9IOM" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO Encounter - Art Bell featuring John Burroughs #artbell</a></p><p class="youtube-embed-meta">Channel: Alien Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pk57F7j9IOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pk57F7j9IOM">Open on YouTube</a></p></div></div></div>
 
 ## The absence of a landed object description
 
-The most significant evidential issue is that Burroughs' early statement lacks the kind of detailed craft description that later became associated with Rendlesham. Readers looking through the original report find references to lights, movement and pursuit, but not a clear account of standing near a structured vehicle and describing its shape, surface or construction in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+The most significant evidential issue is that Burroughs' early statement lacks the kind of detailed craft description that later became associated with Rendlesham. Readers looking through the original report find references to lights, movement and pursuit, but not a clear account of standing near a structured vehicle and describing its shape, surface or construction in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
-This omission stands in contrast to later claims associated with the case, especially those involving Jim [Penniston]({{ 'penniston/' | relative_url }})'s account of a triangular craft and close inspection. Researchers examining the original documents have repeatedly noted that the earliest witness statements are less dramatic than the narratives that emerged years later. Burroughs' statement is often cited as an example because it records the experience of a key witness while stopping short of explicitly describing a landed craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+This omission stands in contrast to later claims associated with the case, especially those involving Jim [Penniston]({{ 'penniston/' | relative_url }})'s account of a triangular craft and close inspection. Researchers examining the original documents have repeatedly noted that the earliest witness statements are less dramatic than the narratives that emerged years later. Burroughs' statement is often cited as an example because it records the experience of a key witness while stopping short of explicitly describing a landed craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-The distinction is important because contemporary documents generally carry greater evidential weight than recollections recorded decades afterwards. Historians of the case therefore pay close attention not only to what witnesses reported, but also to what they omitted when [memories]({{ 'memories/' | relative_url }}) were freshest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+The distinction is important because contemporary documents generally carry greater evidential weight than recollections recorded decades afterwards. Historians of the case therefore pay close attention not only to what witnesses reported, but also to what they omitted when [memories]({{ 'memories/' | relative_url }}) were freshest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-2-dark.svg" | relative_url }}" alt="Burroughs report illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -303,11 +303,11 @@ The distinction is important because contemporary documents generally carry grea
 
 The absence of a craft description has been used in two very different ways by commentators.
 
-Sceptical investigators argue that Burroughs' statement supports an interpretation centred on misidentified lights. They point out that his written account explicitly discusses pursuing a flashing source that was later recognised as a lighthouse beacon and contains no detailed craft narrative. From this perspective, later additions may reflect [memory]({{ 'memory/' | relative_url }}) reconstruction, discussion among witnesses or the influence of media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham UFO – what was the flashing light?Burroughs&#x27; statement continues: &#x27;Once we reached the farmer&#x27;s house we could see...</span></span></span>
+Sceptical investigators argue that Burroughs' statement supports an interpretation centred on misidentified lights. They point out that his written account explicitly discusses pursuing a flashing source that was later recognised as a lighthouse beacon and contains no detailed craft narrative. From this perspective, later additions may reflect [memory]({{ 'memory/' | relative_url }}) reconstruction, discussion among witnesses or the influence of media attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham UFO – what was the flashing light?Burroughs&#x27; statement continues: &#x27;Once we reached the farmer&#x27;s house we could see...</span></span></span>
 
-Supporters of the UFO interpretation respond that witness statements were often brief military reports rather than comprehensive narratives. They argue that not every detail of an unusual encounter would necessarily have been included in a short official statement and that later testimony can legitimately expand on earlier reports. Some also note that Lieutenant Colonel Charles Halt's subsequent memorandum referred to a glowing object moving among the trees, suggesting that reports circulating within the military community were broader than Burroughs' individual written account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</span></span></span>
+Supporters of the UFO interpretation respond that witness statements were often brief military reports rather than comprehensive narratives. They argue that not every detail of an unusual encounter would necessarily have been included in a short official statement and that later testimony can legitimately expand on earlier reports. Some also note that Lieutenant Colonel Charles Halt's subsequent memorandum referred to a glowing object moving among the trees, suggesting that reports circulating within the military community were broader than Burroughs' individual written account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</span></span></span>
 
-The result is a continuing dispute over whether the missing craft description represents evidence that no close-range object was reported at the time, or simply evidence that Burroughs' first statement was incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+The result is a continuing dispute over whether the missing craft description represents evidence that no close-range object was reported at the time, or simply evidence that Burroughs' first statement was incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tUnjP7cemik" title="UFO Sightings: The Rendlesham Forest Incident. | Witness History." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tUnjP7cemik" target="_blank" rel="noopener noreferrer">UFO Sightings: The Rendlesham Forest Incident. | Witness History.</a></p><p class="youtube-embed-meta">Channel: Anglia OLT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tUnjP7cemik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tUnjP7cemik">Open on YouTube</a></p></div></div></div>
@@ -317,188 +317,188 @@ The result is a continuing dispute over whether the missing craft description re
 
 ## How later memories complicate the witness picture
 
-As the Rendlesham incident gained international attention, Burroughs gave interviews and participated in books, documentaries and public discussions that contained more developed descriptions of the events. These later accounts often presented a more complex and dramatic experience than the concise written statement produced immediately after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tapesearch.com/episode/john-burroughs-rendlesham-ufo-witness/QiQc5Fk6rjNUNvTMzyeK6g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tapesearch.com">[TapeSearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tapesearch.com</span><span class="citation-popover-snippet">John Burroughs, Rendlesham UFO WitnessJohn Burroughs is one of the primary witnesses to a mass UFO sighting in December, 1980...</span></span></span>
+As the Rendlesham incident gained international attention, Burroughs gave interviews and participated in books, documentaries and public discussions that contained more developed descriptions of the events. These later accounts often presented a more complex and dramatic experience than the concise written statement produced immediately after the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tapesearch.com/episode/john-burroughs-rendlesham-ufo-witness/QiQc5Fk6rjNUNvTMzyeK6g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tapesearch.com">[TapeSearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tapesearch.com</span><span class="citation-popover-snippet">John Burroughs, Rendlesham UFO WitnessJohn Burroughs is one of the primary witnesses to a mass UFO sighting in December, 1980...</span></span></span>
 
-The gap between the early documentation and later testimony has become one of the central methodological questions in the case. Researchers studying witness reliability frequently compare the original statements with later recollections to determine how the story evolved over time. The issue is not unique to Rendlesham; it appears in many investigations where memories are revisited years or decades after an event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+The gap between the early documentation and later testimony has become one of the central methodological questions in the case. Researchers studying witness reliability frequently compare the original statements with later recollections to determine how the story evolved over time. The issue is not unique to Rendlesham; it appears in many investigations where memories are revisited years or decades after an event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
-For Burroughs specifically, the historical record shows a clear pattern: the earliest surviving report emphasises lights and movement in the forest, while the detailed image of a landed craft emerges more strongly in later retellings. Whether that reflects incomplete [reporting]({{ 'reporting/' | relative_url }}), evolving recollection or a combination of both remains one of the most debated aspects of the first-night Rendlesham evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
+For Burroughs specifically, the historical record shows a clear pattern: the earliest surviving report emphasises lights and movement in the forest, while the detailed image of a landed craft emerges more strongly in later retellings. Whether that reflects incomplete [reporting]({{ 'reporting/' | relative_url }}), evolving recollection or a combination of both remains one of the most debated aspects of the first-night Rendlesham evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath+2Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-3-dark.svg" | relative_url }}" alt="Burroughs report illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_first_night_lights_2589e1_burroughs_missing_cr_757de8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Burroughs did not report a craft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Burroughs did not report a craft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Covers witness statements and changing narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness statements and changing narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Examines witness testimony in depth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony in depth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Directly relevant to differences between early and later accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to differences between early and later accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for witness-based UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for witness-based UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="burroughs-report-why-burroughs-did-not-report-a-craft-rendlesham-forest-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ For Burroughs specifically, the historical record shows a clear pattern: the ear
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ For Burroughs specifically, the historical record shows a clear pattern: the ear
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ For Burroughs specifically, the historical record shows a clear pattern: the ear
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ For Burroughs specifically, the historical record shows a clear pattern: the ear
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ For Burroughs specifically, the historical record shows a clear pattern: the ear
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,119 +704,119 @@ For Burroughs specifically, the historical record shows a clear pattern: the ear
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Halt Memorandum.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tapesearch.com  
-   Link: <a href="https://www.tapesearch.com/episode/john-burroughs-rendlesham-ufo-witness/QiQc5Fk6rjNUNvTMzyeK6g" target="_blank" rel="noopener noreferrer nofollow">https://www.tapesearch.com/episode/john-burroughs-rendlesham-ufo-witness/QiQc5Fk6rjNUNvTMzyeK6g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Burroughs, Rendlesham UFO WitnessJohn Burroughs is one of the primary witnesses to a mass UFO sighting in December, 1980...</p></details>
+   Link:<a href="https://www.tapesearch.com/episode/john-burroughs-rendlesham-ufo-witness/QiQc5Fk6rjNUNvTMzyeK6g" target="_blank" rel="noopener noreferrer nofollow">https://www.tapesearch.com/episode/john-burroughs-rendlesham-ufo-witness/QiQc5Fk6rjNUNvTMzyeK6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Burroughs, Rendlesham UFO WitnessJohn Burroughs is one of the primary witnesses to a mass UFO sighting in December, 1980...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ianridpath.com  
    Title: Ian [Ridpath](&#123;&#123; 'ridpath/' | relative_url &#125;&#125;) Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2c.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2c.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - The witness statements 2Here are the original statements provided by five of the participants on the f...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham2a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2a.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham UFO – what was the flashing light?Burroughs&#x27; statement continues: &#x27;Once we reached the farmer&#x27;s house we could see...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham2a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham UFO – what was the flashing light?Burroughs&#x27; statement continues: &#x27;Once we reached the farmer&#x27;s house we could see...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/SUNlite%20Rendlesham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/SUNlite%20Rendlesham.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SUNliteBy the time the book Out of the blue appeared in 1991, Jim Pen- niston and John Burroughs had told their stories. They both used a...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/SUNlite%20Rendlesham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/SUNlite%20Rendlesham.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUNliteBy the time the book Out of the blue appeared in 1991, Jim Pen- niston and John Burroughs had told their stories. They both used a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of the Rendle...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of the Rendle...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For more about the identification of the Orford Ness lighthouse, including photographic...Read more...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For more about the identification of the Orford Ness lighthouse, including photographic...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nickpope.net  
    Title: rendlesham forest  
-   Link: <a href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/rendlesham-forest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early hours of December 26 1980, two members of the USAF (John Burroughs and Jim Penniston) who had been sent to investigate a sus...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/rendlesham-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the early hours of December 26 1980, two members of the USAF (John Burroughs and Jim Penniston) who had been sent to investigate a sus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>only lights they could see were those of the Orford...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>only lights they could see were those of the Orford...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iheart.com  
    Title: Rendlesham Forest  
-   Link: <a href="https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High StrangeOver the holidays in 1980, several days of sightings occurred in a forest surrounded by two military bases in eastern England...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-high-strange-110759575/episode/rendlesham-forest-262672477/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High StrangeOver the holidays in 1980, several days of sightings occurred in a forest surrounded by two military bases in eastern England...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While firsthand reports later diverged—Penniston added details not in his original statement—classified government files and a U.S. Depar...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While firsthand reports later diverged—Penniston added details not in his original statement—classified government files and a U.S. Depar...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost reports refer to lights being spotted, rather than an actual ship or craft. View record details. Correspondence on the Re...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost reports refer to lights being spotted, rather than an actual ship or craft. View record details. Correspondence on the Re...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/174852349937156/posts/754717451950640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/174852349937156/posts/754717451950640/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF A flypast at the Benwaters air base Rendlesham...He and another of the airmen present, John Burroughs, attached sketches of the cra...</p></details>
+   Link:<a href="https://www.facebook.com/groups/174852349937156/posts/754717451950640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/174852349937156/posts/754717451950640/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF A flypast at the Benwaters air base Rendlesham...He and another of the airmen present, John Burroughs, attached sketches of the cra...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1167jaj/usaf_officer_who_touched_ufo_in_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1167jaj/usaf_officer_who_touched_ufo_in_rendlesham_forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Officer Who Touched UFO In Rendlesham Forest...Former USAF Sergeant [Penniston claims](&amp;#123;&amp;#123; &#x27;penniston-claim/&#x27; | relative_url &amp;#125;&amp;#125;) he has evidence the visitors were not extrater...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1167jaj/usaf_officer_who_touched_ufo_in_rendlesham_forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1167jaj/usaf_officer_who_touched_ufo_in_rendlesham_forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Officer Who Touched UFO In Rendlesham Forest...Former USAF Sergeant [Penniston claims](&amp;#123;&amp;#123; &#x27;penniston-claim/&#x27; | relative_url &amp;#125;&amp;#125;) he has evidence the visitors were not extrater...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tUnjP7cemik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tUnjP7cemik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: The Rendlesham Forest Incident. | Witness History.The Rendlesham Forest Incident. Rendlesham Forest UFO sighting: Eyewitne...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tUnjP7cemik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tUnjP7cemik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: The Rendlesham Forest Incident. | Witness History.The Rendlesham Forest Incident. Rendlesham Forest UFO sighting: Eyewitne...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: interestingengineering.com  
    Title: 21 facts about the unresolved ufo incident at rendlesham forest  
-   Link: <a href="https://interestingengineering.com/culture/21-facts-about-the-unresolved-ufo-incident-at-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/21-facts-about-the-unresolved-ufo-incident-at-rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force officer John Burroughs described agitated animals and red and blue lights near a farmhouse. One of the men asked to...Rea...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/21-facts-about-the-unresolved-ufo-incident-at-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/21-facts-about-the-unresolved-ufo-incident-at-rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force officer John Burroughs described agitated animals and red and blue lights near a farmhouse. One of the men asked to...Rea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Rendlesham Forest UFO Encounter  
-   Link: <a href="http://www.youtube.com/watch?v=pk57F7j9IOM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pk57F7j9IOM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Burroughs John Burroughs interview Rendlesham Forest UFO lights report TIME TRAVELING UFOS - “They Were Us from the Future” | Ancien...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pk57F7j9IOM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pk57F7j9IOM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Burroughs John Burroughs interview Rendlesham Forest UFO lights report TIME TRAVELING UFOS - “They Were Us from the Future” | Ancien...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: was the black glassy object an actual case of time travel?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In december 1980, just after midgnight, a smooth, black, glassy car-sized triangular object was discovered in Rendlesham Forest (UK). The...</p></details>
    Published: december 1980  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounter in Rendlesham Forest: The Inside Story of the...The events started when Airman First Class John Burroughs spotted strange ligh...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781250063311/Encounter-Rendlesham-Forest-Story-Worlds-1250063310/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounter in Rendlesham Forest: The Inside Story of the...The events started when Airman First Class John Burroughs spotted strange ligh...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: firsthand whistleblower speaks on rendlesham  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fyc78i/firsthand_whistleblower_speaks_on_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fyc78i/firsthand_whistleblower_speaks_on_rendlesham/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whistleblower speaks on Rendlesham Forest UFO incident 1980, threatened to secrecy, &quot;If you make it hot under the col...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fyc78i/firsthand_whistleblower_speaks_on_rendlesham/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fyc78i/firsthand_whistleblower_speaks_on_rendlesham/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whistleblower speaks on Rendlesham Forest UFO incident 1980, threatened to secrecy, &quot;If you make it hot under the col...</p></details>

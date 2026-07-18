@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-bentwaters/
 description: Focused pages that expand on Bentwaters.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_bentwaters_context_2b235d
 parent_title: Bentwaters
@@ -16,7 +16,7 @@ parent_permalink: /bentwaters/
 
 # Explore Topics in Bentwaters
 
-The following pages expand on the main **[Bentwaters]({{ '/bentwaters/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Bentwaters]({{ '/bentwaters/' | relative_url }})** page and cover its key branches in.
 
 - [Cold War Aura]({{ '/cold-war-aura/' | relative_url }})
 - [Heritage]({{ '/heritage/' | relative_url }})

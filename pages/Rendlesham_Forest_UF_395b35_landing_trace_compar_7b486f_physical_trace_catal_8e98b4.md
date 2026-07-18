@@ -280,13 +280,13 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_ph
 
 ## Introduction
 
-Ted Phillips’s physical-trace catalogue helped create a separate category within UFO research: reports in which witnesses claimed that an object not only appeared but also left measurable effects on the environment. Rather than treating every UFO report as a sighting narrative, Phillips attempted to collect cases involving ground depressions, scorched soil, damaged vegetation, residues, electromagnetic effects or other alleged physical alterations. The result was one of the first systematic databases devoted specifically to what researchers called “trace cases”. Within that framework, the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident occupies an important but debated position. It is often cited as a landing-trace case because investigators reported [ground impressions]({{ 'ground-impressions/' | relative_url }}), damage to nearby trees and elevated radiation readings, yet the quality and interpretation of those traces remain contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openlibrary.org">[Open Library+2Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openlibrary.org</span><span class="citation-popover-title">Physical traces associated with UFO sightings: a preliminary catalog.Read more</span><span class="citation-popover-snippet">Open LibraryPhysical traces associated with UFO sightings by Ted PhillipsPhysical traces associated with UFO sightings by Ted Phillips, u...</span></span></span>
+Ted Phillips’s physical-trace catalogue helped create a separate category within UFO research: reports in which witnesses claimed that an object not only appeared but also left measurable effects on the environment. Rather than treating every UFO report as a sighting narrative, Phillips attempted to collect cases involving ground depressions, scorched soil, damaged vegetation, residues, electromagnetic effects or other alleged physical alterations. The result was one of the first systematic databases devoted specifically to what researchers called “trace cases”. Within that framework, the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident occupies an important but debated position. It is often cited as a landing-trace case because investigators reported [ground impressions]({{ 'ground-impressions/' | relative_url }}), damage to nearby trees and elevated radiation readings, yet the quality and interpretation of those traces remain contested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openlibrary.org">[Open Library+2Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openlibrary.org</span><span class="citation-popover-title">Physical traces associated with UFO sightings: a preliminary catalog.Read more</span><span class="citation-popover-snippet">Open LibraryPhysical traces associated with UFO sightings by Ted PhillipsPhysical traces associated with UFO sightings by Ted Phillips, u...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-1-dark.svg" | relative_url }}" alt="Trace Catalogue illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Physical-Trace Catalogues Were Created
 
-Before the 1970s, many UFO investigations consisted largely of witness testimony. Researchers such as J. Allen Hynek and Ted Phillips argued that reports containing physical effects deserved separate treatment because they potentially offered evidence that could be photographed, measured, sampled and compared across cases. Phillips began specialising in such investigations in the late 1960s and compiled what became *Physical Traces Associated with UFO Sightings: A Preliminary Catalog*, published by the Center for UFO Studies (CUFOS) in 1975. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openlibrary.org">[Open Library+2Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openlibrary.org</span><span class="citation-popover-title">Physical traces associated with UFO sightings: a preliminary catalog.Read more</span><span class="citation-popover-snippet">Open LibraryPhysical traces associated with UFO sightings by Ted PhillipsPhysical traces associated with UFO sightings by Ted Phillips, u...</span></span></span>
+Before the 1970s, many UFO investigations consisted largely of witness testimony. Researchers such as J. Allen Hynek and Ted Phillips argued that reports containing physical effects deserved separate treatment because they potentially offered evidence that could be photographed, measured, sampled and compared across cases. Phillips began specialising in such investigations in the late 1960s and compiled what became *Physical Traces Associated with UFO Sightings: A Preliminary Catalog*, published by the Center for UFO Studies (CUFOS) in 1975.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openlibrary.org">[Open Library+2Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openlibrary.org</span><span class="citation-popover-title">Physical traces associated with UFO sightings: a preliminary catalog.Read more</span><span class="citation-popover-snippet">Open LibraryPhysical traces associated with UFO sightings by Ted PhillipsPhysical traces associated with UFO sightings by Ted Phillips, u...</span></span></span>
 
 The [catalogue]({{ 'catalogue/' | relative_url }}) represented a governance choice within UFO research: to prioritise cases where investigators could evaluate environmental effects rather than rely solely on memory or [perception]({{ 'perception/' | relative_url }}). Phillips treated trace reports as a distinct evidential class because they allowed researchers to ask questions familiar to forensic inquiry:
 
@@ -301,7 +301,7 @@ The [catalogue]({{ 'catalogue/' | relative_url }}) represented a governance choi
 
 </div>
 
-The catalogue therefore functioned less as proof of extraordinary events than as a screening tool. It attempted to identify reports that might justify deeper investigation and standardised comparison. Later summaries of Phillips’s work describe databases containing thousands of alleged trace incidents worldwide, illustrating the scale of the effort to classify physical effects separately from ordinary sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
+The catalogue therefore functioned less as proof of extraordinary events than as a screening tool. It attempted to identify reports that might justify deeper investigation and standardised comparison. Later summaries of Phillips’s work describe databases containing thousands of alleged trace incidents worldwide, illustrating the scale of the effort to classify physical effects separately from ordinary sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uTEIO659Uiw" title="The Rendlesham Forest Incident - UFO landing or military misunderstanding? - Bust or Trust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uTEIO659Uiw" target="_blank" rel="noopener noreferrer">The Rendlesham Forest Incident - UFO landing or military misunderstanding? - Bust or Trust</a></p><p class="youtube-embed-meta">Channel: Bust or Trust: A Kids&#x27; Mystery Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uTEIO659Uiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uTEIO659Uiw">Open on YouTube</a></p></div></div></div>
@@ -319,32 +319,32 @@ In Phillips’s framework, a landing-trace case typically involved a reported ob
 * Chemical residues.
 * Heat effects on plants or surfaces.
 * Electromagnetic disturbances.
-* Unusual soil compaction or changes in plant growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
+* Unusual soil compaction or changes in plant growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
 
 </div>
 
-What made these reports attractive to investigators was not merely the existence of a mark but the possibility of comparison. If many independent reports produced similar patterns, researchers hoped that recurring features might emerge. Phillips’s catalogue therefore resembled a case database rather than a collection of dramatic stories. Cases were indexed and described according to observable effects, allowing investigators to compare one alleged [landing site]({{ 'landing-site/' | relative_url }}) with another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
+What made these reports attractive to investigators was not merely the existence of a mark but the possibility of comparison. If many independent reports produced similar patterns, researchers hoped that recurring features might emerge. Phillips’s catalogue therefore resembled a case database rather than a collection of dramatic stories. Cases were indexed and described according to observable effects, allowing investigators to compare one alleged [landing site]({{ 'landing-site/' | relative_url }}) with another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
 
-At the same time, the catalogue implicitly acknowledged a major limitation: physical traces are vulnerable to contamination. Vehicle tracks, agricultural activity, weather, forestry work, animal activity and later visitors can all alter a site. Consequently, the strongest catalogue entries were usually those examined rapidly after the reported event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
+At the same time, the catalogue implicitly acknowledged a major limitation: physical traces are vulnerable to contamination. Vehicle tracks, agricultural activity, weather, forestry work, animal activity and later visitors can all alter a site. Consequently, the strongest catalogue entries were usually those examined rapidly after the reported event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-2-dark.svg" | relative_url }}" alt="Trace Catalogue illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Rendlesham Fits Among Catalogue-Style Cases
 
-Rendlesham entered UFO literature as more than a lights-in-the-sky report because witnesses and later investigators pointed to several alleged physical effects. These included three ground depressions in the forest clearing, marks on nearby trees and radiation measurements recorded during Lieutenant Colonel Charles Halt’s follow-up investigation. Rendlesham therefore matched several categories that Phillips regarded as relevant to physical-trace research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsdefe-24-2030-1-1.pdfFor the first time in the world you can now discover the UK government&#x27;s secret files on the...</span></span></span>
+Rendlesham entered UFO literature as more than a lights-in-the-sky report because witnesses and later investigators pointed to several alleged physical effects. These included three ground depressions in the forest clearing, marks on nearby trees and radiation measurements recorded during Lieutenant Colonel Charles Halt’s follow-up investigation. Rendlesham therefore matched several categories that Phillips regarded as relevant to physical-trace research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsdefe-24-2030-1-1.pdfFor the first time in the world you can now discover the UK government&#x27;s secret files on the...</span></span></span>
 
 From a catalogue perspective, the case checks many of the boxes that would draw attention:
 
-* Multiple military witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Unidentified Flying Objects Briefing Document...AT RENDLESHAM FOREST, ENGLAND Several UFO incidents, inclu...</span></span></span>
+* Multiple military witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Unidentified Flying Objects Briefing Document...AT RENDLESHAM FOREST, ENGLAND Several UFO incidents, inclu...</span></span></span>
 * A reported low-level or landed object.
 * Ground impressions allegedly corresponding to landing supports.
 * Claims of [tree damage]({{ 'tree-damage/' | relative_url }}).
 * Instrument readings taken at the location.
-* An official memorandum documenting the investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsdefe-24-2030-1-1.pdfFor the first time in the world you can now discover the UK government&#x27;s secret files on the...</span></span></span>
+* An official memorandum documenting the investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsdefe-24-2030-1-1.pdfFor the first time in the world you can now discover the UK government&#x27;s secret files on the...</span></span></span>
 
 These features help explain why Rendlesham became a prominent trace case within UFO research circles. The event offered more than eyewitness testimony and appeared to provide physical points of comparison with earlier landing reports.
 
-However, Phillips-style cataloguing does not automatically elevate a case to the strongest evidential tier. The catalogue approach focuses on recording and comparing traces, not proving their origin. Rendlesham's physical indicators were documented after the alleged events rather than during them, and critics have argued that the reported traces were not uniquely diagnostic of an extraordinary craft. Ground depressions can have multiple causes, tree marks can be interpreted differently, and radiation readings require careful baseline comparisons. Those issues place Rendlesham in a middle position: richer in physical claims than a conventional sighting, but less straightforward than the best-documented trace sites where environmental effects were examined almost immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
+However, Phillips-style cataloguing does not automatically elevate a case to the strongest evidential tier. The catalogue approach focuses on recording and comparing traces, not proving their origin. Rendlesham's physical indicators were documented after the alleged events rather than during them, and critics have argued that the reported traces were not uniquely diagnostic of an extraordinary craft. Ground depressions can have multiple causes, tree marks can be interpreted differently, and radiation readings require careful baseline comparisons. Those issues place Rendlesham in a middle position: richer in physical claims than a conventional sighting, but less straightforward than the best-documented trace sites where environmental effects were examined almost immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DsNSF7oBYS0" title="Former Navy Pilot Ryan Graves on His UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DsNSF7oBYS0" target="_blank" rel="noopener noreferrer">Former Navy Pilot Ryan Graves on His UFO Encounter</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DsNSF7oBYS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DsNSF7oBYS0">Open on YouTube</a></p></div></div></div>
@@ -356,202 +356,202 @@ However, Phillips-style cataloguing does not automatically elevate a case to the
 
 The lasting significance of Rendlesham within Phillips’s catalogue-oriented tradition is not that it resolved the UFO question, but that it illustrates both the strengths and weaknesses of physical-trace evidence.
 
-On the one hand, the case demonstrates why investigators sought environmental indicators in the first place. Witness testimony was supplemented by measurable features at a specific location, creating a record that could be revisited and debated decades later. On the other hand, Rendlesham shows how difficult it is to establish causation from traces alone. Even when marks, measurements and physical observations exist, researchers must still determine whether those features genuinely resulted from the reported event or from unrelated natural or human activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
+On the one hand, the case demonstrates why investigators sought environmental indicators in the first place. Witness testimony was supplemented by measurable features at a specific location, creating a record that could be revisited and debated decades later. On the other hand, Rendlesham shows how difficult it is to establish causation from traces alone. Even when marks, measurements and physical observations exist, researchers must still determine whether those features genuinely resulted from the reported event or from unrelated natural or human activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
 
-For that reason, Rendlesham occupies a notable place in the tradition established by Ted Phillips. It is not merely remembered as a military UFO sighting; it is remembered as a case that entered the specialised category of alleged landing traces. Phillips’s catalogue provided the framework that allowed researchers to classify and compare such reports, and Rendlesham became one of the most frequently discussed examples of how physical evidence can both strengthen and complicate a UFO investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947+2Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
+For that reason, Rendlesham occupies a notable place in the tradition established by Ted Phillips. It is not merely remembered as a military UFO sighting; it is remembered as a case that entered the specialised category of alleged landing traces. Phillips’s catalogue provided the framework that allowed researchers to classify and compare such reports, and Rendlesham became one of the most frequently discussed examples of how physical evidence can both strengthen and complicate a UFO investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947+2Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-3-dark.svg" | relative_url }}" alt="Trace Catalogue illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_physical_trace_catal_8e98b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Researchers Ranked Physical Traces. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Researchers Ranked Physical Traces. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains evidence categories and investigative approaches that influenced later physical-trace research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence categories and investigative approaches that influenced later physical-trace research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers a comparative framework for evaluating reports and recurring case patterns beyond simple sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a comparative framework for evaluating reports and recurring case patterns beyond simple sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Covers the Rendlesham case frequently cited in discussions of alleged landing traces and physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the Rendlesham case frequently cited in discussions of alleged landing traces and physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="trace-catalogue-how-ufo-researchers-ranked-physical-traces-rendlesham-forest-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ For that reason, Rendlesham occupies a notable place in the tradition establishe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ For that reason, Rendlesham occupies a notable place in the tradition establishe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ For that reason, Rendlesham occupies a notable place in the tradition establishe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ For that reason, Rendlesham occupies a notable place in the tradition establishe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ For that reason, Rendlesham occupies a notable place in the tradition establishe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,116 +757,116 @@ For that reason, Rendlesham occupies a notable place in the tradition establishe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/47cats/phillips.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</p></details>
+   Link:<a href="https://www.project1947.com/47cats/phillips.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/47cats/phillips.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947Ted Phillips&#x27; Trace Catalogue - Paul FullerThe catalogue was published in 1975 by CUFOS and its proper title is Physical Trac...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/cufos-publications-databases/books/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/books/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesBooksSelected books and monographs published by CUFOS over the years are available online: Ted Phillips, comp., Phy...</p></details>
+   Link:<a href="https://cufos.org/cufos-publications-databases/books/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/books/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesBooksSelected books and monographs published by CUFOS over the years are available online: Ted Phillips, comp., Phy...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher Ted Phillips assembled a database of more than 4,000 landing [trace cases](&amp;#123;&amp;#123; &#x27;trace-cases/&#x27; | relative_url &amp;#125;&amp;#125;), incidents where plants and soil traces attested to...</p></details>
+   Link:<a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher Ted Phillips assembled a database of more than 4,000 landing [trace cases](&amp;#123;&amp;#123; &#x27;trace-cases/&#x27; | relative_url &amp;#125;&amp;#125;), incidents where plants and soil traces attested to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/452809253/Physical-Traces-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452809253/Physical-Traces-pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Traces PDF | PDF | Unidentified Flying ObjectTed Phillips - Physical Traces Associated With UFO Sightings - A Preliminary...</p></details>
+   Link:<a href="https://www.scribd.com/document/452809253/Physical-Traces-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452809253/Physical-Traces-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Traces PDF | PDF | Unidentified Flying ObjectTed Phillips - Physical Traces Associated With UFO Sightings - A Preliminary...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Unidentified Flying Objects Briefing Document...AT RENDLESHAM FOREST, ENGLAND Several UFO incidents, inclu...</p></details>
+   Link:<a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Unidentified Flying Objects Briefing Document...AT RENDLESHAM FOREST, ENGLAND Several UFO incidents, inclu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
    Title: Physical Traces Associated With UFO Sightings  
-   Link: <a href="https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ted PhillipsThis catalog is pioneering work of Ted Phillips, who has tor many years specialized in the collection of physical trace cases...</p></details>
+   Link:<a href="https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ted PhillipsThis catalog is pioneering work of Ted Phillips, who has tor many years specialized in the collection of physical trace cases...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Rendlesham Forest Incident  
-   Link: <a href="https://www.youtube.com/watch?v=uTEIO659Uiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uTEIO659Uiw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Dead End Light&quot; | Dark Weirdness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uTEIO659Uiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uTEIO659Uiw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Dead End Light&quot; | Dark Weirdness...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: openlibrary.org  
    Title: Physical traces associated with UFO sightings: a preliminary catalog.Read more  
-   Link: <a href="https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open LibraryPhysical traces associated with UFO sightings by Ted PhillipsPhysical traces associated with UFO sightings by Ted Phillips, u...</p></details>
+   Link:<a href="https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/works/OL7118276W/Physical_traces_associated_with_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open LibraryPhysical traces associated with UFO sightings by Ted PhillipsPhysical traces associated with UFO sightings by Ted Phillips, u...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsdefe-24-2030-1-1.pdfFor the first time in the world you can now discover the UK government&#x27;s secret files on the...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsdefe-24-2030-1-1.pdfFor the first time in the world you can now discover the UK government&#x27;s secret files on the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: Ted Phillips  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/w2srcv/ted_phillips_expert_discusses_ufo_landing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/w2srcv/ted_phillips_expert_discusses_ufo_landing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Expert discusses UFO Landing PHYSICAL...Ted Philips 150 page report on UFO [Landing marks](&amp;#123;&amp;#123; &#x27;landing-marks/&#x27; | relative_url &amp;#125;&amp;#125;) - (pdf download):. [http://www.cufos.org/books/P...&quot;](http://www.cufos.org/books/P...&quot;)...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/w2srcv/ted_phillips_expert_discusses_ufo_landing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/w2srcv/ted_phillips_expert_discusses_ufo_landing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Expert discusses UFO Landing PHYSICAL...Ted Philips 150 page report on UFO [Landing marks](&amp;#123;&amp;#123; &#x27;landing-marks/&#x27; | relative_url &amp;#125;&amp;#125;) - (pdf download):. [http://www.cufos.org/books/P...&quot;](http://www.cufos.org/books/P...&quot;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: Ted Phillips  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/fgqvtm/ted_phillips_ufo_trace_evidence_pioneer_passed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/fgqvtm/ted_phillips_ufo_trace_evidence_pioneer_passed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• 4y ago. Ted Phillips - Expert discusses UFO Landing PHYSICAL traces left behind from hundreds of different sites. 17. 14. Hundreds of...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/fgqvtm/ted_phillips_ufo_trace_evidence_pioneer_passed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/fgqvtm/ted_phillips_ufo_trace_evidence_pioneer_passed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• 4y ago. Ted Phillips - Expert discusses UFO Landing PHYSICAL traces left behind from hundreds of different sites. 17. 14. Hundreds of...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified object report with enhanced imagery from a PANTEX radar tower. Image showing objects in formation with trails, a crosshai...</p></details>
+   Link:<a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified object report with enhanced imagery from a PANTEX radar tower. Image showing objects in formation with trails, a crosshai...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/40189680/THE_ROUGHAM_MYSTERY_An_Investigation_into_the_Time_Slip_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40189680/THE_ROUGHAM_MYSTERY_An_Investigation_into_the_Time_Slip_Phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ROUGHAM MYSTERY An Investigation into the Time...An informal investigation into the time slip phenomenon in the context of a local m...</p></details>
+   Link:<a href="https://www.academia.edu/40189680/THE_ROUGHAM_MYSTERY_An_Investigation_into_the_Time_Slip_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40189680/THE_ROUGHAM_MYSTERY_An_Investigation_into_the_Time_Slip_Phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ROUGHAM MYSTERY An Investigation into the Time...An informal investigation into the time slip phenomenon in the context of a local m...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/48642468-physical-traces-associated-with-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/48642468-physical-traces-associated-with-ufo-sightings</a>  
+   Link:<a href="https://www.goodreads.com/book/show/48642468-physical-traces-associated-with-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/48642468-physical-traces-associated-with-ufo-sightings</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: static.secure.website  
-   Link: <a href="https://static.secure.website/wscfus/10348600/8340142/alien-physical-trace-cases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.secure.website/wscfus/10348600/8340142/alien-physical-trace-cases.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trace Cases(Contains a selection of cases from Ted Phillips&#x27; Physical Trace Catalogue). The catalogue was published in 1975 by CUFOS and...</p></details>
+   Link:<a href="https://static.secure.website/wscfus/10348600/8340142/alien-physical-trace-cases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.secure.website/wscfus/10348600/8340142/alien-physical-trace-cases.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trace Cases(Contains a selection of cases from Ted Phillips&#x27; Physical Trace Catalogue). The catalogue was published in 1975 by CUFOS and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notable UFO sightings in history?At the site a depressed circle and ground marks were found. (...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2826115564220752/posts/3196740953824876/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notable UFO sightings in history?At the site a depressed circle and ground marks were found. (...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressAt the site a depressed circle and ground marks were found. (...</p></details>
+   Link:<a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressAt the site a depressed circle and ground marks were found. (...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dokumen.pub  
    Title: the compelling scientific evidence for ufos 150271552x  
-   Link: <a href="https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trace case report. The original investigator of this case Ted Phillips has catalogued over 4000 such cases that vary in their significanc...</p></details>
+   Link:<a href="https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trace case report. The original investigator of this case Ted Phillips has catalogued over 4000 such cases that vary in their significanc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 405414715 UFO Curated Landmark Cases and Analysis  
-   Link: <a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFO Curated Landmark Cases and Analysis30 May 2026 — Ted Phillips, a physical trace specialist affiliated with J. Allen Hynek and t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFO Curated Landmark Cases and Analysis30 May 2026 — Ted Phillips, a physical trace specialist affiliated with J. Allen Hynek and t...</p></details>
    Published: May 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: alienhub.com  
-   Link: <a href="https://www.alienhub.com/threads/ted-phillips-on-ufo-physical-trace-research.23552/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/threads/ted-phillips-on-ufo-physical-trace-research.23552/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien HubTed Phillips on UFO Physical Trace Research.22 Apr 2010 — There are at least somewhere between 3,500 and 5,000 UFO physical trac...</p></details>
+   Link:<a href="https://www.alienhub.com/threads/ted-phillips-on-ufo-physical-trace-research.23552/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/threads/ted-phillips-on-ufo-physical-trace-research.23552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien HubTed Phillips on UFO Physical Trace Research.22 Apr 2010 — There are at least somewhere between 3,500 and 5,000 UFO physical trac...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: forensicsciencesimplified.org  
-   Link: <a href="https://www.forensicsciencesimplified.org/trace/TraceEvidence.epub" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicsciencesimplified.org/trace/TraceEvidence.epub</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r a location the victim or suspect may have been recently.Read more...</p></details>
+   Link:<a href="https://www.forensicsciencesimplified.org/trace/TraceEvidence.epub" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicsciencesimplified.org/trace/TraceEvidence.epub</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r a location the victim or suspect may have been recently.Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-cold-war/
 description: Focused pages that expand on Cold War.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_cold_war_security_5f90f0
 parent_title: Cold War
@@ -16,7 +16,7 @@ parent_permalink: /cold-war/
 
 # Explore Topics in Cold War
 
-The following pages expand on the main **[Cold War]({{ '/cold-war/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Cold War]({{ '/cold-war/' | relative_url }})** page and cover its key branches in.
 
 - [East Gate]({{ '/east-gate/' | relative_url }})
 - [Halt Memo]({{ '/halt-memo-f17a66/' | relative_url }})

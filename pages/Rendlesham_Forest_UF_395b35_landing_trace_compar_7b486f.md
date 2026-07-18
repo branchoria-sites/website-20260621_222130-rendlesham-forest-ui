@@ -447,27 +447,27 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-ov
 
 ## Introduction
 
-Landing-trace cases are UFO reports in which the claim is not only that something was seen in the sky, but that it touched the ground and left marks, burns, radiation readings, damaged plants or other physical effects. Rendlesham belongs in that family because its story includes three ground depressions, alleged [tree damage]({{ 'tree-damage/' | relative_url }}) and radiation measurements, not just lights in the forest. The comparison matters because trace evidence can make a case feel harder to dismiss, but it also raises the standard of proof: marks on soil, plants or trees must be tied convincingly to the reported object, collected quickly, and ruled out against ordinary causes. On that test, Rendlesham is stronger than a simple light-in-the-sky report, but weaker than the best-known trace cases such as Socorro and [Trans-en-Provence]({{ 'trans-en-provence/' | relative_url }}), where investigators recorded site effects soon after the claimed landing. Wikipedia+3The National Archives+3U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Landing-trace cases are UFO reports in which the claim is not only that something was seen in the sky, but that it touched the ground and left marks, burns, radiation readings, damaged plants or other physical effects. Rendlesham belongs in that family because its story includes three ground depressions, alleged [tree damage]({{ 'tree-damage/' | relative_url }}) and radiation measurements, not just lights in the forest. The comparison matters because trace evidence can make a case feel harder to dismiss, but it also raises the standard of proof: marks on soil, plants or trees must be tied convincingly to the reported object, collected quickly, and ruled out against ordinary causes. On that test, Rendlesham is stronger than a simple light-in-the-sky report, but weaker than the best-known trace cases such as Socorro and [Trans-en-Provence]({{ 'trans-en-provence/' | relative_url }}), where investigators recorded site effects soon after the claimed landing. Wikipedia+3The National Archives+3U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-overview.webp" | relative_url }}" alt="Overview image for Trace Cases" loading="eager" decoding="sync" fetchpriority="high">
 ## Why landing traces carry extra weight
 
-A landing-trace case changes the argument because it appears to move the evidence from memory into the physical world. A witness can misjudge distance, size or direction; a scorch mark, depression or abnormal plant sample seems, at first glance, less dependent on [perception]({{ 'perception/' | relative_url }}). That is why trace cases have long held a special place in UFO literature. Ted Phillips’s 1975 [catalogue]({{ 'catalogue/' | relative_url }}), published through the Center for UFO Studies, was explicitly framed around “physical traces associated with UFO sightings”, and later UFOCAT documentation shows how researchers tried to catalogue UFO reports systematically rather than treat each story as a detached anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informeovni.net/documentos/Fuller_1997_Ted_Phillips_Physical_Trace_Catalogue_A_selection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informeovni.net">[informeovni.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informeovni.net</span><span class="citation-popover-title">Fuller 1997 Ted Phillips Physical Trace Catalogue A selection</span><span class="citation-popover-snippet">Fuller 1997 Ted Phillips Physical Trace Catalogue A selection</span></span></span>
+A landing-trace case changes the argument because it appears to move the evidence from memory into the physical world. A witness can misjudge distance, size or direction; a scorch mark, depression or abnormal plant sample seems, at first glance, less dependent on [perception]({{ 'perception/' | relative_url }}). That is why trace cases have long held a special place in UFO literature. Ted Phillips’s 1975 [catalogue]({{ 'catalogue/' | relative_url }}), published through the Center for UFO Studies, was explicitly framed around “physical traces associated with UFO sightings”, and later UFOCAT documentation shows how researchers tried to catalogue UFO reports systematically rather than treat each story as a detached anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informeovni.net/documentos/Fuller_1997_Ted_Phillips_Physical_Trace_Catalogue_A_selection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informeovni.net">[informeovni.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informeovni.net</span><span class="citation-popover-title">Fuller 1997 Ted Phillips Physical Trace Catalogue A selection</span><span class="citation-popover-snippet">Fuller 1997 Ted Phillips Physical Trace Catalogue A selection</span></span></span>
 
 The attraction is obvious: if an unknown craft landed, the ground should bear some sign of load, heat, exhaust, chemical residue or biological damage. Yet the same feature also creates a vulnerability. Ground marks can be made by animals, vehicles, tools, weather, fungi, old work sites, military activity or later visitors. A good trace case therefore depends less on the mere existence of marks than on the chain connecting those marks to the sighting. The key questions are practical: Were the marks documented before contamination? Were samples taken against control samples? Did independent investigators record measurements? Was there a plausible mundane source already present at the location?
 
-Rendlesham’s enduring appeal comes from having several trace ingredients at once: military witnesses, an official memo, a forest location beside a sensitive base, reported depressions, tree marks and radiation readings. The [National Archives]({{ 'archive-map/' | relative_url }}) identifies the core official record as Lieutenant Colonel Charles Halt’s report of “Unexplained Lights”, and notes that servicemen investigated [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) on two separate nights in December 1980. It also adds a crucial limitation: the archive holds a single-sheet report of the event itself, while much of the wider file consists of later public and press enquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Rendlesham’s enduring appeal comes from having several trace ingredients at once: military witnesses, an official memo, a forest location beside a sensitive base, reported depressions, tree marks and radiation readings. The [National Archives]({{ 'archive-map/' | relative_url }}) identifies the core official record as Lieutenant Colonel Charles Halt’s report of “Unexplained Lights”, and notes that servicemen investigated [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) on two separate nights in December 1980. It also adds a crucial limitation: the archive holds a single-sheet report of the event itself, while much of the wider file consists of later public and press enquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-1-dark.svg" | relative_url }}" alt="Trace Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Socorro shows what a cleaner trace case looks like
 
-The 1964 Socorro case is one of the most useful comparisons because it also involved an official witness and alleged ground effects, but in a simpler setting. Police officer Lonnie Zamora reported seeing an oval object near Socorro, New Mexico, followed by a loud roar, flame and departure. The CIA’s historical account of Project Blue Book says Hector Quintanilla, the final chief officer of the US Air Force programme, regarded the Zamora sighting as the “best-documented case on record”, and says Blue Book’s team could not identify the object or its origins after an extensive investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIA...</span></span></span>
+The 1964 Socorro case is one of the most useful comparisons because it also involved an official witness and alleged ground effects, but in a simpler setting. Police officer Lonnie Zamora reported seeing an oval object near Socorro, New Mexico, followed by a loud roar, flame and departure. The CIA’s historical account of Project Blue Book says Hector Quintanilla, the final chief officer of the US Air Force programme, regarded the Zamora sighting as the “best-documented case on record”, and says Blue Book’s team could not identify the object or its origins after an extensive investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIA...</span></span></span>
 
-The physical-trace element at Socorro was recorded promptly. A released FBI file describes Special Agent D. Arthur Byrnes arriving at the site shortly after the event, noting that Zamora was sober, agitated, and known locally as conscientious rather than fantasy-prone. The same file records four regular depressions in rough ground, approximately sixteen by six inches and about two inches deep, plus burned grass patches and several small circular marks in the sandy earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
+The physical-trace element at Socorro was recorded promptly. A released FBI file describes Special Agent D. Arthur Byrnes arriving at the site shortly after the event, noting that Zamora was sober, agitated, and known locally as conscientious rather than fantasy-prone. The same file records four regular depressions in rough ground, approximately sixteen by six inches and about two inches deep, plus burned grass patches and several small circular marks in the sandy earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
 
-That does not prove a non-human craft landed at Socorro. The CIA account states that soil analysis found no foreign material and that radiation in the tracks and surrounding area was normal. But as a trace case, Socorro has structural strengths Rendlesham lacks: a single close witness, a daylight or early-evening setting, rapid law-enforcement presence, measured marks, and fewer layers of later memory conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIA...</span></span></span>
+That does not prove a non-human craft landed at Socorro. The CIA account states that soil analysis found no foreign material and that radiation in the tracks and surrounding area was normal. But as a trace case, Socorro has structural strengths Rendlesham lacks: a single close witness, a daylight or early-evening setting, rapid law-enforcement presence, measured marks, and fewer layers of later memory conflict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIA...</span></span></span>
 
 Rendlesham is more complex. It has multiple witnesses and military context, which helps credibility in one sense, but it also spans separate nights, night-time navigation in a forest, changing recollections, and traces examined after the initial confusion. Socorro’s marks may be unexplained without being extraordinary; Rendlesham’s marks are embedded in a messier sequence where the physical evidence has to compete with possible lighthouse, meteor, star, animal and forestry explanations.
 
@@ -476,11 +476,11 @@ Rendlesham is more complex. It has multiple witnesses and military context, whic
 
 ## Trans-en-Provence raises the bar for laboratory claims
 
-Trans-en-Provence, reported in France in January 1981, is another central comparison because it is the classic European landing-trace case. A farmer reported a saucer-like object landing briefly on his property and leaving traces. CNES, the French space agency, describes GEIPAN as its official group for collecting, analysing and archiving unidentified aerospace phenomena reports; a CNES summary of GEIPAN’s history specifically cites Trans-en-Provence as a case in which a farmer witnessed a saucer landing and taking off in his garden, leaving ground traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+Trans-en-Provence, reported in France in January 1981, is another central comparison because it is the classic European landing-trace case. A farmer reported a saucer-like object landing briefly on his property and leaving traces. CNES, the French space agency, describes GEIPAN as its official group for collecting, analysing and archiving unidentified aerospace phenomena reports; a CNES summary of GEIPAN’s history specifically cites Trans-en-Provence as a case in which a farmer witnessed a saucer landing and taking off in his garden, leaving ground traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-The reason Trans-en-Provence is often treated as stronger than Rendlesham is not that its witness story is inherently more dramatic. It is that the case generated a claim of technical analysis: soil and plant effects were reportedly examined, with later summaries describing compressed ground, heat effects and abnormal plant changes. Even sceptical accounts accept that the case became famous because physical samples and laboratory interpretation moved it beyond ordinary testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span>
+The reason Trans-en-Provence is often treated as stronger than Rendlesham is not that its witness story is inherently more dramatic. It is that the case generated a claim of technical analysis: soil and plant effects were reportedly examined, with later summaries describing compressed ground, heat effects and abnormal plant changes. Even sceptical accounts accept that the case became famous because physical samples and laboratory interpretation moved it beyond ordinary testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span>
 
-But Trans-en-Provence also shows the danger of over-reading laboratory language. A sceptical review in *Skeptical Inquirer* argued that the French investigation did not adequately pursue a mundane possibility: local police had reportedly thought the marks could have been made by car tyres on a part of the property where vehicles had operated. The same review used Trans-en-Provence as an example of how an “unexplained” classification can sometimes reflect investigative limits rather than a confirmed exotic cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+But Trans-en-Provence also shows the danger of over-reading laboratory language. A sceptical review in *Skeptical Inquirer* argued that the French investigation did not adequately pursue a mundane possibility: local police had reportedly thought the marks could have been made by car tyres on a part of the property where vehicles had operated. The same review used Trans-en-Provence as an example of how an “unexplained” classification can sometimes reflect investigative limits rather than a confirmed exotic cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 That comparison is important for Rendlesham because both cases have a similar public dynamic. Once a trace is labelled unusual, the label can become more powerful than the trace itself. In Rendlesham, phrases such as “radiation readings” and “[landing marks]({{ 'landing-marks/' | relative_url }})” sound scientific, but their evidential value depends on calibration, background levels, site history and whether the marks were distinctive. Trans-en-Provence warns that even a case with laboratory attention can remain vulnerable if the basic site interpretation is disputed.
 
@@ -488,11 +488,11 @@ That comparison is important for Rendlesham because both cases have a similar pu
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-2-dark.svg" | relative_url }}" alt="Trace Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rendlesham’s traces are suggestive but contested
 
-Rendlesham’s physical-evidence claims usually rest on three main elements: the triangular ground depressions, marks or damage on nearby trees, and radiation readings taken during Halt’s later visit. These details make the case more than a simple report of lights. They also help explain why it has remained more durable than many British UFO reports. The National Archives confirms that Halt formally reported unexplained lights and that the case continued to generate parliamentary, press and public interest, even though the Ministry of Defence maintained that there was no threat to UK airspace or national security and no further investigation took place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Rendlesham’s physical-evidence claims usually rest on three main elements: the triangular ground depressions, marks or damage on nearby trees, and radiation readings taken during Halt’s later visit. These details make the case more than a simple report of lights. They also help explain why it has remained more durable than many British UFO reports. The National Archives confirms that Halt formally reported unexplained lights and that the case continued to generate parliamentary, press and public interest, even though the Ministry of Defence maintained that there was no threat to UK airspace or national security and no further investigation took place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-The weakness is that each physical element has a plausible dispute attached to it. Sceptical investigator Ian Ridpath argues that the supposed landing marks were indistinguishable from rabbit diggings, and that photographs of the marks can be compared with ordinary animal scrapings in the forest soil. He also argues that separate lines of evidence point away from unusual radiation at the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/landingmarks.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the landing marksPhotographs of two of the marks taken on the same occasion can be seen on this page...</span></span></span>
+The weakness is that each physical element has a plausible dispute attached to it. Sceptical investigator Ian Ridpath argues that the supposed landing marks were indistinguishable from rabbit diggings, and that photographs of the marks can be compared with ordinary animal scrapings in the forest soil. He also argues that separate lines of evidence point away from unusual radiation at the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/landingmarks.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-title">Ian Ridpath Rendlesham Forest UFO</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO - the landing marksPhotographs of two of the marks taken on the same occasion can be seen on this page...</span></span></span>
 
-The radiation claim is especially easy to misunderstand. Halt’s party did take readings, and the presence of a Geiger counter gives the episode a forensic flavour. But later summaries of the values describe readings in the range of ordinary background variation rather than a clearly hazardous or anomalous radiation field. The Guardian’s recent account notes that Halt’s Geiger counter registered low readings consistent with normal background radiation, while Ridpath’s analysis argues that the reported levels were insignificant even at the maximum commonly cited value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The radiation claim is especially easy to misunderstand. Halt’s party did take readings, and the presence of a Geiger counter gives the episode a forensic flavour. But later summaries of the values describe readings in the range of ordinary background variation rather than a clearly hazardous or anomalous radiation field. The Guardian’s recent account notes that Halt’s Geiger counter registered low readings consistent with normal background radiation, while Ridpath’s analysis argues that the reported levels were insignificant even at the maximum commonly cited value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 Compared with Socorro, Rendlesham’s traces are less cleanly tied to a single observed landing. Compared with Trans-en-Provence, they have less publicly visible laboratory weight. What Rendlesham adds instead is institutional texture: a Cold War base, military personnel, a formal memo, and a forest site that later became part of public memory. That makes it culturally and historically powerful, but not automatically stronger as physical evidence.
 
@@ -503,19 +503,19 @@ Compared with Socorro, Rendlesham’s traces are less cleanly tied to a single o
 
 Landing-trace cases often fail not because every witness is unreliable, but because the physical evidence is too ordinary, too late, or too weakly controlled to carry the extraordinary interpretation placed on it. Rendlesham illustrates several common problems.
 
-**Ordinary marks become meaningful after the sighting.** A depression, scrape or burnt patch is not self-explanatory. At Socorro, investigators recorded the marks quickly and in detail, but still found no foreign material and normal radiation. At Rendlesham, the marks were interpreted after a confusing night-time event in a forest where animals and forestry activity were already plausible sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
+**Ordinary marks become meaningful after the sighting.** A depression, scrape or burnt patch is not self-explanatory. At Socorro, investigators recorded the marks quickly and in detail, but still found no foreign material and normal radiation. At Rendlesham, the marks were interpreted after a confusing night-time event in a forest where animals and forestry activity were already plausible sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
 
-**Scientific-sounding measurements can outrun their significance.** “Radiation” is a powerful word, but a reading only matters when compared with background levels, instrument limits and control measurements. Rendlesham’s reported readings have often been retold as if radiation itself proves a landing, while sceptical and journalistic accounts describe them as low or background-level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+**Scientific-sounding measurements can outrun their significance.** “Radiation” is a powerful word, but a reading only matters when compared with background levels, instrument limits and control measurements. Rendlesham’s reported readings have often been retold as if radiation itself proves a landing, while sceptical and journalistic accounts describe them as low or background-level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-**Later fame changes the site.** Trace cases attract visitors, investigators, journalists and believers. Once a location becomes a legend, contamination is not only physical but narrative: later accounts, reconstructions and commemorations can make the original evidence seem more coherent than it was. Socorro developed a public commemorative identity; Rendlesham now has a visitor trail; Trans-en-Provence became a touchstone in French UFO debate. Visit Socorro New Mexico+2Home | Forestry England <span class="citation-link-wrap"><a class="citation-inline-link" href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socorronm.org">[socorronm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socorronm.org</span><span class="citation-popover-snippet">Open source on socorronm.org.</span></span></span>
+**Later fame changes the site.** Trace cases attract visitors, investigators, journalists and believers. Once a location becomes a legend, contamination is not only physical but narrative: later accounts, reconstructions and commemorations can make the original evidence seem more coherent than it was. Socorro developed a public commemorative identity; Rendlesham now has a visitor trail; Trans-en-Provence became a touchstone in French UFO debate. Visit Socorro New Mexico+2Home | Forestry England<span class="citation-link-wrap"><a class="citation-inline-link" href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socorronm.org">[socorronm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socorronm.org</span><span class="citation-popover-snippet">Open source on socorronm.org.</span></span></span>
 
-**An unexplained residue is not the same as a confirmed craft.** The strongest trace cases can still end with a modest conclusion: something was reported, marks were found, and no satisfactory explanation was established. That is different from proving the nature of the object. Project Blue Book’s inability to identify Socorro, GEIPAN’s archival role in France, and the MoD’s “no defence threat” position on Rendlesham all show how official involvement can document uncertainty without resolving it in the dramatic direction later audiences prefer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIA...</span></span></span>
+**An unexplained residue is not the same as a confirmed craft.** The strongest trace cases can still end with a modest conclusion: something was reported, marks were found, and no satisfactory explanation was established. That is different from proving the nature of the object. Project Blue Book’s inability to identify Socorro, GEIPAN’s archival role in France, and the MoD’s “no defence threat” position on Rendlesham all show how official involvement can document uncertainty without resolving it in the dramatic direction later audiences prefer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-3-dark.svg" | relative_url }}" alt="Trace Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Rendlesham adds to the trace-case pattern
 
-Rendlesham’s place among landing-trace cases is unusual because its physical evidence is not its strongest feature in isolation. The ground marks and radiation claims are disputed, and the official archival base is thinner than popular retellings often imply. What makes Rendlesham distinctive is the combination: alleged traces plus military witnesses, a base-security setting, a senior officer’s memo, and later debate over whether ordinary night-time stimuli could explain an event that trained personnel took seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Rendlesham’s place among landing-trace cases is unusual because its physical evidence is not its strongest feature in isolation. The ground marks and radiation claims are disputed, and the official archival base is thinner than popular retellings often imply. What makes Rendlesham distinctive is the combination: alleged traces plus military witnesses, a base-security setting, a senior officer’s memo, and later debate over whether ordinary night-time stimuli could explain an event that trained personnel took seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 In that sense, Rendlesham is less like a laboratory puzzle and more like a credibility puzzle. Socorro asks: what did a police officer see, and what made those marks? Trans-en-Provence asks: what caused the reported soil and plant effects, and were the controls adequate? Rendlesham asks a broader question: how did a cluster of lights, marks and readings near a sensitive military installation become a case in which official documentation, witness status and contested physical traces reinforced one another?
 
@@ -526,194 +526,194 @@ The fair comparison is therefore neither to dismiss Rendlesham because its trace
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Rendlesham Fits Landing Trace UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Rendlesham Fits Landing Trace UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains evidence categories including physical-trace cases and provides context for evaluating reports like Rendlesham.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence categories including physical-trace cases and provides context for evaluating reports like Rendlesham.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on stronger-evidence UFO cases and the standards used to assess extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on stronger-evidence UFO cases and the standards used to assess extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides broader historical and investigative context for assessing significant UFO reports, including trace-evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader historical and investigative context for assessing significant UFO reports, including trace-evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Directly examines the witnesses, physical traces, and competing interpretations of Rendlesham.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the witnesses, physical traces, and competing interpretations of Rendlesham.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="trace-cases-how-rendlesham-fits-landing-trace-ufos-rendlesham-forest-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -729,7 +729,7 @@ The fair comparison is therefore neither to dismiss Rendlesham because its trace
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -749,7 +749,7 @@ The fair comparison is therefore neither to dismiss Rendlesham because its trace
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -781,7 +781,7 @@ The fair comparison is therefore neither to dismiss Rendlesham because its trace
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -833,7 +833,7 @@ The fair comparison is therefore neither to dismiss Rendlesham because its trace
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -878,7 +878,7 @@ The fair comparison is therefore neither to dismiss Rendlesham because its trace
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -919,219 +919,219 @@ The fair comparison is therefore neither to dismiss Rendlesham because its trace
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 438  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
    Title: How To Investigate a Flying Saucer  
-   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer - CIA...</p></details>
+   Link:<a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer - CIA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Trans-en-Provence case  
-   Link: <a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: informeovni.net  
    Title: Fuller 1997 Ted Phillips Physical [Trace Catalogue](&#123;&#123; 'trace-catalogue/' | relative_url &#125;&#125;) A selection  
-   Link: <a href="https://www.informeovni.net/documentos/Fuller_1997_Ted_Phillips_Physical_Trace_Catalogue_A_selection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.informeovni.net/documentos/Fuller_1997_Ted_Phillips_Physical_Trace_Catalogue_A_selection.pdf</a>  
+   Link:<a href="https://www.informeovni.net/documentos/Fuller_1997_Ted_Phillips_Physical_Trace_Catalogue_A_selection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.informeovni.net/documentos/Fuller_1997_Ted_Phillips_Physical_Trace_Catalogue_A_selection.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cnes.fr  
    Title: GEIPAN | CNES  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | CNES...</p></details>
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | CNES...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Lonnie Zamora incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Lonnie_Zamora_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lonnie_Zamora_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lonnie_Zamora_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lonnie_Zamora_incident</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO sightings in France  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
+   Link:<a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>  
+   Link:<a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ianridpath.com  
    Title: Ian Ridpath Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/landingmarks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/landingmarks.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - the landing marksPhotographs of two of the marks taken on the same occasion can be seen on this page...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/landingmarks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/landingmarks.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO - the landing marksPhotographs of two of the marks taken on the same occasion can be seen on this page...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham5b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham5b.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham5b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham5b.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ianridpath.com  
    Title: Ian Ridpath Rendlesham Forest UFO case  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: socorronm.org  
-   Link: <a href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/location-activity/socorro-landing-a-ufo-story/</a>  
+   Link:<a href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/location-activity/socorro-landing-a-ufo-story/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forestryengland.uk  
-   Link: <a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
+   Link:<a href="https://www.forestryengland.uk/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1a.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rabbits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rabbits.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/rabbits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rabbits.html</a>  
 
-27. <a id="endnote-27"></a>
-   Source: ianridpath.com  
-   Title: Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
-
-28. <a id="endnote-28"></a>
+27.<a id="endnote-27"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham4a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4a.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/police.html</a>  
 
-29. <a id="endnote-29"></a>
+28.<a id="endnote-28"></a>
+   Source: ianridpath.com  
+   Title: Rendlesham Forest UFO  
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham4a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham4a.html</a>  
+
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: socorronm.org  
-   Link: <a href="https://socorronm.org/notable-local/socorro-landing-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/notable-local/socorro-landing-ufo-story/</a>  
+   Link:<a href="https://socorronm.org/notable-local/socorro-landing-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/notable-local/socorro-landing-ufo-story/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Chapter 8 radiation detection and monitoring equipment  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/67d94fb469606cdea9e0874a/Chapter_8_-_radiation_detection_and_monitoring_equipment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67d94fb469606cdea9e0874a/Chapter_8_-_radiation_detection_and_monitoring_equipment.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/67d94fb469606cdea9e0874a/Chapter_8_-_radiation_detection_and_monitoring_equipment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67d94fb469606cdea9e0874a/Chapter_8_-_radiation_detection_and_monitoring_equipment.pdf</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?)  
-   Link: <a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1FOPCs8Kps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE RENDLESHAM UFO INCIDENT (2015) | Official Trailer | Altitude Films...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1FOPCs8Kps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE RENDLESHAM UFO INCIDENT (2015) | Official Trailer | Altitude Films...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: britannica.com  
    Title: Congressional hearings.Read more  
-   Link: <a href="https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaToday in History January 8 | UFO, Unidentified Flying...8 Jan 2026 — In the 45 years since the sighting at Trans...</p></details>
+   Link:<a href="https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaToday in History January 8 | UFO, Unidentified Flying...8 Jan 2026 — In the 45 years since the sighting at Trans...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: The 7 best-documented cases of UFO encounters  
-   Link: <a href="https://www.youtube.com/watch?v=lhok31Hq7cY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lhok31Hq7cY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lhok31Hq7cY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lhok31Hq7cY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/sites/prod/files/2016/09/f33/Radiation_in_Perspective.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/2016/09/f33/Radiation_in_Perspective.pdf</a>  
+   Link:<a href="https://www.energy.gov/sites/prod/files/2016/09/f33/Radiation_in_Perspective.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/2016/09/f33/Radiation_in_Perspective.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Inside Rendlesham Forest: Where Britain's UFO Landed  
-   Link: <a href="https://www.youtube.com/watch?v=CocWRrqz5oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CocWRrqz5oc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the US Military Tapes of the Rendlesham UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CocWRrqz5oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CocWRrqz5oc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the US Military Tapes of the Rendlesham UFO...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Investigating the US Military Tapes of the Rendlesham UFO  
-   Link: <a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 7 best-documented cases of UFO encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 7 best-documented cases of UFO encounters...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/publicdomain/comments/1ona0fm/unexplained_lights_aka_the_halt_memo_by_charles/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/publicdomain/comments/1ona0fm/unexplained_lights_aka_the_halt_memo_by_charles/</a>  
+   Link:<a href="https://www.reddit.com/r/publicdomain/comments/1ona0fm/unexplained_lights_aka_the_halt_memo_by_charles/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/publicdomain/comments/1ona0fm/unexplained_lights_aka_the_halt_memo_by_charles/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aiartuniverse/posts/590795949352310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aiartuniverse/posts/590795949352310/</a>  
+   Link:<a href="https://www.facebook.com/groups/aiartuniverse/posts/590795949352310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aiartuniverse/posts/590795949352310/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390575712_Radiation_Portal_Monitor_Data_File_Format_for_Comprehensive_Background_Radiation_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390575712_Radiation_Portal_Monitor_Data_File_Format_for_Comprehensive_Background_Radiation_Monitoring</a>  
+   Link:<a href="https://www.researchgate.net/publication/390575712_Radiation_Portal_Monitor_Data_File_Format_for_Comprehensive_Background_Radiation_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390575712_Radiation_Portal_Monitor_Data_File_Format_for_Comprehensive_Background_Radiation_Monitoring</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html</a>  
+   Link:<a href="https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/book-review-encounter-in-rendlesham-forest-a-look-at-a-ufo-by-nick-pope/2014/06/13/89118424-d49e-11e3-95d3-3bcd77cd4e11_story.html</a>  

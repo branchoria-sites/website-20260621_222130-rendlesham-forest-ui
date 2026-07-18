@@ -280,7 +280,7 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_firebal
 
 ## Introduction
 
-In discussions of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident, the words *fireball* and *bolide* are often used interchangeably, yet the distinction matters. A fireball is an exceptionally bright [meteor]({{ 'meteor/' | relative_url }}), brighter than Venus in the night sky. A bolide is usually defined as a fireball that ends with a dramatic flash, fragmentation, or atmospheric explosion. That difference is important because witnesses who report a light that flares, breaks apart, changes brightness suddenly, or appears to explode may be describing a bolide rather than a conventional meteor. Understanding the terminology helps explain why some natural meteor events can look surprisingly structured, violent, or even craft-like without reducing every unusual sighting to a generic “shooting star”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+In discussions of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident, the words *fireball* and *bolide* are often used interchangeably, yet the distinction matters. A fireball is an exceptionally bright [meteor]({{ 'meteor/' | relative_url }}), brighter than Venus in the night sky. A bolide is usually defined as a fireball that ends with a dramatic flash, fragmentation, or atmospheric explosion. That difference is important because witnesses who report a light that flares, breaks apart, changes brightness suddenly, or appears to explode may be describing a bolide rather than a conventional meteor. Understanding the terminology helps explain why some natural meteor events can look surprisingly structured, violent, or even craft-like without reducing every unusual sighting to a generic “shooting star”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-1-dark.svg" | relative_url }}" alt="Fireball Terms illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ In discussions of the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url
 
 ### Brightness thresholds in plain English
 
-Astronomers classify a fireball primarily by brightness. The American Meteor Society defines a fireball as a meteor brighter than magnitude −4, roughly comparable to Venus at its brightest. NASA's fireball programme uses a similar idea, describing a fireball as an unusually bright meteor that stands out dramatically from ordinary shooting [stars]({{ 'stars/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+Astronomers classify a fireball primarily by brightness. The American Meteor Society defines a fireball as a meteor brighter than magnitude −4, roughly comparable to Venus at its brightest. NASA's fireball programme uses a similar idea, describing a fireball as an unusually bright meteor that stands out dramatically from ordinary shooting [stars]({{ 'stars/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
-For an observer on the ground, this means a fireball is not a faint streak that requires careful watching. It can dominate the sky, illuminate the landscape, and sometimes cast shadows. Particularly bright examples may rival moonlight for a brief moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs &#124; IMOMagnitude -5 is equivalent to the planet Venus at its brightest. At this magnitude a fire...</span></span></span>
+For an observer on the ground, this means a fireball is not a faint streak that requires careful watching. It can dominate the sky, illuminate the landscape, and sometimes cast shadows. Particularly bright examples may rival moonlight for a brief moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs &#124; IMOMagnitude -5 is equivalent to the planet Venus at its brightest. At this magnitude a fire...</span></span></span>
 
-A bolide occupies a narrower category. In the definition used by the American Meteor Society, a bolide is a fireball that produces a bright terminal flash, often accompanied by visible fragmentation. In other scientific and public-facing sources, the term is sometimes used more loosely for any exceptionally bright exploding meteor. The common element is energetic atmospheric breakup. FOX 2 Detroit+3American Meteor Society+3American Meteor Society <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+A bolide occupies a narrower category. In the definition used by the American Meteor Society, a bolide is a fireball that produces a bright terminal flash, often accompanied by visible fragmentation. In other scientific and public-facing sources, the term is sometimes used more loosely for any exceptionally bright exploding meteor. The common element is energetic atmospheric breakup. FOX 2 Detroit+3American Meteor Society+3American Meteor Society<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
@@ -307,11 +307,11 @@ A typical fireball may appear as a brilliant moving light that brightens and fad
 * It may appear to burst or explode.
 * It may split into multiple luminous fragments.
 * It may create a sequence of flashes rather than one continuous streak.
-* In rare large events, it can generate shock waves or audible booms. Business Insider+3American Meteor Society+3American Meteor Society <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+* In rare large events, it can generate shock waves or audible booms. Business Insider+3American Meteor Society+3American Meteor Society<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
-These effects occur because the incoming meteoroid is breaking apart under extreme aerodynamic stresses as it passes through denser layers of the atmosphere. Modern fireball research routinely analyses fragmentation patterns because they reveal how the object disintegrated and how energy was released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.16099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+These effects occur because the incoming meteoroid is breaking apart under extreme aerodynamic stresses as it passes through denser layers of the atmosphere. Modern fireball research routinely analyses fragmentation patterns because they reveal how the object disintegrated and how energy was released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.16099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-For witnesses, however, fragmentation can create a very different impression. Instead of seeing a simple streak, they may perceive separate lights, manoeuvres, changing shapes, or an object shedding components. A brief terminal flash can even resemble an explosion or impact beyond the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+For witnesses, however, fragmentation can create a very different impression. Instead of seeing a simple streak, they may perceive separate lights, manoeuvres, changing shapes, or an object shedding components. A brief terminal flash can even resemble an explosion or impact beyond the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-2-dark.svg" | relative_url }}" alt="Fireball Terms illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,11 +319,11 @@ For witnesses, however, fragmentation can create a very different impression. In
 
 Within sceptical explanations of the opening phase of the Rendlesham incident, precision matters because different meteor phenomena imply different witness experiences.
 
-If someone says a bright object seemed to descend toward the forest, a fireball is already a plausible candidate. Human observers are notoriously poor at judging the distance and altitude of bright lights at night, especially when there are few visual reference points. A meteor tens of kilometres high can appear to be landing nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the obs...</span></span></span>
+If someone says a bright object seemed to descend toward the forest, a fireball is already a plausible candidate. Human observers are notoriously poor at judging the distance and altitude of bright lights at night, especially when there are few visual reference points. A meteor tens of kilometres high can appear to be landing nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the obs...</span></span></span>
 
-If witnesses additionally describe a sudden flash, apparent breakup, or the sense that something exploded or crashed, the bolide concept becomes especially relevant. A bolide's terminal flare naturally produces exactly the kind of dramatic visual ending that encourages interpretations involving impact, wreckage, or a descending craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+If witnesses additionally describe a sudden flash, apparent breakup, or the sense that something exploded or crashed, the bolide concept becomes especially relevant. A bolide's terminal flare naturally produces exactly the kind of dramatic visual ending that encourages interpretations involving impact, wreckage, or a descending craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
-This does not prove that any specific Rendlesham observation was a bolide. Rather, it clarifies that meteor explanations are not limited to a simple streak crossing the sky. The meteor category includes events capable of producing abrupt flashes, fragmentation, and strong impressions of descent or collision. Recognising that range of behaviour makes the astronomical explanation more specific and therefore more useful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+This does not prove that any specific Rendlesham observation was a bolide. Rather, it clarifies that meteor explanations are not limited to a simple streak crossing the sky. The meteor category includes events capable of producing abrupt flashes, fragmentation, and strong impressions of descent or collision. Recognising that range of behaviour makes the astronomical explanation more specific and therefore more useful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aPWxpKlzNjc" title="Rare &#x27;bolide&#x27; fireball falls from the sky, spotted across Southeast US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aPWxpKlzNjc" target="_blank" rel="noopener noreferrer">Rare &#x27;bolide&#x27; fireball falls from the sky, spotted across Southeast US</a></p><p class="youtube-embed-meta">Channel: WCNC &middot; Views: 112.4K &middot; Uploaded: June 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aPWxpKlzNjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aPWxpKlzNjc">Open on YouTube</a></p></div></div></div>
@@ -341,211 +341,211 @@ Witnesses tend to remember:
 * Abrupt changes in brightness.
 * Multiple glowing fragments.
 * A final flash suggesting impact or controlled activity.
-* The feeling that the object was much closer than it really was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+* The feeling that the object was much closer than it really was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
 </div>
 
-Those characteristics differ markedly from the popular image of a brief shooting star. As a result, reports generated by bolides often sound more extraordinary than reports generated by ordinary meteors. The distinction helps explain why some observers sincerely describe behaviour that appears inconsistent with a simple natural object, even when the underlying event is entirely atmospheric. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snexplores.org/article/scientists-say-bolide-definition-pronunciation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snexplores.org">[Science News Explores+2CosmoBC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snexplores.org</span><span class="citation-popover-snippet">Science News ExploresScientists Say: Bolide6 days ago — A bolide is a bright meteor. Usually, this word describes meteors that explode in...</span></span></span>
+Those characteristics differ markedly from the popular image of a brief shooting star. As a result, reports generated by bolides often sound more extraordinary than reports generated by ordinary meteors. The distinction helps explain why some observers sincerely describe behaviour that appears inconsistent with a simple natural object, even when the underlying event is entirely atmospheric.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snexplores.org/article/scientists-say-bolide-definition-pronunciation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snexplores.org">[Science News Explores+2CosmoBC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snexplores.org</span><span class="citation-popover-snippet">Science News ExploresScientists Say: Bolide6 days ago — A bolide is a bright meteor. Usually, this word describes meteors that explode in...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-3-dark.svg" | relative_url }}" alt="Fireball Terms illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7_fireball_bolide_term_4373b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key takeaway for Rendlesham
 
-For understanding the first stage of the Rendlesham Forest story, the most important point is not whether the reported object should technically be called a fireball or a bolide. It is that the meteor family includes phenomena capable of producing bright flashes, apparent explosions, fragmentation, and convincing illusions of a nearby descent. A fireball explains extraordinary brightness; a bolide explains why that brightness might culminate in a flash or apparent breakup. That distinction makes the meteor hypothesis more nuanced and better aligned with how unusual aerial events are actually experienced by witnesses. International Meteor Organization+3American Meteor Society+3American Meteor Society <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
+For understanding the first stage of the Rendlesham Forest story, the most important point is not whether the reported object should technically be called a fireball or a bolide. It is that the meteor family includes phenomena capable of producing bright flashes, apparent explosions, fragmentation, and convincing illusions of a nearby descent. A fireball explains extraordinary brightness; a bolide explains why that brightness might culminate in a flash or apparent breakup. That distinction makes the meteor hypothesis more nuanced and better aligned with how unusual aerial events are actually experienced by witnesses. International Meteor Organization+3American Meteor Society+3American Meteor Society<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aa8Zzvefj4U" title="Explaining the difference: Meteors, fireballs, and bolides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aa8Zzvefj4U" target="_blank" rel="noopener noreferrer">Explaining the difference: Meteors, fireballs, and bolides</a></p><p class="youtube-embed-meta">Channel: WCNC Charlotte Weather IQ &middot; Views: 462 &middot; Uploaded: October 2025 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aa8Zzvefj4U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aa8Zzvefj4U">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Fireball, Bolide, or UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Fireball, Bolide, or UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides the chronology against which meteor timing is assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the chronology against which meteor timing is assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains meteors, fireballs and common skywatching misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains meteors, fireballs and common skywatching misinterpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Covers observable celestial phenomena relevant to meteor explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observable celestial phenomena relevant to meteor explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how perception can misjudge location and distance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how perception can misjudge location and distance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fireball-terms-fireball-bolide-or-ufo-rendlesham-forest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ For understanding the first stage of the Rendlesham Forest story, the most impor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ For understanding the first stage of the Rendlesham Forest story, the most impor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ For understanding the first stage of the Rendlesham Forest story, the most impor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ For understanding the first stage of the Rendlesham Forest story, the most impor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ For understanding the first stage of the Rendlesham Forest story, the most impor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,183 +751,183 @@ For understanding the first stage of the Rendlesham Forest story, the most impor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireballs and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the obs...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireballs and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the obs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fox2detroit.com  
-   Link: <a href="https://www.fox2detroit.com/news/michigan-meteor-why-is-it-called-a-bolide-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.fox2detroit.com/news/michigan-meteor-why-is-it-called-a-bolide-meteor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 2 DetroitMichigan Meteor: why is it called a bolide meteor?17 Jan 2018 — A bolide is a type of fireball that explodes in the atmosphe...</p></details>
+   Link:<a href="https://www.fox2detroit.com/news/michigan-meteor-why-is-it-called-a-bolide-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.fox2detroit.com/news/michigan-meteor-why-is-it-called-a-bolide-meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 2 DetroitMichigan Meteor: why is it called a bolide meteor?17 Jan 2018 — A bolide is a type of fireball that explodes in the atmosphe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2506.16099" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.16099</a>  
+   Link:<a href="https://arxiv.org/abs/2506.16099" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.16099</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.00634" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.00634</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric entry and fragmentation of small asteroid 2024 BX1: Bolide trajectory, orbit, dynamics, light curve, and spectrum...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.00634" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.00634</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric entry and fragmentation of small asteroid 2024 BX1: Bolide trajectory, orbit, dynamics, light curve, and spectrum...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2401.17641" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.17641</a>  
+   Link:<a href="https://arxiv.org/abs/2401.17641" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.17641</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cosmobc.com  
    Title: bolide meteor fireball  
-   Link: <a href="https://cosmobc.com/bolide-meteor-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://cosmobc.com/bolide-meteor-fireball/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Is a Fireball (Or Bolide) Different From a Meteor?Apr 24, 2026 — In modern usage, the term “bolide” is often applied to fireballs tha...</p></details>
+   Link:<a href="https://cosmobc.com/bolide-meteor-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://cosmobc.com/bolide-meteor-fireball/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Is a Fireball (Or Bolide) Different From a Meteor?Apr 24, 2026 — In modern usage, the term “bolide” is often applied to fireballs tha...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
    Title: its fireball season answering your meteor questions  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season! Answering Your Meteor Questions26 Mar 2026 — A fireball – the brightest of them all – is a meteor that shines brigh...</p></details>
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season! Answering Your Meteor Questions26 Mar 2026 — A fireball – the brightest of them all – is a meteor that shines brigh...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/international-space-station-latest-astronauts-told-to-take-shelter-over-worsening-air-leaks-13549438" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/international-space-station-latest-astronauts-told-to-take-shelter-over-worsening-air-leaks-13549438</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Station as it happened: NASA ends order for astronauts to take shelter...</p></details>
+   Link:<a href="https://news.sky.com/story/international-space-station-latest-astronauts-told-to-take-shelter-over-worsening-air-leaks-13549438" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/international-space-station-latest-astronauts-told-to-take-shelter-over-worsening-air-leaks-13549438</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Station as it happened: NASA ends order for astronauts to take shelter...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Meteor explosion caught on camera  
-   Link: <a href="https://www.youtube.com/watch?v=i9KOJJs_es8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i9KOJJs_es8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolide | The Sky&#x27;s Fireball...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i9KOJJs_es8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i9KOJJs_es8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bolide | The Sky&#x27;s Fireball...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Bolide | The Sky's Fireball  
-   Link: <a href="https://www.youtube.com/watch?v=6GL97nobLq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6GL97nobLq0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Astronomy - Fireballs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6GL97nobLq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6GL97nobLq0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Astronomy - Fireballs...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA bolide is a special type of fireball which explodes in a bright terminal flash at its end, often with v...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQs... us via electronic mail. 1. What is a fireball? What is the difference between a fireball and a bolide? A fireball is ano...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQs... us via electronic mail. 1. What is a fireball? What is the difference between a fireball and a bolide? A fireball is ano...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationFireballs | IMOMagnitude -5 is equivalent to the planet Venus at its brightest. At this magnitude a fire...</p></details>
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationFireballs | IMOMagnitude -5 is equivalent to the planet Venus at its brightest. At this magnitude a fire...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball | Astronomy and Astrophysics | Research StartersFireballs are generally defined as meteors that appear brighter than Venus...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball | Astronomy and Astrophysics | Research StartersFireballs are generally defined as meteors that appear brighter than Venus...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: businessinsider.com  
    Title: fireballs perseid meteor shower nasa asteroids space rare 2023 8  
-   Link: <a href="https://www.businessinsider.com/fireballs-perseid-meteor-shower-nasa-asteroids-space-rare-2023-8" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/fireballs-perseid-meteor-shower-nasa-asteroids-space-rare-2023-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Fireballs and How to See Them12 Aug 2023 — Fireballs are different from other meteors — they&#x27;re brighter, rarer, and can audibly...</p></details>
+   Link:<a href="https://www.businessinsider.com/fireballs-perseid-meteor-shower-nasa-asteroids-space-rare" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/fireballs-perseid-meteor-shower-nasa-asteroids-space-rare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Fireballs and How to See Them12 Aug 2023 — Fireballs are different from other meteors — they&#x27;re brighter, rarer, and can audibly...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: snexplores.org  
-   Link: <a href="https://www.snexplores.org/article/scientists-say-bolide-definition-pronunciation" target="_blank" rel="noopener noreferrer nofollow">https://www.snexplores.org/article/scientists-say-bolide-definition-pronunciation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science News ExploresScientists Say: Bolide6 days ago — A bolide is a bright meteor. Usually, this word describes meteors that explode in...</p></details>
+   Link:<a href="https://www.snexplores.org/article/scientists-say-bolide-definition-pronunciation" target="_blank" rel="noopener noreferrer nofollow">https://www.snexplores.org/article/scientists-say-bolide-definition-pronunciation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science News ExploresScientists Say: Bolide6 days ago — A bolide is a bright meteor. Usually, this word describes meteors that explode in...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: amsmeteors.org  
    Title: meteor terminology 2  
-   Link: <a href="https://amsmeteors.org/2013/08/meteor-terminology-2/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/2013/08/meteor-terminology-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Terminology23 Aug 2013 — 1. Meteoroids may be larger than 1 meter. To provide the Chelyabinsk bolide the incoming body has to be 1...</p></details>
+   Link:<a href="https://amsmeteors.org/2013/08/meteor-terminology-2/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/2013/08/meteor-terminology-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Terminology23 Aug 2013 — 1. Meteoroids may be larger than 1 meter. To provide the Chelyabinsk bolide the incoming body has to be 1...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amsmeteors.org  
    Title: ams q1 2026 fireball analysis  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...The first quarter of 2026 has produced what appears to be a significant surge in larg...</p></details>
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...The first quarter of 2026 has produced what appears to be a significant surge in larg...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball seen across...AMS Operations Manager Mike Hankey speaks with 11Alive Meteorologist Mel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball seen across...AMS Operations Manager Mike Hankey speaks with 11Alive Meteorologist Mel...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/nasa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tells astronauts to return to International Space Station as air leak repair paused – as it happened. Jun 5 2026 11.45 EDT.Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/science/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/nasa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tells astronauts to return to International Space Station as air leak repair paused – as it happened. Jun 5 2026 11.45 EDT.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: heres what the american meteor society says about the region who saw todays fire  
-   Link: <a href="https://www.facebook.com/MelissaNordWx/posts/heres-what-the-american-meteor-society-says-about-the-region-who-saw-todays-fire/1133887901882934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MelissaNordWx/posts/heres-what-the-american-meteor-society-says-about-the-region-who-saw-todays-fire/1133887901882934/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball...26 Jun 2025 — Such an event is known as a bolide meteor, larger than a typical fireb...</p></details>
+   Link:<a href="https://www.facebook.com/MelissaNordWx/posts/heres-what-the-american-meteor-society-says-about-the-region-who-saw-todays-fire/1133887901882934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MelissaNordWx/posts/heres-what-the-american-meteor-society-says-about-the-region-who-saw-todays-fire/1133887901882934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball...26 Jun 2025 — Such an event is known as a bolide meteor, larger than a typical fireb...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sites.wustl.edu  
-   Link: <a href="https://sites.wustl.edu/meteoritesite/items/meteors/" target="_blank" rel="noopener noreferrer nofollow">https://sites.wustl.edu/meteoritesite/items/meteors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Meteorite InformationA meteor (shooting star, fireball, bolide) is the visible streak of light in the sky from a meteoroid or micr...</p></details>
+   Link:<a href="https://sites.wustl.edu/meteoritesite/items/meteors/" target="_blank" rel="noopener noreferrer nofollow">https://sites.wustl.edu/meteoritesite/items/meteors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some Meteorite InformationA meteor (shooting star, fireball, bolide) is the visible streak of light in the sky from a meteoroid or micr...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/bolide" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/bolide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLIDE Definition &amp; MeaningThe fireballs that explode in a bright terminal flash, often with visible fragmentation, are known as bolides...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/bolide" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/bolide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOLIDE Definition &amp; MeaningThe fireballs that explode in a bright terminal flash, often with visible fragmentation, are known as bolides...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bolide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BolideAstronomers use the word to describe any extremely bright meteor (or fireball), especially one that explodes in the atmosphere...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bolide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BolideAstronomers use the word to describe any extremely bright meteor (or fireball), especially one that explodes in the atmosphere...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NASASolarSystem/posts/great-balls-of-fire-%EF%B8%8Fweve-seen-several-fireballs-streak-across-the-sky-recently-/1406518611511080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASolarSystem/posts/great-balls-of-fire-%EF%B8%8Fweve-seen-several-fireballs-streak-across-the-sky-recently-/1406518611511080/</a>  
+   Link:<a href="https://www.facebook.com/NASASolarSystem/posts/great-balls-of-fire-%EF%B8%8Fweve-seen-several-fireballs-streak-across-the-sky-recently-/1406518611511080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASolarSystem/posts/great-balls-of-fire-%EF%B8%8Fweve-seen-several-fireballs-streak-across-the-sky-recently-/1406518611511080/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Aa8Zzvefj4U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Aa8Zzvefj4U</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Aa8Zzvefj4U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Aa8Zzvefj4U</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationalgeographic.com  
    Title: Video shows fireball meteor explode in broad daylight  
-   Link: <a href="https://www.nationalgeographic.com/science/article/fireball-meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/fireball-meteors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 June 2025 — Fireballs are a less common type of meteor—they earn that designation when they appear brighter than Venus in the night sk...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/fireball-meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/fireball-meteors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 June 2025 — Fireballs are a less common type of meteor—they earn that designation when they appear brighter than Venus in the night sk...</p></details>
    Published: June 2025  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: mentalfloss.com  
    Title: its fireball season look spot meteors brighter venus  
-   Link: <a href="https://www.mentalfloss.com/article/77461/its-fireball-season-look-spot-meteors-brighter-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/77461/its-fireball-season-look-spot-meteors-brighter-venus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season: Spot Meteors Brighter than Venus this...8 Apr 2025 — Get ready for your best chance to spot a fireball—the technic...</p></details>
+   Link:<a href="https://www.mentalfloss.com/article/77461/its-fireball-season-look-spot-meteors-brighter-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/77461/its-fireball-season-look-spot-meteors-brighter-venus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season: Spot Meteors Brighter than Venus this...8 Apr 2025 — Get ready for your best chance to spot a fireball—the technic...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wlwt.com  
-   Link: <a href="https://www.wlwt.com/article/fireball-spotted-ohio-michigan-meteor-sighting/70844154" target="_blank" rel="noopener noreferrer nofollow">https://www.wlwt.com/article/fireball-spotted-ohio-michigan-meteor-sighting/70844154</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;40 times brighter than Venus&#x27;: Another fireball spotted over...25 Mar 2026 — NASA says that at its peak, the fireball was 40 times brig...</p></details>
+   Link:<a href="https://www.wlwt.com/article/fireball-spotted-ohio-michigan-meteor-sighting/70844154" target="_blank" rel="noopener noreferrer nofollow">https://www.wlwt.com/article/fireball-spotted-ohio-michigan-meteor-sighting/70844154</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;40 times brighter than Venus&#x27;: Another fireball spotted over...25 Mar 2026 — NASA says that at its peak, the fireball was 40 times brig...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Early Perseid meteors spied by NASA’s All Sky Fireball Network cameras  
-   Link: <a href="https://www.youtube.com/watch?v=zO7JhYkEZ_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zO7JhYkEZ_M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball vs bolide meteor Meteor explosion caught on camera - Super rare bolide or fireball Matthew Vandeputte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zO7JhYkEZ_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zO7JhYkEZ_M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball vs bolide meteor Meteor explosion caught on camera - Super rare bolide or fireball Matthew Vandeputte...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: earthsky.org  
    Title: A flurry of fireballs!  
-   Link: <a href="https://earthsky.org/space/flurry-of-fireballs-march-2026-reason-ams/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/flurry-of-fireballs-march-2026-reason-ams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a reason for the uptick?4 days ago — The meteor experts at the American Meteor Society found that the recent events did have enh...</p></details>
+   Link:<a href="https://earthsky.org/space/flurry-of-fireballs-march-2026-reason-ams/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/flurry-of-fireballs-march-2026-reason-ams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a reason for the uptick?4 days ago — The meteor experts at the American Meteor Society found that the recent events did have enh...</p></details>

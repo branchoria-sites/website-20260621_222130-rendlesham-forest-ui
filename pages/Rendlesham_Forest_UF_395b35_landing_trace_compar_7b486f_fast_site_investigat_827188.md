@@ -280,13 +280,13 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fa
 
 ## Introduction
 
-In landing-trace UFO cases, timing is often more important than the trace itself. A depression in the ground, a damaged plant, or an unusual radiation reading may look significant, but its value depends on whether investigators can show that it existed before the site was disturbed and that it was connected to the reported event. Once people walk through an area, weather changes the surface, vehicles pass nearby, or samples are taken without controls, the link between trace and cause becomes harder to defend. That is why some of the strongest physical-[trace cases]({{ 'trace-cases/' | relative_url }}) received attention within hours or days, while debates around Rendlesham continue to focus on how much evidence was documented after the scene had already been exposed to multiple visitors and interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</span></span></span>
+In landing-trace UFO cases, timing is often more important than the trace itself. A depression in the ground, a damaged plant, or an unusual radiation reading may look significant, but its value depends on whether investigators can show that it existed before the site was disturbed and that it was connected to the reported event. Once people walk through an area, weather changes the surface, vehicles pass nearby, or samples are taken without controls, the link between trace and cause becomes harder to defend. That is why some of the strongest physical-[trace cases]({{ 'trace-cases/' | relative_url }}) received attention within hours or days, while debates around Rendlesham continue to focus on how much evidence was documented after the scene had already been exposed to multiple visitors and interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-1-dark.svg" | relative_url }}" alt="Site Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Investigators Need to Record First
 
-The first task at any alleged [landing site]({{ 'landing-site/' | relative_url }}) is not to explain the trace but to preserve it. Investigators generally seek to establish a baseline record before the scene changes. This means photographing marks from multiple angles, measuring dimensions, mapping positions, documenting weather conditions, identifying possible ordinary causes, and collecting comparison samples from nearby unaffected areas. These principles are familiar from both forensic trace work and environmental site investigations, where the reliability of later conclusions depends heavily on early documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lyellcollection.org/doi/full/10.1144/sp492-2021-81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyellcollection.org">[lyellcollection.org+2US EPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyellcollection.org</span><span class="citation-popover-snippet">An introduction to forensic soil science and forensic geologyby RW Fitzpatrick · 2021 · Cited by 28 — Using forensic soil science and for...</span></span></span>
+The first task at any alleged [landing site]({{ 'landing-site/' | relative_url }}) is not to explain the trace but to preserve it. Investigators generally seek to establish a baseline record before the scene changes. This means photographing marks from multiple angles, measuring dimensions, mapping positions, documenting weather conditions, identifying possible ordinary causes, and collecting comparison samples from nearby unaffected areas. These principles are familiar from both forensic trace work and environmental site investigations, where the reliability of later conclusions depends heavily on early documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lyellcollection.org/doi/full/10.1144/sp492" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyellcollection.org">[lyellcollection.org+2US EPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyellcollection.org</span><span class="citation-popover-snippet">An introduction to forensic soil science and forensic geologyby RW Fitzpatrick · 2021 · Cited by 28 — Using forensic soil science and for...</span></span></span>
 
 Several categories of information become harder to recover once time passes:
 
@@ -294,7 +294,7 @@ Several categories of information become harder to recover once time passes:
 * **Vegetation effects:** Plants continue growing, decaying, or responding to environmental stress.
 * **Chemical residues:** Surface contaminants can wash away or become diluted.
 * **Radiation measurements:** Readings are meaningful only when investigators know the local [background]({{ 'background/' | relative_url }}) level and measurement conditions.
-* **Witness-site correlation:** The physical location described by witnesses becomes less certain as memories evolve and investigators revisit the scene repeatedly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epa.gov/sites/default/files/2015-02/documents/chapter2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epa.gov">[US EPA+2lyellcollection.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epa.gov</span><span class="citation-popover-snippet">Since most of the manual is...Read more...</span></span></span>
+* **Witness-site correlation:** The physical location described by witnesses becomes less certain as memories evolve and investigators revisit the scene repeatedly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epa.gov/sites/default/files/2015-02/documents/chapter2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epa.gov">[US EPA+2lyellcollection.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epa.gov</span><span class="citation-popover-snippet">Since most of the manual is...Read more...</span></span></span>
 
 A trace is therefore not simply a mark in the ground. It is a chain of observations connecting a reported event to a physical feature before that feature changes.
 
@@ -305,11 +305,11 @@ A trace is therefore not simply a mark in the ground. It is a chain of observati
 
 Contamination does not necessarily mean deliberate tampering. In many cases it simply means that the scene has been altered after the event.
 
-A landing site can accumulate contamination from investigators, curious visitors, vehicles, animals, forestry activity, weather, or even the sampling process itself. Once this occurs, later observers may be unable to determine whether a mark originated from the reported object or from something that happened afterwards. This is a common problem in trace-evidence analysis generally, where interpretation depends on understanding how traces were transferred, preserved, and modified over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/338941538_Scientific_foundations_and_current_state_of_trace_evidence-A_review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Scientific foundations and current state of trace evidence—...In this paper, a review of the literature concerning the scien...</span></span></span>
+A landing site can accumulate contamination from investigators, curious visitors, vehicles, animals, forestry activity, weather, or even the sampling process itself. Once this occurs, later observers may be unable to determine whether a mark originated from the reported object or from something that happened afterwards. This is a common problem in trace-evidence analysis generally, where interpretation depends on understanding how traces were transferred, preserved, and modified over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/338941538_Scientific_foundations_and_current_state_of_trace_evidence-A_review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Scientific foundations and current state of trace evidence—...In this paper, a review of the literature concerning the scien...</span></span></span>
 
-Radiation claims illustrate the problem particularly well. A measurement taken days later may reveal little unless investigators know the instrument used, calibration status, local background levels, exact measurement locations, and whether readings differ significantly from nearby control areas. Environmental investigations routinely stress the importance of early site characterisation because later readings are much harder to interpret in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1017_prn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications+2US EPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsCharacterization of radioactively contaminated sites for...February 13, 2002 — This TECDOC covers the methodologies use...</span><span class="citation-popover-meta">Published: February 13, 2002</span></span></span>
+Radiation claims illustrate the problem particularly well. A measurement taken days later may reveal little unless investigators know the instrument used, calibration status, local background levels, exact measurement locations, and whether readings differ significantly from nearby control areas. Environmental investigations routinely stress the importance of early site characterisation because later readings are much harder to interpret in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1017_prn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications+2US EPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsCharacterization of radioactively contaminated sites for...February 13, 2002 — This TECDOC covers the methodologies use...</span><span class="citation-popover-meta">Published: February 13, 2002</span></span></span>
 
-The same issue applies to soil and vegetation. If samples are not collected promptly and compared with nearby controls, investigators may struggle to determine whether unusual characteristics existed before the report or were part of normal environmental variation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lyellcollection.org/doi/full/10.1144/sp492-2021-81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyellcollection.org">[lyellcollection.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyellcollection.org</span><span class="citation-popover-snippet">An introduction to forensic soil science and forensic geologyby RW Fitzpatrick · 2021 · Cited by 28 — Using forensic soil science and for...</span></span></span>
+The same issue applies to soil and vegetation. If samples are not collected promptly and compared with nearby controls, investigators may struggle to determine whether unusual characteristics existed before the report or were part of normal environmental variation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lyellcollection.org/doi/full/10.1144/sp492" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyellcollection.org">[lyellcollection.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyellcollection.org</span><span class="citation-popover-snippet">An introduction to forensic soil science and forensic geologyby RW Fitzpatrick · 2021 · Cited by 28 — Using forensic soil science and for...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-2-dark.svg" | relative_url }}" alt="Site Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,9 +317,9 @@ The same issue applies to soil and vegetation. If samples are not collected prom
 
 The contrast between [Socorro]({{ 'socorro/' | relative_url }}) and Rendlesham helps explain why timing remains central to discussions of landing traces.
 
-In the 1964 Socorro case, police officer Lonnie Zamora reported an apparent landing and investigators reached the location quickly. The site was examined while impressions and burned areas were still fresh, and both local authorities and federal investigators documented conditions soon after the event. Project Blue Book later regarded the case as exceptionally well documented, and much of its reputation comes from the fact that physical traces were inspected before substantial environmental change could occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</span></span></span>
+In the 1964 Socorro case, police officer Lonnie Zamora reported an apparent landing and investigators reached the location quickly. The site was examined while impressions and burned areas were still fresh, and both local authorities and federal investigators documented conditions soon after the event. Project Blue Book later regarded the case as exceptionally well documented, and much of its reputation comes from the fact that physical traces were inspected before substantial environmental change could occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</span></span></span>
 
-Rendlesham presents a more complicated chronology. Personnel reported unusual lights and later identified ground depressions, tree damage, and radiation readings. However, the evidence was gathered across multiple visits and after the area had already attracted attention from military personnel. The traces themselves are not necessarily unimportant; rather, critics and supporters alike have long debated how securely those traces can be linked to the reported object because the scene was not preserved in the way a modern forensic investigation would ideally require. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-title">Rendlesham UFO Leaflet (Jan 23</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — In December 1980 several sightings of a UFO were reported in Rendlesham...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
+Rendlesham presents a more complicated chronology. Personnel reported unusual lights and later identified ground depressions, tree damage, and radiation readings. However, the evidence was gathered across multiple visits and after the area had already attracted attention from military personnel. The traces themselves are not necessarily unimportant; rather, critics and supporters alike have long debated how securely those traces can be linked to the reported object because the scene was not preserved in the way a modern forensic investigation would ideally require.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forestryengland.uk">[Home &#124; Forestry England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forestryengland.uk</span><span class="citation-popover-title">Rendlesham UFO Leaflet (Jan 23</span><span class="citation-popover-snippet">Home &#124; Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — In December 1980 several sightings of a UFO were reported in Rendlesham...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
 
 The result is that discussions about Rendlesham often focus less on whether traces existed and more on whether the chain connecting those traces to the reported event remained intact.
 
@@ -328,9 +328,9 @@ The result is that discussions about Rendlesham often focus less on whether trac
 
 ## Why Trans-en-Provence Is Often Used as a Benchmark
 
-The French Trans-en-Provence case is frequently cited because investigators moved quickly and treated the location as a scientific site rather than merely a witness location. Local authorities documented the area, photographed the trace, and collected soil and plant samples within a short period after the report. The investigation later included laboratory examination of vegetation and soil characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FindLatLng]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">August 15, 2006 — They interviewed him, photographed the scene, and collected soil and plant samples from the field. The case was later s...</span><span class="citation-popover-meta">Published: August 15, 2006</span></span></span>
+The French Trans-en-Provence case is frequently cited because investigators moved quickly and treated the location as a scientific site rather than merely a witness location. Local authorities documented the area, photographed the trace, and collected soil and plant samples within a short period after the report. The investigation later included laboratory examination of vegetation and soil characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FindLatLng]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">August 15, 2006 — They interviewed him, photographed the scene, and collected soil and plant samples from the field. The case was later s...</span><span class="citation-popover-meta">Published: August 15, 2006</span></span></span>
 
-Regardless of how one interprets the final findings, the case demonstrates the practical value of speed. Researchers had access to samples taken before years of environmental change, before extensive public attention, and before repeated site visits could blur the original conditions. That does not automatically prove an extraordinary cause, but it gives investigators a stronger evidential foundation from which to test competing explanations. FindLatLng+2A R T L▼R K <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.findlatlng.org/en/uap-sightings/fr-1981-trans-en-provence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findlatlng.org">[findlatlng.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findlatlng.org</span><span class="citation-popover-title">fr 1981 trans en provence</span><span class="citation-popover-snippet">Trans-en-Provence Incident (1981, France) — UAP8 Jan 1981 — Botanical analysis: 2m diameter circular trace at the landing site...</span></span></span>
+Regardless of how one interprets the final findings, the case demonstrates the practical value of speed. Researchers had access to samples taken before years of environmental change, before extensive public attention, and before repeated site visits could blur the original conditions. That does not automatically prove an extraordinary cause, but it gives investigators a stronger evidential foundation from which to test competing explanations. FindLatLng+2A R T L▼R K<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.findlatlng.org/en/uap-sightings/fr-1981-trans-en-provence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findlatlng.org">[findlatlng.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findlatlng.org</span><span class="citation-popover-title">fr 1981 trans en provence</span><span class="citation-popover-snippet">Trans-en-Provence Incident (1981, France) — UAP8 Jan 1981 — Botanical analysis: 2m diameter circular trace at the landing site...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/khOo9uvr5_s" title="Rendlesham Forest Incident: A Military Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer">Rendlesham Forest Incident: A Military Mystery</a></p><p class="youtube-embed-meta">Channel: The Tape Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=khOo9uvr5_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=khOo9uvr5_s">Open on YouTube</a></p></div></div></div>
@@ -339,200 +339,200 @@ Regardless of how one interprets the final findings, the case demonstrates the p
 
 The central lesson from landing-trace investigations is straightforward: physical evidence is perishable. Marks, readings, and samples gain credibility when investigators can show exactly where they came from, when they were recorded, and how they were preserved. They lose credibility when that chain becomes uncertain.
 
-For Rendlesham, the debate is not simply about depressions, trees, or radiation measurements. It is about whether those observations were documented quickly enough, with sufficient controls, to preserve a convincing connection between the traces and the reported event. Cases such as Socorro and Trans-en-Provence are often viewed as stronger benchmarks because investigators reached the sites rapidly and captured information before contamination, weather, and human activity had a chance to rewrite the scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[Facebook+3CIA+3FindLatLng]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</span></span></span>
+For Rendlesham, the debate is not simply about depressions, trees, or radiation measurements. It is about whether those observations were documented quickly enough, with sufficient controls, to preserve a convincing connection between the traces and the reported event. Cases such as Socorro and Trans-en-Provence are often viewed as stronger benchmarks because investigators reached the sites rapidly and captured information before contamination, weather, and human activity had a chance to rewrite the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[Facebook+3CIA+3FindLatLng]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-3-dark.svg" | relative_url }}" alt="Site Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f_fast_site_investigat_827188-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Timing Can Make or Break Traces. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Timing Can Make or Break Traces. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers investigation standards, evidence quality, and how cases are evaluated, aligning with trace-evidence timing questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers investigation standards, evidence quality, and how cases are evaluated, aligning with trace-evidence timing questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains evidence assessment, contamination risks, and critical investigation principles applicable to trace claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence assessment, contamination risks, and critical investigation principles applicable to trace claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on case evaluation and evidentiary reasoning, useful for understanding why prompt documentation matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on case evaluation and evidentiary reasoning, useful for understanding why prompt documentation matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Addresses the Rendlesham case specifically, including debates about evidence collection and interpretation over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the Rendlesham case specifically, including debates about evidence collection and interpretation over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="site-checks-why-timing-can-make-or-break-traces-rendlesham-forest-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For Rendlesham, the debate is not simply about depressions, trees, or radiation 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For Rendlesham, the debate is not simply about depressions, trees, or radiation 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For Rendlesham, the debate is not simply about depressions, trees, or radiation 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For Rendlesham, the debate is not simply about depressions, trees, or radiation 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For Rendlesham, the debate is not simply about depressions, trees, or radiation 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,149 +738,149 @@ For Rendlesham, the debate is not simply about depressions, trees, or radiation 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
    Title: how to investigate a flying saucer  
-   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</p></details>
+   Link:<a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer21 Jan 2016 — Although the CIA was not directly affiliated with Project BLUE BOOK, the Agency did pl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lyellcollection.org  
-   Link: <a href="https://www.lyellcollection.org/doi/full/10.1144/sp492-2021-81" target="_blank" rel="noopener noreferrer nofollow">https://www.lyellcollection.org/doi/full/10.1144/sp492-2021-81</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to forensic soil science and forensic geologyby RW Fitzpatrick · 2021 · Cited by 28 — Using forensic soil science and for...</p></details>
+   Link:<a href="https://www.lyellcollection.org/doi/full/10.1144/sp492" target="_blank" rel="noopener noreferrer nofollow">https://www.lyellcollection.org/doi/full/10.1144/sp492</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to forensic soil science and forensic geologyby RW Fitzpatrick · 2021 · Cited by 28 — Using forensic soil science and for...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: epa.gov  
-   Link: <a href="https://www.epa.gov/sites/default/files/2015-02/documents/chapter2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/sites/default/files/2015-02/documents/chapter2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Since most of the manual is...Read more...</p></details>
+   Link:<a href="https://www.epa.gov/sites/default/files/2015-02/documents/chapter2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/sites/default/files/2015-02/documents/chapter2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since most of the manual is...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/338941538_Scientific_foundations_and_current_state_of_trace_evidence-A_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338941538_Scientific_foundations_and_current_state_of_trace_evidence-A_review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific foundations and current state of trace evidence—...In this paper, a review of the literature concerning the scien...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/338941538_Scientific_foundations_and_current_state_of_trace_evidence-A_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338941538_Scientific_foundations_and_current_state_of_trace_evidence-A_review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific foundations and current state of trace evidence—...In this paper, a review of the literature concerning the scien...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: www-pub.iaea.org  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1017_prn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/te_1017_prn.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsCharacterization of radioactively contaminated sites for...February 13, 2002 — This TECDOC covers the methodologies use...</p></details>
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1017_prn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/te_1017_prn.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsCharacterization of radioactively contaminated sites for...February 13, 2002 — This TECDOC covers the methodologies use...</p></details>
    Published: February 13, 2002  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarfbiThe call was in relation to some unknown object which &quot;landed and has taken off.&quot; Agent Byrnes finished his work...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarfbiThe call was in relation to some unknown object which &quot;landed and has taken off.&quot; Agent Byrnes finished his work...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: Retired Col  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Halt recounts the unexplained lights...Charles Halt, led a larger party into Rendlesham. There, Halt measured abnormal amounts o...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/retired-col-charles-halt-recounts-the-[unexplained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Halt recounts the unexplained lights...Charles Halt, led a larger party into Rendlesham. There, Halt measured abnormal amounts o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Trans-en-Provence case  
-   Link: <a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 15, 2006 — They interviewed him, photographed the scene, and collected soil and plant samples from the field. The case was later s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 15, 2006 — They interviewed him, photographed the scene, and collected soil and plant samples from the field. The case was later s...</p></details>
    Published: August 15, 2006  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: findlatlng.org  
    Title: fr 1981 trans en provence  
-   Link: <a href="https://www.findlatlng.org/en/uap-sightings/fr-1981-trans-en-provence" target="_blank" rel="noopener noreferrer nofollow">https://www.findlatlng.org/en/uap-sightings/fr-1981-trans-en-provence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence Incident (1981, France) — UAP8 Jan 1981 — Botanical analysis: 2m diameter circular trace at the landing site...</p></details>
+   Link:<a href="https://www.findlatlng.org/en/uap-sightings/fr-1981-trans-en-provence" target="_blank" rel="noopener noreferrer nofollow">https://www.findlatlng.org/en/uap-sightings/fr-1981-trans-en-provence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence Incident (1981, France) — UAP8 Jan 1981 — Botanical analysis: 2m diameter circular trace at the landing site...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: artlark.org  
    Title: the trans en provence ufo sighting  
-   Link: <a href="https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/</a>  
+   Link:<a href="https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://artlark.org/2022/01/08/the-trans-en-provence-ufo-sighting/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/[rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/[rendlesham-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sham Forest in Suffolk, England, in December...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/[rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/[rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sham Forest in Suffolk, England, in December...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
+   Link:<a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1061947753884363/posts/7184503578295386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1061947753884363/posts/7184503578295386/</a>  
+   Link:<a href="https://www.facebook.com/groups/1061947753884363/posts/7184503578295386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1061947753884363/posts/7184503578295386/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Lonnie Zamora incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Lonnie_Zamora_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lonnie_Zamora_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lonnie Zamora incidentThe Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lonnie_Zamora_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lonnie_Zamora_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lonnie Zamora incidentThe Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico...</p></details>
    Published: April 24, 1964  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: forestryengland.uk  
    Title: Rendlesham UFO Leaflet (Jan 23)  
-   Link: <a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — In December 1980 several sightings of a UFO were reported in Rendlesham...</p></details>
+   Link:<a href="https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/sites/default/files/documents/Rendlesham%20UFO%20Leaflet%20%28Jan%2023%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Forestry EnglandRendlesham Forest UFO Trail27 Sept 2023 — In December 1980 several sightings of a UFO were reported in Rendlesham...</p></details>
    Published: December 1980  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: socorronm.org  
-   Link: <a href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/location-activity/socorro-landing-a-ufo-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Socorro Landing: A UFO StoryOne of the best documented UFO sightings in US history was witnessed by City of Socorro Police Officer Lonnie...</p></details>
+   Link:<a href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/location-activity/socorro-landing-a-ufo-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Socorro Landing: A UFO StoryOne of the best documented UFO sightings in US history was witnessed by City of Socorro Police Officer Lonnie...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXLR8xkEYEM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXLR8xkEYEM/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SITE // E.P. 3.2 The object was gone. What remained...Gendarmerie measured the mark, photographed it, and collected soil directly fr...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXLR8xkEYEM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXLR8xkEYEM/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE SITE // E.P. 3.2 The object was gone. What remained...Gendarmerie measured the mark, photographed it, and collected soil directly fr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ukhsa-protectionservices.org.uk  
-   Link: <a href="https://www.ukhsa-protectionservices.org.uk/cms/assets/gfx/content/resource_4933csdb8419f41d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ukhsa-protectionservices.org.uk/cms/assets/gfx/content/resource_4933csdb8419f41d.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks from land contaminated with radioactivityIn some parts of the UK land has been contaminated with radioactivity, mainly from histori...</p></details>
+   Link:<a href="https://www.ukhsa-protectionservices.org.uk/cms/assets/gfx/content/resource_4933csdb8419f41d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ukhsa-protectionservices.org.uk/cms/assets/gfx/content/resource_4933csdb8419f41d.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risks from land contaminated with radioactivityIn some parts of the UK land has been contaminated with radioactivity, mainly from histori...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: iheart.com  
-   Link: <a href="https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/skeptics-under-the-microscope-when-debunking-331910092/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/skeptics-under-the-microscope-when-debunking-331910092/</a>  
+   Link:<a href="https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/skeptics-under-the-microscope-when-debunking-331910092/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-rendlesham-forest-1980-th-331910086/episode/skeptics-under-the-microscope-when-debunking-331910092/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: Spotting UFOs in the Film Record30 Sept 2013 — Project Blue Book was actually the third formal analysis of UFO sightings, comi...</p></details>
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: Spotting UFOs in the Film Record30 Sept 2013 — Project Blue Book was actually the third formal analysis of UFO sightings, comi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: socorronm.org  
    Title: Visit Socorro New Mexico Socorro Landing: A UFO Story  
-   Link: <a href="https://socorronm.org/notable-local/socorro-landing-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/notable-local/socorro-landing-ufo-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Socorro New MexicoSocorro Landing: A UFO Story - Visit Socorro New MexicoOne of the best documented UFO sightings in US history was...</p></details>
+   Link:<a href="https://socorronm.org/notable-local/socorro-landing-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/notable-local/socorro-landing-ufo-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Socorro New MexicoSocorro Landing: A UFO Story - Visit Socorro New MexicoOne of the best documented UFO sightings in US history was...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: documents2.theblackvault.com  
    Title: ProjectBlueBook Socorro NewMexico 04 24 1964  
-   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NM - 24 Apr 196420 Aug 2023 —... UFO&#x27; a traveling. She an4: mother believe both eyei and first - degree at about the speed of j e t. •...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NM - 24 Apr 196420 Aug 2023 —... UFO&#x27; a traveling. She an4: mother believe both eyei and first - degree at about the speed of j e t. •...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1FOPCs8Kps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ro, New Mexico, in 1964, featuring close encounters, physical traces, and a mysterious symbol...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1FOPCs8Kps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ro, New Mexico, in 1964, featuring close encounters, physical traces, and a mysterious symbol...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/1580394/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/1580394/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>contamination of soils in lower Saxony...by C Beckmann · 1992 · Cited by 11 — Radioactive contamination of soils in lower Saxony, German...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/1580394/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/1580394/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>contamination of soils in lower Saxony...by C Beckmann · 1992 · Cited by 11 — Radioactive contamination of soils in lower Saxony, German...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/saczck/sufficient_evidence_to_prove_offworld_ufos_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/saczck/sufficient_evidence_to_prove_offworld_ufos_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sufficient Evidence to prove off-world UFOs and Aliens are...Third, alien occupants were inside the 1964 New Mexico UFOs during the land...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/saczck/sufficient_evidence_to_prove_offworld_ufos_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/saczck/sufficient_evidence_to_prove_offworld_ufos_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sufficient Evidence to prove off-world UFOs and Aliens are...Third, alien occupants were inside the 1964 New Mexico UFOs during the land...</p></details>

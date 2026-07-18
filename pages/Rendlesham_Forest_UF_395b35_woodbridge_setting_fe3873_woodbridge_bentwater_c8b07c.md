@@ -274,17 +274,17 @@ image: /assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_wood
 
 ## Introduction
 
-The [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is often described as taking place at either RAF Woodbridge, RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}), or simply “near Rendlesham Forest”. One reason for this shifting geography is that, by 1980, Woodbridge and Bentwaters functioned as a closely integrated United States Air Force installation known collectively as the “Twin Bases”. Although they remained separate airfields on the map, they operated under a common command structure, shared personnel and missions, and were widely treated by those stationed there as parts of a single Cold War complex. Understanding that relationship helps explain why witness accounts, official documents, and later retellings frequently move between the two base names without treating them as distinct locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+The [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident is often described as taking place at either RAF Woodbridge, RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}), or simply “near Rendlesham Forest”. One reason for this shifting geography is that, by 1980, Woodbridge and Bentwaters functioned as a closely integrated United States Air Force installation known collectively as the “Twin Bases”. Although they remained separate airfields on the map, they operated under a common command structure, shared personnel and missions, and were widely treated by those stationed there as parts of a single Cold War complex. Understanding that relationship helps explain why witness accounts, official documents, and later retellings frequently move between the two base names without treating them as distinct locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-1-dark.svg" | relative_url }}" alt="Twin Bases illustration 1" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Two Bases Became One Story
 
-Woodbridge and Bentwaters originated as separate Royal Air Force stations during the Second World War, but their [Cold War]({{ 'cold-war/' | relative_url }}) history became increasingly intertwined after the arrival of the United States Air Force in the early 1950s. The decisive organisational change came in 1958, when Woodbridge began operating as a “twin base” with Bentwaters under the 81st Tactical Fighter Wing. From that point onward, the two airfields were managed as a single operational entity despite retaining separate runways and facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Museum+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-snippet">Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</span></span></span>
+Woodbridge and Bentwaters originated as separate Royal Air Force stations during the Second World War, but their [Cold War]({{ 'cold-war/' | relative_url }}) history became increasingly intertwined after the arrival of the United States Air Force in the early 1950s. The decisive organisational change came in 1958, when Woodbridge began operating as a “twin base” with Bentwaters under the 81st Tactical Fighter Wing. From that point onward, the two airfields were managed as a single operational entity despite retaining separate runways and facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Museum+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-snippet">Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</span></span></span>
 
-The arrangement reflected practical military needs. Maintaining two nearby airfields gave the USAF greater flexibility for dispersal, training, maintenance and wartime operations while allowing a single command structure to oversee both locations. Over the following decades, the combined installation became one of the most significant American fighter complexes in Europe. Contemporary accounts describe the 81st Tactical Fighter Wing operating multiple squadrons across both sites, making it one of the largest fighter-wing organisations in United States Air Forces in Europe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheath.af.mil">[Lakenheath Air Force Base+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheath.af.mil</span><span class="citation-popover-snippet">Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</span></span></span>
+The arrangement reflected practical military needs. Maintaining two nearby airfields gave the USAF greater flexibility for dispersal, training, maintenance and wartime operations while allowing a single command structure to oversee both locations. Over the following decades, the combined installation became one of the most significant American fighter complexes in Europe. Contemporary accounts describe the 81st Tactical Fighter Wing operating multiple squadrons across both sites, making it one of the largest fighter-wing organisations in United States Air Forces in Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheath.af.mil">[Lakenheath Air Force Base+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheath.af.mil</span><span class="citation-popover-snippet">Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</span></span></span>
 
-The term “Twin Bases” was not merely a later historical label. It was the language commonly used by American personnel and has remained a standard description in military histories of the installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+The term “Twin Bases” was not merely a later historical label. It was the language commonly used by American personnel and has remained a standard description in military histories of the installations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JBwH6yHEDo" title="Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer">Rendlesham Forest UFO sighting: Eyewitness Colonel Charles Halt</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 707.9K &middot; Uploaded: May 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JBwH6yHEDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JBwH6yHEDo">Open on YouTube</a></p></div></div></div>
@@ -295,20 +295,20 @@ By the time of the Rendlesham events, the two bases formed a linked Cold War sys
 
 Several features reinforced that integration:
 
-* **Common command:** Both airfields fell under the authority of the 81st Tactical Fighter Wing headquartered at Bentwaters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Museum+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-snippet">Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</span></span></span>
-* **Shared personnel:** Airmen, security staff, maintenance specialists and support personnel could work across the wider installation rather than identifying exclusively with one airfield. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheath.af.mil">[Lakenheath Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheath.af.mil</span><span class="citation-popover-snippet">Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</span></span></span>
-* **Linked missions:** Aircraft operations, readiness requirements and Cold War defence responsibilities were organised at wing level rather than as entirely separate base activities. Lakenheath Air Force Base+2USAF Police Alumni Association <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheath.af.mil">[lakenheath.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheath.af.mil</span><span class="citation-popover-snippet">Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</span></span></span>
-* **Geographic proximity:** The airfields lay only a few miles apart within the same rural Suffolk landscape, connected by roads, military infrastructure and shared operational planning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-snippet">Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</span></span></span>
+* **Common command:** Both airfields fell under the authority of the 81st Tactical Fighter Wing headquartered at Bentwaters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Museum+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-snippet">Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</span></span></span>
+* **Shared personnel:** Airmen, security staff, maintenance specialists and support personnel could work across the wider installation rather than identifying exclusively with one airfield.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheath.af.mil">[Lakenheath Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheath.af.mil</span><span class="citation-popover-snippet">Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</span></span></span>
+* **Linked missions:** Aircraft operations, readiness requirements and Cold War defence responsibilities were organised at wing level rather than as entirely separate base activities. Lakenheath Air Force Base+2USAF Police Alumni Association<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakenheath.af.mil">[lakenheath.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakenheath.af.mil</span><span class="citation-popover-snippet">Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</span></span></span>
+* **Geographic proximity:** The airfields lay only a few miles apart within the same rural Suffolk landscape, connected by roads, military infrastructure and shared operational planning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcwm.org.uk">[Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcwm.org.uk</span><span class="citation-popover-snippet">Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</span></span></span>
 
-This organisational reality mattered because personnel experiencing an event near one base often understood it within the context of the wider installation. A security incident near Woodbridge was not necessarily viewed as solely a Woodbridge matter; it could rapidly become an issue for the entire wing command structure. That perspective helps explain why later discussions frequently refer to the incident as occurring near “Bentwaters and Woodbridge” rather than at a single location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+This organisational reality mattered because personnel experiencing an event near one base often understood it within the context of the wider installation. A security incident near Woodbridge was not necessarily viewed as solely a Woodbridge matter; it could rapidly become an issue for the entire wing command structure. That perspective helps explain why later discussions frequently refer to the incident as occurring near “Bentwaters and Woodbridge” rather than at a single location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-2-dark.svg" | relative_url }}" alt="Twin Bases illustration 2" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Cold War Environment Around the Twin Bases
 
-The Twin Bases occupied a strategically important position on England’s east coast during a period of intense East–West tension. Histories of the installations describe their development into a major NATO fighter complex with nuclear-related responsibilities and rapid-response capabilities. The surrounding area was characterised by restricted military zones, extensive security measures, forests, heathland and relatively sparse population density. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woodfieldpublishing.co.uk">[woodfieldpublishing.co.uk+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woodfieldpublishing.co.uk</span><span class="citation-popover-snippet">£20.00. A colourful illustrated history of the USAF years of occupation of this twin base complex in East Anglia...</span></span></span>
+The Twin Bases occupied a strategically important position on England’s east coast during a period of intense East–West tension. Histories of the installations describe their development into a major NATO fighter complex with nuclear-related responsibilities and rapid-response capabilities. The surrounding area was characterised by restricted military zones, extensive security measures, forests, heathland and relatively sparse population density.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woodfieldpublishing.co.uk">[woodfieldpublishing.co.uk+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woodfieldpublishing.co.uk</span><span class="citation-popover-snippet">£20.00. A colourful illustrated history of the USAF years of occupation of this twin base complex in East Anglia...</span></span></span>
 
-For personnel stationed there, unusual lights or [unexplained]({{ 'unexplained/' | relative_url }}) activity beyond a perimeter fence could not automatically be dismissed as harmless curiosity. Cold War training encouraged security forces to treat unknown events as potential threats until proven otherwise. The Twin Bases setting therefore provided an institutional context in which reports of strange lights would receive immediate attention from military personnel. The War Zone+2Lakenheath Air Force Base <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[twz.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — RAF Bentwaters bustled alongside RAF Woodbridge, commonly known...</span></span></span>
+For personnel stationed there, unusual lights or [unexplained]({{ 'unexplained/' | relative_url }}) activity beyond a perimeter fence could not automatically be dismissed as harmless curiosity. Cold War training encouraged security forces to treat unknown events as potential threats until proven otherwise. The Twin Bases setting therefore provided an institutional context in which reports of strange lights would receive immediate attention from military personnel. The War Zone+2Lakenheath Air Force Base<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[twz.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — RAF Bentwaters bustled alongside RAF Woodbridge, commonly known...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96_xir4JAM4" title="Bentwaters Cold War Museum Tour | Simon Gladas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96_xir4JAM4" target="_blank" rel="noopener noreferrer">Bentwaters Cold War Museum Tour | Simon Gladas</a></p><p class="youtube-embed-meta">Channel: Aircrew Interview</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96_xir4JAM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96_xir4JAM4">Open on YouTube</a></p></div></div></div>
@@ -317,11 +317,11 @@ For personnel stationed there, unusual lights or [unexplained]({{ 'unexplained/'
 
 One of the most confusing aspects of the Rendlesham case is that witnesses, journalists and later investigators often appear to use Woodbridge and Bentwaters interchangeably. The Twin Bases structure goes a long way towards explaining why.
 
-The initial reports originated near the eastern perimeter of RAF Woodbridge. However, the officers who became associated with the case belonged to a wider command network spanning both installations. Official records and later commentary routinely connect senior figures to the combined base structure rather than presenting them as representatives of a completely separate Woodbridge organisation. The incident itself therefore moved through an administrative system that linked both sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
+The initial reports originated near the eastern perimeter of RAF Woodbridge. However, the officers who became associated with the case belonged to a wider command network spanning both installations. Official records and later commentary routinely connect senior figures to the combined base structure rather than presenting them as representatives of a completely separate Woodbridge organisation. The incident itself therefore moved through an administrative system that linked both sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>
 
-Public memory reinforced this blending. Many former personnel remembered serving at the Twin Bases rather than identifying exclusively with one airfield. Histories, museum collections and veteran organisations similarly preserve the Cold War story of Bentwaters and Woodbridge as a shared experience. As a result, later retellings often inherited the language of the combined installation. woodfieldpublishing.co.uk+2The Association for Suffolk Museums <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woodfieldpublishing.co.uk">[woodfieldpublishing.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woodfieldpublishing.co.uk</span><span class="citation-popover-snippet">£20.00. A colourful illustrated history of the USAF years of occupation of this twin base complex in East Anglia...</span></span></span>
+Public memory reinforced this blending. Many former personnel remembered serving at the Twin Bases rather than identifying exclusively with one airfield. Histories, museum collections and veteran organisations similarly preserve the Cold War story of Bentwaters and Woodbridge as a shared experience. As a result, later retellings often inherited the language of the combined installation. woodfieldpublishing.co.uk+2The Association for Suffolk Museums<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woodfieldpublishing.co.uk">[woodfieldpublishing.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woodfieldpublishing.co.uk</span><span class="citation-popover-snippet">£20.00. A colourful illustrated history of the USAF years of occupation of this twin base complex in East Anglia...</span></span></span>
 
-The consequence is that a reader encountering references to “Bentwaters”, “Woodbridge” or “the Twin Bases” in Rendlesham literature is often looking at different descriptions of the same broader military community rather than contradictory accounts of location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+The consequence is that a reader encountering references to “Bentwaters”, “Woodbridge” or “the Twin Bases” in Rendlesham literature is often looking at different descriptions of the same broader military community rather than contradictory accounts of location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Military Airshows]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mLqXp90GTX8" title="Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer">Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mLqXp90GTX8">Open on YouTube</a></p></div></div></div>
@@ -330,174 +330,174 @@ The consequence is that a reader encountering references to “Bentwaters”, �
 
 The Twin Bases context does not determine what witnesses saw in Rendlesham Forest, but it changes how the episode is understood.
 
-First, it clarifies why the event quickly attracted attention beyond a single patrol. Reports emerging near Woodbridge could move through a larger Cold War command structure that encompassed both installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s knowledge of an investigation by the US...</span></span></span>
+First, it clarifies why the event quickly attracted attention beyond a single patrol. Reports emerging near Woodbridge could move through a larger Cold War command structure that encompassed both installations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s knowledge of an investigation by the US...</span></span></span>
 
-Second, it helps explain the persistent geographical ambiguity surrounding the case. Many later readers assume conflicting accounts indicate confusion or error. In practice, witnesses were operating within a military system that routinely treated Bentwaters and Woodbridge as components of one installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+Second, it helps explain the persistent geographical ambiguity surrounding the case. Many later readers assume conflicting accounts indicate confusion or error. In practice, witnesses were operating within a military system that routinely treated Bentwaters and Woodbridge as components of one installation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Bentwaters Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
-Third, it places the incident inside a distinctive Cold War environment. The forest was not simply woodland beside a rural village. It bordered a major American military complex whose personnel were trained to respond to unusual activity near sensitive facilities. That institutional backdrop shaped how events were reported, investigated and remembered. The War Zone+2Lakenheath Air Force Base <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[twz.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — RAF Bentwaters bustled alongside RAF Woodbridge, commonly known...</span></span></span>
+Third, it places the incident inside a distinctive Cold War environment. The forest was not simply woodland beside a rural village. It bordered a major American military complex whose personnel were trained to respond to unusual activity near sensitive facilities. That institutional backdrop shaped how events were reported, investigated and remembered. The War Zone+2Lakenheath Air Force Base<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[twz.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — RAF Bentwaters bustled alongside RAF Woodbridge, commonly known...</span></span></span>
 
-Viewed in this light, the Twin Bases are more than a geographical footnote. They are a key reason why Woodbridge, Bentwaters and Rendlesham Forest became inseparable in the historical [memory]({{ 'memory/' | relative_url }}) of the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2woodfieldpublishing.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+Viewed in this light, the Twin Bases are more than a geographical footnote. They are a key reason why Woodbridge, Bentwaters and Rendlesham Forest became inseparable in the historical [memory]({{ 'memory/' | relative_url }}) of the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2woodfieldpublishing.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-3-dark.svg" | relative_url }}" alt="Twin Bases illustration 3" data-theme-src-dark="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873_woodbridge_bentwater_c8b07c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Two Bases Became One Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Two Bases Became One Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explains the military setting and the relationship of personnel and bases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the military setting and the relationship of personnel and bases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Covers Bentwaters, Woodbridge and witness networks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Bentwaters, Woodbridge and witness networks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Left at East Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fyP0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Left at East Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
-        </h4>
-        <p class="fr-book-author">By Larry Warren, Peter Robbins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Left at East Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fyP0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Left at East Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
+</h4>
+<p class="fr-book-author">By Larry Warren, Peter Robbins</p>
         
-        <p class="fr-book-desc">Focuses on personnel drawn from the twin-base environment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on personnel drawn from the twin-base environment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for military witness credibility and reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military witness credibility and reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+at+East+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left at East Gate</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+at+East+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left at East Gate</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NON-HUMAN: The Rendlesham Forest UF..., HESELTINE, GARY Signed"><img src="{{ '/assets/images/marketplace-covers/1d216165a47af91912eb.jpg' | relative_url }}" alt="Listing image for NON-HUMAN: The Rendlesham Forest UF..., HESELTINE, GARY Signed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer">NON-HUMAN: The Rendlesham Forest UF..., HESELTINE, GARY Signed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NON-HUMAN: The Rendlesham Forest UF..., HESELTINE, GARY Signed"><img src="{{ '/assets/images/marketplace-covers/1d216165a47af91912eb.jpg' | relative_url }}" alt="Listing image for NON-HUMAN: The Rendlesham Forest UF..., HESELTINE, GARY Signed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer">NON-HUMAN: The Rendlesham Forest UF..., HESELTINE, GARY Signed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 12x8 Rendlesham Forest Centre sign c2011"><img src="{{ '/assets/images/marketplace-covers/6edd3df6ec3f4a18060e.jpg' | relative_url }}" alt="Listing image for Photo 12x8 Rendlesham Forest Centre sign c2011" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer">Photo 12x8 Rendlesham Forest Centre sign c2011</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 12x8 Rendlesham Forest Centre sign c2011"><img src="{{ '/assets/images/marketplace-covers/6edd3df6ec3f4a18060e.jpg' | relative_url }}" alt="Listing image for Photo 12x8 Rendlesham Forest Centre sign c2011" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer">Photo 12x8 Rendlesham Forest Centre sign c2011</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Rendlesham Forest sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Rendlesham Forest sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Rendlesham+Forest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Rendlesham Forest sign" data-ebay-reference="twin-bases-7e04ec-why-two-bases-became-one-story-rendlesham-forest-rendlesham-forest-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -513,7 +513,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -533,7 +533,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -565,7 +565,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -617,7 +617,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -662,7 +662,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -703,168 +703,168 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: RAF Bentwaters  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — For many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</p></details>
    Published: March 27, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: woodfieldpublishing.co.uk  
-   Link: <a href="https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html" target="_blank" rel="noopener noreferrer nofollow">https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>£20.00. A colourful illustrated history of the USAF years of occupation of this twin base complex in East Anglia...</p></details>
+   Link:<a href="https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html" target="_blank" rel="noopener noreferrer nofollow">https://www.woodfieldpublishing.co.uk/contents/en-uk/p422_Twin_Bases_Remembered_by_Norman_Rose.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>£20.00. A colourful illustrated history of the USAF years of occupation of this twin base complex in East Anglia...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendleshama village and civil parish near Woodbridge, Suffolk, United Kingdom. It was a royal centre of authority for the king of the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendleshama village and civil parish near Woodbridge, Suffolk, United Kingdom. It was a royal centre of authority for the king of the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: RAF Woodbridge  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Woodbridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Woodbridge</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF WoodbridgeConstructed in 1943 as a RAF military airfield during the Second World War to assist damaged aircraft to land on their r...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Woodbridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Woodbridge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF WoodbridgeConstructed in 1943 as a RAF military airfield during the Second World War to assist damaged aircraft to land on their r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/81st_Fighter-Bomber_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/81st_Fighter-Bomber_Group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>81st Fighter-Bomber GroupThe 81st Fighter-Bomber Group (81 FBG) is an inactive United States Air Force unit. It was last assigned to t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/81st_Fighter-Bomber_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/81st_Fighter-Bomber_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>81st Fighter-Bomber GroupThe 81st Fighter-Bomber Group (81 FBG) is an inactive United States Air Force unit. It was last assigned to t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bcwm.org.uk  
-   Link: <a href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/museum/woodbridge/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</p></details>
+   Link:<a href="https://bcwm.org.uk/museum/woodbridge/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/museum/woodbridge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters under the 81st Tactical Fighter Wing. Along with the 79th...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: military-airshows.co.uk  
    Title: Military Airshows [Bentwaters Cold War](&#123;&#123; 'cold-war-aura/' | relative_url &#125;&#125;) Museum  
-   Link: <a href="https://www.military-airshows.co.uk/museums/bentwaters-cold-war-museum.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.military-airshows.co.uk/museums/bentwaters-cold-war-museum.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters Cold War Museum - postcode mapsDuring the Cold War, RAF Bentwaters was used by the United States Air Force (USAF), with the 81...</p></details>
+   Link:<a href="https://www.military-airshows.co.uk/museums/bentwaters-cold-war-museum.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.military-airshows.co.uk/museums/bentwaters-cold-war-museum.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters Cold War Museum - postcode mapsDuring the Cold War, RAF Bentwaters was used by the United States Air Force (USAF), with the 81...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bcwm.org.uk  
-   Link: <a href="https://bcwm.org.uk/museum/bentwaters/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/museum/bentwaters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MuseumRAF Bentwaters HistoryOn the 8th July 1958, the 81st became a Tactical Fighter Wing, in readiness for its new aircraft type, namely...</p></details>
+   Link:<a href="https://bcwm.org.uk/museum/bentwaters/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/museum/bentwaters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MuseumRAF Bentwaters HistoryOn the 8th July 1958, the 81st became a Tactical Fighter Wing, in readiness for its new aircraft type, namely...</p></details>
    Published: July 1958  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lakenheath.af.mil  
-   Link: <a href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow">https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</p></details>
+   Link:<a href="https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow">https://www.lakenheath.af.mil/News/Commentaries/Display/Article/300285/a-visit-to-bentwaters-cold-war-museum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lakenheath Air Force BaseA visit to Bentwaters Cold War Museum - RAF Lakenheath15 Nov 2011 — With six operational squadrons on both RAFs...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: usafpolice.org  
    Title: bentwaterswoodbridge history  
-   Link: <a href="https://www.usafpolice.org/bentwaterswoodbridge-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usafpolice.org/bentwaterswoodbridge-history.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Police Alumni Associationraf bentwaters/woodbridge historyRAF BENTWATERS 1951 - In Sep 1951, the 81st Fighter Interceptor Wing becom...</p></details>
+   Link:<a href="https://www.usafpolice.org/bentwaterswoodbridge-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usafpolice.org/bentwaterswoodbridge-history.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Police Alumni Associationraf bentwaters/woodbridge historyRAF BENTWATERS 1951 - In Sep 1951, the 81st Fighter Interceptor Wing becom...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
    Title: Hansard Rendlesham Forest/Raf Bentwaters Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s knowledge of an investigation by the US...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s knowledge of an investigation by the US...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneRAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — RAF Bentwaters bustled alongside RAF Woodbridge, commonly known...</p></details>
+   Link:<a href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneRAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — RAF Bentwaters bustled alongside RAF Woodbridge, commonly known...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: suffolkmuseums.org  
    Title: The Association for Suffolk Museums Bentwaters Cold War Museum  
-   Link: <a href="https://suffolkmuseums.org/museums/bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow">https://suffolkmuseums.org/museums/bentwaters-cold-war-museum/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the...Read more...</p></details>
+   Link:<a href="https://suffolkmuseums.org/museums/bentwaters-cold-war-museum/" target="_blank" rel="noopener noreferrer nofollow">https://suffolkmuseums.org/museums/bentwaters-cold-war-museum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bentwaters-as.org.uk  
    Title: raf woodbridge  
-   Link: <a href="https://bentwaters-as.org.uk/history/raf-woodbridge/" target="_blank" rel="noopener noreferrer nofollow">https://bentwaters-as.org.uk/history/raf-woodbridge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryIn 1943, Woodbridge was constructed in the south-east as one of three airfields set up to accept distressed aircraft returning fro...</p></details>
+   Link:<a href="https://bentwaters-as.org.uk/history/raf-woodbridge/" target="_blank" rel="noopener noreferrer nofollow">https://bentwaters-as.org.uk/history/raf-woodbridge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryIn 1943, Woodbridge was constructed in the south-east as one of three airfields set up to accept distressed aircraft returning fro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: united-kingdom.fandom.com  
    Title: RAF Bentwaters  
-   Link: <a href="https://united-kingdom.fandom.com/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://united-kingdom.fandom.com/wiki/RAF_Bentwaters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BentwatersThe 81st Fighter-Interceptor Wing became the new host unit at Bentwaters in September 1951. The 81st, in various designations...</p></details>
+   Link:<a href="https://united-kingdom.fandom.com/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://united-kingdom.fandom.com/wiki/RAF_Bentwaters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BentwatersThe 81st Fighter-Interceptor Wing became the new host unit at Bentwaters in September 1951. The 81st, in various designations...</p></details>
    Published: September 1951  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unitedkingdom.fandom.com  
    Title: RAF Bentwaters  
-   Link: <a href="https://unitedkingdom.fandom.com/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://unitedkingdom.fandom.com/wiki/RAF_Bentwaters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters | United Kingdom Wiki | FandomBentwaters airfield&#x27;s origin dates to 1942 when construction began on a Royal Air Force station...</p></details>
+   Link:<a href="https://unitedkingdom.fandom.com/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://unitedkingdom.fandom.com/wiki/RAF_Bentwaters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bentwaters | United Kingdom Wiki | FandomBentwaters airfield&#x27;s origin dates to 1942 when construction began on a Royal Air Force station...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.howstuffworks.com  
    Title: rendlesham forest incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — In the Rendlesham Forest incident, triangular UFOs appeared in England and landed on multiple nights. Several groups of wit...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — In the Rendlesham Forest incident, triangular UFOs appeared in England and landed on multiple nights. Several groups of wit...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: homepages.force9.net  
-   Link: <a href="https://homepages.force9.net/ffour/Oldstuff/bentwaters/bentwaters.htm" target="_blank" rel="noopener noreferrer nofollow">https://homepages.force9.net/ffour/Oldstuff/bentwaters/bentwaters.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rememberedGraham has produced this CD-ROM which aims to provide an insight into what went on at RAF Bentwaters and RAF Woodbridge prior t...</p></details>
+   Link:<a href="https://homepages.force9.net/ffour/Oldstuff/bentwaters/bentwaters.htm" target="_blank" rel="noopener noreferrer nofollow">https://homepages.force9.net/ffour/Oldstuff/bentwaters/bentwaters.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rememberedGraham has produced this CD-ROM which aims to provide an insight into what went on at RAF Bentwaters and RAF Woodbridge prior t...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident – Britain&#x27;s RoswellOver [two nights](&amp;#123;&amp;#123; &#x27;two-nights/&#x27; | relative_url &amp;#125;&amp;#125;), they saw strange lights in the forest, a glowing metallic craft, and e...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1mjghxa/the_rendlesham_forest_incident_britains_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident – Britain&#x27;s RoswellOver [two nights](&amp;#123;&amp;#123; &#x27;two-nights/&#x27; | relative_url &amp;#125;&amp;#125;), they saw strange lights in the forest, a glowing metallic craft, and e...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: secretprojects.co.uk  
-   Link: <a href="https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident RAF Bentwaters...25 Dec 2020 — 26th rendlesham forest incident between Twin bases of RAF Woodbridge (home...</p></details>
+   Link:<a href="https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident RAF Bentwaters...25 Dec 2020 — 26th rendlesham forest incident between Twin bases of RAF Woodbridge (home...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: raf bentwaters near woodbridge in suffolk was one of the most important cold war  
-   Link: <a href="https://www.facebook.com/ukhiddengems/posts/raf-bentwaters-near-woodbridge-in-suffolk-was-one-of-the-most-important-cold-war/1828522054839178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukhiddengems/posts/raf-bentwaters-near-woodbridge-in-suffolk-was-one-of-the-most-important-cold-war/1828522054839178/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters near Woodbridge in Suffolk was one...On the morning of 26 December 1980, at around 3:00 a.m., a USAF security patrol obse...</p></details>
+   Link:<a href="https://www.facebook.com/ukhiddengems/posts/raf-bentwaters-near-woodbridge-in-suffolk-was-one-of-the-most-important-cold-war/1828522054839178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukhiddengems/posts/raf-bentwaters-near-woodbridge-in-suffolk-was-one-of-the-most-important-cold-war/1828522054839178/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters near Woodbridge in Suffolk was one...On the morning of 26 December 1980, at around 3:00 a.m., a USAF security patrol obse...</p></details>
    Published: December 1980  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: rendlesham forest ufo incidentthe rendlesham forest incident was a series of rep  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident The...In late December 1980, U.S. Air Force personnel stationed at RAF Bentwaters and RAF Woodbridge in S...</p></details>
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/rendlesham-forest-ufo-incidentthe-rendlesham-forest-incident-was-a-series-of-rep/979233021295195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident The...In late December 1980, U.S. Air Force personnel stationed at RAF Bentwaters and RAF Woodbridge in S...</p></details>
    Published: December 1980  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: basebp.co.uk  
-   Link: <a href="https://www.basebp.co.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.basebp.co.uk/history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryUntil the mid nineties Base Business Park was an American air base, home to A-10 &#x27;tank busting&#x27; aircraft. Part of the base remaine...</p></details>
+   Link:<a href="https://www.basebp.co.uk/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.basebp.co.uk/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryUntil the mid nineties Base Business Park was an American air base, home to A-10 &#x27;tank busting&#x27; aircraft. Part of the base remaine...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: midnightghostlights.com  
    Title: the lights between the trees the rendlesham forest incident  
-   Link: <a href="https://midnightghostlights.com/2025/04/29/the-lights-between-the-trees-the-rendlesham-forest-incident/" target="_blank" rel="noopener noreferrer nofollow">https://midnightghostlights.com/2025/04/29/the-lights-between-the-trees-the-rendlesham-forest-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters and Woodbridge, and higher-ranking officers began to... aliensenglandparanormalRendlesham Forest Incidentufoufoswriting.R...</p></details>
+   Link:<a href="https://midnightghostlights.com/2025/04/29/the-lights-between-the-trees-the-rendlesham-forest-incident/" target="_blank" rel="noopener noreferrer nofollow">https://midnightghostlights.com/2025/04/29/the-lights-between-the-trees-the-rendlesham-forest-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters and Woodbridge, and higher-ranking officers began to... aliensenglandparanormalRendlesham Forest Incidentufoufoswriting.R...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/woodfarmbarnsandbarges/videos/the-suffolk-forest-where-the-military-saw-something-they-still-cant-explainin-de/2492995374435492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/woodfarmbarnsandbarges/videos/the-suffolk-forest-where-the-military-saw-something-they-still-cant-explainin-de/2492995374435492/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orted unexplained lights and a structured object inside Rendlesham...</p></details>
+   Link:<a href="https://www.facebook.com/woodfarmbarnsandbarges/videos/the-suffolk-forest-where-the-military-saw-something-they-still-cant-explainin-de/2492995374435492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/woodfarmbarnsandbarges/videos/the-suffolk-forest-where-the-military-saw-something-they-still-cant-explainin-de/2492995374435492/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orted unexplained lights and a structured object inside Rendlesham...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/djimini2ukowners/posts/4118023551813262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/djimini2ukowners/posts/4118023551813262/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Air Force (USAF) during the Cold War...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/djimini2ukowners/posts/4118023551813262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/djimini2ukowners/posts/4118023551813262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Air Force (USAF) during the Cold War...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukairfields/posts/81st-tactical-fighter-wing-raf-bentwaters-suffolk/659453278945812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukairfields/posts/81st-tactical-fighter-wing-raf-bentwaters-suffolk/659453278945812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g the Cold War era. The 81st FIW was a North American F-86A...</p></details>
+   Link:<a href="https://www.facebook.com/ukairfields/posts/81st-tactical-fighter-wing-raf-bentwaters-suffolk/659453278945812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukairfields/posts/81st-tactical-fighter-wing-raf-bentwaters-suffolk/659453278945812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g the Cold War era. The 81st FIW was a North American F-86A...</p></details>

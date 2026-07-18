@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-woodbridge/
 description: Focused pages that expand on The Setting.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_woodbridge_setting_fe3873
 parent_title: The Setting
@@ -16,7 +16,7 @@ parent_permalink: /the-setting/
 
 # Explore Topics in The Setting
 
-The following pages expand on the main **[The Setting]({{ '/the-setting/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[The Setting]({{ '/the-setting/' | relative_url }})** page and cover its key branches in.
 
 - [East Gate]({{ '/east-gate-8289ff/' | relative_url }})
 - [Forest Tracks]({{ '/forest-tracks/' | relative_url }})

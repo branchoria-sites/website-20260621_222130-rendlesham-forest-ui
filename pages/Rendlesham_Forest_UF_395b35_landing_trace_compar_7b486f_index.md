@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-landing/
 description: Focused pages that expand on Trace Cases.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_landing_trace_compar_7b486f
 parent_title: Trace Cases
@@ -16,7 +16,7 @@ parent_permalink: /trace-cases/
 
 # Explore Topics in Trace Cases
 
-The following pages expand on the main **[Trace Cases]({{ '/trace-cases/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Trace Cases]({{ '/trace-cases/' | relative_url }})** page and cover its key branches in.
 
 - [Site Checks]({{ '/site-checks/' | relative_url }})
 - [Mundane Marks]({{ '/mundane-marks/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-britain/
 description: Focused pages that expand on UFO Culture.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_britain_ufo_culture_d21558
 parent_title: UFO Culture
@@ -16,7 +16,7 @@ parent_permalink: /ufo-culture/
 
 # Explore Topics in UFO Culture
 
-The following pages expand on the main **[UFO Culture]({{ '/ufo-culture/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFO Culture]({{ '/ufo-culture/' | relative_url }})** page and cover its key branches in.
 
 - [Archive Trail]({{ '/archive-trail/' | relative_url }})
 - [Britain s Roswell]({{ '/britain-s-roswell/' | relative_url }})

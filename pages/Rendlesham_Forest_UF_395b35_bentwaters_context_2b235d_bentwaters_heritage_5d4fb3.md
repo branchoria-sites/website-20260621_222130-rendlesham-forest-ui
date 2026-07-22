@@ -356,7 +356,7 @@ As a result, Bentwaters has become one of the principal places through which the
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
         </h4>
         <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
         <p class="fr-book-desc">Directly covers the Rendlesham incident and the military context linking Bentwaters, Woodbridge and local heritage narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ As a result, Bentwaters has become one of the principal places through which the
           <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
         </h4>
         <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
-        
+
         <p class="fr-book-desc">Provides historical coverage of the incident and how the story developed in public consciousness.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ As a result, Bentwaters has become one of the principal places through which the
           <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War : A New History">The Cold War : A New History</a>
         </h4>
         <p class="fr-book-author">By John Lewis Gaddis, Alan Sklar et al.</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the Cold War setting that museums such as Bentwaters Cold War Museum use to interpret the UFO story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ As a result, Bentwaters has become one of the principal places through which the
           <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
         </h4>
         <p class="fr-book-author">By Richard M. Dolan</p>
-        
+
         <p class="fr-book-desc">Places Rendlesham and Cold War military UFO narratives within a wider historical framework.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

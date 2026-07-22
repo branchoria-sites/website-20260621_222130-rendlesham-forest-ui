@@ -369,7 +369,7 @@ In the Rendlesham context, this means witness training increases the importance 
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Explains why expertise cannot fully overcome cognitive shortcuts and uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ In the Rendlesham context, this means witness training increases the importance 
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Places witness claims and trained-observer testimony within critical evidence standards.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ In the Rendlesham context, this means witness training increases the importance 
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
         <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
         <p class="fr-book-desc">Directly supports the argument that attention and confidence do not guarantee accurate perception.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ In the Rendlesham context, this means witness training increases the importance 
           <a href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual intelligence">Visual intelligence</a>
         </h4>
         <p class="fr-book-author">By Donald David Hoffman, Donald D. Hoffman</p>
-        
+
         <p class="fr-book-desc">Addresses how trained looking works and where observation can still fail.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Visual+intelligence+Donald+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

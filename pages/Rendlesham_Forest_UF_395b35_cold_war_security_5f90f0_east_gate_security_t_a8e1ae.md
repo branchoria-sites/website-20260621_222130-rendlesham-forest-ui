@@ -368,7 +368,7 @@ Without the base perimeter, the lights might have been treated as a curiosity. W
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
 </h4>
 <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
 <p class="fr-book-desc">Directly covers the incident, witnesses, interpretations and key locations around the base perimeter.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Without the base perimeter, the lights might have been treated as a curiosity. W
 <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
 </h4>
 <p class="fr-book-author">By Larry Warren, Peter Robbins</p>
-        
+
 <p class="fr-book-desc">Focuses heavily on the security-police perspective and events linked to the East Gate area.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Left+at+East+Gate+by+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Without the base perimeter, the lights might have been treated as a curiosity. W
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
 </h4>
 <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
-        
+
 <p class="fr-book-desc">Examines witness testimony, military responses and competing explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Without the base perimeter, the lights might have been treated as a curiosity. W
 <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
 </h4>
 <p class="fr-book-author">By Robert L. Hastings</p>
-        
+
 <p class="fr-book-desc">Provides Cold War military-security context for why unusual lights near bases attract attention.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

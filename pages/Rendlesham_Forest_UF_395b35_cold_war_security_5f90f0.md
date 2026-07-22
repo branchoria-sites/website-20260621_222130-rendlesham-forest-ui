@@ -554,7 +554,7 @@ The strongest reading is therefore balanced. Rendlesham’s Cold War setting rai
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
         </h4>
         <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
         <p class="fr-book-desc">Directly covers the Rendlesham incident and discusses the military personnel and base-security context surrounding it.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -571,7 +571,7 @@ The strongest reading is therefore balanced. Rendlesham’s Cold War setting rai
           <a href="https://www.amazon.com/s?k=Left+at+East+Gate+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
         </h4>
         <p class="fr-book-author">By Larry Warren, Peter Robbins</p>
-        
+
         <p class="fr-book-desc">Focuses on witness experiences and military-base circumstances connected to the incident.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Left+at+East+Gate+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -588,7 +588,7 @@ The strongest reading is therefore balanced. Rendlesham’s Cold War setting rai
           <a href="https://www.amazon.com/s?k=The+Dead+Hand+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
         </h4>
         <p class="fr-book-author">By David Hoffman</p>
-        
+
         <p class="fr-book-desc">Illustrates the high-stakes security environment and threat perceptions that influenced military responses to unusual events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dead+Hand+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -605,7 +605,7 @@ The strongest reading is therefore balanced. Rendlesham’s Cold War setting rai
           <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War : A New History">The Cold War : A New History</a>
         </h4>
         <p class="fr-book-author">By John Lewis Gaddis, Alan Sklar et al.</p>
-        
+
         <p class="fr-book-desc">Explains the military alertness, security culture, and geopolitical tensions that framed events around USAF bases in Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cold+War+%3A+A+New+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

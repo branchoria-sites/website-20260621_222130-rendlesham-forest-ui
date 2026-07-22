@@ -359,7 +359,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
         </h4>
         <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
         <p class="fr-book-desc">Explains the military setting and the relationship of personnel and bases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
           <a href="https://www.amazon.com/s?k=Left+at+East+Gate+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
         </h4>
         <p class="fr-book-author">By Larry Warren, Peter Robbins</p>
-        
+
         <p class="fr-book-desc">Focuses on personnel drawn from the twin-base environment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Left+at+East+Gate+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
           <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
         </h4>
         <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
-        
+
         <p class="fr-book-desc">Covers Bentwaters, Woodbridge and witness networks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Viewed in this light, the Twin Bases are more than a geographical footnote. They
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides context for military witness credibility and reporting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

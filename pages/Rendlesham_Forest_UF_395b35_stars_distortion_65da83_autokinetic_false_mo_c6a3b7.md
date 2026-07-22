@@ -356,7 +356,7 @@ The broader lesson is that honesty and accuracy are not the same thing. Witnesse
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Relevant to evaluating unusual observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The broader lesson is that honesty and accuracy are not the same thing. Witnesse
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
         <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
         <p class="fr-book-desc">Shows how perception can diverge from reality.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The broader lesson is that honesty and accuracy are not the same thing. Witnesse
           <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We See what We Do">Why We See what We Do</a>
         </h4>
         <p class="fr-book-author">By Dale Purves, R. Beau Lotto</p>
-        
+
         <p class="fr-book-desc">Explains how the brain constructs visual experience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The broader lesson is that honesty and accuracy are not the same thing. Witnesse
           <a href="https://www.amazon.com/s?k=Eye+and+Brain+Richard+L.+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eye and Brain">Eye and Brain</a>
         </h4>
         <p class="fr-book-author">By Richard L. Gregory</p>
-        
+
         <p class="fr-book-desc">Explores perceptual errors and visual interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Eye+and+Brain+Richard+L.+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

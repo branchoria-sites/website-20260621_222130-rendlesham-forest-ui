@@ -352,7 +352,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
           <a href="https://www.amazon.com/s?k=Witness+to+Roswell+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
         </h4>
         <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
-        
+
         <p class="fr-book-desc">Directly examines the Roswell incident that became a civic identity and tourism phenomenon.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witness+to+Roswell+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides essential context for how UFO cases entered public culture and collective memory.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Illustrates how disputed stories, government secrecy, and public imagination create enduring legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Together they illustrate two distinct paths by which UFO stories become part of 
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By D.W. Pasulka</p>
-        
+
         <p class="fr-book-desc">Examines how UFO narratives become cultural belief systems and persist through communities and places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

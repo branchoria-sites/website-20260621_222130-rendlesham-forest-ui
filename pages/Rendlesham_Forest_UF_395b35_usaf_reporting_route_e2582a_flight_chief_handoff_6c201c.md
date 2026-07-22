@@ -362,7 +362,7 @@ As a result, historians and researchers can say with confidence that a command a
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
 </h4>
 <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
 <p class="fr-book-desc">Directly covers the Rendlesham Forest events, witnesses, reporting chain, and subsequent interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ As a result, historians and researchers can say with confidence that a command a
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
 </h4>
 <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
-        
+
 <p class="fr-book-desc">Explores witness accounts, documentation, and official handling of the incident.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ As a result, historians and researchers can say with confidence that a command a
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides foundational background on investigation, classification, and assessment of unexplained aerial reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ As a result, historians and researchers can say with confidence that a command a
 <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
 </h4>
 <p class="fr-book-author">By Robert L. Hastings</p>
-        
+
 <p class="fr-book-desc">Places military sightings and reporting structures into a wider Cold War context relevant to Rendlesham readers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

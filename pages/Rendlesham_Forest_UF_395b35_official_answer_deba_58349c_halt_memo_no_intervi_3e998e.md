@@ -350,7 +350,7 @@ This is why the issue continues to matter. The debate is not simply about what t
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
         </h4>
         <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
         <p class="fr-book-desc">Directly examines the incident, MoD involvement, official documents, and investigative shortcomings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ This is why the issue continues to matter. The debate is not simply about what t
           <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
         </h4>
         <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
-        
+
         <p class="fr-book-desc">Focuses on witness testimony, official responses, and questions about the adequacy of the investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ This is why the issue continues to matter. The debate is not simply about what t
           <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
         </h4>
         <p class="fr-book-author">By Nick Pope</p>
-        
+
         <p class="fr-book-desc">Explains how the MoD handled UFO reports and why some cases received limited investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ This is why the issue continues to matter. The debate is not simply about what t
           <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
         </h4>
         <p class="fr-book-author">By David Clarke</p>
-        
+
         <p class="fr-book-desc">Provides context on official records, declassified files, and the evidential limitations of government UFO investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

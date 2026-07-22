@@ -349,7 +349,7 @@ As a result, the three small impressions acquired a significance far greater tha
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
 </h4>
 <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
 <p class="fr-book-desc">Discusses the alleged landing site, impressions and physical trace claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ As a result, the three small impressions acquired a significance far greater tha
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
 </h4>
 <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
-        
+
 <p class="fr-book-desc">Examines how a light sighting became a claimed landing-site narrative.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ As a result, the three small impressions acquired a significance far greater tha
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides context for evaluating trace evidence and sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ As a result, the three small impressions acquired a significance far greater tha
 <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
 </h4>
 <p class="fr-book-author">By Richard H. Hall</p>
-        
+
 <p class="fr-book-desc">Covers physical-trace cases and evidence assessment relevant to landing claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

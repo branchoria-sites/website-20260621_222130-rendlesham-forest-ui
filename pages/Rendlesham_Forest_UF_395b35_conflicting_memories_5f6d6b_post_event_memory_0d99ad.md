@@ -400,7 +400,7 @@ In that sense, Rendlesham is more than a UFO case. It is also a vivid example of
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
         <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
         <p class="fr-book-desc">Illustrates how later interpretations influence recollection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ In that sense, Rendlesham is more than a UFO case. It is also a vivid example of
           <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
         </h4>
         <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
-        
+
         <p class="fr-book-desc">Directly addresses post-event information effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ In that sense, Rendlesham is more than a UFO case. It is also a vivid example of
           <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonwalking with Einstein">Moonwalking with Einstein</a>
         </h4>
         <p class="fr-book-author">By Joshua Foer</p>
-        
+
         <p class="fr-book-desc">Provides accessible context on memory mechanisms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ In that sense, Rendlesham is more than a UFO case. It is also a vivid example of
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Relevant to evolving narratives around unusual events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

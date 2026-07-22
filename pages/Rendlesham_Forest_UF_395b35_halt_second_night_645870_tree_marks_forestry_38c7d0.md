@@ -353,7 +353,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
 </h4>
 <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
 <p class="fr-book-desc">Discusses physical traces, tree marks and competing explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
 </h4>
 <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
-        
+
 <p class="fr-book-desc">Examines evidence claims and witness interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Useful for assessing physical-trace and witness-evidence claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Within the context of Halt’s second-night investigation, the tree marks theref
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Places reported traces and anomalous encounters into broader context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

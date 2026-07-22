@@ -368,7 +368,7 @@ Seen in the context of the USAF reporting route and subsequent Whitehall handlin
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
         </h4>
         <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-        
+
         <p class="fr-book-desc">Focuses on the Rendlesham incident and the wider Ministry of Defence UFO reporting environment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Seen in the context of the USAF reporting route and subsequent Whitehall handlin
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides context for how official bodies distinguish investigation, classification, and evidential significance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Seen in the context of the USAF reporting route and subsequent Whitehall handlin
           <a href="https://www.amazon.com/s?k=Out+of+the+Shadows+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Out of the Shadows">Out of the Shadows</a>
         </h4>
         <p class="fr-book-author">By David Clarke, Andy Roberts</p>
-        
+
         <p class="fr-book-desc">Examines UK government records, MoD policy, and the administrative handling of UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Out+of+the+Shadows+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,14 +413,14 @@ Seen in the context of the USAF reporting route and subsequent Whitehall handlin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820708-M.jpg" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
         </h4>
         <p class="fr-book-author">By Richard M. Dolan</p>
-        
-        <p class="fr-book-desc">First published 2000. Subjects: Government information, Government policy, Conspiracies, Unidentified flying objects, Sightings and encou...</p>
+
+        <p class="fr-book-desc">Included in this volume are the records of more than fifty military bases relating to innumerable violations of sensitive airspace by unk...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

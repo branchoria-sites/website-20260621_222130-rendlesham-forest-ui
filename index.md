@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Branchoria
+last_modified_at: 2026-09-27
 permalink: /
 home: true
 homepage_audience_mode: production
@@ -172,7 +173,13 @@ header:
 image: /assets/images/Rendlesham_Forest_UF_395b35-overview-social.jpg
 site_image_description: A dark pine forest beside a military fence, with distant white lights visible between the trees and patrol figures standing on a...
 ---
-
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">Rendlesham Forest</h1>
+<p class="home-structure-intro-summary">A practical guide to Rendlesham Forest UFO Incident, from the main overview to focused routes through the topic.</p>
+</div>
+</section>
 <section class="home-adaptive-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="overflow" data-home-max-breadth="180" data-home-max-depth="2">
 <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">
 <section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="30" data-home-vertical-top-count="1">

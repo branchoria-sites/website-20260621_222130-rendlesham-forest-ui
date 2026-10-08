@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-21 02:52:54'
+last_modified_at: '2026-06-21 02:52:54'
 parent_title: Why Some Readers Still See a Craft
 parent_permalink: /craft-claims/
 parent_nav_short_title: Craft Claims

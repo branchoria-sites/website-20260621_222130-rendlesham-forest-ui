@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 22:04:33'
+last_modified_at: '2026-06-20 22:04:33'
 parent_title: What Did the First Patrol See?
 parent_permalink: /first-night/
 parent_nav_short_title: First Night

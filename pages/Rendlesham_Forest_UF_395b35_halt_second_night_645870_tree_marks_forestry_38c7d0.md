@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 21:18:31'
+last_modified_at: '2026-06-20 21:18:31'
 parent_title: Inside Halt’s Night in the Forest
 parent_permalink: /halt-night/
 parent_nav_short_title: Halt Night

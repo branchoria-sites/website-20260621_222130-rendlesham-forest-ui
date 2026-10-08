@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 21:31:51'
+last_modified_at: '2026-06-20 21:31:51'
 parent_title: Why Cold War Security Raised the Stakes
 parent_permalink: /cold-war/
 parent_nav_short_title: Cold War

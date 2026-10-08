@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-19 08:21:17'
+last_modified_at: '2026-06-19 08:21:17'
 parent_title: Why One Memo Anchored the Mystery
 parent_permalink: /halt-memo/
 parent_nav_short_title: Halt Memo

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 21:05:17'
+last_modified_at: '2026-06-20 21:05:17'
 parent_title: Why the Ridpath Explanation Endures
 parent_permalink: /ridpath/
 parent_nav_short_title: Ridpath

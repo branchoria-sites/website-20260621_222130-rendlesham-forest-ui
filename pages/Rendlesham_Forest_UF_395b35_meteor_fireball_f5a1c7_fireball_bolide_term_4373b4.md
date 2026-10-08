@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 20:55:10'
+last_modified_at: '2026-06-20 20:55:10'
 parent_title: Was the First Light a Meteor?
 parent_permalink: /meteor/
 parent_nav_short_title: Meteor

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 21:10:18'
+last_modified_at: '2026-06-20 21:10:18'
 parent_title: One UFO or Several Ordinary Lights?
 parent_permalink: /sequence-theory/
 parent_nav_short_title: Sequence Theory

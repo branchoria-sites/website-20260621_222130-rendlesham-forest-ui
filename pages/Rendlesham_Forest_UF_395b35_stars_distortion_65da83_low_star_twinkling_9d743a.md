@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-20 20:51:00'
+last_modified_at: '2026-06-20 20:51:00'
 parent_title: When Stars Look Like Moving UFOs
 parent_permalink: /stars/
 parent_nav_short_title: Stars

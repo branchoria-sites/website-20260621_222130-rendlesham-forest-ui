@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-uf-395b35-meteor/
 description: Focused pages that expand on Meteor.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Rendlesham_Forest_UF_395b35_meteor_fireball_f5a1c7
 parent_title: Meteor

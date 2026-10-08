@@ -245,7 +245,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar/' | relative_url }}" title="Did Radar Back the Forest Sightings? | Rendlesham Forest UF 395 b35 archives file trail" aria-label="Read more about Did Radar Back the Forest Sightings? | Rendlesham Forest UF 395 b35 archives file trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar/' | relative_url }}" title="Did Radar Back the Forest Sightings? | What Do the Archives Actually Hold? | Rendlesham Forest" aria-label="Read more about Did Radar Back the Forest Sightings? | What Do the Archives Actually Hold? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -265,7 +265,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'clarke/' | relative_url }}" title="The No Smoking Gun Reading of Rendlesham | Rendlesham Forest UF 395 b35 archives file trail" aria-label="Read more about The No Smoking Gun Reading of Rendlesham | Rendlesham Forest UF 395 b35 archives file trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'clarke/' | relative_url }}" title="The No Smoking Gun Reading of Rendlesham | What Do the Archives Actually Hold? | Rendlesham Forest" aria-label="Read more about The No Smoking Gun Reading of Rendlesham | What Do the Archives Actually Hold? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -285,7 +285,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hansard/' | relative_url }}" title="What Parliament Was Told About Rendlesham | Rendlesham Forest UF 395 b35 archives file trail" aria-label="Read more about What Parliament Was Told About Rendlesham | Rendlesham Forest UF 395 b35 archives file trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hansard/' | relative_url }}" title="What Parliament Was Told About Rendlesham | What Do the Archives Actually Hold? | Rendlesham Forest" aria-label="Read more about What Parliament Was Told About Rendlesham | What Do the Archives Actually Hold? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -305,7 +305,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'catalogue/' | relative_url }}" title="What the Archive Catalogue Really Promises | Rendlesham Forest UF 395 b35 archives file trail" aria-label="Read more about What the Archive Catalogue Really Promises | Rendlesham Forest UF 395 b35 archives file trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'catalogue/' | relative_url }}" title="What the Archive Catalogue Really Promises | What Do the Archives Actually Hold? | Rendlesham Forest" aria-label="Read more about What the Archive Catalogue Really Promises | What Do the Archives Actually Hold? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -325,7 +325,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'enquiries/' | relative_url }}" title="Why the File Grew After the Story Broke | Rendlesham Forest UF 395 b35 archives file trail" aria-label="Read more about Why the File Grew After the Story Broke | Rendlesham Forest UF 395 b35 archives file trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'enquiries/' | relative_url }}" title="Why the File Grew After the Story Broke | What Do the Archives Actually Hold? | Rendlesham Forest" aria-label="Read more about Why the File Grew After the Story Broke | What Do the Archives Actually Hold? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -345,7 +345,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photos/' | relative_url }}" title="Why the Missing Photographs Still Matter | Rendlesham Forest UF 395 b35 archives file trail" aria-label="Read more about Why the Missing Photographs Still Matter | Rendlesham Forest UF 395 b35 archives file trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photos/' | relative_url }}" title="Why the Missing Photographs Still Matter | What Do the Archives Actually Hold? | Rendlesham Forest" aria-label="Read more about Why the Missing Photographs Still Matter | What Do the Archives Actually Hold? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -389,7 +389,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'heritage/' | relative_url }}" title="How heritage turned Bentwaters into a memory anchor | Rendlesham Forest UF 395 b35 bentwaters context" aria-label="Read more about How heritage turned Bentwaters into a memory anchor | Rendlesham Forest UF 395 b35 bentwaters context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'heritage/' | relative_url }}" title="How heritage turned Bentwaters into a memory anchor | Where Bentwaters Fits Into the Story | Rendlesham Forest" aria-label="Read more about How heritage turned Bentwaters into a memory anchor | Where Bentwaters Fits Into the Story | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -409,7 +409,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases-35a3b2/' | relative_url }}" title="How two bases became one mystery | Rendlesham Forest UF 395 b35 bentwaters context" aria-label="Read more about How two bases became one mystery | Rendlesham Forest UF 395 b35 bentwaters context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases-35a3b2/' | relative_url }}" title="How two bases became one mystery | Where Bentwaters Fits Into the Story | Rendlesham Forest" aria-label="Read more about How two bases became one mystery | Where Bentwaters Fits Into the Story | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -429,7 +429,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-91004b/' | relative_url }}" title="The memo that fixed Bentwaters in the record | Rendlesham Forest UF 395 b35 bentwaters context" aria-label="Read more about The memo that fixed Bentwaters in the record | Rendlesham Forest UF 395 b35 bentwaters context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-91004b/' | relative_url }}" title="The memo that fixed Bentwaters in the record | Where Bentwaters Fits Into the Story | Rendlesham Forest" aria-label="Read more about The memo that fixed Bentwaters in the record | Where Bentwaters Fits Into the Story | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -449,7 +449,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-aura/' | relative_url }}" title="Why Bentwaters felt bigger than a forest sighting | Rendlesham Forest UF 395 b35 bentwaters context" aria-label="Read more about Why Bentwaters felt bigger than a forest sighting | Rendlesham Forest UF 395 b35 bentwaters context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-aura/' | relative_url }}" title="Why Bentwaters felt bigger than a forest sighting | Where Bentwaters Fits Into the Story | Rendlesham Forest" aria-label="Read more about Why Bentwaters felt bigger than a forest sighting | Where Bentwaters Fits Into the Story | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -469,7 +469,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hansard-d48c49/' | relative_url }}" title="Why Parliament kept saying Bentwaters | Rendlesham Forest UF 395 b35 bentwaters context" aria-label="Read more about Why Parliament kept saying Bentwaters | Rendlesham Forest UF 395 b35 bentwaters context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hansard-d48c49/' | relative_url }}" title="Why Parliament kept saying Bentwaters | Where Bentwaters Fits Into the Story | Rendlesham Forest" aria-label="Read more about Why Parliament kept saying Bentwaters | Where Bentwaters Fits Into the Story | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -489,7 +489,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate-171a26/' | relative_url }}" title="Why the East Gate changes the story | Rendlesham Forest UF 395 b35 bentwaters context" aria-label="Read more about Why the East Gate changes the story | Rendlesham Forest UF 395 b35 bentwaters context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate-171a26/' | relative_url }}" title="Why the East Gate changes the story | Where Bentwaters Fits Into the Story | Rendlesham Forest" aria-label="Read more about Why the East Gate changes the story | Where Bentwaters Fits Into the Story | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -533,7 +533,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-lens/' | relative_url }}" title="How Guard Duty Changes What You See | Rendlesham Forest UF 395 b35 cold war security" aria-label="Read more about How Guard Duty Changes What You See | Rendlesham Forest UF 395 b35 cold war security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-lens/' | relative_url }}" title="How Guard Duty Changes What You See | Why Cold War Security Raised the Stakes | Rendlesham Forest" aria-label="Read more about How Guard Duty Changes What You See | Why Cold War Security Raised the Stakes | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -553,7 +553,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases/' | relative_url }}" title="The Military Geography Behind Rendlesham | Rendlesham Forest UF 395 b35 cold war security" aria-label="Read more about The Military Geography Behind Rendlesham | Rendlesham Forest UF 395 b35 cold war security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases/' | relative_url }}" title="The Military Geography Behind Rendlesham | Why Cold War Security Raised the Stakes | Rendlesham Forest" aria-label="Read more about The Military Geography Behind Rendlesham | Why Cold War Security Raised the Stakes | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -573,7 +573,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-f17a66/' | relative_url }}" title="What Halt&#x27;s Memo Really Shows First | Rendlesham Forest UF 395 b35 cold war security" aria-label="Read more about What Halt&#x27;s Memo Really Shows First | Rendlesham Forest UF 395 b35 cold war security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-f17a66/' | relative_url }}" title="What Halt's Memo Really Shows First | Why Cold War Security Raised the Stakes | Rendlesham Forest" aria-label="Read more about What Halt's Memo Really Shows First | Why Cold War Security Raised the Stakes | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -593,7 +593,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'patrol-routine/' | relative_url }}" title="What Security Police Were Trained To Do | Rendlesham Forest UF 395 b35 cold war security" aria-label="Read more about What Security Police Were Trained To Do | Rendlesham Forest UF 395 b35 cold war security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'patrol-routine/' | relative_url }}" title="What Security Police Were Trained To Do | Why Cold War Security Raised the Stakes | Rendlesham Forest" aria-label="Read more about What Security Police Were Trained To Do | Why Cold War Security Raised the Stakes | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -613,7 +613,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate/' | relative_url }}" title="Why East Gate Made the Lights Matter | Rendlesham Forest UF 395 b35 cold war security" aria-label="Read more about Why East Gate Made the Lights Matter | Rendlesham Forest UF 395 b35 cold war security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate/' | relative_url }}" title="Why East Gate Made the Lights Matter | Why Cold War Security Raised the Stakes | Rendlesham Forest" aria-label="Read more about Why East Gate Made the Lights Matter | Why Cold War Security Raised the Stakes | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -633,7 +633,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nuclear-claims/' | relative_url }}" title="Why Nuclear Rumours Are Hard To Settle | Rendlesham Forest UF 395 b35 cold war security" aria-label="Read more about Why Nuclear Rumours Are Hard To Settle | Rendlesham Forest UF 395 b35 cold war security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nuclear-claims/' | relative_url }}" title="Why Nuclear Rumours Are Hard To Settle | Why Cold War Security Raised the Stakes | Rendlesham Forest" aria-label="Read more about Why Nuclear Rumours Are Hard To Settle | Why Cold War Security Raised the Stakes | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -677,7 +677,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'early-vs-later-3ab9eb/' | relative_url }}" title="Did the craft story grow over time? | Rendlesham Forest UF 395 b35 structured craft cla" aria-label="Read more about Did the craft story grow over time? | Rendlesham Forest UF 395 b35 structured craft cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-vs-later-3ab9eb/' | relative_url }}" title="Did the craft story grow over time? | Why Some Readers Still See a Craft | Rendlesham Forest" aria-label="Read more about Did the craft story grow over time? | Why Some Readers Still See a Craft | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -697,7 +697,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-traces/' | relative_url }}" title="Do the ground marks prove anything? | Rendlesham Forest UF 395 b35 structured craft cla" aria-label="Read more about Do the ground marks prove anything? | Rendlesham Forest UF 395 b35 structured craft cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-traces/' | relative_url }}" title="Do the ground marks prove anything? | Why Some Readers Still See a Craft | Rendlesham Forest" aria-label="Read more about Do the ground marks prove anything? | Why Some Readers Still See a Craft | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -717,7 +717,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'penniston/' | relative_url }}" title="How strong is Penniston&#x27;s craft story? | Rendlesham Forest UF 395 b35 structured craft cla" aria-label="Read more about How strong is Penniston&#x27;s craft story? | Rendlesham Forest UF 395 b35 structured craft cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'penniston/' | relative_url }}" title="How strong is Penniston's craft story? | Why Some Readers Still See a Craft | Rendlesham Forest" aria-label="Read more about How strong is Penniston's craft story? | Why Some Readers Still See a Craft | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -737,7 +737,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-damage/' | relative_url }}" title="Were the damaged trees really unusual? | Rendlesham Forest UF 395 b35 structured craft cla" aria-label="Read more about Were the damaged trees really unusual? | Rendlesham Forest UF 395 b35 structured craft cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-damage/' | relative_url }}" title="Were the damaged trees really unusual? | Why Some Readers Still See a Craft | Rendlesham Forest" aria-label="Read more about Were the damaged trees really unusual? | Why Some Readers Still See a Craft | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -757,7 +757,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'military-witnesses/' | relative_url }}" title="Why did trained witnesses take it seriously? | Rendlesham Forest UF 395 b35 structured craft cla" aria-label="Read more about Why did trained witnesses take it seriously? | Rendlesham Forest UF 395 b35 structured craft cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'military-witnesses/' | relative_url }}" title="Why did trained witnesses take it seriously? | Why Some Readers Still See a Craft | Rendlesham Forest" aria-label="Read more about Why did trained witnesses take it seriously? | Why Some Readers Still See a Craft | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -777,7 +777,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-84a1fc/' | relative_url }}" title="Why the Halt memo still matters | Rendlesham Forest UF 395 b35 structured craft cla" aria-label="Read more about Why the Halt memo still matters | Rendlesham Forest UF 395 b35 structured craft cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-84a1fc/' | relative_url }}" title="Why the Halt memo still matters | Why Some Readers Still See a Craft | Rendlesham Forest" aria-label="Read more about Why the Halt memo still matters | Why Some Readers Still See a Craft | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -821,7 +821,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses-c077f1/' | relative_url }}" title="Can Trained Witnesses Still Be Mistaken? | Rendlesham Forest UF 395 b35 critical reading" aria-label="Read more about Can Trained Witnesses Still Be Mistaken? | Rendlesham Forest UF 395 b35 critical reading">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses-c077f1/' | relative_url }}" title="Can Trained Witnesses Still Be Mistaken? | How to Judge the Rendlesham Evidence | Rendlesham Forest" aria-label="Read more about Can Trained Witnesses Still Be Mistaken? | How to Judge the Rendlesham Evidence | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -841,7 +841,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'light-sources/' | relative_url }}" title="Could Several Ordinary Lights Explain Rendlesham? | Rendlesham Forest UF 395 b35 critical reading" aria-label="Read more about Could Several Ordinary Lights Explain Rendlesham? | Rendlesham Forest UF 395 b35 critical reading">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'light-sources/' | relative_url }}" title="Could Several Ordinary Lights Explain Rendlesham? | How to Judge the Rendlesham Evidence | Rendlesham Forest" aria-label="Read more about Could Several Ordinary Lights Explain Rendlesham? | How to Judge the Rendlesham Evidence | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -861,7 +861,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'story-growth/' | relative_url }}" title="How Rendlesham&#x27;s Story Grew Over Time | Rendlesham Forest UF 395 b35 critical reading" aria-label="Read more about How Rendlesham&#x27;s Story Grew Over Time | Rendlesham Forest UF 395 b35 critical reading">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'story-growth/' | relative_url }}" title="How Rendlesham's Story Grew Over Time | How to Judge the Rendlesham Evidence | Rendlesham Forest" aria-label="Read more about How Rendlesham's Story Grew Over Time | How to Judge the Rendlesham Evidence | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -881,7 +881,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-tape-6db5b5/' | relative_url }}" title="What Does the Halt Tape Really Prove? | Rendlesham Forest UF 395 b35 critical reading" aria-label="Read more about What Does the Halt Tape Really Prove? | Rendlesham Forest UF 395 b35 critical reading">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-tape-6db5b5/' | relative_url }}" title="What Does the Halt Tape Really Prove? | How to Judge the Rendlesham Evidence | Rendlesham Forest" aria-label="Read more about What Does the Halt Tape Really Prove? | How to Judge the Rendlesham Evidence | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -901,7 +901,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-gaps/' | relative_url }}" title="What Missing Radar Records Do to the Case | Rendlesham Forest UF 395 b35 critical reading" aria-label="Read more about What Missing Radar Records Do to the Case | Rendlesham Forest UF 395 b35 critical reading">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-gaps/' | relative_url }}" title="What Missing Radar Records Do to the Case | How to Judge the Rendlesham Evidence | Rendlesham Forest" aria-label="Read more about What Missing Radar Records Do to the Case | How to Judge the Rendlesham Evidence | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -921,7 +921,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'binary-code/' | relative_url }}" title="Why the Binary Code Claim Matters Less | Rendlesham Forest UF 395 b35 critical reading" aria-label="Read more about Why the Binary Code Claim Matters Less | Rendlesham Forest UF 395 b35 critical reading">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'binary-code/' | relative_url }}" title="Why the Binary Code Claim Matters Less | How to Judge the Rendlesham Evidence | Rendlesham Forest" aria-label="Read more about Why the Binary Code Claim Matters Less | How to Judge the Rendlesham Evidence | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -965,7 +965,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-trigger/' | relative_url }}" title="Did a fireball start the search? | Rendlesham Forest UF 395 b35 first night lights" aria-label="Read more about Did a fireball start the search? | Rendlesham Forest UF 395 b35 first night lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-trigger/' | relative_url }}" title="Did a fireball start the search? | What Did the First Patrol See? | Rendlesham Forest" aria-label="Read more about Did a fireball start the search? | What Did the First Patrol See? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -985,7 +985,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'penniston-claim/' | relative_url }}" title="How Penniston&#x27;s story grew over time | Rendlesham Forest UF 395 b35 first night lights" aria-label="Read more about How Penniston&#x27;s story grew over time | Rendlesham Forest UF 395 b35 first night lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'penniston-claim/' | relative_url }}" title="How Penniston's story grew over time | What Did the First Patrol See? | Rendlesham Forest" aria-label="Read more about How Penniston's story grew over time | What Did the First Patrol See? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1005,7 +1005,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cabansag-lights/' | relative_url }}" title="The witness account that points outward | Rendlesham Forest UF 395 b35 first night lights" aria-label="Read more about The witness account that points outward | Rendlesham Forest UF 395 b35 first night lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cabansag-lights/' | relative_url }}" title="The witness account that points outward | What Did the First Patrol See? | Rendlesham Forest" aria-label="Read more about The witness account that points outward | What Did the First Patrol See? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1025,7 +1025,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'police-response/' | relative_url }}" title="What the police did and did not confirm | Rendlesham Forest UF 395 b35 first night lights" aria-label="Read more about What the police did and did not confirm | Rendlesham Forest UF 395 b35 first night lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'police-response/' | relative_url }}" title="What the police did and did not confirm | What Did the First Patrol See? | Rendlesham Forest" aria-label="Read more about What the police did and did not confirm | What Did the First Patrol See? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1045,7 +1045,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'burroughs-report/' | relative_url }}" title="Why Burroughs did not report a craft | Rendlesham Forest UF 395 b35 first night lights" aria-label="Read more about Why Burroughs did not report a craft | Rendlesham Forest UF 395 b35 first night lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'burroughs-report/' | relative_url }}" title="Why Burroughs did not report a craft | What Did the First Patrol See? | Rendlesham Forest" aria-label="Read more about Why Burroughs did not report a craft | What Did the First Patrol See? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1065,7 +1065,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'early-statements/' | relative_url }}" title="Why the earliest statements matter most | Rendlesham Forest UF 395 b35 first night lights" aria-label="Read more about Why the earliest statements matter most | Rendlesham Forest UF 395 b35 first night lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-statements/' | relative_url }}" title="Why the earliest statements matter most | What Did the First Patrol See? | Rendlesham Forest" aria-label="Read more about Why the earliest statements matter most | What Did the First Patrol See? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1109,7 +1109,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rabbit-scrapes/' | relative_url }}" title="Could Rabbit Scrapes Explain the Landing Site? | Rendlesham Forest UF 395 b35 ground marks" aria-label="Read more about Could Rabbit Scrapes Explain the Landing Site? | Rendlesham Forest UF 395 b35 ground marks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rabbit-scrapes/' | relative_url }}" title="Could Rabbit Scrapes Explain the Landing Site? | Were the Ground Marks Landing Traces? | Rendlesham Forest" aria-label="Read more about Could Rabbit Scrapes Explain the Landing Site? | Were the Ground Marks Landing Traces? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1129,7 +1129,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'meter-readings/' | relative_url }}" title="Did Radiation Make the Marks Stronger Evidence? | Rendlesham Forest UF 395 b35 ground marks" aria-label="Read more about Did Radiation Make the Marks Stronger Evidence? | Rendlesham Forest UF 395 b35 ground marks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meter-readings/' | relative_url }}" title="Did Radiation Make the Marks Stronger Evidence? | Were the Ground Marks Landing Traces? | Rendlesham Forest" aria-label="Read more about Did Radiation Make the Marks Stronger Evidence? | Were the Ground Marks Landing Traces? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1149,7 +1149,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'three-marks/' | relative_url }}" title="Did Three Marks Really Suggest Landing Gear? | Rendlesham Forest UF 395 b35 ground marks" aria-label="Read more about Did Three Marks Really Suggest Landing Gear? | Rendlesham Forest UF 395 b35 ground marks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'three-marks/' | relative_url }}" title="Did Three Marks Really Suggest Landing Gear? | Were the Ground Marks Landing Traces? | Rendlesham Forest" aria-label="Read more about Did Three Marks Really Suggest Landing Gear? | Were the Ground Marks Landing Traces? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1169,7 +1169,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scene-damage/' | relative_url }}" title="Was the Landing Site Already Contaminated? | Rendlesham Forest UF 395 b35 ground marks" aria-label="Read more about Was the Landing Site Already Contaminated? | Rendlesham Forest UF 395 b35 ground marks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scene-damage/' | relative_url }}" title="Was the Landing Site Already Contaminated? | Were the Ground Marks Landing Traces? | Rendlesham Forest" aria-label="Read more about Was the Landing Site Already Contaminated? | Were the Ground Marks Landing Traces? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1189,7 +1189,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'axe-cuts/' | relative_url }}" title="Were the Tree Burns Really Forestry Marks? | Rendlesham Forest UF 395 b35 ground marks" aria-label="Read more about Were the Tree Burns Really Forestry Marks? | Rendlesham Forest UF 395 b35 ground marks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'axe-cuts/' | relative_url }}" title="Were the Tree Burns Really Forestry Marks? | Were the Ground Marks Landing Traces? | Rendlesham Forest" aria-label="Read more about Were the Tree Burns Really Forestry Marks? | Were the Ground Marks Landing Traces? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1209,7 +1209,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'managed-forest/' | relative_url }}" title="Why the Forest Setting Complicated the Evidence | Rendlesham Forest UF 395 b35 ground marks" aria-label="Read more about Why the Forest Setting Complicated the Evidence | Rendlesham Forest UF 395 b35 ground marks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'managed-forest/' | relative_url }}" title="Why the Forest Setting Complicated the Evidence | Were the Ground Marks Landing Traces? | Rendlesham Forest" aria-label="Read more about Why the Forest Setting Complicated the Evidence | Were the Ground Marks Landing Traces? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1253,7 +1253,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-55170a/' | relative_url }}" title="Do Halt&#x27;s Radiation Readings Prove Anything? | Rendlesham Forest UF 395 b35 halt memo" aria-label="Read more about Do Halt&#x27;s Radiation Readings Prove Anything? | Rendlesham Forest UF 395 b35 halt memo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-55170a/' | relative_url }}" title="Do Halt's Radiation Readings Prove Anything? | Why One Memo Anchored the Mystery | Rendlesham Forest" aria-label="Read more about Do Halt's Radiation Readings Prove Anything? | Why One Memo Anchored the Mystery | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1273,7 +1273,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-channel/' | relative_url }}" title="How Did the Halt Memo Become Official? | Rendlesham Forest UF 395 b35 halt memo" aria-label="Read more about How Did the Halt Memo Become Official? | Rendlesham Forest UF 395 b35 halt memo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-channel/' | relative_url }}" title="How Did the Halt Memo Become Official? | Why One Memo Anchored the Mystery | Rendlesham Forest" aria-label="Read more about How Did the Halt Memo Become Official? | Why One Memo Anchored the Mystery | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1293,7 +1293,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'later-claims/' | relative_url }}" title="What Changed After the Halt Memo? | Rendlesham Forest UF 395 b35 halt memo" aria-label="Read more about What Changed After the Halt Memo? | Rendlesham Forest UF 395 b35 halt memo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-claims/' | relative_url }}" title="What Changed After the Halt Memo? | Why One Memo Anchored the Mystery | Rendlesham Forest" aria-label="Read more about What Changed After the Halt Memo? | Why One Memo Anchored the Mystery | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1313,7 +1313,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-threat/' | relative_url }}" title="Why Did the Mo D Call It No Threat? | Rendlesham Forest UF 395 b35 halt memo" aria-label="Read more about Why Did the Mo D Call It No Threat? | Rendlesham Forest UF 395 b35 halt memo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-threat/' | relative_url }}" title="Why Did the Mo D Call It No Threat? | Why One Memo Anchored the Mystery | Rendlesham Forest" aria-label="Read more about Why Did the Mo D Call It No Threat? | Why One Memo Anchored the Mystery | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1333,7 +1333,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'released-file/' | relative_url }}" title="Why the Released UFO File Starts Here | Rendlesham Forest UF 395 b35 halt memo" aria-label="Read more about Why the Released UFO File Starts Here | Rendlesham Forest UF 395 b35 halt memo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'released-file/' | relative_url }}" title="Why the Released UFO File Starts Here | Why One Memo Anchored the Mystery | Rendlesham Forest" aria-label="Read more about Why the Released UFO File Starts Here | Why One Memo Anchored the Mystery | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1353,7 +1353,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'delay/' | relative_url }}" title="Why Was the Halt Memo Written Later? | Rendlesham Forest UF 395 b35 halt memo" aria-label="Read more about Why Was the Halt Memo Written Later? | Rendlesham Forest UF 395 b35 halt memo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'delay/' | relative_url }}" title="Why Was the Halt Memo Written Later? | Why One Memo Anchored the Mystery | Rendlesham Forest" aria-label="Read more about Why Was the Halt Memo Written Later? | Why One Memo Anchored the Mystery | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1396,7 +1396,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-impressions/' | relative_url }}" title="Ground Impressions | Rendlesham Forest UF 395 b35 halt second night" aria-label="Read more about Ground Impressions | Rendlesham Forest UF 395 b35 halt second night">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-impressions/' | relative_url }}" title="Ground Impressions | Inside Halt’s Night in the Forest | Rendlesham Forest" aria-label="Read more about Ground Impressions | Inside Halt’s Night in the Forest | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1416,7 +1416,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'red-light/' | relative_url }}" title="Was the Red Light Just the Lighthouse? | Rendlesham Forest UF 395 b35 halt second night" aria-label="Read more about Was the Red Light Just the Lighthouse? | Rendlesham Forest UF 395 b35 halt second night">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'red-light/' | relative_url }}" title="Was the Red Light Just the Lighthouse? | Inside Halt’s Night in the Forest | Rendlesham Forest" aria-label="Read more about Was the Red Light Just the Lighthouse? | Inside Halt’s Night in the Forest | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1436,7 +1436,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-a65d61/' | relative_url }}" title="Were the Radiation Readings Actually Unusual? | Rendlesham Forest UF 395 b35 halt second night" aria-label="Read more about Were the Radiation Readings Actually Unusual? | Rendlesham Forest UF 395 b35 halt second night">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-a65d61/' | relative_url }}" title="Were the Radiation Readings Actually Unusual? | Inside Halt’s Night in the Forest | Rendlesham Forest" aria-label="Read more about Were the Radiation Readings Actually Unusual? | Inside Halt’s Night in the Forest | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1456,7 +1456,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-marks/' | relative_url }}" title="Were the Tree Marks Evidence or Forestry Cuts? | Rendlesham Forest UF 395 b35 halt second night" aria-label="Read more about Were the Tree Marks Evidence or Forestry Cuts? | Rendlesham Forest UF 395 b35 halt second night">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-marks/' | relative_url }}" title="Were the Tree Marks Evidence or Forestry Cuts? | Inside Halt’s Night in the Forest | Rendlesham Forest" aria-label="Read more about Were the Tree Marks Evidence or Forestry Cuts? | Inside Halt’s Night in the Forest | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1476,7 +1476,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-tape-f09ec7/' | relative_url }}" title="What Does the Halt Tape Really Prove? | Rendlesham Forest UF 395 b35 halt second night" aria-label="Read more about What Does the Halt Tape Really Prove? | Rendlesham Forest UF 395 b35 halt second night">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-tape-f09ec7/' | relative_url }}" title="What Does the Halt Tape Really Prove? | Inside Halt’s Night in the Forest | Rendlesham Forest" aria-label="Read more about What Does the Halt Tape Really Prove? | Inside Halt’s Night in the Forest | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1496,7 +1496,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-lights-3b84e5/' | relative_url }}" title="What Happened After Halt Crossed the Fields? | Rendlesham Forest UF 395 b35 halt second night" aria-label="Read more about What Happened After Halt Crossed the Fields? | Rendlesham Forest UF 395 b35 halt second night">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-lights-3b84e5/' | relative_url }}" title="What Happened After Halt Crossed the Fields? | Inside Halt’s Night in the Forest | Rendlesham Forest" aria-label="Read more about What Happened After Halt Crossed the Fields? | Inside Halt’s Night in the Forest | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1540,7 +1540,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-marks-ba5a2d/' | relative_url }}" title="Did the Tape Record a Landing Site? | Rendlesham Forest UF 395 b35 halt tape" aria-label="Read more about Did the Tape Record a Landing Site? | Rendlesham Forest UF 395 b35 halt tape">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-marks-ba5a2d/' | relative_url }}" title="Did the Tape Record a Landing Site? | Does the Halt Tape Solve Anything? | Rendlesham Forest" aria-label="Read more about Did the Tape Record a Landing Site? | Does the Halt Tape Solve Anything? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1560,7 +1560,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'audio-to-memo/' | relative_url }}" title="From Forest Audio to Official Report | Rendlesham Forest UF 395 b35 halt tape" aria-label="Read more about From Forest Audio to Official Report | Rendlesham Forest UF 395 b35 halt tape">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'audio-to-memo/' | relative_url }}" title="From Forest Audio to Official Report | Does the Halt Tape Solve Anything? | Rendlesham Forest" aria-label="Read more about From Forest Audio to Official Report | Does the Halt Tape Solve Anything? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1580,7 +1580,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'later-claims-dbe0d9/' | relative_url }}" title="How Later Claims Outgrew the Tape | Rendlesham Forest UF 395 b35 halt tape" aria-label="Read more about How Later Claims Outgrew the Tape | Rendlesham Forest UF 395 b35 halt tape">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-claims-dbe0d9/' | relative_url }}" title="How Later Claims Outgrew the Tape | Does the Halt Tape Solve Anything? | Rendlesham Forest" aria-label="Read more about How Later Claims Outgrew the Tape | Does the Halt Tape Solve Anything? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1600,7 +1600,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-timeline/' | relative_url }}" title="What Happens in Order on the Halt Tape? | Rendlesham Forest UF 395 b35 halt tape" aria-label="Read more about What Happens in Order on the Halt Tape? | Rendlesham Forest UF 395 b35 halt tape">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-timeline/' | relative_url }}" title="What Happens in Order on the Halt Tape? | Does the Halt Tape Solve Anything? | Rendlesham Forest" aria-label="Read more about What Happens in Order on the Halt Tape? | Does the Halt Tape Solve Anything? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1620,7 +1620,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-limits/' | relative_url }}" title="What the Halt Tape Cannot Prove | Rendlesham Forest UF 395 b35 halt tape" aria-label="Read more about What the Halt Tape Cannot Prove | Rendlesham Forest UF 395 b35 halt tape">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-limits/' | relative_url }}" title="What the Halt Tape Cannot Prove | Does the Halt Tape Solve Anything? | Rendlesham Forest" aria-label="Read more about What the Halt Tape Cannot Prove | Does the Halt Tape Solve Anything? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1640,7 +1640,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-voices/' | relative_url }}" title="Why the Halt Tape Sounds So Persuasive | Rendlesham Forest UF 395 b35 halt tape" aria-label="Read more about Why the Halt Tape Sounds So Persuasive | Rendlesham Forest UF 395 b35 halt tape">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-voices/' | relative_url }}" title="Why the Halt Tape Sounds So Persuasive | Does the Halt Tape Solve Anything? | Rendlesham Forest" aria-label="Read more about Why the Halt Tape Sounds So Persuasive | Does the Halt Tape Solve Anything? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1684,7 +1684,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'later-letters/' | relative_url }}" title="Did later paperwork make the case look bigger? | Rendlesham Forest UF 395 b35 legend gap" aria-label="Read more about Did later paperwork make the case look bigger? | Rendlesham Forest UF 395 b35 legend gap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-letters/' | relative_url }}" title="Did later paperwork make the case look bigger? | How a Small File Became a Big Legend | Rendlesham Forest" aria-label="Read more about Did later paperwork make the case look bigger? | How a Small File Became a Big Legend | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1704,7 +1704,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'forest-trail/' | relative_url }}" title="How the forest became part of the legend | Rendlesham Forest UF 395 b35 legend gap" aria-label="Read more about How the forest became part of the legend | Rendlesham Forest UF 395 b35 legend gap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'forest-trail/' | relative_url }}" title="How the forest became part of the legend | How a Small File Became a Big Legend | Rendlesham Forest" aria-label="Read more about How the forest became part of the legend | How a Small File Became a Big Legend | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1724,7 +1724,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-threat-8b27ee/' | relative_url }}" title="What did the no threat answer really mean? | Rendlesham Forest UF 395 b35 legend gap" aria-label="Read more about What did the no threat answer really mean? | Rendlesham Forest UF 395 b35 legend gap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-threat-8b27ee/' | relative_url }}" title="What did the no threat answer really mean? | How a Small File Became a Big Legend | Rendlesham Forest" aria-label="Read more about What did the no threat answer really mean? | How a Small File Became a Big Legend | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1744,7 +1744,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unexplained/' | relative_url }}" title="Why &#x27;unexplained&#x27; does so much work | Rendlesham Forest UF 395 b35 legend gap" aria-label="Read more about Why &#x27;unexplained&#x27; does so much work | Rendlesham Forest UF 395 b35 legend gap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unexplained/' | relative_url }}" title="Why 'unexplained' does so much work | How a Small File Became a Big Legend | Rendlesham Forest" aria-label="Read more about Why 'unexplained' does so much work | How a Small File Became a Big Legend | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1764,7 +1764,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'delayed-fame/' | relative_url }}" title="Why Rendlesham grew after the event | Rendlesham Forest UF 395 b35 legend gap" aria-label="Read more about Why Rendlesham grew after the event | Rendlesham Forest UF 395 b35 legend gap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'delayed-fame/' | relative_url }}" title="Why Rendlesham grew after the event | How a Small File Became a Big Legend | Rendlesham Forest" aria-label="Read more about Why Rendlesham grew after the event | How a Small File Became a Big Legend | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1784,7 +1784,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'binary-story/' | relative_url }}" title="Why the binary message became so powerful | Rendlesham Forest UF 395 b35 legend gap" aria-label="Read more about Why the binary message became so powerful | Rendlesham Forest UF 395 b35 legend gap">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'binary-story/' | relative_url }}" title="Why the binary message became so powerful | How a Small File Became a Big Legend | Rendlesham Forest" aria-label="Read more about Why the binary message became so powerful | How a Small File Became a Big Legend | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1828,7 +1828,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flash-rhythm/' | relative_url }}" title="Did the flashes match the lighthouse clock? | Rendlesham Forest UF 395 b35 orfordness lighthous" aria-label="Read more about Did the flashes match the lighthouse clock? | Rendlesham Forest UF 395 b35 orfordness lighthous">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flash-rhythm/' | relative_url }}" title="Did the flashes match the lighthouse clock? | Could the Lighthouse Explain the Lights? | Rendlesham Forest" aria-label="Read more about Did the flashes match the lighthouse clock? | Could the Lighthouse Explain the Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1848,7 +1848,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-gaps/' | relative_url }}" title="How trees can make a lighthouse move | Rendlesham Forest UF 395 b35 orfordness lighthous" aria-label="Read more about How trees can make a lighthouse move | Rendlesham Forest UF 395 b35 orfordness lighthous">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-gaps/' | relative_url }}" title="How trees can make a lighthouse move | Could the Lighthouse Explain the Lights? | Rendlesham Forest" aria-label="Read more about How trees can make a lighthouse move | Could the Lighthouse Explain the Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1868,7 +1868,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'colored-lights/' | relative_url }}" title="What the lighthouse cannot explain alone | Rendlesham Forest UF 395 b35 orfordness lighthous" aria-label="Read more about What the lighthouse cannot explain alone | Rendlesham Forest UF 395 b35 orfordness lighthous">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'colored-lights/' | relative_url }}" title="What the lighthouse cannot explain alone | Could the Lighthouse Explain the Lights? | Rendlesham Forest" aria-label="Read more about What the lighthouse cannot explain alone | Could the Lighthouse Explain the Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1888,7 +1888,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'open-ground/' | relative_url }}" title="When the distant light stopped looking close | Rendlesham Forest UF 395 b35 orfordness lighthous" aria-label="Read more about When the distant light stopped looking close | Rendlesham Forest UF 395 b35 orfordness lighthous">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'open-ground/' | relative_url }}" title="When the distant light stopped looking close | Could the Lighthouse Explain the Lights? | Rendlesham Forest" aria-label="Read more about When the distant light stopped looking close | Could the Lighthouse Explain the Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1908,7 +1908,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'police-view/' | relative_url }}" title="Why locals saw a lighthouse, not a craft | Rendlesham Forest UF 395 b35 orfordness lighthous" aria-label="Read more about Why locals saw a lighthouse, not a craft | Rendlesham Forest UF 395 b35 orfordness lighthous">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'police-view/' | relative_url }}" title="Why locals saw a lighthouse, not a craft | Could the Lighthouse Explain the Lights? | Rendlesham Forest" aria-label="Read more about Why locals saw a lighthouse, not a craft | Could the Lighthouse Explain the Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1928,7 +1928,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'partial-answer/' | relative_url }}" title="Why the lighthouse explains only part | Rendlesham Forest UF 395 b35 orfordness lighthous" aria-label="Read more about Why the lighthouse explains only part | Rendlesham Forest UF 395 b35 orfordness lighthous">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'partial-answer/' | relative_url }}" title="Why the lighthouse explains only part | Could the Lighthouse Explain the Lights? | Rendlesham Forest" aria-label="Read more about Why the lighthouse explains only part | Could the Lighthouse Explain the Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1972,7 +1972,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'confident-witnesses/' | relative_url }}" title="Can sincere witnesses still remember it wrong? | Rendlesham Forest UF 395 b35 conflicting memories" aria-label="Read more about Can sincere witnesses still remember it wrong? | Rendlesham Forest UF 395 b35 conflicting memories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'confident-witnesses/' | relative_url }}" title="Can sincere witnesses still remember it wrong? | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest" aria-label="Read more about Can sincere witnesses still remember it wrong? | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -1992,7 +1992,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hypnosis/' | relative_url }}" title="Did hypnosis recover memories or reshape them? | Rendlesham Forest UF 395 b35 conflicting memories" aria-label="Read more about Did hypnosis recover memories or reshape them? | Rendlesham Forest UF 395 b35 conflicting memories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hypnosis/' | relative_url }}" title="Did hypnosis recover memories or reshape them? | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest" aria-label="Read more about Did hypnosis recover memories or reshape them? | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2012,7 +2012,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'binary-code-75400d/' | relative_url }}" title="How binary code changed the Rendlesham legend | Rendlesham Forest UF 395 b35 conflicting memories" aria-label="Read more about How binary code changed the Rendlesham legend | Rendlesham Forest UF 395 b35 conflicting memories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'binary-code-75400d/' | relative_url }}" title="How binary code changed the Rendlesham legend | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest" aria-label="Read more about How binary code changed the Rendlesham legend | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2032,7 +2032,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'post-event-cues/' | relative_url }}" title="How later information can change a UFO memory | Rendlesham Forest UF 395 b35 conflicting memories" aria-label="Read more about How later information can change a UFO memory | Rendlesham Forest UF 395 b35 conflicting memories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'post-event-cues/' | relative_url }}" title="How later information can change a UFO memory | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest" aria-label="Read more about How later information can change a UFO memory | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2052,7 +2052,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'source-mix-ups/' | relative_url }}" title="Was it seen, heard or learned later? | Rendlesham Forest UF 395 b35 conflicting memories" aria-label="Read more about Was it seen, heard or learned later? | Rendlesham Forest UF 395 b35 conflicting memories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'source-mix-ups/' | relative_url }}" title="Was it seen, heard or learned later? | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest" aria-label="Read more about Was it seen, heard or learned later? | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2072,7 +2072,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'britain-s-roswell-b4c738/' | relative_url }}" title="What Britain&#x27;s Roswell did to the story | Rendlesham Forest UF 395 b35 conflicting memories" aria-label="Read more about What Britain&#x27;s Roswell did to the story | Rendlesham Forest UF 395 b35 conflicting memories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'britain-s-roswell-b4c738/' | relative_url }}" title="What Britain's Roswell did to the story | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest" aria-label="Read more about What Britain's Roswell did to the story | Why Do Rendlesham Accounts Conflict? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2116,7 +2116,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '02-50-timing/' | relative_url }}" title="Did the Fireball Match the First Alarm? | Rendlesham Forest UF 395 b35 meteor fireball" aria-label="Read more about Did the Fireball Match the First Alarm? | Rendlesham Forest UF 395 b35 meteor fireball">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '02-50-timing/' | relative_url }}" title="Did the Fireball Match the First Alarm? | Was the First Light a Meteor? | Rendlesham Forest" aria-label="Read more about Did the Fireball Match the First Alarm? | Was the First Light a Meteor? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2136,7 +2136,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-terms/' | relative_url }}" title="Fireball, Bolide, or UFO? | Rendlesham Forest UF 395 b35 meteor fireball" aria-label="Read more about Fireball, Bolide, or UFO? | Rendlesham Forest UF 395 b35 meteor fireball">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-terms/' | relative_url }}" title="Fireball, Bolide, or UFO? | Was the First Light a Meteor? | Rendlesham Forest" aria-label="Read more about Fireball, Bolide, or UFO? | Was the First Light a Meteor? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2156,7 +2156,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mason-reports/' | relative_url }}" title="The Meteor Reports Behind the Theory | Rendlesham Forest UF 395 b35 meteor fireball" aria-label="Read more about The Meteor Reports Behind the Theory | Rendlesham Forest UF 395 b35 meteor fireball">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mason-reports/' | relative_url }}" title="The Meteor Reports Behind the Theory | Was the First Light a Meteor? | Rendlesham Forest" aria-label="Read more about The Meteor Reports Behind the Theory | Was the First Light a Meteor? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2176,7 +2176,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mixed-causes/' | relative_url }}" title="Was Rendlesham One Event or Several? | Rendlesham Forest UF 395 b35 meteor fireball" aria-label="Read more about Was Rendlesham One Event or Several? | Rendlesham Forest UF 395 b35 meteor fireball">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mixed-causes/' | relative_url }}" title="Was Rendlesham One Event or Several? | Was the First Light a Meteor? | Rendlesham Forest" aria-label="Read more about Was Rendlesham One Event or Several? | Was the First Light a Meteor? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2196,7 +2196,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'theory-limits/' | relative_url }}" title="What the Meteor Theory Cannot Explain | Rendlesham Forest UF 395 b35 meteor fireball" aria-label="Read more about What the Meteor Theory Cannot Explain | Rendlesham Forest UF 395 b35 meteor fireball">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'theory-limits/' | relative_url }}" title="What the Meteor Theory Cannot Explain | Was the First Light a Meteor? | Rendlesham Forest" aria-label="Read more about What the Meteor Theory Cannot Explain | Was the First Light a Meteor? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2216,7 +2216,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-descent/' | relative_url }}" title="Why Meteors Can Look Like Crashes | Rendlesham Forest UF 395 b35 meteor fireball" aria-label="Read more about Why Meteors Can Look Like Crashes | Rendlesham Forest UF 395 b35 meteor fireball">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-descent/' | relative_url }}" title="Why Meteors Can Look Like Crashes | Was the First Light a Meteor? | Rendlesham Forest" aria-label="Read more about Why Meteors Can Look Like Crashes | Was the First Light a Meteor? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2260,7 +2260,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'special-branch/' | relative_url }}" title="Did Security Police Treat Rendlesham Seriously? | Rendlesham Forest UF 395 b35 mod conclusion" aria-label="Read more about Did Security Police Treat Rendlesham Seriously? | Rendlesham Forest UF 395 b35 mod conclusion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'special-branch/' | relative_url }}" title="Did Security Police Treat Rendlesham Seriously? | Why the MOD Saw No Defence Threat | Rendlesham Forest" aria-label="Read more about Did Security Police Treat Rendlesham Seriously? | Why the MOD Saw No Defence Threat | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2280,7 +2280,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1995-statement/' | relative_url }}" title="How the MOD Framed Its Final Answer | Rendlesham Forest UF 395 b35 mod conclusion" aria-label="Read more about How the MOD Framed Its Final Answer | Rendlesham Forest UF 395 b35 mod conclusion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1995-statement/' | relative_url }}" title="How the MOD Framed Its Final Answer | Why the MOD Saw No Defence Threat | Rendlesham Forest" aria-label="Read more about How the MOD Framed Its Final Answer | Why the MOD Saw No Defence Threat | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2300,7 +2300,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hill-norton/' | relative_url }}" title="The Strongest Challenge to the MOD Verdict | Rendlesham Forest UF 395 b35 mod conclusion" aria-label="Read more about The Strongest Challenge to the MOD Verdict | Rendlesham Forest UF 395 b35 mod conclusion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hill-norton/' | relative_url }}" title="The Strongest Challenge to the MOD Verdict | Why the MOD Saw No Defence Threat | Rendlesham Forest" aria-label="Read more about The Strongest Challenge to the MOD Verdict | Why the MOD Saw No Defence Threat | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2320,7 +2320,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-silence/' | relative_url }}" title="Why No Radar Track Changed the Case | Rendlesham Forest UF 395 b35 mod conclusion" aria-label="Read more about Why No Radar Track Changed the Case | Rendlesham Forest UF 395 b35 mod conclusion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-silence/' | relative_url }}" title="Why No Radar Track Changed the Case | Why the MOD Saw No Defence Threat | Rendlesham Forest" aria-label="Read more about Why No Radar Track Changed the Case | Why the MOD Saw No Defence Threat | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2340,7 +2340,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'porton-down/' | relative_url }}" title="Why Porton Down Became a Rendlesham Question | Rendlesham Forest UF 395 b35 mod conclusion" aria-label="Read more about Why Porton Down Became a Rendlesham Question | Rendlesham Forest UF 395 b35 mod conclusion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'porton-down/' | relative_url }}" title="Why Porton Down Became a Rendlesham Question | Why the MOD Saw No Defence Threat | Rendlesham Forest" aria-label="Read more about Why Porton Down Became a Rendlesham Question | Why the MOD Saw No Defence Threat | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2360,7 +2360,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-desk/' | relative_url }}" title="Why Rendlesham Did Not Save the UFO Desk | Rendlesham Forest UF 395 b35 mod conclusion" aria-label="Read more about Why Rendlesham Did Not Save the UFO Desk | Rendlesham Forest UF 395 b35 mod conclusion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-desk/' | relative_url }}" title="Why Rendlesham Did Not Save the UFO Desk | Why the MOD Saw No Defence Threat | Rendlesham Forest" aria-label="Read more about Why Rendlesham Did Not Save the UFO Desk | Why the MOD Saw No Defence Threat | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2404,7 +2404,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lighthouse-ca95bf/' | relative_url }}" title="Could a Lighthouse Look Like a UFO? | Rendlesham Forest UF 395 b35 night patrol percept" aria-label="Read more about Could a Lighthouse Look Like a UFO? | Rendlesham Forest UF 395 b35 night patrol percept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lighthouse-ca95bf/' | relative_url }}" title="Could a Lighthouse Look Like a UFO? | Why Night Patrols Can Misread Lights | Rendlesham Forest" aria-label="Read more about Could a Lighthouse Look Like a UFO? | Why Night Patrols Can Misread Lights | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2424,7 +2424,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory/' | relative_url }}" title="How Night Patrol Memories Can Merge | Rendlesham Forest UF 395 b35 night patrol percept" aria-label="Read more about How Night Patrol Memories Can Merge | Rendlesham Forest UF 395 b35 night patrol percept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory/' | relative_url }}" title="How Night Patrol Memories Can Merge | Why Night Patrols Can Misread Lights | Rendlesham Forest" aria-label="Read more about How Night Patrol Memories Can Merge | Why Night Patrols Can Misread Lights | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2444,7 +2444,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'moving-lights-d1f979/' | relative_url }}" title="When Still Lights Appear to Move | Rendlesham Forest UF 395 b35 night patrol percept" aria-label="Read more about When Still Lights Appear to Move | Rendlesham Forest UF 395 b35 night patrol percept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moving-lights-d1f979/' | relative_url }}" title="When Still Lights Appear to Move | Why Night Patrols Can Misread Lights | Rendlesham Forest" aria-label="Read more about When Still Lights Appear to Move | Why Night Patrols Can Misread Lights | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2464,7 +2464,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vigilance/' | relative_url }}" title="Why Patrol Duty Raises the Stakes | Rendlesham Forest UF 395 b35 night patrol percept" aria-label="Read more about Why Patrol Duty Raises the Stakes | Rendlesham Forest UF 395 b35 night patrol percept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vigilance/' | relative_url }}" title="Why Patrol Duty Raises the Stakes | Why Night Patrols Can Misread Lights | Rendlesham Forest" aria-label="Read more about Why Patrol Duty Raises the Stakes | Why Night Patrols Can Misread Lights | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2484,7 +2484,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate-81fe41/' | relative_url }}" title="Why the First Lights Seemed So Close | Rendlesham Forest UF 395 b35 night patrol percept" aria-label="Read more about Why the First Lights Seemed So Close | Rendlesham Forest UF 395 b35 night patrol percept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate-81fe41/' | relative_url }}" title="Why the First Lights Seemed So Close | Why Night Patrols Can Misread Lights | Rendlesham Forest" aria-label="Read more about Why the First Lights Seemed So Close | Why Night Patrols Can Misread Lights | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2504,7 +2504,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'night-vision-d8d2d0/' | relative_url }}" title="Why Training Cannot Fix Night Vision | Rendlesham Forest UF 395 b35 night patrol percept" aria-label="Read more about Why Training Cannot Fix Night Vision | Rendlesham Forest UF 395 b35 night patrol percept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-vision-d8d2d0/' | relative_url }}" title="Why Training Cannot Fix Night Vision | Why Night Patrols Can Misread Lights | Rendlesham Forest" aria-label="Read more about Why Training Cannot Fix Night Vision | Why Night Patrols Can Misread Lights | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2548,7 +2548,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-marks-35f31b/' | relative_url }}" title="Could the ground marks prove a landing? | Rendlesham Forest UF 395 b35 evidence standards" aria-label="Read more about Could the ground marks prove a landing? | Rendlesham Forest UF 395 b35 evidence standards">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-marks-35f31b/' | relative_url }}" title="Could the ground marks prove a landing? | What Would Count as Strong UFO Evidence? | Rendlesham Forest" aria-label="Read more about Could the ground marks prove a landing? | What Would Count as Strong UFO Evidence? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2568,7 +2568,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-927846/' | relative_url }}" title="Were the radiation readings actually unusual? | Rendlesham Forest UF 395 b35 evidence standards" aria-label="Read more about Were the radiation readings actually unusual? | Rendlesham Forest UF 395 b35 evidence standards">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-927846/' | relative_url }}" title="Were the radiation readings actually unusual? | What Would Count as Strong UFO Evidence? | Rendlesham Forest" aria-label="Read more about Were the radiation readings actually unusual? | What Would Count as Strong UFO Evidence? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2588,7 +2588,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'multi-sensor/' | relative_url }}" title="What evidence would close the UFO proof gap? | Rendlesham Forest UF 395 b35 evidence standards" aria-label="Read more about What evidence would close the UFO proof gap? | Rendlesham Forest UF 395 b35 evidence standards">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'multi-sensor/' | relative_url }}" title="What evidence would close the UFO proof gap? | What Would Count as Strong UFO Evidence? | Rendlesham Forest" aria-label="Read more about What evidence would close the UFO proof gap? | What Would Count as Strong UFO Evidence? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2608,7 +2608,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-marks-d07bf5/' | relative_url }}" title="What would prove tree marks were unusual? | Rendlesham Forest UF 395 b35 evidence standards" aria-label="Read more about What would prove tree marks were unusual? | Rendlesham Forest UF 395 b35 evidence standards">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tree-marks-d07bf5/' | relative_url }}" title="What would prove tree marks were unusual? | What Would Count as Strong UFO Evidence? | Rendlesham Forest" aria-label="Read more about What would prove tree marks were unusual? | What Would Count as Strong UFO Evidence? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2628,7 +2628,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'custody/' | relative_url }}" title="Who handled the evidence, and why it matters | Rendlesham Forest UF 395 b35 evidence standards" aria-label="Read more about Who handled the evidence, and why it matters | Rendlesham Forest UF 395 b35 evidence standards">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'custody/' | relative_url }}" title="Who handled the evidence, and why it matters | What Would Count as Strong UFO Evidence? | Rendlesham Forest" aria-label="Read more about Who handled the evidence, and why it matters | What Would Count as Strong UFO Evidence? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2648,7 +2648,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'soil-controls/' | relative_url }}" title="Why control samples make or break soil evidence | Rendlesham Forest UF 395 b35 evidence standards" aria-label="Read more about Why control samples make or break soil evidence | Rendlesham Forest UF 395 b35 evidence standards">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'soil-controls/' | relative_url }}" title="Why control samples make or break soil evidence | What Would Count as Strong UFO Evidence? | Rendlesham Forest" aria-label="Read more about Why control samples make or break soil evidence | What Would Count as Strong UFO Evidence? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2692,7 +2692,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'press-break/' | relative_url }}" title="How One Newspaper Made Rendlesham Political | Rendlesham Forest UF 395 b35 public pressure" aria-label="Read more about How One Newspaper Made Rendlesham Political | Rendlesham Forest UF 395 b35 public pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'press-break/' | relative_url }}" title="How One Newspaper Made Rendlesham Political | How Rendlesham Became a Public Question | Rendlesham Forest" aria-label="Read more about How One Newspaper Made Rendlesham Political | How Rendlesham Became a Public Question | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2712,7 +2712,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1983-question/' | relative_url }}" title="How Parliament Forced the First Public Line | Rendlesham Forest UF 395 b35 public pressure" aria-label="Read more about How Parliament Forced the First Public Line | Rendlesham Forest UF 395 b35 public pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1983-question/' | relative_url }}" title="How Parliament Forced the First Public Line | How Rendlesham Became a Public Question | Rendlesham Forest" aria-label="Read more about How Parliament Forced the First Public Line | How Rendlesham Became a Public Question | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2732,7 +2732,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hill-norton-a1e45e/' | relative_url }}" title="Were Missing Records Routine or Suspicious? | Rendlesham Forest UF 395 b35 public pressure" aria-label="Read more about Were Missing Records Routine or Suspicious? | Rendlesham Forest UF 395 b35 public pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hill-norton-a1e45e/' | relative_url }}" title="Were Missing Records Routine or Suspicious? | How Rendlesham Became a Public Question | Rendlesham Forest" aria-label="Read more about Were Missing Records Routine or Suspicious? | How Rendlesham Became a Public Question | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2752,7 +2752,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'foi-files/' | relative_url }}" title="What FOI Really Revealed About Rendlesham | Rendlesham Forest UF 395 b35 public pressure" aria-label="Read more about What FOI Really Revealed About Rendlesham | Rendlesham Forest UF 395 b35 public pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'foi-files/' | relative_url }}" title="What FOI Really Revealed About Rendlesham | How Rendlesham Became a Public Question | Rendlesham Forest" aria-label="Read more about What FOI Really Revealed About Rendlesham | How Rendlesham Became a Public Question | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2772,7 +2772,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'foia-limits/' | relative_url }}" title="Why Some UFO Files Were Not Released Immediately | Rendlesham Forest UF 395 b35 public pressure" aria-label="Read more about Why Some UFO Files Were Not Released Immediately | Rendlesham Forest UF 395 b35 public pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'foia-limits/' | relative_url }}" title="Why Some UFO Files Were Not Released Immediately | How Rendlesham Became a Public Question | Rendlesham Forest" aria-label="Read more about Why Some UFO Files Were Not Released Immediately | How Rendlesham Became a Public Question | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2792,7 +2792,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bruni-book/' | relative_url }}" title="Why the Mo D Refused a New Inquiry | Rendlesham Forest UF 395 b35 public pressure" aria-label="Read more about Why the Mo D Refused a New Inquiry | Rendlesham Forest UF 395 b35 public pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bruni-book/' | relative_url }}" title="Why the Mo D Refused a New Inquiry | How Rendlesham Became a Public Question | Rendlesham Forest" aria-label="Read more about Why the Mo D Refused a New Inquiry | How Rendlesham Became a Public Question | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2836,7 +2836,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-records/' | relative_url }}" title="Did Official Files Verify the Radiation? | Rendlesham Forest UF 395 b35 radiation readings" aria-label="Read more about Did Official Files Verify the Radiation? | Rendlesham Forest UF 395 b35 radiation readings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-records/' | relative_url }}" title="Did Official Files Verify the Radiation? | How Strong Were the Radiation Claims? | Rendlesham Forest" aria-label="Read more about Did Official Files Verify the Radiation? | How Strong Were the Radiation Claims? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2856,7 +2856,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-readings/' | relative_url }}" title="Did the Halt Tape Support the Radiation Claim? | Rendlesham Forest UF 395 b35 radiation readings" aria-label="Read more about Did the Halt Tape Support the Radiation Claim? | Rendlesham Forest UF 395 b35 radiation readings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tape-readings/' | relative_url }}" title="Did the Halt Tape Support the Radiation Claim? | How Strong Were the Radiation Claims? | Rendlesham Forest" aria-label="Read more about Did the Halt Tape Support the Radiation Claim? | How Strong Were the Radiation Claims? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2876,7 +2876,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'meter-limits/' | relative_url }}" title="Was the Radiation Meter the Wrong Tool? | Rendlesham Forest UF 395 b35 radiation readings" aria-label="Read more about Was the Radiation Meter the Wrong Tool? | Rendlesham Forest UF 395 b35 radiation readings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meter-limits/' | relative_url }}" title="Was the Radiation Meter the Wrong Tool? | How Strong Were the Radiation Claims? | Rendlesham Forest" aria-label="Read more about Was the Radiation Meter the Wrong Tool? | How Strong Were the Radiation Claims? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2896,7 +2896,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memo-numbers/' | relative_url }}" title="Were Halt&#x27;s Radiation Numbers Actually High? | Rendlesham Forest UF 395 b35 radiation readings" aria-label="Read more about Were Halt&#x27;s Radiation Numbers Actually High? | Rendlesham Forest UF 395 b35 radiation readings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memo-numbers/' | relative_url }}" title="Were Halt's Radiation Numbers Actually High? | How Strong Were the Radiation Claims? | Rendlesham Forest" aria-label="Read more about Were Halt's Radiation Numbers Actually High? | How Strong Were the Radiation Claims? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2916,7 +2916,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'background/' | relative_url }}" title="What Counts as Normal Radiation in a Forest? | Rendlesham Forest UF 395 b35 radiation readings" aria-label="Read more about What Counts as Normal Radiation in a Forest? | Rendlesham Forest UF 395 b35 radiation readings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'background/' | relative_url }}" title="What Counts as Normal Radiation in a Forest? | How Strong Were the Radiation Claims? | Rendlesham Forest" aria-label="Read more about What Counts as Normal Radiation in a Forest? | How Strong Were the Radiation Claims? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2936,7 +2936,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'survey-gap/' | relative_url }}" title="Why No Follow Up Survey Matters | Rendlesham Forest UF 395 b35 radiation readings" aria-label="Read more about Why No Follow Up Survey Matters | Rendlesham Forest UF 395 b35 radiation readings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'survey-gap/' | relative_url }}" title="Why No Follow Up Survey Matters | How Strong Were the Radiation Claims? | Rendlesham Forest" aria-label="Read more about Why No Follow Up Survey Matters | How Strong Were the Radiation Claims? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -2980,7 +2980,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'liaison-route/' | relative_url }}" title="How the Report Reached Whitehall | Rendlesham Forest UF 395 b35 usaf reporting route" aria-label="Read more about How the Report Reached Whitehall | Rendlesham Forest UF 395 b35 usaf reporting route">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'liaison-route/' | relative_url }}" title="How the Report Reached Whitehall | How the Incident Moved Up the Chain | Rendlesham Forest" aria-label="Read more about How the Report Reached Whitehall | How the Incident Moved Up the Chain | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3000,7 +3000,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-chief/' | relative_url }}" title="The Small Approval That Started the Trail | Rendlesham Forest UF 395 b35 usaf reporting route" aria-label="Read more about The Small Approval That Started the Trail | Rendlesham Forest UF 395 b35 usaf reporting route">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-chief/' | relative_url }}" title="The Small Approval That Started the Trail | How the Incident Moved Up the Chain | Rendlesham Forest" aria-label="Read more about The Small Approval That Started the Trail | How the Incident Moved Up the Chain | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3020,7 +3020,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-3202f9/' | relative_url }}" title="What Halt&#x27;s Memo Proves and Does Not | Rendlesham Forest UF 395 b35 usaf reporting route" aria-label="Read more about What Halt&#x27;s Memo Proves and Does Not | Rendlesham Forest UF 395 b35 usaf reporting route">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo-3202f9/' | relative_url }}" title="What Halt's Memo Proves and Does Not | How the Incident Moved Up the Chain | Rendlesham Forest" aria-label="Read more about What Halt's Memo Proves and Does Not | How the Incident Moved Up the Chain | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3040,7 +3040,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'back-gate/' | relative_url }}" title="Why the First Patrol Left the Gate | Rendlesham Forest UF 395 b35 usaf reporting route" aria-label="Read more about Why the First Patrol Left the Gate | Rendlesham Forest UF 395 b35 usaf reporting route">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'back-gate/' | relative_url }}" title="Why the First Patrol Left the Gate | How the Incident Moved Up the Chain | Rendlesham Forest" aria-label="Read more about Why the First Patrol Left the Gate | How the Incident Moved Up the Chain | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3060,7 +3060,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ds-8-role/' | relative_url }}" title="Why the Mo D Asked a Narrower Question | Rendlesham Forest UF 395 b35 usaf reporting route" aria-label="Read more about Why the Mo D Asked a Narrower Question | Rendlesham Forest UF 395 b35 usaf reporting route">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ds-8-role/' | relative_url }}" title="Why the Mo D Asked a Narrower Question | How the Incident Moved Up the Chain | Rendlesham Forest" aria-label="Read more about Why the Mo D Asked a Narrower Question | How the Incident Moved Up the Chain | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3080,7 +3080,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-checks/' | relative_url }}" title="Why the Radar Checks Ended the Trail | Rendlesham Forest UF 395 b35 usaf reporting route" aria-label="Read more about Why the Radar Checks Ended the Trail | Rendlesham Forest UF 395 b35 usaf reporting route">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-checks/' | relative_url }}" title="Why the Radar Checks Ended the Trail | How the Incident Moved Up the Chain | Rendlesham Forest" aria-label="Read more about Why the Radar Checks Ended the Trail | How the Incident Moved Up the Chain | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3124,7 +3124,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-alarm/' | relative_url }}" title="Did a Fireball Start the Rendlesham Alarm? | Rendlesham Forest UF 395 b35 ridpath account" aria-label="Read more about Did a Fireball Start the Rendlesham Alarm? | Rendlesham Forest UF 395 b35 ridpath account">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-alarm/' | relative_url }}" title="Did a Fireball Start the Rendlesham Alarm? | Why the Ridpath Explanation Endures | Rendlesham Forest" aria-label="Read more about Did a Fireball Start the Rendlesham Alarm? | Why the Ridpath Explanation Endures | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3144,7 +3144,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sight-lines/' | relative_url }}" title="How a Fixed Light Could Seem to Move | Rendlesham Forest UF 395 b35 ridpath account" aria-label="Read more about How a Fixed Light Could Seem to Move | Rendlesham Forest UF 395 b35 ridpath account">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sight-lines/' | relative_url }}" title="How a Fixed Light Could Seem to Move | Why the Ridpath Explanation Endures | Rendlesham Forest" aria-label="Read more about How a Fixed Light Could Seem to Move | Why the Ridpath Explanation Endures | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3164,7 +3164,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-timing/' | relative_url }}" title="The Five Second Clue on the Halt Tape | Rendlesham Forest UF 395 b35 ridpath account" aria-label="Read more about The Five Second Clue on the Halt Tape | Rendlesham Forest UF 395 b35 ridpath account">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-timing/' | relative_url }}" title="The Five Second Clue on the Halt Tape | Why the Ridpath Explanation Endures | Rendlesham Forest" aria-label="Read more about The Five Second Clue on the Halt Tape | Why the Ridpath Explanation Endures | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3184,7 +3184,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'low-stars/' | relative_url }}" title="Were Halt&#x27;s Southern Lights Really Stars? | Rendlesham Forest UF 395 b35 ridpath account" aria-label="Read more about Were Halt&#x27;s Southern Lights Really Stars? | Rendlesham Forest UF 395 b35 ridpath account">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'low-stars/' | relative_url }}" title="Were Halt's Southern Lights Really Stars? | Why the Ridpath Explanation Endures | Rendlesham Forest" aria-label="Read more about Were Halt's Southern Lights Really Stars? | Why the Ridpath Explanation Endures | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3204,7 +3204,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'police-check/' | relative_url }}" title="What Did Suffolk Police Actually Add? | Rendlesham Forest UF 395 b35 ridpath account" aria-label="Read more about What Did Suffolk Police Actually Add? | Rendlesham Forest UF 395 b35 ridpath account">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'police-check/' | relative_url }}" title="What Did Suffolk Police Actually Add? | Why the Ridpath Explanation Endures | Rendlesham Forest" aria-label="Read more about What Did Suffolk Police Actually Add? | Why the Ridpath Explanation Endures | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3224,7 +3224,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'myth-dispute/' | relative_url }}" title="Why Ridpath Persuaded Skeptics, Not Everyone | Rendlesham Forest UF 395 b35 ridpath account" aria-label="Read more about Why Ridpath Persuaded Skeptics, Not Everyone | Rendlesham Forest UF 395 b35 ridpath account">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'myth-dispute/' | relative_url }}" title="Why Ridpath Persuaded Skeptics, Not Everyone | Why the Ridpath Explanation Endures | Rendlesham Forest" aria-label="Read more about Why Ridpath Persuaded Skeptics, Not Everyone | Why the Ridpath Explanation Endures | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3268,7 +3268,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'public-memory/' | relative_url }}" title="How Places Turn UFO Cases Into Memory | Rendlesham Forest UF 395 b35 rendlesham roswell" aria-label="Read more about How Places Turn UFO Cases Into Memory | Rendlesham Forest UF 395 b35 rendlesham roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'public-memory/' | relative_url }}" title="How Places Turn UFO Cases Into Memory | Is Rendlesham Britain’s Roswell? | Rendlesham Forest" aria-label="Read more about How Places Turn UFO Cases Into Memory | Is Rendlesham Britain’s Roswell? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3288,7 +3288,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail/' | relative_url }}" title="Two Documents That Made Two UFO Legends | Rendlesham Forest UF 395 b35 rendlesham roswell" aria-label="Read more about Two Documents That Made Two UFO Legends | Rendlesham Forest UF 395 b35 rendlesham roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail/' | relative_url }}" title="Two Documents That Made Two UFO Legends | Is Rendlesham Britain’s Roswell? | Rendlesham Forest" aria-label="Read more about Two Documents That Made Two UFO Legends | Is Rendlesham Britain’s Roswell? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3308,7 +3308,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'official-answers/' | relative_url }}" title="When the Official Explanation Still Sounds Secret | Rendlesham Forest UF 395 b35 rendlesham roswell" aria-label="Read more about When the Official Explanation Still Sounds Secret | Rendlesham Forest UF 395 b35 rendlesham roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'official-answers/' | relative_url }}" title="When the Official Explanation Still Sounds Secret | Is Rendlesham Britain’s Roswell? | Rendlesham Forest" aria-label="Read more about When the Official Explanation Still Sounds Secret | Is Rendlesham Britain’s Roswell? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3328,7 +3328,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'legend-growth/' | relative_url }}" title="Why One Case Grew Bodies and One Did Not | Rendlesham Forest UF 395 b35 rendlesham roswell" aria-label="Read more about Why One Case Grew Bodies and One Did Not | Rendlesham Forest UF 395 b35 rendlesham roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'legend-growth/' | relative_url }}" title="Why One Case Grew Bodies and One Did Not | Is Rendlesham Britain’s Roswell? | Rendlesham Forest" aria-label="Read more about Why One Case Grew Bodies and One Did Not | Is Rendlesham Britain’s Roswell? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3348,7 +3348,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-split/' | relative_url }}" title="Why Roswell Crashed and Rendlesham Glowed | Rendlesham Forest UF 395 b35 rendlesham roswell" aria-label="Read more about Why Roswell Crashed and Rendlesham Glowed | Rendlesham Forest UF 395 b35 rendlesham roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-split/' | relative_url }}" title="Why Roswell Crashed and Rendlesham Glowed | Is Rendlesham Britain’s Roswell? | Rendlesham Forest" aria-label="Read more about Why Roswell Crashed and Rendlesham Glowed | Is Rendlesham Britain’s Roswell? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3368,7 +3368,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'case-closed/' | relative_url }}" title="Why Roswell Got a Bigger Official Rebuild | Rendlesham Forest UF 395 b35 rendlesham roswell" aria-label="Read more about Why Roswell Got a Bigger Official Rebuild | Rendlesham Forest UF 395 b35 rendlesham roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'case-closed/' | relative_url }}" title="Why Roswell Got a Bigger Official Rebuild | Is Rendlesham Britain’s Roswell? | Rendlesham Forest" aria-label="Read more about Why Roswell Got a Bigger Official Rebuild | Is Rendlesham Britain’s Roswell? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3412,7 +3412,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-order/' | relative_url }}" title="Can Good Witnesses Build the Wrong Sequence? | Rendlesham Forest UF 395 b35 sequence theory" aria-label="Read more about Can Good Witnesses Build the Wrong Sequence? | Rendlesham Forest UF 395 b35 sequence theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-order/' | relative_url }}" title="Can Good Witnesses Build the Wrong Sequence? | One UFO or Several Ordinary Lights? | Rendlesham Forest" aria-label="Read more about Can Good Witnesses Build the Wrong Sequence? | One UFO or Several Ordinary Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3432,7 +3432,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-lights/' | relative_url }}" title="Could Stars Explain the Later Lights? | Rendlesham Forest UF 395 b35 sequence theory" aria-label="Read more about Could Stars Explain the Later Lights? | Rendlesham Forest UF 395 b35 sequence theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-lights/' | relative_url }}" title="Could Stars Explain the Later Lights? | One UFO or Several Ordinary Lights? | Rendlesham Forest" aria-label="Read more about Could Stars Explain the Later Lights? | One UFO or Several Ordinary Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3452,7 +3452,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'two-nights/' | relative_url }}" title="Did Two Nights Become One UFO Story? | Rendlesham Forest UF 395 b35 sequence theory" aria-label="Read more about Did Two Nights Become One UFO Story? | Rendlesham Forest UF 395 b35 sequence theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-nights/' | relative_url }}" title="Did Two Nights Become One UFO Story? | One UFO or Several Ordinary Lights? | Rendlesham Forest" aria-label="Read more about Did Two Nights Become One UFO Story? | One UFO or Several Ordinary Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3472,7 +3472,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'story-compression/' | relative_url }}" title="How Separate Clues Became One Story | Rendlesham Forest UF 395 b35 sequence theory" aria-label="Read more about How Separate Clues Became One Story | Rendlesham Forest UF 395 b35 sequence theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'story-compression/' | relative_url }}" title="How Separate Clues Became One Story | One UFO or Several Ordinary Lights? | Rendlesham Forest" aria-label="Read more about How Separate Clues Became One Story | One UFO or Several Ordinary Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3492,7 +3492,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'light-handoff/' | relative_url }}" title="Was the UFO a Chain of Lights? | Rendlesham Forest UF 395 b35 sequence theory" aria-label="Read more about Was the UFO a Chain of Lights? | Rendlesham Forest UF 395 b35 sequence theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'light-handoff/' | relative_url }}" title="Was the UFO a Chain of Lights? | One UFO or Several Ordinary Lights? | Rendlesham Forest" aria-label="Read more about Was the UFO a Chain of Lights? | One UFO or Several Ordinary Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3512,7 +3512,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-marks/' | relative_url }}" title="When Do Marks Become Landing Evidence? | Rendlesham Forest UF 395 b35 sequence theory" aria-label="Read more about When Do Marks Become Landing Evidence? | Rendlesham Forest UF 395 b35 sequence theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-marks/' | relative_url }}" title="When Do Marks Become Landing Evidence? | One UFO or Several Ordinary Lights? | Rendlesham Forest" aria-label="Read more about When Do Marks Become Landing Evidence? | One UFO or Several Ordinary Lights? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3556,7 +3556,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'beam-dispute/' | relative_url }}" title="Can a star explain the beam? | Rendlesham Forest UF 395 b35 stars distortion" aria-label="Read more about Can a star explain the beam? | Rendlesham Forest UF 395 b35 stars distortion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'beam-dispute/' | relative_url }}" title="Can a star explain the beam? | When Stars Look Like Moving UFOs | Rendlesham Forest" aria-label="Read more about Can a star explain the beam? | When Stars Look Like Moving UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3576,7 +3576,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'northern-stars/' | relative_url }}" title="Could Deneb and Vega explain the northern lights? | Rendlesham Forest UF 395 b35 stars distortion" aria-label="Read more about Could Deneb and Vega explain the northern lights? | Rendlesham Forest UF 395 b35 stars distortion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'northern-stars/' | relative_url }}" title="Could Deneb and Vega explain the northern lights? | When Stars Look Like Moving UFOs | Rendlesham Forest" aria-label="Read more about Could Deneb and Vega explain the northern lights? | When Stars Look Like Moving UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3596,7 +3596,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sirius-claim/' | relative_url }}" title="Was the southern light really Sirius? | Rendlesham Forest UF 395 b35 stars distortion" aria-label="Read more about Was the southern light really Sirius? | Rendlesham Forest UF 395 b35 stars distortion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sirius-claim/' | relative_url }}" title="Was the southern light really Sirius? | When Stars Look Like Moving UFOs | Rendlesham Forest" aria-label="Read more about Was the southern light really Sirius? | When Stars Look Like Moving UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3616,7 +3616,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'star-like-words/' | relative_url }}" title="What did star like really mean? | Rendlesham Forest UF 395 b35 stars distortion" aria-label="Read more about What did star like really mean? | Rendlesham Forest UF 395 b35 stars distortion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'star-like-words/' | relative_url }}" title="What did star like really mean? | When Stars Look Like Moving UFOs | Rendlesham Forest" aria-label="Read more about What did star like really mean? | When Stars Look Like Moving UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3636,7 +3636,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-motion/' | relative_url }}" title="When a still light seems to move | Rendlesham Forest UF 395 b35 stars distortion" aria-label="Read more about When a still light seems to move | Rendlesham Forest UF 395 b35 stars distortion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-motion/' | relative_url }}" title="When a still light seems to move | When Stars Look Like Moving UFOs | Rendlesham Forest" aria-label="Read more about When a still light seems to move | When Stars Look Like Moving UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3656,7 +3656,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twinkling/' | relative_url }}" title="Why low stars can look strangely alive | Rendlesham Forest UF 395 b35 stars distortion" aria-label="Read more about Why low stars can look strangely alive | Rendlesham Forest UF 395 b35 stars distortion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twinkling/' | relative_url }}" title="Why low stars can look strangely alive | When Stars Look Like Moving UFOs | Rendlesham Forest" aria-label="Read more about Why low stars can look strangely alive | When Stars Look Like Moving UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3700,7 +3700,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lighthouse-48f2c9/' | relative_url }}" title="Could the Lighthouse Be Seen From the Forest? | Rendlesham Forest UF 395 b35 woodbridge setting" aria-label="Read more about Could the Lighthouse Be Seen From the Forest? | Rendlesham Forest UF 395 b35 woodbridge setting">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lighthouse-48f2c9/' | relative_url }}" title="Could the Lighthouse Be Seen From the Forest? | Why the Base Location Matters | Rendlesham Forest" aria-label="Read more about Could the Lighthouse Be Seen From the Forest? | Why the Base Location Matters | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3720,7 +3720,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'runway-layout/' | relative_url }}" title="The Airfield Carved Through the Forest | Rendlesham Forest UF 395 b35 woodbridge setting" aria-label="Read more about The Airfield Carved Through the Forest | Rendlesham Forest UF 395 b35 woodbridge setting">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'runway-layout/' | relative_url }}" title="The Airfield Carved Through the Forest | Why the Base Location Matters | Rendlesham Forest" aria-label="Read more about The Airfield Carved Through the Forest | Why the Base Location Matters | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3740,7 +3740,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-map/' | relative_url }}" title="What the Official Files Say About Place | Rendlesham Forest UF 395 b35 woodbridge setting" aria-label="Read more about What the Official Files Say About Place | Rendlesham Forest UF 395 b35 woodbridge setting">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-map/' | relative_url }}" title="What the Official Files Say About Place | Why the Base Location Matters | Rendlesham Forest" aria-label="Read more about What the Official Files Say About Place | Why the Base Location Matters | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3760,7 +3760,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate-8289ff/' | relative_url }}" title="Why East Gate Became the Starting Point | Rendlesham Forest UF 395 b35 woodbridge setting" aria-label="Read more about Why East Gate Became the Starting Point | Rendlesham Forest UF 395 b35 woodbridge setting">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'east-gate-8289ff/' | relative_url }}" title="Why East Gate Became the Starting Point | Why the Base Location Matters | Rendlesham Forest" aria-label="Read more about Why East Gate Became the Starting Point | Why the Base Location Matters | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3780,7 +3780,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'forest-tracks/' | relative_url }}" title="Why the Forest Made Lights Hard to Read | Rendlesham Forest UF 395 b35 woodbridge setting" aria-label="Read more about Why the Forest Made Lights Hard to Read | Rendlesham Forest UF 395 b35 woodbridge setting">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'forest-tracks/' | relative_url }}" title="Why the Forest Made Lights Hard to Read | Why the Base Location Matters | Rendlesham Forest" aria-label="Read more about Why the Forest Made Lights Hard to Read | Why the Base Location Matters | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3800,7 +3800,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases-7e04ec/' | relative_url }}" title="Why Two Bases Became One Story | Rendlesham Forest UF 395 b35 woodbridge setting" aria-label="Read more about Why Two Bases Became One Story | Rendlesham Forest UF 395 b35 woodbridge setting">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases-7e04ec/' | relative_url }}" title="Why Two Bases Became One Story | Why the Base Location Matters | Rendlesham Forest" aria-label="Read more about Why Two Bases Became One Story | Why the Base Location Matters | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3844,7 +3844,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-site/' | relative_url }}" title="How Lights Became a Landing Site | Rendlesham Forest UF 395 b35 rendlesham timeline" aria-label="Read more about How Lights Became a Landing Site | Rendlesham Forest UF 395 b35 rendlesham timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-site/' | relative_url }}" title="How Lights Became a Landing Site | What Happened When at Rendlesham? | Rendlesham Forest" aria-label="Read more about How Lights Became a Landing Site | What Happened When at Rendlesham? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3864,7 +3864,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'police-visits/' | relative_url }}" title="What Did Police Actually See? | Rendlesham Forest UF 395 b35 rendlesham timeline" aria-label="Read more about What Did Police Actually See? | Rendlesham Forest UF 395 b35 rendlesham timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'police-visits/' | relative_url }}" title="What Did Police Actually See? | What Happened When at Rendlesham? | Rendlesham Forest" aria-label="Read more about What Did Police Actually See? | What Happened When at Rendlesham? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3884,7 +3884,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-tape-a2bdcb/' | relative_url }}" title="What the Halt Tape Really Captures | Rendlesham Forest UF 395 b35 rendlesham timeline" aria-label="Read more about What the Halt Tape Really Captures | Rendlesham Forest UF 395 b35 rendlesham timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-tape-a2bdcb/' | relative_url }}" title="What the Halt Tape Really Captures | What Happened When at Rendlesham? | Rendlesham Forest" aria-label="Read more about What the Halt Tape Really Captures | What Happened When at Rendlesham? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3904,7 +3904,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-walk/' | relative_url }}" title="Why Halt Was Not Starting From Zero | Rendlesham Forest UF 395 b35 rendlesham timeline" aria-label="Read more about Why Halt Was Not Starting From Zero | Rendlesham Forest UF 395 b35 rendlesham timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-walk/' | relative_url }}" title="Why Halt Was Not Starting From Zero | What Happened When at Rendlesham? | Rendlesham Forest" aria-label="Read more about Why Halt Was Not Starting From Zero | What Happened When at Rendlesham? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3924,7 +3924,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'date-confusion/' | relative_url }}" title="Why Rendlesham&#x27;s Dates Keep Shifting | Rendlesham Forest UF 395 b35 rendlesham timeline" aria-label="Read more about Why Rendlesham&#x27;s Dates Keep Shifting | Rendlesham Forest UF 395 b35 rendlesham timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'date-confusion/' | relative_url }}" title="Why Rendlesham's Dates Keep Shifting | What Happened When at Rendlesham? | Rendlesham Forest" aria-label="Read more about Why Rendlesham's Dates Keep Shifting | What Happened When at Rendlesham? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3944,7 +3944,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'security-trigger/' | relative_url }}" title="Why the First Patrol Went Into the Woods | Rendlesham Forest UF 395 b35 rendlesham timeline" aria-label="Read more about Why the First Patrol Went Into the Woods | Rendlesham Forest UF 395 b35 rendlesham timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'security-trigger/' | relative_url }}" title="Why the First Patrol Went Into the Woods | What Happened When at Rendlesham? | Rendlesham Forest" aria-label="Read more about Why the First Patrol Went Into the Woods | What Happened When at Rendlesham? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -3988,7 +3988,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mundane-marks/' | relative_url }}" title="Could Ordinary Marks Become UFO Evidence? | Rendlesham Forest UF 395 b35 landing trace compar" aria-label="Read more about Could Ordinary Marks Become UFO Evidence? | Rendlesham Forest UF 395 b35 landing trace compar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mundane-marks/' | relative_url }}" title="Could Ordinary Marks Become UFO Evidence? | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest" aria-label="Read more about Could Ordinary Marks Become UFO Evidence? | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4008,7 +4008,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trans-en-provence/' | relative_url }}" title="Did the French Trace Case Raise the Bar? | Rendlesham Forest UF 395 b35 landing trace compar" aria-label="Read more about Did the French Trace Case Raise the Bar? | Rendlesham Forest UF 395 b35 landing trace compar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trans-en-provence/' | relative_url }}" title="Did the French Trace Case Raise the Bar? | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest" aria-label="Read more about Did the French Trace Case Raise the Bar? | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4028,7 +4028,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trace-catalogue/' | relative_url }}" title="How UFO Researchers Ranked Physical Traces | Rendlesham Forest UF 395 b35 landing trace compar" aria-label="Read more about How UFO Researchers Ranked Physical Traces | Rendlesham Forest UF 395 b35 landing trace compar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trace-catalogue/' | relative_url }}" title="How UFO Researchers Ranked Physical Traces | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest" aria-label="Read more about How UFO Researchers Ranked Physical Traces | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4048,7 +4048,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-477b5c/' | relative_url }}" title="When Radiation Readings Do Not Prove Landing | Rendlesham Forest UF 395 b35 landing trace compar" aria-label="Read more about When Radiation Readings Do Not Prove Landing | Rendlesham Forest UF 395 b35 landing trace compar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation-477b5c/' | relative_url }}" title="When Radiation Readings Do Not Prove Landing | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest" aria-label="Read more about When Radiation Readings Do Not Prove Landing | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4068,7 +4068,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'socorro/' | relative_url }}" title="Why Socorro Looks Cleaner Than Rendlesham | Rendlesham Forest UF 395 b35 landing trace compar" aria-label="Read more about Why Socorro Looks Cleaner Than Rendlesham | Rendlesham Forest UF 395 b35 landing trace compar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'socorro/' | relative_url }}" title="Why Socorro Looks Cleaner Than Rendlesham | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest" aria-label="Read more about Why Socorro Looks Cleaner Than Rendlesham | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4088,7 +4088,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'site-checks/' | relative_url }}" title="Why Timing Can Make or Break Traces | Rendlesham Forest UF 395 b35 landing trace compar" aria-label="Read more about Why Timing Can Make or Break Traces | Rendlesham Forest UF 395 b35 landing trace compar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'site-checks/' | relative_url }}" title="Why Timing Can Make or Break Traces | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest" aria-label="Read more about Why Timing Can Make or Break Traces | How Rendlesham Fits Landing Trace UFOs | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4132,7 +4132,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lighthouse-theory/' | relative_url }}" title="Could a Lighthouse Explain Rendlesham? | Rendlesham Forest UF 395 b35 britain UFO culture" aria-label="Read more about Could a Lighthouse Explain Rendlesham? | Rendlesham Forest UF 395 b35 britain UFO culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lighthouse-theory/' | relative_url }}" title="Could a Lighthouse Explain Rendlesham? | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest" aria-label="Read more about Could a Lighthouse Explain Rendlesham? | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4152,7 +4152,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-trail/' | relative_url }}" title="Did the Files Settle the Mystery? | Rendlesham Forest UF 395 b35 britain UFO culture" aria-label="Read more about Did the Files Settle the Mystery? | Rendlesham Forest UF 395 b35 britain UFO culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-trail/' | relative_url }}" title="Did the Files Settle the Mystery? | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest" aria-label="Read more about Did the Files Settle the Mystery? | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4172,7 +4172,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-trail/' | relative_url }}" title="How a Forest Made the Legend Walkable | Rendlesham Forest UF 395 b35 britain UFO culture" aria-label="Read more about How a Forest Made the Legend Walkable | Rendlesham Forest UF 395 b35 britain UFO culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-trail/' | relative_url }}" title="How a Forest Made the Legend Walkable | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest" aria-label="Read more about How a Forest Made the Legend Walkable | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4192,7 +4192,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'media-afterlife/' | relative_url }}" title="Who Kept Rendlesham in the Headlines? | Rendlesham Forest UF 395 b35 britain UFO culture" aria-label="Read more about Who Kept Rendlesham in the Headlines? | Rendlesham Forest UF 395 b35 britain UFO culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'media-afterlife/' | relative_url }}" title="Who Kept Rendlesham in the Headlines? | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest" aria-label="Read more about Who Kept Rendlesham in the Headlines? | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4212,7 +4212,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-judgement/' | relative_url }}" title="Why Officials Said It Did Not Matter | Rendlesham Forest UF 395 b35 britain UFO culture" aria-label="Read more about Why Officials Said It Did Not Matter | Rendlesham Forest UF 395 b35 britain UFO culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-judgement/' | relative_url }}" title="Why Officials Said It Did Not Matter | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest" aria-label="Read more about Why Officials Said It Did Not Matter | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4232,7 +4232,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'britain-s-roswell/' | relative_url }}" title="Why Rendlesham Became Britain&#x27;s Roswell | Rendlesham Forest UF 395 b35 britain UFO culture" aria-label="Read more about Why Rendlesham Became Britain&#x27;s Roswell | Rendlesham Forest UF 395 b35 britain UFO culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'britain-s-roswell/' | relative_url }}" title="Why Rendlesham Became Britain's Roswell | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest" aria-label="Read more about Why Rendlesham Became Britain's Roswell | Why Rendlesham Became Britain’s UFO Case | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4276,7 +4276,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'parliament/' | relative_url }}" title="How Parliament Kept Rendlesham Open | Rendlesham Forest UF 395 b35 official answer" aria-label="Read more about How Parliament Kept Rendlesham Open | Rendlesham Forest UF 395 b35 official answer">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'parliament/' | relative_url }}" title="How Parliament Kept Rendlesham Open | Why the Official Answer Did Not End It | Rendlesham Forest" aria-label="Read more about How Parliament Kept Rendlesham Open | Why the Official Answer Did Not End It | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4296,7 +4296,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-threat-42e4a5/' | relative_url }}" title="No Threat Is Not No Event | Rendlesham Forest UF 395 b35 official answer" aria-label="Read more about No Threat Is Not No Event | Rendlesham Forest UF 395 b35 official answer">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-threat-42e4a5/' | relative_url }}" title="No Threat Is Not No Event | Why the Official Answer Did Not End It | Rendlesham Forest" aria-label="Read more about No Threat Is Not No Event | Why the Official Answer Did Not End It | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4316,7 +4316,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'two-questions/' | relative_url }}" title="The Question the Mo D Did Not Answer | Rendlesham Forest UF 395 b35 official answer" aria-label="Read more about The Question the Mo D Did Not Answer | Rendlesham Forest UF 395 b35 official answer">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-questions/' | relative_url }}" title="The Question the Mo D Did Not Answer | Why the Official Answer Did Not End It | Rendlesham Forest" aria-label="Read more about The Question the Mo D Did Not Answer | Why the Official Answer Did Not End It | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4336,7 +4336,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-gap/' | relative_url }}" title="What Negative Radar Checks Could Not Settle | Rendlesham Forest UF 395 b35 official answer" aria-label="Read more about What Negative Radar Checks Could Not Settle | Rendlesham Forest UF 395 b35 official answer">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-gap/' | relative_url }}" title="What Negative Radar Checks Could Not Settle | Why the Official Answer Did Not End It | Rendlesham Forest" aria-label="Read more about What Negative Radar Checks Could Not Settle | Why the Official Answer Did Not End It | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4356,7 +4356,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'thin-file/' | relative_url }}" title="Why One Sheet Became a Mystery | Rendlesham Forest UF 395 b35 official answer" aria-label="Read more about Why One Sheet Became a Mystery | Rendlesham Forest UF 395 b35 official answer">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'thin-file/' | relative_url }}" title="Why One Sheet Became a Mystery | Why the Official Answer Did Not End It | Rendlesham Forest" aria-label="Read more about Why One Sheet Became a Mystery | Why the Official Answer Did Not End It | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4376,7 +4376,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-interviews/' | relative_url }}" title="Why Were the Witnesses Not Interviewed? | Rendlesham Forest UF 395 b35 official answer" aria-label="Read more about Why Were the Witnesses Not Interviewed? | Rendlesham Forest UF 395 b35 official answer">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-interviews/' | relative_url }}" title="Why Were the Witnesses Not Interviewed? | Why the Official Answer Did Not End It | Rendlesham Forest" aria-label="Read more about Why Were the Witnesses Not Interviewed? | Why the Official Answer Did Not End It | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4420,7 +4420,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'night-vision/' | relative_url }}" title="Can trained witnesses still misread night lights? | Rendlesham Forest UF 395 b35 military witnesses" aria-label="Read more about Can trained witnesses still misread night lights? | Rendlesham Forest UF 395 b35 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-vision/' | relative_url }}" title="Can trained witnesses still misread night lights? | Do Military Witnesses Make It Stronger? | Rendlesham Forest" aria-label="Read more about Can trained witnesses still misread night lights? | Do Military Witnesses Make It Stronger? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4440,7 +4440,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-expectation/' | relative_url }}" title="Did expecting a crash shape what they saw? | Rendlesham Forest UF 395 b35 military witnesses" aria-label="Read more about Did expecting a crash shape what they saw? | Rendlesham Forest UF 395 b35 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-expectation/' | relative_url }}" title="Did expecting a crash shape what they saw? | Do Military Witnesses Make It Stronger? | Rendlesham Forest" aria-label="Read more about Did expecting a crash shape what they saw? | Do Military Witnesses Make It Stronger? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4460,7 +4460,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'live-confusion/' | relative_url }}" title="What the Halt Tape reveals in the moment | Rendlesham Forest UF 395 b35 military witnesses" aria-label="Read more about What the Halt Tape reveals in the moment | Rendlesham Forest UF 395 b35 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'live-confusion/' | relative_url }}" title="What the Halt Tape reveals in the moment | Do Military Witnesses Make It Stronger? | Rendlesham Forest" aria-label="Read more about What the Halt Tape reveals in the moment | Do Military Witnesses Make It Stronger? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4480,7 +4480,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'distance-errors/' | relative_url }}" title="When a nearby UFO becomes a distant beacon | Rendlesham Forest UF 395 b35 military witnesses" aria-label="Read more about When a nearby UFO becomes a distant beacon | Rendlesham Forest UF 395 b35 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'distance-errors/' | relative_url }}" title="When a nearby UFO becomes a distant beacon | Do Military Witnesses Make It Stronger? | Rendlesham Forest" aria-label="Read more about When a nearby UFO becomes a distant beacon | Do Military Witnesses Make It Stronger? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4500,7 +4500,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'early-vs-later/' | relative_url }}" title="Which Rendlesham memories deserve most weight? | Rendlesham Forest UF 395 b35 military witnesses" aria-label="Read more about Which Rendlesham memories deserve most weight? | Rendlesham Forest UF 395 b35 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-vs-later/' | relative_url }}" title="Which Rendlesham memories deserve most weight? | Do Military Witnesses Make It Stronger? | Rendlesham Forest" aria-label="Read more about Which Rendlesham memories deserve most weight? | Do Military Witnesses Make It Stronger? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>
@@ -4520,7 +4520,7 @@ site_image_description: A dark pine forest beside a military fence, with distant
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'moving-lights/' | relative_url }}" title="Why still lights can look like they move | Rendlesham Forest UF 395 b35 military witnesses" aria-label="Read more about Why still lights can look like they move | Rendlesham Forest UF 395 b35 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moving-lights/' | relative_url }}" title="Why still lights can look like they move | Do Military Witnesses Make It Stronger? | Rendlesham Forest" aria-label="Read more about Why still lights can look like they move | Do Military Witnesses Make It Stronger? | Rendlesham Forest">Read more</a>
 </div>
 </div>
 </div>

@@ -733,7 +733,6 @@ That combination explains why Rendlesham remains culturally powerful. The archiv
 2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at [Rendlesham Forest](&amp;#123;&amp;#123; &#x27;rendlesham-forest/&#x27; | relative_url &amp;#125;&amp;#125;). Find out more about...</p></details>
 
 3.<a id="endnote-3"></a>
@@ -770,7 +769,6 @@ That combination explains why Rendlesham remains culturally powerful. The archiv
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Fo...</p></details>
 
 9.<a id="endnote-9"></a>

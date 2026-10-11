@@ -789,7 +789,6 @@ For that reason, the lasting legacy of FOI in the Rendlesham story is not a secr
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948 Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this doc...</p></details>
 
 7.<a id="endnote-7"></a>
@@ -812,7 +811,6 @@ For that reason, the lasting legacy of FOI in the Rendlesham story is not a secr
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948 Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham For...</p></details>
 
 11.<a id="endnote-11"></a>

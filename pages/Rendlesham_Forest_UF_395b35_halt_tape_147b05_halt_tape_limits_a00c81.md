@@ -776,7 +776,6 @@ This is why the tape remains important decades later. It reduces reliance on [me
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 ### Additional References

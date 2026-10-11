@@ -1160,7 +1160,6 @@ That is the fairest way to read the ground depressions and radiation readings. T
 41.<a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 42.<a id="endnote-42"></a>
    Source: images.nationalarchives.gov.uk  

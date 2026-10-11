@@ -804,13 +804,11 @@ The lasting lesson is that later public understanding of Rendlesham was shaped n
 11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948 Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham For...</p></details>
 
 13.<a id="endnote-13"></a>

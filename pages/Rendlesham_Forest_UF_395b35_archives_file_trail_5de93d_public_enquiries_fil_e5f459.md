@@ -770,13 +770,11 @@ The result is an archive that looks far larger than the original investigation i
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking ab...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives State secrets Archives  
-   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>State secrets Archives - Page 3 of 5DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking...</p></details>
 
 8.<a id="endnote-8"></a>

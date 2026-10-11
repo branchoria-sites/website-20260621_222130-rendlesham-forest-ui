@@ -801,7 +801,6 @@ The result is a continuing tension at the heart of the Rendlesham story. The Cha
 13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 14.<a id="endnote-14"></a>

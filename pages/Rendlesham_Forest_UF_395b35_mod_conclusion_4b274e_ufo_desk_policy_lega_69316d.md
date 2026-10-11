@@ -762,7 +762,6 @@ The most enduring consequence of the case was not the creation of a larger UFO i
 9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 10.<a id="endnote-10"></a>

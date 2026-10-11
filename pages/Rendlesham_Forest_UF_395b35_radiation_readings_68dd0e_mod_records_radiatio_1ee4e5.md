@@ -771,7 +771,6 @@ As a result, the radiation claim remains a reported observation rather than a ve
 4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -800,7 +799,6 @@ As a result, the radiation claim remains a reported observation rather than a ve
 9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Fo...</p></details>
 
 10.<a id="endnote-10"></a>

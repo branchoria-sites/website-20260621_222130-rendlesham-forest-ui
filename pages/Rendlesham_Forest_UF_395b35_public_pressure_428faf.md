@@ -1000,7 +1000,6 @@ That changed how Rendlesham is understood. It is not only a story about what may
 15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 16.<a id="endnote-16"></a>
    Source: images.nationalarchives.gov.uk  
@@ -1022,7 +1021,6 @@ That changed how Rendlesham is understood. It is not only a story about what may
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
@@ -1031,7 +1029,6 @@ That changed how Rendlesham is understood. It is not only a story about what may
 22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -1045,7 +1042,6 @@ That changed how Rendlesham is understood. It is not only a story about what may
 25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  

@@ -1021,7 +1021,6 @@ The strongest reading is therefore balanced. Rendlesham’s Cold War setting rai
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  

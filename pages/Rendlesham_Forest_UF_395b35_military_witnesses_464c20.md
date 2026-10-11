@@ -1033,7 +1033,6 @@ The fairest conclusion is that witness status is Rendlesham’s strongest featur
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 18.<a id="endnote-18"></a>
    Source: images.nationalarchives.gov.uk  

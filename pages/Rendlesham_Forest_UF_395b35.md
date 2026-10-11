@@ -892,7 +892,6 @@ The most reasonable conclusion is that Rendlesham Forest is a historically impor
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 7.<a id="endnote-7"></a>
@@ -911,7 +910,6 @@ The most reasonable conclusion is that Rendlesham Forest is a historically impor
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 11.<a id="endnote-11"></a>
    Source: skeptoid.com  

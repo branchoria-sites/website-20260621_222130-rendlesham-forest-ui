@@ -918,7 +918,6 @@ That separation changes how the case should be read. The file trail supports a c
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking ab...</p></details>
 
 9.<a id="endnote-9"></a>
@@ -931,7 +930,6 @@ That separation changes how the case should be read. The file trail supports a c
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 11.<a id="endnote-11"></a>
@@ -941,12 +939,10 @@ That separation changes how the case should be read. The file trail supports a c
 12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  

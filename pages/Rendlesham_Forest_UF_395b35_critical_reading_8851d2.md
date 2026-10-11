@@ -1031,7 +1031,6 @@ The best way to judge Rendlesham is therefore not to ask whether one is a “bel
 19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
@@ -1040,7 +1039,6 @@ The best way to judge Rendlesham is therefore not to ask whether one is a “bel
 21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  

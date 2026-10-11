@@ -867,7 +867,6 @@ For physical-evidence standards in UFO investigations, that is the key lesson. W
 15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 16.<a id="endnote-16"></a>

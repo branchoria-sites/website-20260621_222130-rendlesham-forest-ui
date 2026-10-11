@@ -1000,7 +1000,7 @@ That changed how Rendlesham is understood. It is not only a story about what may
 15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 16.<a id="endnote-16"></a>
    Source: images.nationalarchives.gov.uk  
@@ -1022,7 +1022,7 @@ That changed how Rendlesham is understood. It is not only a story about what may
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/4/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
@@ -1031,7 +1031,7 @@ That changed how Rendlesham is understood. It is not only a story about what may
 22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -1045,7 +1045,7 @@ That changed how Rendlesham is understood. It is not only a story about what may
 25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/3/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  

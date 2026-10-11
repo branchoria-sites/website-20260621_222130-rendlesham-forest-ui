@@ -831,7 +831,7 @@ Viewed in the context of the USAF reporting chain, the Halt memo is best underst
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948 Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this doc...</p></details>
 
 9.<a id="endnote-9"></a>

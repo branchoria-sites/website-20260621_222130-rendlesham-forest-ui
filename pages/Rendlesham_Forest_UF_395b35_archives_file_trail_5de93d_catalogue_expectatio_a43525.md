@@ -344,7 +344,7 @@ This distinction is reinforced by researchers who examined the released material
 
 ## What the archive catalogue really promises
 
-The catalogue descriptions attached to DEFE 24/1948 perform a balancing act. They establish that Rendlesham is not merely folklore or hearsay; there is a genuine defence record preserved within the National Archives. At the same time, they carefully define the limits of that record. The archive promises access to official documentation, not validation of any interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
+The catalogue descriptions attached to DEFE 24/1948 perform a balancing act. They establish that Rendlesham is not merely folklore or hearsay; there is a genuine defence record preserved within the National Archives. At the same time, they carefully define the limits of that record. The archive promises access to official documentation, not validation of any interpretation.<span class="citation-link-wrap">[The National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
 
 For readers tracing the National Archives UFO file trail, this is the key lesson. The catalogue confirms that the Rendlesham incident entered official channels and generated a lasting documentary footprint. What it does not promise is that the surviving file can resolve the case. The descriptions point towards a real historical record, but they also warn, in understated archival language, against expecting the catalogue itself to function as a verdict on what happened in the forest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
@@ -748,7 +748,7 @@ For readers tracing the National Archives UFO file trail, this is the key lesson
 4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -766,13 +766,13 @@ For readers tracing the National Archives UFO file trail, this is the key lesson
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Fo...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/4/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Older posts · Newer posts. Also in Mysteries. The Nat...</p></details>
 
 9.<a id="endnote-9"></a>
@@ -782,7 +782,7 @@ For readers tracing the National Archives UFO file trail, this is the key lesson
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/3/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Forest UFO sighting. ADM 1/8...</p></details>
 
 11.<a id="endnote-11"></a>

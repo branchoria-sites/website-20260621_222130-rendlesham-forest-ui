@@ -464,7 +464,7 @@ The Rendlesham file trail becomes larger only after the incident has already bec
 
 The clearest public statement of that position appears in a 2001 House of Lords written answer. Asked by Lord Hill-Norton about a possible USAF investigation, photographs, Halt’s memorandum and radar evidence, Lord Bach replied that the only USAF material held by the Ministry of Defence was Halt’s 13 January 1981 document. He added that the MoD had no evidence of any other official investigation or documentation, no indication that Halt was questioned after the memo was received, and no evidence in records from the period of unusual radar returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest Incident</span><span class="citation-popover-snippet">Rendlesham Forest Incident - Hansard - UK Parliament...</span></span></span>
 
-This is why later correspondence matters in a different way from the core report. It does not add a new original sighting record from December 1980; it shows how government departments handled the case once it became a public issue. The paper trail includes responses to researchers, MPs, journalists and UFO groups, such as a National Archives “State Secrets” item identifying a letter from the Wigan Ariel Phenomenon Investigation Team asking the Ministry of Defence about the Rendlesham sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948 2</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking ab...</span></span></span>
+This is why later correspondence matters in a different way from the core report. It does not add a new original sighting record from December 1980; it shows how government departments handled the case once it became a public issue. The paper trail includes responses to researchers, MPs, journalists and UFO groups, such as a National Archives “State Secrets” item identifying a letter from the Wigan Ariel Phenomenon Investigation Team asking the Ministry of Defence about the Rendlesham sighting.<span class="citation-link-wrap">[The National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948 2</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking ab...</span></span></span>
 
 The 2009 National Archives highlights guide also points readers beyond DEFE 24/1948 to DEFE 24/1970, a file on UFO parliamentary correspondence from 1985 to 1995. That file is described as containing background material for parliamentary questions and private enquiries from MPs, including material connected with Lord Hill-Norton’s interest in Rendlesham. In other words, the later trail is chiefly a governance trail: how Whitehall answered questions, managed public concern and maintained its “no defence interest” line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Highlights Guide</span><span class="citation-popover-snippet">National ArchivesHighlights GuideAugust 12, 2009 — Rendlesham Forest incident, December 1980. The file DEFE 24/1948 covers the Rendlesham...</span><span class="citation-popover-meta">Published: August 12, 2009</span></span></span>
 
@@ -918,7 +918,7 @@ That separation changes how the case should be read. The file trail supports a c
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking ab...</p></details>
 
 9.<a id="endnote-9"></a>
@@ -931,7 +931,7 @@ That separation changes how the case should be read. The file trail supports a c
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 11.<a id="endnote-11"></a>
@@ -941,12 +941,12 @@ That separation changes how the case should be read. The file trail supports a c
 12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/4/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/3/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  

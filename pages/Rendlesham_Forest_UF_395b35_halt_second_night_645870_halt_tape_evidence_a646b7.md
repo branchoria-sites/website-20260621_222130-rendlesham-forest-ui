@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /rendlesham-forest/
 - /halt-night/
 nav_short_title: Halt Tape
-title: What Does the Halt Tape Really Prove?
+title: "What Does the Halt Tape Really Prove? (Inside Halt’s Night in the Forest)"
 title_full: What Does the Halt Tape Really Prove?
 display_title_short: Halt Tape
 display_title: Halt Tape

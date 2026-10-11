@@ -305,7 +305,7 @@ A key detail is that the memorandum was produced on official US Air Force statio
 
 ## What the MoD File Shows About Receipt and Handling
 
-The strongest evidence that the memorandum entered official channels is the existence of the MoD file now catalogued as DEFE 24/1948. National [Archives]({{ 'archives/' | relative_url }}) records identify the file as correspondence concerning the Rendlesham Forest sightings and include Halt's memorandum among its contents. In archival descriptions of the UFO files, Halt's report is treated as the opening document associated with the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
+The strongest evidence that the memorandum entered official channels is the existence of the MoD file now catalogued as DEFE 24/1948. National [Archives]({{ 'archives/' | relative_url }}) records identify the file as correspondence concerning the Rendlesham Forest sightings and include Halt's memorandum among its contents. In archival descriptions of the UFO files, Halt's report is treated as the opening document associated with the case.<span class="citation-link-wrap">[The National Archives+2The National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
 
 The surviving record shows a relatively straightforward process:
 
@@ -324,7 +324,7 @@ The surviving record shows a relatively straightforward process:
 
 </div>
 
-What is striking is not the complexity of the routing but the fact that the document remained preserved within the defence record system. Many UFO claims rely on recollections, interviews or secondary accounts. The Halt memo instead became part of a government file that could later be released and scrutinised through archival and parliamentary processes. [The National Archives+2The National Archives](https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/)
+What is striking is not the complexity of the routing but the fact that the document remained preserved within the defence record system. Many UFO claims rely on recollections, interviews or secondary accounts. The Halt memo instead became part of a government file that could later be released and scrutinised through archival and parliamentary processes. The National Archives+2The National Archives
 
 The file's later history also demonstrates that the memorandum remained the central reference point for official discussions. When questions about Rendlesham resurfaced years later, officials repeatedly referred back to the Halt document as the principal USAF record held by the MoD. [Hansard](https://hansard.parliament.uk/lords/2001-10-16/debates/c246478f-c76a-4129-826b-765803ab377a/RendleshamForestIncident)
 
@@ -340,7 +340,7 @@ This distinction is crucial. The routing of the memo confirms that the incident 
 
 The durability of the Rendlesham story owes much to the administrative trail created by Halt's memorandum. Without that document, the incident would largely depend on witness recollections and later retellings. Because a senior USAF officer submitted a written report that entered Ministry of Defence files, researchers can trace a clear chain from the original observations to official government records. [Ian Ridpath](https://www.ianridpath.com/ufo/appendix.html)
 
-That chain is the memo's most important historical contribution. It transformed a local military incident into a documented case within British defence archives. The result was not official confirmation of a UFO, but something arguably more durable: a verifiable record showing exactly how unusual reports from RAF Woodbridge reached the Ministry of Defence and became part of the public historical record. [The National Archives+2The National Archives](https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/)
+That chain is the memo's most important historical contribution. It transformed a local military incident into a documented case within British defence archives. The result was not official confirmation of a UFO, but something arguably more durable: a verifiable record showing exactly how unusual reports from RAF Woodbridge reached the Ministry of Defence and became part of the public historical record. The National Archives+2The National Archives
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -752,7 +752,7 @@ That chain is the memo's most important historical contribution. It transformed 
 4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -780,7 +780,7 @@ That chain is the memo's most important historical contribution. It transformed 
 9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Fo...</p></details>
 
 10.<a id="endnote-10"></a>

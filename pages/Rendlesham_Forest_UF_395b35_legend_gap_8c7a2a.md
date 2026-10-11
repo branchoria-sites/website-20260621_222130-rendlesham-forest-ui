@@ -976,7 +976,7 @@ This layered approach does not make Rendlesham boring. It makes it more interest
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
@@ -985,7 +985,7 @@ This layered approach does not make Rendlesham boring. It makes it more interest
 12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 13.<a id="endnote-13"></a>
    Source: images.nationalarchives.gov.uk  

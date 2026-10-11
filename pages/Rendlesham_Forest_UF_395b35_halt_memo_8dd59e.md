@@ -934,7 +934,7 @@ The result is a document that anchors the Rendlesham mystery without resolving i
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  

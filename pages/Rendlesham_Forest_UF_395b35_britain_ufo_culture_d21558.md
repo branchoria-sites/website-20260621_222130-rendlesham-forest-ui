@@ -953,7 +953,7 @@ That is why Rendlesham remains Britain’s UFO case. It is not the cleanest proo
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948DEFE 24/1948 Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find ou...</p></details>
 
 7.<a id="endnote-7"></a>

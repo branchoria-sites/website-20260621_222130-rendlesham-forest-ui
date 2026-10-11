@@ -283,7 +283,7 @@ The significance of the memo therefore extends beyond what it says about the eve
 
 ## The Memo as the Anchor of DEFE 24/1948
 
-The [National Archives]({{ 'archive-map/' | relative_url }}) identifies DEFE 24/1948 as the principal Rendlesham Forest file within the released UFO records. The archive description and accompanying material place Halt’s report at the beginning of that file, making it the starting point for anyone examining the official record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
+The [National Archives]({{ 'archive-map/' | relative_url }}) identifies DEFE 24/1948 as the principal Rendlesham Forest file within the released UFO records. The archive description and accompanying material place Halt’s report at the beginning of that file, making it the starting point for anyone examining the official record.<span class="citation-link-wrap">[The National Archives+2The National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
 
 This arrangement mattered because the memo was not a retrospective reconstruction created years later. It was a contemporaneous military communication dated 13 January 1981 and sent through official channels. As a result, the file opens with a document that already possessed institutional standing. Readers encounter an officer [reporting]({{ 'reporting/' | relative_url }}) observations, measurements and witness accounts, not later commentary about those events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathAppendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of D...</span></span></span>
 
@@ -758,7 +758,7 @@ That is why the released UFO file starts where it does. The memo was not merely 
 4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -775,7 +775,7 @@ That is why the released UFO file starts where it does. The memo was not merely 
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking about the Rendlesham Fo...</p></details>
 
 8.<a id="endnote-8"></a>

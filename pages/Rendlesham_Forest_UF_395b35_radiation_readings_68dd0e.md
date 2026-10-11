@@ -1048,7 +1048,7 @@ The fairest conclusion is not that the readings were fabricated, nor that they p
 22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 23.<a id="endnote-23"></a>
    Source: hansard.parliament.uk  

@@ -940,7 +940,7 @@ The most useful way to read the MOD view is therefore precise rather than sweepi
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -954,7 +954,7 @@ The most useful way to read the MOD view is therefore precise rather than sweepi
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 11.<a id="endnote-11"></a>
    Source: images.nationalarchives.gov.uk  
@@ -971,12 +971,12 @@ The most useful way to read the MOD view is therefore precise rather than sweepi
 14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/3/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/4/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
